@@ -18,7 +18,7 @@
       </publicationStmt>
       <sourceDesc>
         <listBibl>
-          <bibl>Biblia Sacra Vulgata  - The Free Bible Group</bibl>
+          <bible>Biblia Sacra Vulgata  - The Free Bible Group</bible>
         </listBibl>
       </sourceDesc>
     </fileDesc>
@@ -41,10 +41,10 @@
       <div xml:id="starts-on"/>
     </front>
     <body>
-      <div xml:id="bibl-rom">
-        <head xml:id="bibl-rom-Hd1e86">Ad Romanos</head>
-          <div xml:id="bibl-rom1" n="1">
-            <head xml:id="bibl-rom-Hd1e91">Caput 1</head>
+      <div xml:id="bible-rom">
+        <head xml:id="bible-rom-Hd1e86">Ad Romanos</head>
+          <div xml:id="bible-rom1" n="1">
+            <head xml:id="bible-rom-Hd1e91">Caput 1</head>
             <p xml:id="rom1_1" n="1">Paulus servus Christi Iesu vocatus apostolus segregatus in evangelium Dei</p>
             <p xml:id="rom1_2" n="2">quod ante promiserat per prophetas suos in scripturis sanctis</p>
             <p xml:id="rom1_3" n="3">de Filio suo qui factus est ex semine David secundum carnem</p>
@@ -78,8 +78,8 @@
             <p xml:id="rom1_31" n="31">insipientes inconpositos sine affectione absque foedere sine misericordia</p>
             <p xml:id="rom1_32" n="32">qui cum iustitiam Dei cognovissent non intellexerunt quoniam qui talia agunt digni sunt morte non solum ea faciunt sed et consentiunt facientibus</p>
           </div>
-          <div xml:id="bibl-rom2" n="2">
-            <head xml:id="bibl-rom-Hd1e198">Caput 2</head>
+          <div xml:id="bible-rom2" n="2">
+            <head xml:id="bible-rom-Hd1e198">Caput 2</head>
             <p xml:id="rom2_1" n="1">propter quod inexcusabilis es o homo omnis qui iudicas in quo enim iudicas alterum te ipsum condemnas eadem enim agis qui iudicas</p>
             <p xml:id="rom2_2" n="2">scimus enim quoniam iudicium Dei est secundum veritatem in eos qui talia agunt</p>
             <p xml:id="rom2_3" n="3">existimas autem hoc o homo qui iudicas eos qui talia agunt et facis ea quia tu effugies iudicium Dei</p>
@@ -110,8 +110,8 @@
             <p xml:id="rom2_28" n="28">non enim qui in manifesto Iudaeus est neque quae in manifesto in carne circumcisio</p>
             <p xml:id="rom2_29" n="29">sed qui in abscondito Iudaeus et circumcisio cordis in spiritu non littera cuius laus non ex hominibus sed ex Deo est</p>
           </div>
-          <div xml:id="bibl-rom3" n="3">
-            <head xml:id="bibl-rom-Hd1e296">Caput 3</head>
+          <div xml:id="bible-rom3" n="3">
+            <head xml:id="bible-rom-Hd1e296">Caput 3</head>
             <p xml:id="rom3_1" n="1">quid ergo amplius est Iudaeo aut quae utilitas circumcisionis</p>
             <p xml:id="rom3_2" n="2">multum per omnem modum primum quidem quia credita sunt illis eloquia Dei</p>
             <p xml:id="rom3_3" n="3">quid enim si quidam illorum non crediderunt numquid incredulitas illorum fidem Dei evacuabit absit</p>
@@ -144,8 +144,8 @@
             <p xml:id="rom3_30" n="30">quoniam quidem unus Deus qui iustificabit circumcisionem ex fide et praeputium per fidem</p>
             <p xml:id="rom3_31" n="31">legem ergo destruimus per fidem absit sed legem statuimus</p>
           </div>
-          <div xml:id="bibl-rom4" n="4">
-            <head xml:id="bibl-rom-Hd1e400">Caput 4</head>
+          <div xml:id="bible-rom4" n="4">
+            <head xml:id="bible-rom-Hd1e400">Caput 4</head>
             <p xml:id="rom4_1" n="1">quid ergo dicemus invenisse Abraham patrem nostrum secundum carnem</p>
             <p xml:id="rom4_2" n="2">si enim Abraham ex operibus iustificatus est habet gloriam sed non apud Deum</p>
             <p xml:id="rom4_3" n="3">quid enim scriptura dicit credidit Abraham Deo et reputatum est illi ad iustitiam</p>
@@ -172,8 +172,8 @@
             <p xml:id="rom4_24" n="24">sed et propter nos quibus reputabitur credentibus in eum qui suscitavit Iesum Dominum nostrum a mortuis</p>
             <p xml:id="rom4_25" n="25">qui traditus est propter delicta nostra et resurrexit propter iustificationem nostram</p>
           </div>
-          <div xml:id="bibl-rom5" n="5">
-            <head xml:id="bibl-rom-Hd1e486">Caput 5</head>
+          <div xml:id="bible-rom5" n="5">
+            <head xml:id="bible-rom-Hd1e486">Caput 5</head>
             <p xml:id="rom5_1" n="1">iustificati igitur ex fide pacem habeamus ad Deum per Dominum nostrum Iesum Christum</p>
             <p xml:id="rom5_2" n="2">per quem et accessum habemus fide in gratiam istam in qua stamus et gloriamur in spe gloriae filiorum Dei</p>
             <p xml:id="rom5_3" n="3">non solum autem sed et gloriamur in tribulationibus scientes quod tribulatio patientiam operatur</p>
@@ -196,8 +196,8 @@
             <p xml:id="rom5_20" n="20">lex autem subintravit ut abundaret delictum ubi autem abundavit delictum superabundavit gratia</p>
             <p xml:id="rom5_21" n="21">ut sicut regnavit peccatum in morte ita et gratia regnet per iustitiam in vitam aeternam per Iesum Christum Dominum nostrum</p>
           </div>
-          <div xml:id="bibl-rom6" n="6">
-            <head xml:id="bibl-rom-Hd1e558">Caput 6</head>
+          <div xml:id="bible-rom6" n="6">
+            <head xml:id="bible-rom-Hd1e558">Caput 6</head>
             <p xml:id="rom6_1" n="1">quid ergo dicemus permanebimus in peccato ut gratia abundet</p>
             <p xml:id="rom6_2" n="2">absit qui enim mortui sumus peccato quomodo adhuc vivemus in illo</p>
             <p xml:id="rom6_3" n="3">an ignoratis quia quicumque baptizati sumus in Christo Iesu in morte ipsius baptizati sumus</p>
@@ -222,8 +222,8 @@
             <p xml:id="rom6_22" n="22">nunc vero liberati a peccato servi autem facti Deo habetis fructum vestrum in sanctificationem finem vero vitam aeternam</p>
             <p xml:id="rom6_23" n="23">stipendia enim peccati mors gratia autem Dei vita aeterna in Christo Iesu Domino nostro</p>
           </div>
-          <div xml:id="bibl-rom7" n="7">
-            <head xml:id="bibl-rom-Hd1e637">Caput 7</head>
+          <div xml:id="bible-rom7" n="7">
+            <head xml:id="bible-rom-Hd1e637">Caput 7</head>
             <p xml:id="rom7_1" n="1">an ignoratis fratres scientibus enim legem loquor quia lex in homine dominatur quanto tempore vivit</p>
             <p xml:id="rom7_2" n="2">nam quae sub viro est mulier vivente viro alligata est legi si autem mortuus fuerit vir soluta est a lege viri</p>
             <p xml:id="rom7_3" n="3">igitur vivente viro vocabitur adultera si fuerit cum alio viro si autem mortuus fuerit vir eius liberata est a lege ut non sit adultera si fuerit cum alio viro</p>
@@ -250,8 +250,8 @@
             <p xml:id="rom7_24" n="24">infelix ego homo quis me liberabit de corpore mortis huius</p>
             <p xml:id="rom7_25" n="25">gratia Dei per Iesum Christum Dominum nostrum igitur ego ipse mente servio legi Dei carne autem legi peccati</p>
           </div>
-          <div xml:id="bibl-rom8" n="8">
-            <head xml:id="bibl-rom-Hd1e722">Caput 8</head>
+          <div xml:id="bible-rom8" n="8">
+            <head xml:id="bible-rom-Hd1e722">Caput 8</head>
             <p xml:id="rom8_1" n="1">nihil ergo nunc damnationis est his qui sunt in Christo Iesu qui non secundum carnem ambulant</p>
             <p xml:id="rom8_2" n="2">lex enim Spiritus vitae in Christo Iesu liberavit me a lege peccati et mortis</p>
             <p xml:id="rom8_3" n="3">nam quod inpossibile erat legis in quo infirmabatur per carnem Deus Filium suum mittens in similitudinem carnis peccati et de peccato damnavit peccatum in carne</p>
@@ -292,8 +292,8 @@
             <p xml:id="rom8_38" n="38">certus sum enim quia neque mors neque vita neque angeli neque principatus neque instantia neque futura neque fortitudines</p>
             <p xml:id="rom8_39" n="39">neque altitudo neque profundum neque creatura alia poterit nos separare a caritate Dei quae est in Christo Iesu Domino nostro</p>
           </div>
-          <div xml:id="bibl-rom9" n="9">
-            <head xml:id="bibl-rom-Hd1e851">Caput 9</head>
+          <div xml:id="bible-rom9" n="9">
+            <head xml:id="bible-rom-Hd1e851">Caput 9</head>
             <p xml:id="rom9_1" n="1">veritatem dico in Christo non mentior testimonium mihi perhibente conscientia mea in Spiritu Sancto</p>
             <p xml:id="rom9_2" n="2">quoniam tristitia est mihi magna et continuus dolor cordi meo</p>
             <p xml:id="rom9_3" n="3">optabam enim ipse ego anathema esse a Christo pro fratribus meis qui sunt cognati mei secundum carnem</p>
@@ -328,8 +328,8 @@
             <p xml:id="rom9_32" n="32">quare quia non ex fide sed quasi ex operibus offenderunt in lapidem offensionis</p>
             <p xml:id="rom9_33" n="33">sicut scriptum est ecce pono in Sion lapidem offensionis et petram scandali et omnis qui credit in eum non confundetur</p>
           </div>
-          <div xml:id="bibl-rom10" n="10">
-            <head xml:id="bibl-rom-Hd1e961">Caput 10</head>
+          <div xml:id="bible-rom10" n="10">
+            <head xml:id="bible-rom-Hd1e961">Caput 10</head>
             <p xml:id="rom10_1" n="1">fratres voluntas quidem cordis mei et obsecratio ad Deum fit pro illis in salutem</p>
             <p xml:id="rom10_2" n="2">testimonium enim perhibeo illis quod aemulationem Dei habent sed non secundum scientiam</p>
             <p xml:id="rom10_3" n="3">ignorantes enim Dei iustitiam et suam quaerentes statuere iustitiae Dei non sunt subiecti</p>
@@ -352,8 +352,8 @@
             <p xml:id="rom10_20" n="20">Esaias autem audet et dicit inventus sum non quaerentibus me palam apparui his qui me non interrogabant</p>
             <p xml:id="rom10_21" n="21">ad Israhel autem dicit tota die expandi manus meas ad populum non credentem et contradicentem</p>
           </div>
-          <div xml:id="bibl-rom11" n="11">
-            <head xml:id="bibl-rom-Hd1e1034">Caput 11</head>
+          <div xml:id="bible-rom11" n="11">
+            <head xml:id="bible-rom-Hd1e1034">Caput 11</head>
             <p xml:id="rom11_1" n="1">dico ergo numquid reppulit Deus populum suum absit nam et ego Israhelita sum ex semine Abraham tribu Beniamin</p>
             <p xml:id="rom11_2" n="2">non reppulit Deus plebem suam quam praesciit an nescitis in Helia quid dicit scriptura quemadmodum interpellat Deum adversus Israhel</p>
             <p xml:id="rom11_3" n="3">Domine prophetas tuos occiderunt altaria tua suffoderunt et ego relictus sum solus et quaerunt animam meam</p>
@@ -391,8 +391,8 @@
             <p xml:id="rom11_35" n="35">aut quis prior dedit illi et retribuetur ei</p>
             <p xml:id="rom11_36" n="36">quoniam ex ipso et per ipsum et in ipso omnia ipsi gloria in saecula amen</p>
           </div>
-          <div xml:id="bibl-rom12" n="12">
-            <head xml:id="bibl-rom-Hd1e1154">Caput 12</head>
+          <div xml:id="bible-rom12" n="12">
+            <head xml:id="bible-rom-Hd1e1154">Caput 12</head>
             <p xml:id="rom12_1" n="1">obsecro itaque vos fratres per misericordiam Dei ut exhibeatis corpora vestra hostiam viventem sanctam Deo placentem rationabile obsequium vestrum</p>
             <p xml:id="rom12_2" n="2">et nolite conformari huic saeculo sed reformamini in novitate sensus vestri ut probetis quae sit voluntas Dei bona et placens et perfecta</p>
             <p xml:id="rom12_3" n="3">dico enim per gratiam quae data est mihi omnibus qui sunt inter vos non plus sapere quam oportet sapere sed sapere ad sobrietatem unicuique sicut Deus divisit mensuram fidei</p>
@@ -415,8 +415,8 @@
             <p xml:id="rom12_20" n="20">sed si esurierit inimicus tuus ciba illum si sitit potum da illi hoc enim faciens carbones ignis congeres super caput eius</p>
             <p xml:id="rom12_21" n="21">noli vinci a malo sed vince in bono malum</p>
           </div>
-          <div xml:id="bibl-rom13" n="13">
-            <head xml:id="bibl-rom-Hd1e1226">Caput 13</head>
+          <div xml:id="bible-rom13" n="13">
+            <head xml:id="bible-rom-Hd1e1226">Caput 13</head>
             <p xml:id="rom13_1" n="1">omnis anima potestatibus sublimioribus subdita sit non est enim potestas nisi a Deo quae autem sunt a Deo ordinatae sunt</p>
             <p xml:id="rom13_2" n="2">itaque qui resistit potestati Dei ordinationi resistit qui autem resistunt ipsi sibi damnationem adquirunt</p>
             <p xml:id="rom13_3" n="3">nam principes non sunt timori boni operis sed mali vis autem non timere potestatem bonum fac et habebis laudem ex illa</p>
@@ -432,8 +432,8 @@
             <p xml:id="rom13_13" n="13">sicut in die honeste ambulemus non in comesationibus et ebrietatibus non in cubilibus et inpudicitiis non in contentione et aemulatione</p>
             <p xml:id="rom13_14" n="14">sed induite Dominum Iesum Christum et carnis curam ne feceritis in desideriis</p>
           </div>
-          <div xml:id="bibl-rom14" n="14">
-            <head xml:id="bibl-rom-Hd1e1276">Caput 14</head>
+          <div xml:id="bible-rom14" n="14">
+            <head xml:id="bible-rom-Hd1e1276">Caput 14</head>
             <p xml:id="rom14_1" n="1">infirmum autem in fide adsumite non in disceptationibus cogitationum</p>
             <p xml:id="rom14_2" n="2">alius enim credit manducare omnia qui autem infirmus est holus manducat</p>
             <p xml:id="rom14_3" n="3">is qui manducat non manducantem non spernat et qui non manducat manducantem non iudicet Deus enim illum adsumpsit</p>
@@ -458,8 +458,8 @@
             <p xml:id="rom14_22" n="22">tu fidem habes penes temet ipsum habe coram Deo beatus qui non iudicat semet ipsum in eo quo probat</p>
             <p xml:id="rom14_23" n="23">qui autem discernit si manducaverit damnatus est quia non ex fide omne autem quod non ex fide peccatum est</p>
           </div>
-          <div xml:id="bibl-rom15" n="15">
-            <head xml:id="bibl-rom-Hd1e1355">Caput 15</head>
+          <div xml:id="bible-rom15" n="15">
+            <head xml:id="bible-rom-Hd1e1355">Caput 15</head>
             <p xml:id="rom15_1" n="1">debemus autem nos firmiores inbecillitates infirmorum sustinere et non nobis placere</p>
             <p xml:id="rom15_2" n="2">unusquisque vestrum proximo suo placeat in bonum ad aedificationem</p>
             <p xml:id="rom15_3" n="3">etenim Christus non sibi placuit sed sicut scriptum est inproperia inproperantium tibi ceciderunt super me</p>
@@ -494,8 +494,8 @@
             <p xml:id="rom15_32" n="32">ut veniam ad vos in gaudio per voluntatem Dei et refrigerer vobiscum</p>
             <p xml:id="rom15_33" n="33">Deus autem pacis sit cum omnibus vobis amen</p>
           </div>
-          <div xml:id="bibl-rom16" n="16">
-            <head xml:id="bibl-rom-Hd1e1465">Caput 16</head>
+          <div xml:id="bible-rom16" n="16">
+            <head xml:id="bible-rom-Hd1e1465">Caput 16</head>
             <p xml:id="rom16_1" n="1">commendo autem vobis Phoebem sororem nostram quae est in ministerio ecclesiae quae est Cenchris</p>
             <p xml:id="rom16_2" n="2">ut eam suscipiatis in Domino digne sanctis et adsistatis ei in quocumque negotio vestri indiguerit etenim ipsa quoque adstitit multis et mihi ipsi</p>
             <p xml:id="rom16_3" n="3">salutate Priscam et Aquilam adiutores meos in Christo Iesu</p>
