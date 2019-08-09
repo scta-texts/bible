@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kolosser</title>
+        <author/>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"><date when="2011-10-04">October 04, 2011</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
+              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl>
+          <bibl>Biblia Sacra Vulgata - The Free Bible Group</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2011-10-04" status="draft" n="0.0.0"><p>File Started for the first
+          time.</p></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="bible-col">
+        <div xml:id="bible-col1" n="1">
+          <head>Caput 1</head>
+          <p xml:id="col1_1" n="1">Paulus apostolus Christi Iesu per voluntatem Dei et Timotheus
+            frater</p>
+          <p xml:id="col1_2" n="2">his qui sunt Colossis sanctis et fidelibus fratribus in Christo
+            Iesu gratia vobis et pax a Deo Patre nostro</p>
+          <p xml:id="col1_3" n="3">gratias agimus Deo et Patri Domini nostri Iesu Christi semper pro
+            vobis orantes</p>
+          <p xml:id="col1_4" n="4">audientes fidem vestram in Christo Iesu et dilectionem quam
+            habetis in sanctos omnes</p>
+          <p xml:id="col1_5" n="5">propter spem quae reposita est vobis in caelis quam audistis in
+            verbo veritatis evangelii</p>
+          <p xml:id="col1_6" n="6">quod pervenit ad vos sicut et in universo mundo est et
+            fructificat et crescit sicut in vobis ex ea die qua audistis et cognovistis gratiam Dei
+            in veritate</p>
+          <p xml:id="col1_7" n="7">sicut didicistis ab Epaphra carissimo conservo nostro qui est
+            fidelis pro vobis minister Christi Iesu</p>
+          <p xml:id="col1_8" n="8">qui etiam manifestavit nobis dilectionem vestram in Spiritu</p>
+          <p xml:id="col1_9" n="9">ideo et nos ex qua die audivimus non cessamus pro vobis orantes
+            et postulantes ut impleamini agnitione voluntatis eius in omni sapientia et intellectu
+            spiritali</p>
+          <p xml:id="col1_10" n="10">ut ambuletis digne Deo per omnia placentes in omni opere bono
+            fructificantes et crescentes in scientia Dei</p>
+          <p xml:id="col1_11" n="11">in omni virtute confortati secundum potentiam claritatis eius
+            in omni patientia et longanimitate cum gaudio</p>
+          <p xml:id="col1_12" n="12">gratias agentes Patri qui dignos nos fecit in partem sortis
+            sanctorum in lumine</p>
+          <p xml:id="col1_13" n="13">qui eripuit nos de potestate tenebrarum et transtulit in regnum
+            Filii dilectionis suae</p>
+          <p xml:id="col1_14" n="14">in quo habemus redemptionem remissionem peccatorum</p>
+          <p xml:id="col1_15" n="15">qui est imago Dei invisibilis primogenitus omnis creaturae</p>
+          <p xml:id="col1_16" n="16">quia in ipso condita sunt universa in caelis et in terra
+            visibilia et invisibilia sive throni sive dominationes sive principatus sive potestates
+            omnia per ipsum et in ipso creata sunt</p>
+          <p xml:id="col1_17" n="17">et ipse est ante omnes et omnia in ipso constant</p>
+          <p xml:id="col1_18" n="18">et ipse est caput corporis ecclesiae qui est principium
+            primogenitus ex mortuis ut sit in omnibus ipse primatum tenens</p>
+          <p xml:id="col1_19" n="19">quia in ipso conplacuit omnem plenitudinem habitare</p>
+          <p xml:id="col1_20" n="20">et per eum reconciliare omnia in ipsum pacificans per sanguinem
+            crucis eius sive quae in terris sive quae in caelis sunt</p>
+          <p xml:id="col1_21" n="21">et vos cum essetis aliquando alienati et inimici sensu in
+            operibus malis</p>
+          <p xml:id="col1_22" n="22">nunc autem reconciliavit in corpore carnis eius per mortem
+            exhibere vos sanctos et inmaculatos et inreprehensibiles coram ipso</p>
+          <p xml:id="col1_23" n="23">si tamen permanetis in fide fundati et stabiles et inmobiles ab
+            spe evangelii quod audistis quod praedicatum est in universa creatura quae sub caelo est
+            cuius factus sum ego Paulus minister</p>
+          <p xml:id="col1_24" n="24">qui nunc gaudeo in passionibus pro vobis et adimpleo ea quae
+            desunt passionum Christi in carne mea pro corpore eius quod est ecclesia</p>
+          <p xml:id="col1_25" n="25">cuius factus sum ego minister secundum dispensationem Dei quae
+            data est mihi in vos ut impleam verbum Dei</p>
+          <p xml:id="col1_26" n="26">mysterium quod absconditum fuit a saeculis et generationibus
+            nunc autem manifestatum est sanctis eius</p>
+          <p xml:id="col1_27" n="27">quibus voluit Deus notas facere divitias gloriae sacramenti
+            huius in gentibus quod est Christus in vobis spes gloriae</p>
+          <p xml:id="col1_28" n="28">quem nos adnuntiamus corripientes omnem hominem et docentes
+            omnem hominem in omni sapientia ut exhibeamus omnem hominem perfectum in Christo
+            Iesu</p>
+          <p xml:id="col1_29" n="29">in quo et laboro certando secundum operationem eius quam
+            operatur in me in virtute</p>
+        </div>
+        <div xml:id="bible-col2" n="2">
+          <head>Caput 2</head>
+          <p xml:id="col2_1" n="1">volo enim vos scire qualem sollicitudinem habeam pro vobis et pro
+            his qui sunt Laodiciae et quicumque non viderunt faciem meam in carne</p>
+          <p xml:id="col2_2" n="2">ut consolentur corda ipsorum instructi in caritate et in omnes
+            divitias plenitudinis intellectus in agnitionem mysterii Dei Patris Christi Iesu</p>
+          <p xml:id="col2_3" n="3">in quo sunt omnes thesauri sapientiae et scientiae absconditi</p>
+          <p xml:id="col2_4" n="4">hoc autem dico ut nemo vos decipiat in subtilitate sermonum</p>
+          <p xml:id="col2_5" n="5">nam et si corpore absens sum sed spiritu vobiscum sum gaudens et
+            videns ordinem vestrum et firmamentum eius quae in Christo est fidei vestrae</p>
+          <p xml:id="col2_6" n="6">sicut ergo accepistis Christum Iesum Dominum in ipso ambulate</p>
+          <p xml:id="col2_7" n="7">radicati et superaedificati in ipso et confirmati fide sicut et
+            didicistis abundantes in gratiarum actione</p>
+          <p xml:id="col2_8" n="8">videte ne quis vos decipiat per philosophiam et inanem fallaciam
+            secundum traditionem hominum secundum elementa mundi et non secundum Christum</p>
+          <p xml:id="col2_9" n="9">quia in ipso inhabitat omnis plenitudo divinitatis
+            corporaliter</p>
+          <p xml:id="col2_10" n="10">et estis in illo repleti qui est caput omnis principatus et
+            potestatis</p>
+          <p xml:id="col2_11" n="11">in quo et circumcisi estis circumcisione non manufacta in
+            expoliatione corporis carnis in circumcisione Christi</p>
+          <p xml:id="col2_12" n="12">consepulti ei in baptismo in quo et resurrexistis per fidem
+            operationis Dei qui suscitavit illum a mortuis</p>
+          <p xml:id="col2_13" n="13">et vos cum mortui essetis in delictis et praeputio carnis
+            vestrae convivificavit cum illo donans vobis omnia delicta</p>
+          <p xml:id="col2_14" n="14">delens quod adversum nos erat chirografum decretis quod erat
+            contrarium nobis et ipsum tulit de medio adfigens illud cruci</p>
+          <p xml:id="col2_15" n="15">expolians principatus et potestates traduxit palam triumphans
+            illos in semet ipso</p>
+          <p xml:id="col2_16" n="16">nemo ergo vos iudicet in cibo aut in potu aut in parte diei
+            festi aut neomeniae aut sabbatorum</p>
+          <p xml:id="col2_17" n="17">quae sunt umbra futurorum corpus autem Christi</p>
+          <p xml:id="col2_18" n="18">nemo vos seducat volens in humilitate et religione angelorum
+            quae non vidit ambulans frustra inflatus sensu carnis suae</p>
+          <p xml:id="col2_19" n="19">et non tenens caput ex quo totum corpus per nexus et
+            coniunctiones subministratum et constructum crescit in augmentum Dei</p>
+          <p xml:id="col2_20" n="20">si mortui estis cum Christo ab elementis mundi quid adhuc
+            tamquam viventes in mundo decernitis</p>
+          <p xml:id="col2_21" n="21">ne tetigeris neque gustaveris neque contrectaveris</p>
+          <p xml:id="col2_22" n="22">quae sunt omnia in interitu ipso usu secundum praecepta et
+            doctrinas hominum</p>
+          <p xml:id="col2_23" n="23">quae sunt rationem quidem habentia sapientiae in superstitione
+            et humilitate et ad non parcendum corpori non in honore aliquo ad saturitatem carnis</p>
+        </div>
+        <div xml:id="bible-col3" n="3">
+          <head>Caput 3</head>
+          <p xml:id="col3_1" n="1">igitur si conresurrexistis Christo quae sursum sunt quaerite ubi
+            Christus est in dextera Dei sedens</p>
+          <p xml:id="col3_2" n="2">quae sursum sunt sapite non quae supra terram</p>
+          <p xml:id="col3_3" n="3">mortui enim estis et vita vestra abscondita est cum Christo in
+            Deo</p>
+          <p xml:id="col3_4" n="4">cum Christus apparuerit vita vestra tunc et vos apparebitis cum
+            ipso in gloria</p>
+          <p xml:id="col3_5" n="5">mortificate ergo membra vestra quae sunt super terram
+            fornicationem inmunditiam libidinem concupiscentiam malam et avaritiam quae est
+            simulacrorum servitus</p>
+          <p xml:id="col3_6" n="6">propter quae venit ira Dei super filios incredulitatis</p>
+          <p xml:id="col3_7" n="7">in quibus et vos ambulastis aliquando cum viveretis in illis</p>
+          <p xml:id="col3_8" n="8">nunc autem deponite et vos omnia iram indignationem malitiam
+            blasphemiam turpem sermonem de ore vestro</p>
+          <p xml:id="col3_9" n="9">nolite mentiri invicem expoliantes vos veterem hominem cum
+            actibus eius</p>
+          <p xml:id="col3_10" n="10">et induentes novum eum qui renovatur in agnitionem secundum
+            imaginem eius qui creavit eum</p>
+          <p xml:id="col3_11" n="11">ubi non est gentilis et Iudaeus circumcisio et praeputium
+            barbarus et Scytha servus et liber sed omnia et in omnibus Christus</p>
+          <p xml:id="col3_12" n="12">induite vos ergo sicut electi Dei sancti et dilecti viscera
+            misericordiae benignitatem humilitatem modestiam patientiam</p>
+          <p xml:id="col3_13" n="13">subportantes invicem et donantes vobis ipsis si quis adversus
+            aliquem habet querellam sicut et Dominus donavit vobis ita et vos</p>
+          <p xml:id="col3_14" n="14">super omnia autem haec caritatem quod est vinculum
+            perfectionis</p>
+          <p xml:id="col3_15" n="15">et pax Christi exultet in cordibus vestris in qua et vocati
+            estis in uno corpore et grati estote</p>
+          <p xml:id="col3_16" n="16">verbum Christi habitet in vobis abundanter in omni sapientia
+            docentes et commonentes vosmet ipsos psalmis hymnis canticis spiritalibus in gratia
+            cantantes in cordibus vestris Deo</p>
+          <p xml:id="col3_17" n="17">omne quodcumque facitis in verbo aut in opere omnia in nomine
+            Domini Iesu gratias agentes Deo et Patri per ipsum</p>
+          <p xml:id="col3_18" n="18">mulieres subditae estote viris sicut oportet in Domino</p>
+          <p xml:id="col3_19" n="19">viri diligite uxores et nolite amari esse ad illas</p>
+          <p xml:id="col3_20" n="20">filii oboedite parentibus per omnia hoc enim placitum est in
+            Domino</p>
+          <p xml:id="col3_21" n="21">patres nolite ad indignationem provocare filios vestros ut non
+            pusillo animo fiant</p>
+          <p xml:id="col3_22" n="22">servi oboedite per omnia dominis carnalibus non ad oculum
+            servientes quasi hominibus placentes sed in simplicitate cordis timentes Dominum</p>
+          <p xml:id="col3_23" n="23">quodcumque facitis ex animo operamini sicut Domino et non
+            hominibus</p>
+          <p xml:id="col3_24" n="24">scientes quod a Domino accipietis retributionem hereditatis
+            Domino Christo servite</p>
+          <p xml:id="col3_25" n="25">qui enim iniuriam facit recipiet id quod inique gessit et non
+            est personarum acceptio</p>
+        </div>
+        <div xml:id="bible-col4" n="4">
+          <head>Caput 4</head>
+          <p xml:id="col4_1" n="1">domini quod iustum est et aequum servis praestate scientes
+            quoniam et vos Dominum habetis in caelo</p>
+          <p xml:id="col4_2" n="2">orationi instate vigilantes in ea in gratiarum actione</p>
+          <p xml:id="col4_3" n="3">orantes simul et pro nobis ut Deus aperiat nobis ostium sermonis
+            ad loquendum mysterium Christi propter quod etiam vinctus sum</p>
+          <p xml:id="col4_4" n="4">ut manifestem illud ita ut oportet me loqui</p>
+          <p xml:id="col4_5" n="5">in sapientia ambulate ad eos qui foris sunt tempus redimentes</p>
+          <p xml:id="col4_6" n="6">sermo vester semper in gratia sale sit conditus ut sciatis
+            quomodo oporteat vos unicuique respondere</p>
+          <p xml:id="col4_7" n="7">quae circa me sunt omnia vobis nota faciet Tychicus carissimus
+            frater et fidelis minister et conservus in Domino</p>
+          <p xml:id="col4_8" n="8">quem misi ad vos ad hoc ipsum ut cognoscat quae circa vos sunt et
+            consoletur corda vestra</p>
+          <p xml:id="col4_9" n="9">cum Onesimo carissimo et fideli fratre qui est ex vobis omnia
+            quae hic aguntur nota facient vobis</p>
+          <p xml:id="col4_10" n="10">salutat vos Aristarchus concaptivus meus et Marcus consobrinus
+            Barnabae de quo accepistis mandata si venerit ad vos excipite illum</p>
+          <p xml:id="col4_11" n="11">et Iesus qui dicitur Iustus qui sunt ex circumcisione hii soli
+            sunt adiutores in regno Dei qui mihi fuerunt solacio</p>
+          <p xml:id="col4_12" n="12">salutat vos Epaphras qui ex vobis est servus Christi Iesu
+            semper sollicitus pro vobis in orationibus ut stetis perfecti et pleni in omni voluntate
+            Dei</p>
+          <p xml:id="col4_13" n="13">testimonium enim illi perhibeo quod habet multum laborem pro
+            vobis et pro his qui sunt Laodiciae et qui Hierapoli</p>
+          <p xml:id="col4_14" n="14">salutat vos Lucas medicus carissimus et Demas</p>
+          <p xml:id="col4_15" n="15">salutate fratres qui sunt Laodiciae et Nympham et quae in domo
+            eius est ecclesiam</p>
+          <p xml:id="col4_16" n="16">et cum lecta fuerit apud vos epistula facite ut et in
+            Laodicensium ecclesia legatur et eam quae Laodicensium est vos legatis</p>
+          <p xml:id="col4_17" n="17">et dicite Archippo vide ministerium quod accepisti in Domino ut
+            illud impleas</p>
+          <p xml:id="col4_18" n="18">salutatio mea manu Pauli memores estote vinculorum meorum
+            gratia vobiscum amen</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

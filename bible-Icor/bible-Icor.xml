@@ -1,0 +1,930 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1 Korinther</title>
+        <author/>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"><date when="2011-10-04">October 04, 2011</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
+              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl>
+          <bibl>Biblia Sacra Vulgata - The Free Bible Group</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2011-10-04" status="draft" n="0.0.0"><p>File Started for the first
+          time.</p></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="bible-Icor">
+        <div xml:id="bible-Icor1" n="1">
+          <head>Caput 1</head>
+          <p xml:id="Icor1_1" n="1">Paulus vocatus apostolus Christi Iesu per voluntatem Dei et
+            Sosthenes frater</p>
+          <p xml:id="Icor1_2" n="2">ecclesiae Dei quae est Corinthi sanctificatis in Christo Iesu
+            vocatis sanctis cum omnibus qui invocant nomen Domini nostri Iesu Christi in omni loco
+            ipsorum et nostro</p>
+          <p xml:id="Icor1_3" n="3">gratia vobis et pax a Deo Patre nostro et Domino Iesu
+            Christo</p>
+          <p xml:id="Icor1_4" n="4">gratias ago Deo meo semper pro vobis in gratia Dei quae data est
+            vobis in Christo Iesu</p>
+          <p xml:id="Icor1_5" n="5">quia in omnibus divites facti estis in illo in omni verbo et in
+            omni scientia</p>
+          <p xml:id="Icor1_6" n="6">sicut testimonium Christi confirmatum est in vobis</p>
+          <p xml:id="Icor1_7" n="7">ita ut nihil vobis desit in ulla gratia expectantibus
+            revelationem Domini nostri Iesu Christi</p>
+          <p xml:id="Icor1_8" n="8">qui et confirmabit vos usque ad finem sine crimine in die
+            adventus Domini nostri Iesu Christi</p>
+          <p xml:id="Icor1_9" n="9">fidelis Deus per quem vocati estis in societatem Filii eius Iesu
+            Christi Domini nostri</p>
+          <p xml:id="Icor1_10" n="10">obsecro autem vos fratres per nomen Domini nostri Iesu Christi
+            ut id ipsum dicatis omnes et non sint in vobis scismata sitis autem perfecti in eodem
+            sensu et in eadem sententia</p>
+          <p xml:id="Icor1_11" n="11">significatum est enim mihi de vobis fratres mei ab his qui
+            sunt Chloes quia contentiones inter vos sunt</p>
+          <p xml:id="Icor1_12" n="12">hoc autem dico quod unusquisque vestrum dicit ego quidem sum
+            Pauli ego autem Apollo ego vero Cephae ego autem Christi</p>
+          <p xml:id="Icor1_13" n="13">divisus est Christus numquid Paulus crucifixus est pro vobis
+            aut in nomine Pauli baptizati estis</p>
+          <p xml:id="Icor1_14" n="14">gratias ago Deo quod neminem vestrum baptizavi nisi Crispum et
+            Gaium</p>
+          <p xml:id="Icor1_15" n="15">ne quis dicat quod in nomine meo baptizati sitis</p>
+          <p xml:id="Icor1_16" n="16">baptizavi autem et Stephanae domum ceterum nescio si quem
+            alium baptizaverim</p>
+          <p xml:id="Icor1_17" n="17">non enim misit me Christus baptizare sed evangelizare non in
+            sapientia verbi ut non evacuetur crux Christi</p>
+          <p xml:id="Icor1_18" n="18">verbum enim crucis pereuntibus quidem stultitia est his autem
+            qui salvi fiunt id est nobis virtus Dei est</p>
+          <p xml:id="Icor1_19" n="19">scriptum est enim perdam sapientiam sapientium et prudentiam
+            prudentium reprobabo</p>
+          <p xml:id="Icor1_20" n="20">ubi sapiens ubi scriba ubi conquisitor huius saeculi nonne
+            stultam fecit Deus sapientiam huius mundi</p>
+          <p xml:id="Icor1_21" n="21">nam quia in Dei sapientia non cognovit mundus per sapientiam
+            Deum placuit Deo per stultitiam praedicationis salvos facere credentes</p>
+          <p xml:id="Icor1_22" n="22">quoniam et Iudaei signa petunt et Graeci sapientiam
+            quaerunt</p>
+          <p xml:id="Icor1_23" n="23">nos autem praedicamus Christum crucifixum Iudaeis quidem
+            scandalum gentibus autem stultitiam</p>
+          <p xml:id="Icor1_24" n="24">ipsis autem vocatis Iudaeis atque Graecis Christum Dei
+            virtutem et Dei sapientiam</p>
+          <p xml:id="Icor1_25" n="25">quia quod stultum est Dei sapientius est hominibus et quod
+            infirmum est Dei fortius est hominibus</p>
+          <p xml:id="Icor1_26" n="26">videte enim vocationem vestram fratres quia non multi
+            sapientes secundum carnem non multi potentes non multi nobiles</p>
+          <p xml:id="Icor1_27" n="27">sed quae stulta sunt mundi elegit Deus ut confundat sapientes
+            et infirma mundi elegit Deus ut confundat fortia</p>
+          <p xml:id="Icor1_28" n="28">et ignobilia mundi et contemptibilia elegit Deus et quae non
+            sunt ut ea quae sunt destrueret</p>
+          <p xml:id="Icor1_29" n="29">ut non glorietur omnis caro in conspectu eius</p>
+          <p xml:id="Icor1_30" n="30">ex ipso autem vos estis in Christo Iesu qui factus est
+            sapientia nobis a Deo et iustitia et sanctificatio et redemptio</p>
+          <p xml:id="Icor1_31" n="31">ut quemadmodum scriptum est qui gloriatur in Domino
+            glorietur</p>
+        </div>
+        <div xml:id="bible-Icor2" n="2">
+          <head>Caput 2</head>
+          <p xml:id="Icor2_1" n="1">et ego cum venissem ad vos fratres veni non per sublimitatem
+            sermonis aut sapientiae adnuntians vobis testimonium Christi</p>
+          <p xml:id="Icor2_2" n="2">non enim iudicavi scire me aliquid inter vos nisi Iesum Christum
+            et hunc crucifixum</p>
+          <p xml:id="Icor2_3" n="3">et ego in infirmitate et timore et tremore multo fui apud
+            vos</p>
+          <p xml:id="Icor2_4" n="4">et sermo meus et praedicatio mea non in persuasibilibus
+            sapientiae verbis sed in ostensione Spiritus et virtutis</p>
+          <p xml:id="Icor2_5" n="5">ut fides vestra non sit in sapientia hominum sed in virtute
+            Dei</p>
+          <p xml:id="Icor2_6" n="6">sapientiam autem loquimur inter perfectos sapientiam vero non
+            huius saeculi neque principum huius saeculi qui destruuntur</p>
+          <p xml:id="Icor2_7" n="7">sed loquimur Dei sapientiam in mysterio quae abscondita est quam
+            praedestinavit Deus ante saecula in gloriam nostram</p>
+          <p xml:id="Icor2_8" n="8">quam nemo principum huius saeculi cognovit si enim cognovissent
+            numquam Dominum gloriae crucifixissent</p>
+          <p xml:id="Icor2_9" n="9">sed sicut scriptum est quod oculus non vidit nec auris audivit
+            nec in cor hominis ascendit quae praeparavit Deus his qui diligunt illum</p>
+          <p xml:id="Icor2_10" n="10">nobis autem revelavit Deus per Spiritum suum Spiritus enim
+            omnia scrutatur etiam profunda Dei</p>
+          <p xml:id="Icor2_11" n="11">quis enim scit hominum quae sint hominis nisi spiritus hominis
+            qui in ipso est ita et quae Dei sunt nemo cognovit nisi Spiritus Dei</p>
+          <p xml:id="Icor2_12" n="12">nos autem non spiritum mundi accepimus sed Spiritum qui ex Deo
+            est ut sciamus quae a Deo donata sunt nobis</p>
+          <p xml:id="Icor2_13" n="13">quae et loquimur non in doctis humanae sapientiae verbis sed
+            in doctrina Spiritus spiritalibus spiritalia conparantes</p>
+          <p xml:id="Icor2_14" n="14">animalis autem homo non percipit ea quae sunt Spiritus Dei
+            stultitia est enim illi et non potest intellegere quia spiritaliter examinatur</p>
+          <p xml:id="Icor2_15" n="15">spiritalis autem iudicat omnia et ipse a nemine iudicatur</p>
+          <p xml:id="Icor2_16" n="16">quis enim cognovit sensum Domini qui instruat eum nos autem
+            sensum Christi habemus</p>
+        </div>
+        <div xml:id="bible-Icor3" n="3">
+          <head>Caput 3</head>
+          <p xml:id="Icor3_1" n="1">et ego fratres non potui vobis loqui quasi spiritalibus sed
+            quasi carnalibus tamquam parvulis in Christo</p>
+          <p xml:id="Icor3_2" n="2">lac vobis potum dedi non escam nondum enim poteratis sed ne nunc
+            quidem potestis adhuc enim estis carnales</p>
+          <p xml:id="Icor3_3" n="3">cum enim sit inter vos zelus et contentio nonne carnales estis
+            et secundum hominem ambulatis</p>
+          <p xml:id="Icor3_4" n="4">cum enim quis dicit ego quidem sum Pauli alius autem ego Apollo
+            nonne homines estis quid igitur est Apollo quid vero Paulus</p>
+          <p xml:id="Icor3_5" n="5">ministri eius cui credidistis et unicuique sicut Dominus
+            dedit</p>
+          <p xml:id="Icor3_6" n="6">ego plantavi Apollo rigavit sed Deus incrementum dedit</p>
+          <p xml:id="Icor3_7" n="7">itaque neque qui plantat est aliquid neque qui rigat sed qui
+            incrementum dat Deus</p>
+          <p xml:id="Icor3_8" n="8">qui plantat autem et qui rigat unum sunt unusquisque autem
+            propriam mercedem accipiet secundum suum laborem</p>
+          <p xml:id="Icor3_9" n="9">Dei enim sumus adiutores Dei agricultura estis Dei aedificatio
+            estis</p>
+          <p xml:id="Icor3_10" n="10">secundum gratiam Dei quae data est mihi ut sapiens architectus
+            fundamentum posui alius autem superaedificat unusquisque autem videat quomodo
+            superaedificet</p>
+          <p xml:id="Icor3_11" n="11">fundamentum enim aliud nemo potest ponere praeter id quod
+            positum est qui est Christus Iesus</p>
+          <p xml:id="Icor3_12" n="12">si quis autem superaedificat supra fundamentum hoc aurum
+            argentum lapides pretiosos ligna faenum stipulam</p>
+          <p xml:id="Icor3_13" n="13">uniuscuiusque opus manifestum erit dies enim declarabit quia
+            in igne revelabitur et uniuscuiusque opus quale sit ignis probabit</p>
+          <p xml:id="Icor3_14" n="14">si cuius opus manserit quod superaedificavit mercedem
+            accipiet</p>
+          <p xml:id="Icor3_15" n="15">si cuius opus arserit detrimentum patietur ipse autem salvus
+            erit sic tamen quasi per ignem</p>
+          <p xml:id="Icor3_16" n="16">nescitis quia templum Dei estis et Spiritus Dei habitat in
+            vobis</p>
+          <p xml:id="Icor3_17" n="17">si quis autem templum Dei violaverit disperdet illum Deus
+            templum enim Dei sanctum est quod estis vos</p>
+          <p xml:id="Icor3_18" n="18">nemo se seducat si quis videtur inter vos sapiens esse in hoc
+            saeculo stultus fiat ut sit sapiens</p>
+          <p xml:id="Icor3_19" n="19">sapientia enim huius mundi stultitia est apud Deum scriptum
+            est enim conprehendam sapientes in astutia eorum</p>
+          <p xml:id="Icor3_20" n="20">et iterum Dominus novit cogitationes sapientium quoniam vanae
+            sunt</p>
+          <p xml:id="Icor3_21" n="21">itaque nemo glorietur in hominibus omnia enim vestra sunt</p>
+          <p xml:id="Icor3_22" n="22">sive Paulus sive Apollo sive Cephas sive mundus sive vita sive
+            mors sive praesentia sive futura omnia enim vestra sunt</p>
+          <p xml:id="Icor3_23" n="23">vos autem Christi Christus autem Dei</p>
+        </div>
+        <div xml:id="bible-Icor4" n="4">
+          <head>Caput 4</head>
+          <p xml:id="Icor4_1" n="1">sic nos existimet homo ut ministros Christi et dispensatores
+            mysteriorum Dei</p>
+          <p xml:id="Icor4_2" n="2">hic iam quaeritur inter dispensatores ut fidelis quis
+            inveniatur</p>
+          <p xml:id="Icor4_3" n="3">mihi autem pro minimo est ut a vobis iudicer aut ab humano die
+            sed neque me ipsum iudico</p>
+          <p xml:id="Icor4_4" n="4">nihil enim mihi conscius sum sed non in hoc iustificatus sum qui
+            autem iudicat me Dominus est</p>
+          <p xml:id="Icor4_5" n="5">itaque nolite ante tempus iudicare quoadusque veniat Dominus qui
+            et inluminabit abscondita tenebrarum et manifestabit consilia cordium et tunc laus erit
+            unicuique a Deo</p>
+          <p xml:id="Icor4_6" n="6">haec autem fratres transfiguravi in me et Apollo propter vos ut
+            in nobis discatis ne supra quam scriptum est unus adversus alterum infletur pro alio</p>
+          <p xml:id="Icor4_7" n="7">quis enim te discernit quid autem habes quod non accepisti si
+            autem accepisti quid gloriaris quasi non acceperis</p>
+          <p xml:id="Icor4_8" n="8">iam saturati estis iam divites facti estis sine nobis regnastis
+            et utinam regnaretis ut et nos vobiscum regnaremus</p>
+          <p xml:id="Icor4_9" n="9">puto enim Deus nos apostolos novissimos ostendit tamquam morti
+            destinatos quia spectaculum facti sumus mundo et angelis et hominibus</p>
+          <p xml:id="Icor4_10" n="10">nos stulti propter Christum vos autem prudentes in Christo nos
+            infirmi vos autem fortes vos nobiles nos autem ignobiles</p>
+          <p xml:id="Icor4_11" n="11">usque in hanc horam et esurimus et sitimus et nudi sumus et
+            colaphis caedimur et instabiles sumus</p>
+          <p xml:id="Icor4_12" n="12">et laboramus operantes manibus nostris maledicimur et
+            benedicimus persecutionem patimur et sustinemus</p>
+          <p xml:id="Icor4_13" n="13">blasphemamur et obsecramus tamquam purgamenta huius mundi
+            facti sumus omnium peripsima usque adhuc</p>
+          <p xml:id="Icor4_14" n="14">non ut confundam vos haec scribo sed ut filios meos carissimos
+            moneo</p>
+          <p xml:id="Icor4_15" n="15">nam si decem milia pedagogorum habeatis in Christo sed non
+            multos patres nam in Christo Iesu per evangelium ego vos genui</p>
+          <p xml:id="Icor4_16" n="16">rogo ergo vos imitatores mei estote</p>
+          <p xml:id="Icor4_17" n="17">ideo misi ad vos Timotheum qui est filius meus carissimus et
+            fidelis in Domino qui vos commonefaciat vias meas quae sunt in Christo sicut ubique in
+            omni ecclesia doceo</p>
+          <p xml:id="Icor4_18" n="18">tamquam non venturus sim ad vos sic inflati sunt quidam</p>
+          <p xml:id="Icor4_19" n="19">veniam autem cito ad vos si Dominus voluerit et cognoscam non
+            sermonem eorum qui inflati sunt sed virtutem</p>
+          <p xml:id="Icor4_20" n="20">non enim in sermone est regnum Dei sed in virtute</p>
+          <p xml:id="Icor4_21" n="21">quid vultis in virga veniam ad vos an in caritate et spiritu
+            mansuetudinis</p>
+        </div>
+        <div xml:id="bible-Icor5" n="5">
+          <head>Caput 5</head>
+          <p xml:id="Icor5_1" n="1">omnino auditur inter vos fornicatio et talis fornicatio qualis
+            nec inter gentes ita ut uxorem patris aliquis habeat</p>
+          <p xml:id="Icor5_2" n="2">et vos inflati estis et non magis luctum habuistis ut tollatur
+            de medio vestrum qui hoc opus fecit</p>
+          <p xml:id="Icor5_3" n="3">ego quidem absens corpore praesens autem spiritu iam iudicavi ut
+            praesens eum qui sic operatus est</p>
+          <p xml:id="Icor5_4" n="4">in nomine Domini nostri Iesu Christi congregatis vobis et meo
+            spiritu cum virtute Domini Iesu</p>
+          <p xml:id="Icor5_5" n="5">tradere huiusmodi Satanae in interitum carnis ut spiritus salvus
+            sit in die Domini Iesu</p>
+          <p xml:id="Icor5_6" n="6">non bona gloriatio vestra nescitis quia modicum fermentum totam
+            massam corrumpit</p>
+          <p xml:id="Icor5_7" n="7">expurgate vetus fermentum ut sitis nova consparsio sicut estis
+            azymi etenim pascha nostrum immolatus est Christus</p>
+          <p xml:id="Icor5_8" n="8">itaque epulemur non in fermento veteri neque in fermento
+            malitiae et nequitiae sed in azymis sinceritatis et veritatis</p>
+          <p xml:id="Icor5_9" n="9">scripsi vobis in epistula ne commisceamini fornicariis</p>
+          <p xml:id="Icor5_10" n="10">non utique fornicariis huius mundi aut avaris aut rapacibus
+            aut idolis servientibus alioquin debueratis de hoc mundo exisse</p>
+          <p xml:id="Icor5_11" n="11">nunc autem scripsi vobis non commisceri si is qui frater
+            nominatur est fornicator aut avarus aut idolis serviens aut maledicus aut ebriosus aut
+            rapax cum eiusmodi nec cibum sumere</p>
+          <p xml:id="Icor5_12" n="12">quid enim mihi de his qui foris sunt iudicare nonne de his qui
+            intus sunt vos iudicatis</p>
+          <p xml:id="Icor5_13" n="13">nam eos qui foris sunt Deus iudicabit auferte malum ex vobis
+            ipsis</p>
+        </div>
+        <div xml:id="bible-Icor6" n="6">
+          <head>Caput 6</head>
+          <p xml:id="Icor6_1" n="1">audet aliquis vestrum habens negotium adversus alterum iudicari
+            apud iniquos et non apud sanctos</p>
+          <p xml:id="Icor6_2" n="2">an nescitis quoniam sancti de mundo iudicabunt et si in vobis
+            iudicabitur mundus indigni estis qui de minimis iudicetis</p>
+          <p xml:id="Icor6_3" n="3">nescitis quoniam angelos iudicabimus quanto magis saecularia</p>
+          <p xml:id="Icor6_4" n="4">saecularia igitur iudicia si habueritis contemptibiles qui sunt
+            in ecclesia illos constituite ad iudicandum</p>
+          <p xml:id="Icor6_5" n="5">ad verecundiam vestram dico sic non est inter vos sapiens
+            quisquam qui possit iudicare inter fratrem suum</p>
+          <p xml:id="Icor6_6" n="6">sed frater cum fratre iudicio contendit et hoc apud
+            infideles</p>
+          <p xml:id="Icor6_7" n="7">iam quidem omnino delictum est in vobis quod iudicia habetis
+            inter vos quare non magis iniuriam accipitis quare non magis fraudem patimini</p>
+          <p xml:id="Icor6_8" n="8">sed vos iniuriam facitis et fraudatis et hoc fratribus</p>
+          <p xml:id="Icor6_9" n="9">an nescitis quia iniqui regnum Dei non possidebunt nolite errare
+            neque fornicarii neque idolis servientes neque adulteri</p>
+          <p xml:id="Icor6_10" n="10">neque molles neque masculorum concubitores neque fures neque
+            avari neque ebriosi neque maledici neque rapaces regnum Dei possidebunt</p>
+          <p xml:id="Icor6_11" n="11">et haec quidam fuistis sed abluti estis sed sanctificati estis
+            sed iustificati estis in nomine Domini nostri Iesu Christi et in Spiritu Dei nostri</p>
+          <p xml:id="Icor6_12" n="12">omnia mihi licent sed non omnia expediunt omnia mihi licent
+            sed ego sub nullius redigar potestate</p>
+          <p xml:id="Icor6_13" n="13">esca ventri et venter escis Deus autem et hunc et haec
+            destruet corpus autem non fornicationi sed Domino et Dominus corpori</p>
+          <p xml:id="Icor6_14" n="14">Deus vero et Dominum suscitavit et nos suscitabit per virtutem
+            suam</p>
+          <p xml:id="Icor6_15" n="15">nescitis quoniam corpora vestra membra Christi sunt tollens
+            ergo membra Christi faciam membra meretricis absit</p>
+          <p xml:id="Icor6_16" n="16">an nescitis quoniam qui adheret meretrici unum corpus
+            efficitur erunt enim inquit duo in carne una</p>
+          <p xml:id="Icor6_17" n="17">qui autem adheret Domino unus spiritus est</p>
+          <p xml:id="Icor6_18" n="18">fugite fornicationem omne peccatum quodcumque fecerit homo
+            extra corpus est qui autem fornicatur in corpus suum peccat</p>
+          <p xml:id="Icor6_19" n="19">an nescitis quoniam membra vestra templum est Spiritus Sancti
+            qui in vobis est quem habetis a Deo et non estis vestri</p>
+          <p xml:id="Icor6_20" n="20">empti enim estis pretio magno glorificate et portate Deum in
+            corpore vestro</p>
+        </div>
+        <div xml:id="bible-Icor7" n="7">
+          <head>Caput 7</head>
+          <p xml:id="Icor7_1" n="1">de quibus autem scripsistis bonum est homini mulierem non
+            tangere</p>
+          <p xml:id="Icor7_2" n="2">propter fornicationes autem unusquisque suam uxorem habeat et
+            unaquaeque suum virum habeat</p>
+          <p xml:id="Icor7_3" n="3">uxori vir debitum reddat similiter autem et uxor viro</p>
+          <p xml:id="Icor7_4" n="4">mulier sui corporis potestatem non habet sed vir similiter autem
+            et vir sui corporis potestatem non habet sed mulier</p>
+          <p xml:id="Icor7_5" n="5">nolite fraudare invicem nisi forte ex consensu ad tempus ut
+            vacetis orationi et iterum revertimini in id ipsum ne temptet vos Satanas propter
+            incontinentiam vestram</p>
+          <p xml:id="Icor7_6" n="6">hoc autem dico secundum indulgentiam non secundum imperium</p>
+          <p xml:id="Icor7_7" n="7">volo autem omnes homines esse sicut me ipsum sed unusquisque
+            proprium habet donum ex Deo alius quidem sic alius vero sic</p>
+          <p xml:id="Icor7_8" n="8">dico autem non nuptis et viduis bonum est illis si sic maneant
+            sicut et ego</p>
+          <p xml:id="Icor7_9" n="9">quod si non se continent nubant melius est enim nubere quam
+            uri</p>
+          <p xml:id="Icor7_10" n="10">his autem qui matrimonio iuncti sunt praecipio non ego sed
+            Dominus uxorem a viro non discedere</p>
+          <p xml:id="Icor7_11" n="11">quod si discesserit manere innuptam aut viro suo reconciliari
+            et vir uxorem ne dimittat</p>
+          <p xml:id="Icor7_12" n="12">nam ceteris ego dico non Dominus si quis frater uxorem habet
+            infidelem et haec consentit habitare cum illo non dimittat illam</p>
+          <p xml:id="Icor7_13" n="13">et si qua mulier habet virum infidelem et hic consentit
+            habitare cum illa non dimittat virum</p>
+          <p xml:id="Icor7_14" n="14">sanctificatus est enim vir infidelis in muliere fideli et
+            sanctificata est mulier infidelis per virum fidelem alioquin filii vestri inmundi essent
+            nunc autem sancti sunt</p>
+          <p xml:id="Icor7_15" n="15">quod si infidelis discedit discedat non est enim servituti
+            subiectus frater aut soror in eiusmodi in pace autem vocavit nos Deus</p>
+          <p xml:id="Icor7_16" n="16">unde enim scis mulier si virum salvum facies aut unde scis vir
+            si mulierem salvam facies</p>
+          <p xml:id="Icor7_17" n="17">nisi unicuique sicut divisit Dominus unumquemque sicut vocavit
+            Deus ita ambulet et sic in omnibus ecclesiis doceo</p>
+          <p xml:id="Icor7_18" n="18">circumcisus aliquis vocatus est non adducat praeputium in
+            praeputio aliquis vocatus est non circumcidatur</p>
+          <p xml:id="Icor7_19" n="19">circumcisio nihil est et praeputium nihil est sed observatio
+            mandatorum Dei</p>
+          <p xml:id="Icor7_20" n="20">unusquisque in qua vocatione vocatus est in ea permaneat</p>
+          <p xml:id="Icor7_21" n="21">servus vocatus es non sit tibi curae sed et si potes liber
+            fieri magis utere</p>
+          <p xml:id="Icor7_22" n="22">qui enim in Domino vocatus est servus libertus est Domini
+            similiter qui liber vocatus est servus est Christi</p>
+          <p xml:id="Icor7_23" n="23">pretio empti estis nolite fieri servi hominum</p>
+          <p xml:id="Icor7_24" n="24">unusquisque in quo vocatus est fratres in hoc maneat apud
+            Deum</p>
+          <p xml:id="Icor7_25" n="25">de virginibus autem praeceptum Domini non habeo consilium
+            autem do tamquam misericordiam consecutus a Domino ut sim fidelis</p>
+          <p xml:id="Icor7_26" n="26">existimo ergo hoc bonum esse propter instantem necessitatem
+            quoniam bonum est homini sic esse</p>
+          <p xml:id="Icor7_27" n="27">alligatus es uxori noli quaerere solutionem solutus es ab
+            uxore noli quaerere uxorem</p>
+          <p xml:id="Icor7_28" n="28">si autem acceperis uxorem non peccasti et si nupserit virgo
+            non peccavit tribulationem tamen carnis habebunt huiusmodi ego autem vobis parco</p>
+          <p xml:id="Icor7_29" n="29">hoc itaque dico fratres tempus breve est reliquum est ut qui
+            habent uxores tamquam non habentes sint</p>
+          <p xml:id="Icor7_30" n="30">et qui flent tamquam non flentes et qui gaudent tamquam non
+            gaudentes et qui emunt tamquam non possidentes</p>
+          <p xml:id="Icor7_31" n="31">et qui utuntur hoc mundo tamquam non utantur praeterit enim
+            figura huius mundi</p>
+          <p xml:id="Icor7_32" n="32">volo autem vos sine sollicitudine esse qui sine uxore est
+            sollicitus est quae Domini sunt quomodo placeat Deo</p>
+          <p xml:id="Icor7_33" n="33">qui autem cum uxore est sollicitus est quae sunt mundi quomodo
+            placeat uxori et divisus est</p>
+          <p xml:id="Icor7_34" n="34">et mulier innupta et virgo cogitat quae Domini sunt ut sit
+            sancta et corpore et spiritu quae autem nupta est cogitat quae sunt mundi quomodo
+            placeat viro</p>
+          <p xml:id="Icor7_35" n="35">porro hoc ad utilitatem vestram dico non ut laqueum vobis
+            iniciam sed ad id quod honestum est et quod facultatem praebeat sine inpedimento Dominum
+            observandi</p>
+          <p xml:id="Icor7_36" n="36">si quis autem turpem se videri existimat super virgine sua
+            quod sit superadulta et ita oportet fieri quod vult faciat non peccat nubat</p>
+          <p xml:id="Icor7_37" n="37">nam qui statuit in corde suo firmus non habens necessitatem
+            potestatem autem habet suae voluntatis et hoc iudicavit in corde suo servare virginem
+            suam bene facit</p>
+          <p xml:id="Icor7_38" n="38">igitur et qui matrimonio iungit virginem suam bene facit et
+            qui non iungit melius facit</p>
+          <p xml:id="Icor7_39" n="39">mulier alligata est quanto tempore vir eius vivit quod si
+            dormierit vir eius liberata est cui vult nubat tantum in Domino</p>
+          <p xml:id="Icor7_40" n="40">beatior autem erit si sic permanserit secundum meum consilium
+            puto autem quod et ego Spiritum Dei habeo</p>
+        </div>
+        <div xml:id="bible-Icor8" n="8">
+          <head>Caput 8</head>
+          <p xml:id="Icor8_1" n="1">de his autem quae idolis sacrificantur scimus quia omnes
+            scientiam habemus scientia inflat caritas vero aedificat</p>
+          <p xml:id="Icor8_2" n="2">si quis se existimat scire aliquid nondum cognovit quemadmodum
+            oporteat eum scire</p>
+          <p xml:id="Icor8_3" n="3">si quis autem diligit Deum hic cognitus est ab eo</p>
+          <p xml:id="Icor8_4" n="4">de escis autem quae idolis immolantur scimus quia nihil est
+            idolum in mundo et quod nullus Deus nisi unus</p>
+          <p xml:id="Icor8_5" n="5">nam et si sunt qui dicantur dii sive in caelo sive in terra
+            siquidem sunt dii multi et domini multi</p>
+          <p xml:id="Icor8_6" n="6">nobis tamen unus Deus Pater ex quo omnia et nos in illum et unus
+            Dominus Iesus Christus per quem omnia et nos per ipsum</p>
+          <p xml:id="Icor8_7" n="7">sed non in omnibus est scientia quidam autem conscientia usque
+            nunc idoli quasi idolothytum manducant et conscientia ipsorum cum sit infirma
+            polluitur</p>
+          <p xml:id="Icor8_8" n="8">esca autem nos non commendat Deo neque si non manducaverimus
+            deficiemus neque si manducaverimus abundabimus</p>
+          <p xml:id="Icor8_9" n="9">videte autem ne forte haec licentia vestra offendiculum fiat
+            infirmibus</p>
+          <p xml:id="Icor8_10" n="10">si enim quis viderit eum qui habet scientiam in idolio
+            recumbentem nonne conscientia eius cum sit infirma aedificabitur ad manducandum
+            idolothyta</p>
+          <p xml:id="Icor8_11" n="11">et peribit infirmus in tua scientia frater propter quem
+            Christus mortuus est</p>
+          <p xml:id="Icor8_12" n="12">sic autem peccantes in fratres et percutientes conscientiam
+            eorum infirmam in Christo peccatis</p>
+          <p xml:id="Icor8_13" n="13">quapropter si esca scandalizat fratrem meum non manducabo
+            carnem in aeternum ne fratrem meum scandalizem</p>
+        </div>
+        <div xml:id="bible-Icor9" n="9">
+          <head>Caput 9</head>
+          <p xml:id="Icor9_1" n="1">non sum liber non sum apostolus nonne Iesum Dominum nostrum vidi
+            non opus meum vos estis in Domino</p>
+          <p xml:id="Icor9_2" n="2">si aliis non sum apostolus sed tamen vobis sum nam signaculum
+            apostolatus mei vos estis in Domino</p>
+          <p xml:id="Icor9_3" n="3">mea defensio apud eos qui me interrogant haec est</p>
+          <p xml:id="Icor9_4" n="4">numquid non habemus potestatem manducandi et bibendi</p>
+          <p xml:id="Icor9_5" n="5">numquid non habemus potestatem sororem mulierem circumducendi
+            sicut et ceteri apostoli et fratres Domini et Cephas</p>
+          <p xml:id="Icor9_6" n="6">aut solus ego et Barnabas non habemus potestatem hoc
+            operandi</p>
+          <p xml:id="Icor9_7" n="7">quis militat suis stipendiis umquam quis plantat vineam et
+            fructum eius non edit quis pascit gregem et de lacte gregis non manducat</p>
+          <p xml:id="Icor9_8" n="8">numquid secundum hominem haec dico an et lex haec non dicit</p>
+          <p xml:id="Icor9_9" n="9">scriptum est enim in lege Mosi non alligabis os bovi trituranti
+            numquid de bubus cura est Deo</p>
+          <p xml:id="Icor9_10" n="10">an propter nos utique dicit nam propter nos scripta sunt
+            quoniam debet in spe qui arat arare et qui triturat in spe fructus percipiendi</p>
+          <p xml:id="Icor9_11" n="11">si nos vobis spiritalia seminavimus magnum est si nos carnalia
+            vestra metamus</p>
+          <p xml:id="Icor9_12" n="12">si alii potestatis vestrae participes sunt non potius nos sed
+            non usi sumus hac potestate sed omnia sustinemus ne quod offendiculum demus evangelio
+            Christi</p>
+          <p xml:id="Icor9_13" n="13">nescitis quoniam qui in sacrario operantur quae de sacrario
+            sunt edunt qui altario deserviunt cum altario participantur</p>
+          <p xml:id="Icor9_14" n="14">ita et Dominus ordinavit his qui evangelium adnuntiant de
+            evangelio vivere</p>
+          <p xml:id="Icor9_15" n="15">ego autem nullo horum usus sum non scripsi autem haec ut ita
+            fiant in me bonum est enim mihi magis mori quam ut gloriam meam quis evacuet</p>
+          <p xml:id="Icor9_16" n="16">nam si evangelizavero non est mihi gloria necessitas enim mihi
+            incumbit vae enim mihi est si non evangelizavero</p>
+          <p xml:id="Icor9_17" n="17">si enim volens hoc ago mercedem habeo si autem invitus
+            dispensatio mihi credita est</p>
+          <p xml:id="Icor9_18" n="18">quae est ergo merces mea ut evangelium praedicans sine sumptu
+            ponam evangelium ut non abutar potestate mea in evangelio</p>
+          <p xml:id="Icor9_19" n="19">nam cum liber essem ex omnibus omnium me servum feci ut plures
+            lucri facerem</p>
+          <p xml:id="Icor9_20" n="20">et factus sum Iudaeis tamquam Iudaeus ut Iudaeos lucrarer</p>
+          <p xml:id="Icor9_21" n="21">his qui sub lege sunt quasi sub lege essem cum ipse non essem
+            sub lege ut eos qui sub lege erant lucri facerem his qui sine lege erant tamquam sine
+            lege essem cum sine lege Dei non essem sed in lege essem Christi ut lucri facerem eos
+            qui sine lege erant</p>
+          <p xml:id="Icor9_22" n="22">factus sum infirmis infirmus ut infirmos lucri facerem omnibus
+            omnia factus sum ut omnes facerem salvos</p>
+          <p xml:id="Icor9_23" n="23">omnia autem facio propter evangelium ut particeps eius
+            efficiar</p>
+          <p xml:id="Icor9_24" n="24">nescitis quod hii qui in stadio currunt omnes quidem currunt
+            sed unus accipit bravium sic currite ut conprehendatis</p>
+          <p xml:id="Icor9_25" n="25">omnis autem qui in agone contendit ab omnibus se abstinet et
+            illi quidem ut corruptibilem coronam accipiant nos autem incorruptam</p>
+          <p xml:id="Icor9_26" n="26">ego igitur sic curro non quasi in incertum sic pugno non quasi
+            aerem verberans</p>
+          <p xml:id="Icor9_27" n="27">sed castigo corpus meum et in servitutem redigo ne forte cum
+            aliis praedicaverim ipse reprobus efficiar</p>
+        </div>
+        <div xml:id="bible-Icor10" n="10">
+          <head>Caput 10</head>
+          <p xml:id="Icor10_1" n="1">nolo enim vos ignorare fratres quoniam patres nostri omnes sub
+            nube fuerunt et omnes mare transierunt</p>
+          <p xml:id="Icor10_2" n="2">et omnes in Mose baptizati sunt in nube et in mari</p>
+          <p xml:id="Icor10_3" n="3">et omnes eandem escam spiritalem manducaverunt</p>
+          <p xml:id="Icor10_4" n="4">et omnes eundem potum spiritalem biberunt bibebant autem de
+            spiritali consequenti eos petra petra autem erat Christus</p>
+          <p xml:id="Icor10_5" n="5">sed non in pluribus eorum beneplacitum est Deo nam prostrati
+            sunt in deserto</p>
+          <p xml:id="Icor10_6" n="6">haec autem in figura facta sunt nostri ut non simus
+            concupiscentes malorum sicut et illi concupierunt</p>
+          <p xml:id="Icor10_7" n="7">neque idolorum cultores efficiamini sicut quidam ex ipsis
+            quemadmodum scriptum est sedit populus manducare et bibere et surrexerunt ludere</p>
+          <p xml:id="Icor10_8" n="8">neque fornicemur sicut quidam ex ipsis fornicati sunt et
+            ceciderunt una die viginti tria milia</p>
+          <p xml:id="Icor10_9" n="9">neque temptemus Christum sicut quidam eorum temptaverunt et a
+            serpentibus perierunt</p>
+          <p xml:id="Icor10_10" n="10">neque murmuraveritis sicut quidam eorum murmuraverunt et
+            perierunt ab exterminatore</p>
+          <p xml:id="Icor10_11" n="11">haec autem omnia in figura contingebant illis scripta sunt
+            autem ad correptionem nostram in quos fines saeculorum devenerunt</p>
+          <p xml:id="Icor10_12" n="12">itaque qui se existimat stare videat ne cadat</p>
+          <p xml:id="Icor10_13" n="13">temptatio vos non adprehendat nisi humana fidelis autem Deus
+            qui non patietur vos temptari super id quod potestis sed faciet cum temptatione etiam
+            proventum ut possitis sustinere</p>
+          <p xml:id="Icor10_14" n="14">propter quod carissimi mihi fugite ab idolorum cultura</p>
+          <p xml:id="Icor10_15" n="15">ut prudentibus loquor vos iudicate quod dico</p>
+          <p xml:id="Icor10_16" n="16">calicem benedictionis cui benedicimus nonne communicatio
+            sanguinis Christi est et panis quem frangimus nonne participatio corporis Domini est</p>
+          <p xml:id="Icor10_17" n="17">quoniam unus panis unum corpus multi sumus omnes quidem de
+            uno pane participamur</p>
+          <p xml:id="Icor10_18" n="18">videte Israhel secundum carnem nonne qui edunt hostias
+            participes sunt altaris</p>
+          <p xml:id="Icor10_19" n="19">quid ergo dico quod idolis immolatum sit aliquid aut quod
+            idolum sit aliquid</p>
+          <p xml:id="Icor10_20" n="20">sed quae immolant gentes daemoniis immolant et non Deo nolo
+            autem vos socios fieri daemoniorum non potestis calicem Domini bibere et calicem
+            daemoniorum</p>
+          <p xml:id="Icor10_21" n="21">non potestis mensae Domini participes esse et mensae
+            daemoniorum</p>
+          <p xml:id="Icor10_22" n="22">an aemulamur Dominum numquid fortiores illo sumus omnia
+            licent sed non omnia expediunt</p>
+          <p xml:id="Icor10_23" n="23">omnia licent sed non omnia aedificant</p>
+          <p xml:id="Icor10_24" n="24">nemo quod suum est quaerat sed quod alterius</p>
+          <p xml:id="Icor10_25" n="25">omne quod in macello venit manducate nihil interrogantes
+            propter conscientiam</p>
+          <p xml:id="Icor10_26" n="26">Domini est terra et plenitudo eius</p>
+          <p xml:id="Icor10_27" n="27">si quis vocat vos infidelium et vultis ire omne quod vobis
+            adponitur manducate nihil interrogantes propter conscientiam</p>
+          <p xml:id="Icor10_28" n="28">si quis autem dixerit hoc immolaticium est idolis nolite
+            manducare propter illum qui indicavit et propter conscientiam</p>
+          <p xml:id="Icor10_29" n="29">conscientiam autem dico non tuam sed alterius ut quid enim
+            libertas mea iudicatur ab alia conscientia</p>
+          <p xml:id="Icor10_30" n="30">si ego cum gratia participo quid blasphemor pro eo quod
+            gratias ago</p>
+          <p xml:id="Icor10_31" n="31">sive ergo manducatis sive bibitis vel aliud quid facitis
+            omnia in gloriam Dei facite</p>
+          <p xml:id="Icor10_32" n="32">sine offensione estote Iudaeis et gentilibus et ecclesiae
+            Dei</p>
+          <p xml:id="Icor10_33" n="33">sicut et ego per omnia omnibus placeo non quaerens quod mihi
+            utile est sed quod multis ut salvi fiant</p>
+        </div>
+        <div xml:id="bible-Icor11" n="11">
+          <head>Caput 11</head>
+          <p xml:id="Icor11_1" n="1">imitatores mei estote sicut et ego Christi</p>
+          <p xml:id="Icor11_2" n="2">laudo autem vos fratres quod omnia mei memores estis et sicut
+            tradidi vobis praecepta mea tenetis</p>
+          <p xml:id="Icor11_3" n="3">volo autem vos scire quod omnis viri caput Christus est caput
+            autem mulieris vir caput vero Christi Deus</p>
+          <p xml:id="Icor11_4" n="4">omnis vir orans aut prophetans velato capite deturpat caput
+            suum</p>
+          <p xml:id="Icor11_5" n="5">omnis autem mulier orans aut prophetans non velato capite
+            deturpat caput suum unum est enim atque si decalvetur</p>
+          <p xml:id="Icor11_6" n="6">nam si non velatur mulier et tondeatur si vero turpe est
+            mulieri tonderi aut decalvari velet caput suum</p>
+          <p xml:id="Icor11_7" n="7">vir quidem non debet velare caput quoniam imago et gloria est
+            Dei mulier autem gloria viri est</p>
+          <p xml:id="Icor11_8" n="8">non enim vir ex muliere est sed mulier ex viro</p>
+          <p xml:id="Icor11_9" n="9">etenim non est creatus vir propter mulierem sed mulier propter
+            virum</p>
+          <p xml:id="Icor11_10" n="10">ideo debet mulier potestatem habere supra caput propter
+            angelos</p>
+          <p xml:id="Icor11_11" n="11">verumtamen neque vir sine muliere neque mulier sine viro in
+            Domino</p>
+          <p xml:id="Icor11_12" n="12">nam sicut mulier de viro ita et vir per mulierem omnia autem
+            ex Deo</p>
+          <p xml:id="Icor11_13" n="13">vos ipsi iudicate decet mulierem non velatam orare Deum</p>
+          <p xml:id="Icor11_14" n="14">nec ipsa natura docet vos quod vir quidem si comam nutriat
+            ignominia est illi</p>
+          <p xml:id="Icor11_15" n="15">mulier vero si comam nutriat gloria est illi quoniam capilli
+            pro velamine ei dati sunt</p>
+          <p xml:id="Icor11_16" n="16">si quis autem videtur contentiosus esse nos talem
+            consuetudinem non habemus neque ecclesiae Dei</p>
+          <p xml:id="Icor11_17" n="17">hoc autem praecipio non laudans quod non in melius sed in
+            deterius convenitis</p>
+          <p xml:id="Icor11_18" n="18">primum quidem convenientibus vobis in ecclesia audio
+            scissuras esse et ex parte credo</p>
+          <p xml:id="Icor11_19" n="19">nam oportet et hereses esse ut et qui probati sunt manifesti
+            fiant in vobis</p>
+          <p xml:id="Icor11_20" n="20">convenientibus ergo vobis in unum iam non est dominicam cenam
+            manducare</p>
+          <p xml:id="Icor11_21" n="21">unusquisque enim suam cenam praesumit ad manducandum et alius
+            quidem esurit alius autem ebrius est</p>
+          <p xml:id="Icor11_22" n="22">numquid domos non habetis ad manducandum et bibendum aut
+            ecclesiam Dei contemnitis et confunditis eos qui non habent quid dicam vobis laudo vos
+            in hoc non laudo</p>
+          <p xml:id="Icor11_23" n="23">ego enim accepi a Domino quod et tradidi vobis quoniam
+            Dominus Iesus in qua nocte tradebatur accepit panem</p>
+          <p xml:id="Icor11_24" n="24">et gratias agens fregit et dixit hoc est corpus meum pro
+            vobis hoc facite in meam commemorationem</p>
+          <p xml:id="Icor11_25" n="25">similiter et calicem postquam cenavit dicens hic calix novum
+            testamentum est in meo sanguine hoc facite quotienscumque bibetis in meam
+            commemorationem</p>
+          <p xml:id="Icor11_26" n="26">quotienscumque enim manducabitis panem hunc et calicem
+            bibetis mortem Domini adnuntiatis donec veniat</p>
+          <p xml:id="Icor11_27" n="27">itaque quicumque manducaverit panem vel biberit calicem
+            Domini indigne reus erit corporis et sanguinis Domini</p>
+          <p xml:id="Icor11_28" n="28">probet autem se ipsum homo et sic de pane illo edat et de
+            calice bibat</p>
+          <p xml:id="Icor11_29" n="29">qui enim manducat et bibit indigne iudicium sibi manducat et
+            bibit non diiudicans corpus</p>
+          <p xml:id="Icor11_30" n="30">ideo inter vos multi infirmes et inbecilles et dormiunt
+            multi</p>
+          <p xml:id="Icor11_31" n="31">quod si nosmet ipsos diiudicaremus non utique iudicaremur</p>
+          <p xml:id="Icor11_32" n="32">dum iudicamur autem a Domino corripimur ut non cum hoc mundo
+            damnemur</p>
+          <p xml:id="Icor11_33" n="33">itaque fratres mei cum convenitis ad manducandum invicem
+            expectate</p>
+          <p xml:id="Icor11_34" n="34">si quis esurit domi manducet ut non in iudicium conveniatis
+            cetera autem cum venero disponam</p>
+        </div>
+        <div xml:id="bible-Icor12" n="12">
+          <head>Caput 12</head>
+          <p xml:id="Icor12_1" n="1">de spiritalibus autem nolo vos ignorare fratres</p>
+          <p xml:id="Icor12_2" n="2">scitis quoniam cum gentes essetis ad simulacra muta prout
+            ducebamini euntes</p>
+          <p xml:id="Icor12_3" n="3">ideo notum vobis facio quod nemo in Spiritu Dei loquens dicit
+            anathema Iesu et nemo potest dicere Dominus Iesus nisi in Spiritu Sancto</p>
+          <p xml:id="Icor12_4" n="4">divisiones vero gratiarum sunt idem autem Spiritus</p>
+          <p xml:id="Icor12_5" n="5">et divisiones ministrationum sunt idem autem Dominus</p>
+          <p xml:id="Icor12_6" n="6">et divisiones operationum sunt idem vero Deus qui operatur
+            omnia in omnibus</p>
+          <p xml:id="Icor12_7" n="7">unicuique autem datur manifestatio Spiritus ad utilitatem</p>
+          <p xml:id="Icor12_8" n="8">alii quidem per Spiritum datur sermo sapientiae alii autem
+            sermo scientiae secundum eundem Spiritum</p>
+          <p xml:id="Icor12_9" n="9">alteri fides in eodem Spiritu alii gratia sanitatum in uno
+            Spiritu</p>
+          <p xml:id="Icor12_10" n="10">alii operatio virtutum alii prophetatio alii discretio
+            spirituum alii genera linguarum alii interpretatio sermonum</p>
+          <p xml:id="Icor12_11" n="11">haec autem omnia operatur unus atque idem Spiritus dividens
+            singulis prout vult</p>
+          <p xml:id="Icor12_12" n="12">sicut enim corpus unum est et membra habet multa omnia autem
+            membra corporis cum sint multa unum corpus sunt ita et Christus</p>
+          <p xml:id="Icor12_13" n="13">etenim in uno Spiritu omnes nos in unum corpus baptizati
+            sumus sive Iudaei sive gentiles sive servi sive liberi et omnes unum Spiritum potati
+            sumus</p>
+          <p xml:id="Icor12_14" n="14">nam et corpus non est unum membrum sed multa</p>
+          <p xml:id="Icor12_15" n="15">si dixerit pes quoniam non sum manus non sum de corpore non
+            ideo non est de corpore</p>
+          <p xml:id="Icor12_16" n="16">et si dixerit auris quia non sum oculus non sum de corpore
+            non ideo non est de corpore</p>
+          <p xml:id="Icor12_17" n="17">si totum corpus oculus ubi auditus si totum auditus ubi
+            odoratus</p>
+          <p xml:id="Icor12_18" n="18">nunc autem posuit Deus membra unumquodque eorum in corpore
+            sicut voluit</p>
+          <p xml:id="Icor12_19" n="19">quod si essent omnia unum membrum ubi corpus</p>
+          <p xml:id="Icor12_20" n="20">nunc autem multa quidem membra unum autem corpus</p>
+          <p xml:id="Icor12_21" n="21">non potest dicere oculus manui opera tua non indigeo aut
+            iterum caput pedibus non estis mihi necessarii</p>
+          <p xml:id="Icor12_22" n="22">sed multo magis quae videntur membra corporis infirmiora esse
+            necessariora sunt</p>
+          <p xml:id="Icor12_23" n="23">et quae putamus ignobiliora membra esse corporis his honorem
+            abundantiorem circumdamus et quae inhonesta sunt nostra abundantiorem honestatem
+            habent</p>
+          <p xml:id="Icor12_24" n="24">honesta autem nostra nullius egent sed Deus temperavit corpus
+            ei cui deerat abundantiorem tribuendo honorem</p>
+          <p xml:id="Icor12_25" n="25">ut non sit scisma in corpore sed id ipsum pro invicem
+            sollicita sint membra</p>
+          <p xml:id="Icor12_26" n="26">et si quid patitur unum membrum conpatiuntur omnia membra
+            sive gloriatur unum membrum congaudent omnia membra</p>
+          <p xml:id="Icor12_27" n="27">vos autem estis corpus Christi et membra de membro</p>
+          <p xml:id="Icor12_28" n="28">et quosdam quidem posuit Deus in ecclesia primum apostolos
+            secundo prophetas tertio doctores deinde virtutes exin gratias curationum opitulationes
+            gubernationes genera linguarum</p>
+          <p xml:id="Icor12_29" n="29">numquid omnes apostoli numquid omnes prophetae numquid omnes
+            doctores</p>
+          <p xml:id="Icor12_30" n="30">numquid omnes virtutes numquid omnes gratiam habent
+            curationum numquid omnes linguis loquuntur numquid omnes interpretantur</p>
+          <p xml:id="Icor12_31" n="31">aemulamini autem charismata maiora et adhuc excellentiorem
+            viam vobis demonstro</p>
+        </div>
+        <div xml:id="bible-Icor13" n="13">
+          <head>Caput 13</head>
+          <p xml:id="Icor13_1" n="1">si linguis hominum loquar et angelorum caritatem autem non
+            habeam factus sum velut aes sonans aut cymbalum tinniens</p>
+          <p xml:id="Icor13_2" n="2">et si habuero prophetiam et noverim mysteria omnia et omnem
+            scientiam et habuero omnem fidem ita ut montes transferam caritatem autem non habuero
+            nihil sum</p>
+          <p xml:id="Icor13_3" n="3">et si distribuero in cibos pauperum omnes facultates meas et si
+            tradidero corpus meum ut ardeam caritatem autem non habuero nihil mihi prodest</p>
+          <p xml:id="Icor13_4" n="4">caritas patiens est benigna est caritas non aemulatur non agit
+            perperam non inflatur</p>
+          <p xml:id="Icor13_5" n="5">non est ambitiosa non quaerit quae sua sunt non inritatur non
+            cogitat malum</p>
+          <p xml:id="Icor13_6" n="6">non gaudet super iniquitatem congaudet autem veritati</p>
+          <p xml:id="Icor13_7" n="7">omnia suffert omnia credit omnia sperat omnia sustinet</p>
+          <p xml:id="Icor13_8" n="8">caritas numquam excidit sive prophetiae evacuabuntur sive
+            linguae cessabunt sive scientia destruetur</p>
+          <p xml:id="Icor13_9" n="9">ex parte enim cognoscimus et ex parte prophetamus</p>
+          <p xml:id="Icor13_10" n="10">cum autem venerit quod perfectum est evacuabitur quod ex
+            parte est</p>
+          <p xml:id="Icor13_11" n="11">cum essem parvulus loquebar ut parvulus sapiebam ut parvulus
+            cogitabam ut parvulus quando factus sum vir evacuavi quae erant parvuli</p>
+          <p xml:id="Icor13_12" n="12">videmus nunc per speculum in enigmate tunc autem facie ad
+            faciem nunc cognosco ex parte tunc autem cognoscam sicut et cognitus sum</p>
+          <p xml:id="Icor13_13" n="13">nunc autem manet fides spes caritas tria haec maior autem his
+            est caritas</p>
+        </div>
+        <div xml:id="bible-Icor14" n="14">
+          <head>Caput 14</head>
+          <p xml:id="Icor14_1" n="1">sectamini caritatem aemulamini spiritalia magis autem ut
+            prophetetis</p>
+          <p xml:id="Icor14_2" n="2">qui enim loquitur lingua non hominibus loquitur sed Deo nemo
+            enim audit Spiritu autem loquitur mysteria</p>
+          <p xml:id="Icor14_3" n="3">nam qui prophetat hominibus loquitur aedificationem et
+            exhortationem et consolationes</p>
+          <p xml:id="Icor14_4" n="4">qui loquitur lingua semet ipsum aedificat qui autem prophetat
+            ecclesiam aedificat</p>
+          <p xml:id="Icor14_5" n="5">volo autem omnes vos loqui linguis magis autem prophetare nam
+            maior est qui prophetat quam qui loquitur linguis nisi si forte ut interpretetur ut
+            ecclesia aedificationem accipiat</p>
+          <p xml:id="Icor14_6" n="6">nunc autem fratres si venero ad vos linguis loquens quid vobis
+            prodero nisi si vobis loquar aut in revelatione aut scientia aut prophetia aut in
+            doctrina</p>
+          <p xml:id="Icor14_7" n="7">tamen quae sine anima sunt vocem dantia sive tibia sive cithara
+            nisi distinctionem sonituum dederint quomodo scietur quod canitur aut quod
+            citharizatur</p>
+          <p xml:id="Icor14_8" n="8">etenim si incertam vocem det tuba quis parabit se ad bellum</p>
+          <p xml:id="Icor14_9" n="9">ita et vos per linguam nisi manifestum sermonem dederitis
+            quomodo scietur id quod dicitur eritis enim in aera loquentes</p>
+          <p xml:id="Icor14_10" n="10">tam multa ut puta genera linguarum sunt in mundo et nihil
+            sine voce est</p>
+          <p xml:id="Icor14_11" n="11">si ergo nesciero virtutem vocis ero ei cui loquor barbarus et
+            qui loquitur mihi barbarus</p>
+          <p xml:id="Icor14_12" n="12">sic et vos quoniam aemulatores estis spirituum ad
+            aedificationem ecclesiae quaerite ut abundetis</p>
+          <p xml:id="Icor14_13" n="13">et ideo qui loquitur lingua oret ut interpretetur</p>
+          <p xml:id="Icor14_14" n="14">nam si orem lingua spiritus meus orat mens autem mea sine
+            fructu est</p>
+          <p xml:id="Icor14_15" n="15">quid ergo est orabo spiritu orabo et mente psallam spiritu
+            psallam et mente</p>
+          <p xml:id="Icor14_16" n="16">ceterum si benedixeris spiritu qui supplet locum idiotae
+            quomodo dicet amen super tuam benedictionem quoniam quid dicas nescit</p>
+          <p xml:id="Icor14_17" n="17">nam tu quidem bene gratias agis sed alter non aedificatur</p>
+          <p xml:id="Icor14_18" n="18">gratias ago Deo quod omnium vestrum lingua loquor</p>
+          <p xml:id="Icor14_19" n="19">sed in ecclesia volo quinque verba sensu meo loqui ut et
+            alios instruam quam decem milia verborum in lingua</p>
+          <p xml:id="Icor14_20" n="20">fratres nolite pueri effici sensibus sed malitia parvuli
+            estote sensibus autem perfecti estote</p>
+          <p xml:id="Icor14_21" n="21">in lege scriptum est quoniam in aliis linguis et labiis aliis
+            loquar populo huic et nec sic exaudient me dicit Dominus</p>
+          <p xml:id="Icor14_22" n="22">itaque linguae in signum sunt non fidelibus sed infidelibus
+            prophetia autem non infidelibus sed fidelibus</p>
+          <p xml:id="Icor14_23" n="23">si ergo conveniat universa ecclesia in unum et omnes linguis
+            loquantur intrent autem idiotae aut infideles nonne dicent quod insanitis</p>
+          <p xml:id="Icor14_24" n="24">si autem omnes prophetent intret autem quis infidelis vel
+            idiota convincitur ab omnibus diiudicatur ab omnibus</p>
+          <p xml:id="Icor14_25" n="25">occulta cordis eius manifesta fiunt et ita cadens in faciem
+            adorabit Deum pronuntians quod vere Deus in vobis est</p>
+          <p xml:id="Icor14_26" n="26">quid ergo est fratres cum convenitis unusquisque vestrum
+            psalmum habet doctrinam habet apocalypsin habet linguam habet interpretationem habet
+            omnia ad aedificationem fiant</p>
+          <p xml:id="Icor14_27" n="27">sive lingua quis loquitur secundum duos aut ut multum tres et
+            per partes et unus interpretetur</p>
+          <p xml:id="Icor14_28" n="28">si autem non fuerit interpres taceat in ecclesia sibi autem
+            loquatur et Deo</p>
+          <p xml:id="Icor14_29" n="29">prophetae duo aut tres dicant et ceteri diiudicent</p>
+          <p xml:id="Icor14_30" n="30">quod si alii revelatum fuerit sedenti prior taceat</p>
+          <p xml:id="Icor14_31" n="31">potestis enim omnes per singulos prophetare ut omnes discant
+            et omnes exhortentur</p>
+          <p xml:id="Icor14_32" n="32">et spiritus prophetarum prophetis subiecti sunt</p>
+          <p xml:id="Icor14_33" n="33">non enim est dissensionis Deus sed pacis sicut in omnibus
+            ecclesiis sanctorum</p>
+          <p xml:id="Icor14_34" n="34">mulieres in ecclesiis taceant non enim permittitur eis loqui
+            sed subditas esse sicut et lex dicit</p>
+          <p xml:id="Icor14_35" n="35">si quid autem volunt discere domi viros suos interrogent
+            turpe est enim mulieri loqui in ecclesia</p>
+          <p xml:id="Icor14_36" n="36">an a vobis verbum Dei processit aut in vos solos pervenit</p>
+          <p xml:id="Icor14_37" n="37">si quis videtur propheta esse aut spiritalis cognoscat quae
+            scribo vobis quia Domini sunt mandata</p>
+          <p xml:id="Icor14_38" n="38">si quis autem ignorat ignorabitur</p>
+          <p xml:id="Icor14_39" n="39">itaque fratres aemulamini prophetare et loqui linguis nolite
+            prohibere</p>
+          <p xml:id="Icor14_40" n="40">omnia autem honeste et secundum ordinem fiant</p>
+        </div>
+        <div xml:id="bible-Icor15" n="15">
+          <head>Caput 15</head>
+          <p xml:id="Icor15_1" n="1">notum autem vobis facio fratres evangelium quod praedicavi
+            vobis quod et accepistis in quo et statis</p>
+          <p xml:id="Icor15_2" n="2">per quod et salvamini qua ratione praedicaverim vobis si
+            tenetis nisi si frustra credidistis</p>
+          <p xml:id="Icor15_3" n="3">tradidi enim vobis in primis quod et accepi quoniam Christus
+            mortuus est pro peccatis nostris secundum scripturas</p>
+          <p xml:id="Icor15_4" n="4">et quia sepultus est et quia resurrexit tertia die secundum
+            scripturas</p>
+          <p xml:id="Icor15_5" n="5">et quia visus est Cephae et post haec undecim</p>
+          <p xml:id="Icor15_6" n="6">deinde visus est plus quam quingentis fratribus simul ex quibus
+            multi manent usque adhuc quidam autem dormierunt</p>
+          <p xml:id="Icor15_7" n="7">deinde visus est Iacobo deinde apostolis omnibus</p>
+          <p xml:id="Icor15_8" n="8">novissime autem omnium tamquam abortivo visus est et mihi</p>
+          <p xml:id="Icor15_9" n="9">ego enim sum minimus apostolorum qui non sum dignus vocari
+            apostolus quoniam persecutus sum ecclesiam Dei</p>
+          <p xml:id="Icor15_10" n="10">gratia autem Dei sum id quod sum et gratia eius in me vacua
+            non fuit sed abundantius illis omnibus laboravi non ego autem sed gratia Dei mecum</p>
+          <p xml:id="Icor15_11" n="11">sive enim ego sive illi sic praedicamus et sic
+            credidistis</p>
+          <p xml:id="Icor15_12" n="12">si autem Christus praedicatur quod resurrexit a mortuis
+            quomodo quidam dicunt in vobis quoniam resurrectio mortuorum non est</p>
+          <p xml:id="Icor15_13" n="13">si autem resurrectio mortuorum non est neque Christus
+            resurrexit</p>
+          <p xml:id="Icor15_14" n="14">si autem Christus non resurrexit inanis est ergo praedicatio
+            nostra inanis est et fides vestra</p>
+          <p xml:id="Icor15_15" n="15">invenimur autem et falsi testes Dei quoniam testimonium
+            diximus adversus Deum quod suscitaverit Christum quem non suscitavit si mortui non
+            resurgunt</p>
+          <p xml:id="Icor15_16" n="16">nam si mortui non resurgunt neque Christus resurrexit</p>
+          <p xml:id="Icor15_17" n="17">quod si Christus non resurrexit vana est fides vestra adhuc
+            enim estis in peccatis vestris</p>
+          <p xml:id="Icor15_18" n="18">ergo et qui dormierunt in Christo perierunt</p>
+          <p xml:id="Icor15_19" n="19">si in hac vita tantum in Christo sperantes sumus
+            miserabiliores sumus omnibus hominibus</p>
+          <p xml:id="Icor15_20" n="20">nunc autem Christus resurrexit a mortuis primitiae
+            dormientium</p>
+          <p xml:id="Icor15_21" n="21">quoniam enim per hominem mors et per hominem resurrectio
+            mortuorum</p>
+          <p xml:id="Icor15_22" n="22">et sicut in Adam omnes moriuntur ita et in Christo omnes
+            vivificabuntur</p>
+          <p xml:id="Icor15_23" n="23">unusquisque autem in suo ordine primitiae Christus deinde hii
+            qui sunt Christi in adventu eius</p>
+          <p xml:id="Icor15_24" n="24">deinde finis cum tradiderit regnum Deo et Patri cum
+            evacuaverit omnem principatum et potestatem et virtutem</p>
+          <p xml:id="Icor15_25" n="25">oportet autem illum regnare donec ponat omnes inimicos sub
+            pedibus eius</p>
+          <p xml:id="Icor15_26" n="26">novissima autem inimica destruetur mors omnia enim subiecit
+            sub pedibus eius cum autem dicat</p>
+          <p xml:id="Icor15_27" n="27">omnia subiecta sunt sine dubio praeter eum qui subiecit ei
+            omnia</p>
+          <p xml:id="Icor15_28" n="28">cum autem subiecta fuerint illi omnia tunc ipse Filius
+            subiectus erit illi qui sibi subiecit omnia ut sit Deus omnia in omnibus</p>
+          <p xml:id="Icor15_29" n="29">alioquin quid facient qui baptizantur pro mortuis si omnino
+            mortui non resurgunt ut quid et baptizantur pro illis</p>
+          <p xml:id="Icor15_30" n="30">ut quid et nos periclitamur omni hora</p>
+          <p xml:id="Icor15_31" n="31">cotidie morior per vestram gloriam fratres quam habeo in
+            Christo Iesu Domino nostro</p>
+          <p xml:id="Icor15_32" n="32">si secundum hominem ad bestias pugnavi Ephesi quid mihi
+            prodest si mortui non resurgunt manducemus et bibamus cras enim moriemur</p>
+          <p xml:id="Icor15_33" n="33">nolite seduci corrumpunt mores bonos conloquia mala</p>
+          <p xml:id="Icor15_34" n="34">evigilate iuste et nolite peccare ignorantiam enim Dei quidam
+            habent ad reverentiam vobis loquor</p>
+          <p xml:id="Icor15_35" n="35">sed dicet aliquis quomodo resurgunt mortui quali autem
+            corpore veniunt</p>
+          <p xml:id="Icor15_36" n="36">insipiens tu quod seminas non vivificatur nisi prius
+            moriatur</p>
+          <p xml:id="Icor15_37" n="37">et quod seminas non corpus quod futurum est seminas sed nudum
+            granum ut puta tritici aut alicuius ceterorum</p>
+          <p xml:id="Icor15_38" n="38">Deus autem dat illi corpus sicut voluit et unicuique seminum
+            proprium corpus</p>
+          <p xml:id="Icor15_39" n="39">non omnis caro eadem caro sed alia hominum alia pecorum alia
+            caro volucrum alia autem piscium</p>
+          <p xml:id="Icor15_40" n="40">et corpora caelestia et corpora terrestria sed alia quidem
+            caelestium gloria alia autem terrestrium</p>
+          <p xml:id="Icor15_41" n="41">alia claritas solis alia claritas lunae et alia claritas
+            stellarum stella enim ab stella differt in claritate</p>
+          <p xml:id="Icor15_42" n="42">sic et resurrectio mortuorum seminatur in corruptione surgit
+            in incorruptione</p>
+          <p xml:id="Icor15_43" n="43">seminatur in ignobilitate surgit in gloria seminatur in
+            infirmitate surgit in virtute</p>
+          <p xml:id="Icor15_44" n="44">seminatur corpus animale surgit corpus spiritale si est
+            corpus animale est et spiritale sic et scriptum est</p>
+          <p xml:id="Icor15_45" n="45">factus est primus homo Adam in animam viventem novissimus
+            Adam in spiritum vivificantem</p>
+          <p xml:id="Icor15_46" n="46">sed non prius quod spiritale est sed quod animale est deinde
+            quod spiritale</p>
+          <p xml:id="Icor15_47" n="47">primus homo de terra terrenus secundus homo de caelo
+            caelestis</p>
+          <p xml:id="Icor15_48" n="48">qualis terrenus tales et terreni et qualis caelestis tales et
+            caelestes</p>
+          <p xml:id="Icor15_49" n="49">igitur sicut portavimus imaginem terreni portemus et imaginem
+            caelestis</p>
+          <p xml:id="Icor15_50" n="50">hoc autem dico fratres quoniam caro et sanguis regnum Dei
+            possidere non possunt neque corruptio incorruptelam possidebit</p>
+          <p xml:id="Icor15_51" n="51">ecce mysterium vobis dico omnes quidem resurgemus sed non
+            omnes inmutabimur</p>
+          <p xml:id="Icor15_52" n="52">in momento in ictu oculi in novissima tuba canet enim et
+            mortui resurgent incorrupti et nos inmutabimur</p>
+          <p xml:id="Icor15_53" n="53">oportet enim corruptibile hoc induere incorruptelam et
+            mortale hoc induere inmortalitatem</p>
+          <p xml:id="Icor15_54" n="54">cum autem mortale hoc induerit inmortalitatem tunc fiet sermo
+            qui scriptus est absorta est mors in victoria</p>
+          <p xml:id="Icor15_55" n="55">ubi est mors victoria tua ubi est mors stimulus tuus</p>
+          <p xml:id="Icor15_56" n="56">stimulus autem mortis peccatum est virtus vero peccati
+            lex</p>
+          <p xml:id="Icor15_57" n="57">Deo autem gratias qui dedit nobis victoriam per Dominum
+            nostrum Iesum Christum</p>
+          <p xml:id="Icor15_58" n="58">itaque fratres mei dilecti stabiles estote et inmobiles
+            abundantes in opere Domini semper scientes quod labor vester non est inanis in
+            Domino</p>
+        </div>
+        <div xml:id="bible-Icor16" n="16">
+          <head>Caput 16</head>
+          <p xml:id="Icor16_1" n="1">de collectis autem quae fiunt in sanctos sicut ordinavi
+            ecclesiis Galatiae ita et vos facite</p>
+          <p xml:id="Icor16_2" n="2">per unam sabbati unusquisque vestrum apud se ponat recondens
+            quod ei beneplacuerit ut non cum venero tunc collectae fiant</p>
+          <p xml:id="Icor16_3" n="3">cum autem praesens fuero quos probaveritis per epistulas hos
+            mittam perferre gratiam vestram in Hierusalem</p>
+          <p xml:id="Icor16_4" n="4">quod si dignum fuerit ut et ego eam mecum ibunt</p>
+          <p xml:id="Icor16_5" n="5">veniam autem ad vos cum Macedoniam pertransiero nam Macedoniam
+            pertransibo</p>
+          <p xml:id="Icor16_6" n="6">apud vos autem forsitan manebo vel etiam hiemabo ut vos me
+            deducatis quocumque iero</p>
+          <p xml:id="Icor16_7" n="7">nolo enim vos modo in transitu videre spero enim me aliquantum
+            temporis manere apud vos si Dominus permiserit</p>
+          <p xml:id="Icor16_8" n="8">permanebo autem Ephesi usque ad pentecosten</p>
+          <p xml:id="Icor16_9" n="9">ostium enim mihi apertum est magnum et evidens et adversarii
+            multi</p>
+          <p xml:id="Icor16_10" n="10">si autem venerit Timotheus videte ut sine timore sit apud vos
+            opus enim Domini operatur sicut et ego</p>
+          <p xml:id="Icor16_11" n="11">ne quis ergo illum spernat deducite autem illum in pace ut
+            veniat ad me expecto enim illum cum fratribus</p>
+          <p xml:id="Icor16_12" n="12">de Apollo autem fratre multum rogavi eum ut veniret ad vos
+            cum fratribus et utique non fuit voluntas ut nunc veniret veniet autem cum ei vacuum
+            fuerit</p>
+          <p xml:id="Icor16_13" n="13">vigilate state in fide viriliter agite et confortamini</p>
+          <p xml:id="Icor16_14" n="14">omnia vestra in caritate fiant</p>
+          <p xml:id="Icor16_15" n="15">obsecro autem vos fratres nostis domum Stephanae et Fortunati
+            quoniam sunt primitiae Achaiae et in ministerium sanctorum ordinaverunt se ipsos</p>
+          <p xml:id="Icor16_16" n="16">ut et vos subditi sitis eiusmodi et omni cooperanti et
+            laboranti</p>
+          <p xml:id="Icor16_17" n="17">gaudeo autem in praesentia Stephanae et Fortunati et Achaici
+            quoniam id quod vobis deerat ipsi suppleverunt</p>
+          <p xml:id="Icor16_18" n="18">refecerunt enim et meum spiritum et vestrum cognoscite ergo
+            qui eiusmodi sunt</p>
+          <p xml:id="Icor16_19" n="19">salutant vos ecclesiae Asiae salutant vos in Domino multum
+            Aquila et Prisca cum domestica sua ecclesia</p>
+          <p xml:id="Icor16_20" n="20">salutant vos fratres omnes salutate invicem in osculo
+            sancto</p>
+          <p xml:id="Icor16_21" n="21">salutatio mea manu Pauli</p>
+          <p xml:id="Icor16_22" n="22">si quis non amat Dominum Iesum Christum sit anathema
+            maranatha</p>
+          <p xml:id="Icor16_23" n="23">gratia Domini Iesu vobiscum</p>
+          <p xml:id="Icor16_24" n="24">caritas mea cum omnibus vobis in Christo Iesu amen</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

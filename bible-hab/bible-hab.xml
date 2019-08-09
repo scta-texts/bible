@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Habakuk</title>
+        <author/>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"><date when="2011-10-04">October 04, 2011</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
+              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl>
+          <bibl>Biblia Sacra Vulgata - The Free Bible Group</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2011-10-04" status="draft" n="0.0.0"><p>File Started for the first
+          time.</p></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="bible-hab">
+        <div xml:id="bible-hab1" n="1">
+          <head>Caput 1</head>
+          <p xml:id="hab1_1" n="1">onus quod vidit Abacuc propheta</p>
+          <p xml:id="hab1_2" n="2">usquequo Domine clamabo et non exaudies vociferabor ad te vim
+            patiens et non salvabis</p>
+          <p xml:id="hab1_3" n="3">quare ostendisti mihi iniquitatem et laborem videre praeda et
+            iniustitia contra me et factum est iudicium et contradictio potentior</p>
+          <p xml:id="hab1_4" n="4">propter hoc lacerata est lex et non pervenit usque ad finem
+            iudicium quia impius praevalet adversus iustum propterea egreditur iudicium
+            perversum</p>
+          <p xml:id="hab1_5" n="5">aspicite in gentibus et videte et admiramini et obstupescite quia
+            opus factum est in diebus vestris quod nemo credet cum narrabitur</p>
+          <p xml:id="hab1_6" n="6">quia ecce ego suscitabo Chaldeos gentem amaram et velocem
+            ambulantem super latitudinem terrae ut possideat tabernacula non sua</p>
+          <p xml:id="hab1_7" n="7">horribilis et terribilis est ex semet ipsa iudicium et onus eius
+            egredietur</p>
+          <p xml:id="hab1_8" n="8">leviores pardis equi eius et velociores lupis vespertinis et
+            diffundentur equites eius equites namque eius de longe venient volabunt quasi aquila
+            festinans ad comedendum</p>
+          <p xml:id="hab1_9" n="9">omnes ad praedam venient facies eorum ventus urens et congregabit
+            quasi harenam captivitatem</p>
+          <p xml:id="hab1_10" n="10">et ipse de regibus triumphabit et tyranni ridiculi eius erunt
+            ipse super omnem munitionem ridebit et conportabit aggerem et capiet eam</p>
+          <p xml:id="hab1_11" n="11">tunc mutabitur spiritus et pertransibit et corruet haec est
+            fortitudo eius dei sui</p>
+          <p xml:id="hab1_12" n="12">numquid non tu a principio Domine Deus meus Sancte meus et non
+            moriemur Domine in iudicium posuisti eum et fortem ut corriperes fundasti eum</p>
+          <p xml:id="hab1_13" n="13">mundi sunt oculi tui ne videas malum et respicere ad
+            iniquitatem non poteris quare non respicis super inique agentes et taces devorante impio
+            iustiorem se</p>
+          <p xml:id="hab1_14" n="14">et facies homines quasi pisces maris et quasi reptile non
+            habens principem</p>
+          <p xml:id="hab1_15" n="15">totum in hamo sublevavit traxit illud in sagena sua et
+            congregavit in rete suo super hoc laetabitur et exultabit</p>
+          <p xml:id="hab1_16" n="16">propterea immolabit sagenae suae et sacrificabit reti suo quia
+            in ipsis incrassata est pars eius et cibus eius electus</p>
+          <p xml:id="hab1_17" n="17">propter hoc ergo expandit sagenam suam et semper interficere
+            gentes non parcet</p>
+        </div>
+        <div xml:id="bible-hab2" n="2">
+          <head>Caput 2</head>
+          <p xml:id="hab2_1" n="1">super custodiam meam stabo et figam gradum super munitionem et
+            contemplabor ut videam quid dicatur mihi et quid respondeam ad arguentem me</p>
+          <p xml:id="hab2_2" n="2">et respondit mihi Dominus et dixit scribe visum et explana eum
+            super tabulas ut percurrat qui legerit eum</p>
+          <p xml:id="hab2_3" n="3">quia adhuc visus procul et apparebit in finem et non mentietur si
+            moram fecerit expecta illum quia veniens veniet et non tardabit</p>
+          <p xml:id="hab2_4" n="4">ecce qui incredulus est non erit recta anima eius in semet ipso
+            iustus autem in fide sua vivet</p>
+          <p xml:id="hab2_5" n="5">et quomodo vinum potantem decipit sic erit vir superbus et non
+            decorabitur qui dilatavit quasi infernus animam suam et ipse quasi mors et non
+            adimpletur et congregabit ad se omnes gentes et coacervabit ad se omnes populos</p>
+          <p xml:id="hab2_6" n="6">numquid non omnes isti super eum parabolam sument et loquellam
+            enigmatum eius et dicetur vae ei qui multiplicat non sua usquequo et adgravat contra se
+            densum lutum</p>
+          <p xml:id="hab2_7" n="7">numquid non repente consurgent qui mordeant te et suscitabuntur
+            lacerantes te et eris in rapinam eis</p>
+          <p xml:id="hab2_8" n="8">quia tu spoliasti gentes multas spoliabunt te omnes qui reliqui
+            fuerint de populis propter sanguinem hominis et iniquitatem terrae civitatis et omnium
+            habitantium in ea</p>
+          <p xml:id="hab2_9" n="9">vae qui congregat avaritiam malam domui suae ut sit in excelso
+            nidus eius et liberari se putat de manu mali</p>
+          <p xml:id="hab2_10" n="10">cogitasti confusionem domui tuae concidisti populos multos et
+            peccavit anima tua</p>
+          <p xml:id="hab2_11" n="11">quia lapis de pariete clamabit et lignum quod inter iuncturas
+            aedificiorum est respondebit</p>
+          <p xml:id="hab2_12" n="12">vae qui aedificat civitatem in sanguinibus et praeparat urbem
+            in iniquitate</p>
+          <p xml:id="hab2_13" n="13">numquid non haec a Domino sunt exercituum laborabunt enim
+            populi in multo igni et gentes in vacuum et deficient</p>
+          <p xml:id="hab2_14" n="14">quia replebitur terra ut cognoscat gloriam Domini quasi aquae
+            operientes mare</p>
+          <p xml:id="hab2_15" n="15">vae qui potum dat amico suo mittens fel suum et inebrians ut
+            aspiciat nuditatem eius</p>
+          <p xml:id="hab2_16" n="16">repletus est ignominia pro gloria bibe tu quoque et consopire
+            circumdabit te calix dexterae Domini et vomitus ignominiae super gloriam tuam</p>
+          <p xml:id="hab2_17" n="17">quia iniquitas Libani operiet te et vastitas animalium
+            deterrebit eos de sanguinibus hominis et iniquitate terrae et civitatis et omnium
+            habitantium in ea</p>
+          <p xml:id="hab2_18" n="18">quid prodest sculptile quia sculpsit illud fictor suus
+            conflatile et imaginem falsam quia speravit in figmento fictor eius ut faceret simulacra
+            muta</p>
+          <p xml:id="hab2_19" n="19">vae qui dicit ligno expergiscere surge lapidi tacenti numquid
+            ipse docere poterit ecce iste coopertus est auro et argento et omnis spiritus non est in
+            visceribus eius</p>
+          <p xml:id="hab2_20" n="20">Dominus autem in templo sancto suo sileat a facie eius omnis
+            terra</p>
+        </div>
+        <div xml:id="bible-hab3" n="3">
+          <head>Caput 3</head>
+          <p xml:id="hab3_1" n="1">oratio Abacuc prophetae pro ignorationibus</p>
+          <p xml:id="hab3_2" n="2">Domine audivi auditionem tuam et timui Domine opus tuum in medio
+            annorum vivifica illud in medio annorum notum facies cum iratus fueris misericordiae
+            recordaberis</p>
+          <p xml:id="hab3_3" n="3">Deus ab austro veniet et Sanctus de monte Pharan semper operuit
+            caelos gloria eius et laudis eius plena est terra</p>
+          <p xml:id="hab3_4" n="4">splendor eius ut lux erit cornua in manibus eius ibi abscondita
+            est fortitudo eius</p>
+          <p xml:id="hab3_5" n="5">ante faciem eius ibit mors et egredietur diabolus ante pedes
+            eius</p>
+          <p xml:id="hab3_6" n="6">stetit et mensus est terram aspexit et dissolvit gentes et
+            contriti sunt montes saeculi incurvati sunt colles mundi ab itineribus aeternitatis
+            eius</p>
+          <p xml:id="hab3_7" n="7">pro iniquitate vidi tentoria Aethiopiae turbabuntur pelles terrae
+            Madian</p>
+          <p xml:id="hab3_8" n="8">numquid in fluminibus iratus es Domine aut in fluminibus furor
+            tuus vel in mari indignatio tua quia ascendes super equos tuos et quadrigae tuae
+            salvatio</p>
+          <p xml:id="hab3_9" n="9">suscitans suscitabis arcum tuum iuramenta tribubus quae locutus
+            es semper fluvios scindes terrae</p>
+          <p xml:id="hab3_10" n="10">viderunt te et doluerunt montes gurges aquarum transiit dedit
+            abyssus vocem suam altitudo manus suas levavit</p>
+          <p xml:id="hab3_11" n="11">sol et luna steterunt in habitaculo suo in luce sagittarum
+            tuarum ibunt in splendore fulgurantis hastae tuae</p>
+          <p xml:id="hab3_12" n="12">in fremitu conculcabis terram in furore obstupefacies
+            gentes</p>
+          <p xml:id="hab3_13" n="13">egressus es in salutem populi tui in salutem cum christo tuo
+            percussisti caput de domo impii denudasti fundamentum usque ad collum semper</p>
+          <p xml:id="hab3_14" n="14">maledixisti sceptris eius capiti bellatorum eius venientibus ut
+            turbo ad dispergendum me exultatio eorum sicut eius qui devorat pauperem in
+            abscondito</p>
+          <p xml:id="hab3_15" n="15">viam fecisti in mari equis tuis in luto aquarum multarum</p>
+          <p xml:id="hab3_16" n="16">audivi et conturbatus est venter meus ad vocem contremuerunt
+            labia mea ingrediatur putredo in ossibus meis et subter me scateat ut requiescam in die
+            tribulationis ut ascendam ad populum accinctum nostrum</p>
+          <p xml:id="hab3_17" n="17">ficus enim non florebit et non erit germen in vineis mentietur
+            opus olivae et arva non adferent cibum abscidetur de ovili pecus et non erit armentum in
+            praesepibus</p>
+          <p xml:id="hab3_18" n="18">ego autem in Domino gaudebo exultabo in Deo Iesu meo</p>
+          <p xml:id="hab3_19" n="19">Dominus Deus fortitudo mea et ponet pedes meos quasi cervorum
+            et super excelsa mea deducet me victori in psalmis canentem</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

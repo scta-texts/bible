@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Joel</title>
+        <author/>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"><date when="2011-10-04">October 04, 2011</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
+              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl>
+          <bibl>Biblia Sacra Vulgata - The Free Bible Group</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2011-10-04" status="draft" n="0.0.0"><p>File Started for the first
+          time.</p></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="bible-ioel">
+        <div xml:id="bible-ioel1" n="1">
+          <head>Caput 1</head>
+          <p xml:id="ioel1_1" n="1">verbum Domini quod factum est ad Iohel filium Fatuhel</p>
+          <p xml:id="ioel1_2" n="2">audite hoc senes et auribus percipite omnes habitatores terrae
+            si factum est istud in diebus vestris aut in diebus patrum vestrorum</p>
+          <p xml:id="ioel1_3" n="3">super hoc filiis vestris narrate et filii vestri filiis suis et
+            filii eorum generationi alterae</p>
+          <p xml:id="ioel1_4" n="4">residuum erucae comedit lucusta et residuum lucustae comedit
+            bruchus et residuum bruchi comedit rubigo</p>
+          <p xml:id="ioel1_5" n="5">expergescimini ebrii et flete et ululate omnes qui bibitis vinum
+            in dulcedine quoniam periit ab ore vestro</p>
+          <p xml:id="ioel1_6" n="6">gens enim ascendit super terram meam fortis et innumerabilis
+            dentes eius ut dentes leonis et molares eius ut catuli leonis</p>
+          <p xml:id="ioel1_7" n="7">posuit vineam meam in desertum et ficum meam decorticavit nudans
+            spoliavit eam et proiecit albi facti sunt rami eius</p>
+          <p xml:id="ioel1_8" n="8">plange quasi virgo accincta sacco super virum pubertatis
+            suae</p>
+          <p xml:id="ioel1_9" n="9">periit sacrificium et libatio de domo Domini luxerunt sacerdotes
+            ministri Domini</p>
+          <p xml:id="ioel1_10" n="10">depopulata est regio luxit humus quoniam devastatum est
+            triticum confusum est vinum elanguit oleum</p>
+          <p xml:id="ioel1_11" n="11">confusi sunt agricolae ululaverunt vinitores super frumento et
+            hordeo quia periit messis agri</p>
+          <p xml:id="ioel1_12" n="12">vinea confusa est et ficus elanguit malogranatum et palma et
+            malum et omnia ligna agri aruerunt quia confusum est gaudium a filiis hominum</p>
+          <p xml:id="ioel1_13" n="13">accingite vos et plangite sacerdotes ululate ministri altaris
+            ingredimini cubate in sacco ministri Dei mei quoniam interiit de domo Dei vestri
+            sacrificium et libatio</p>
+          <p xml:id="ioel1_14" n="14">sanctificate ieiunium vocate coetum congregate senes omnes
+            habitatores terrae in domum Dei vestri et clamate ad Dominum</p>
+          <p xml:id="ioel1_15" n="15">a a a diei quia prope est dies Domini et quasi vastitas a
+            potente veniet</p>
+          <p xml:id="ioel1_16" n="16">numquid non coram oculis vestris alimenta perierunt de domo
+            Dei nostri laetitia et exultatio</p>
+          <p xml:id="ioel1_17" n="17">conputruerunt iumenta in stercore suo demolita sunt horrea
+            dissipatae sunt apothecae quoniam confusum est triticum</p>
+          <p xml:id="ioel1_18" n="18">quid ingemuit animal mugierunt greges armenti quia non est
+            pascua eis sed et greges pecorum disperierunt</p>
+          <p xml:id="ioel1_19" n="19">ad te Domine clamabo quia ignis comedit speciosa deserti et
+            flamma succendit omnia ligna regionis</p>
+          <p xml:id="ioel1_20" n="20">sed et bestiae agri quasi area sitiens imbrem suspexerunt ad
+            te quoniam exsiccati sunt fontes aquarum et ignis devoravit speciosa deserti</p>
+        </div>
+        <div xml:id="bible-ioel2" n="2">
+          <head>Caput 2</head>
+          <p xml:id="ioel2_1" n="1">canite tuba in Sion ululate in monte sancto meo conturbentur
+            omnes habitatores terrae quia venit dies Domini quia prope est</p>
+          <p xml:id="ioel2_2" n="2">dies tenebrarum et caliginis dies nubis et turbinis quasi mane
+            expansum super montes populus multus et fortis similis ei non fuit a principio et post
+            eum non erit usque in annos generationis et generationis</p>
+          <p xml:id="ioel2_3" n="3">ante faciem eius ignis vorans et post eum exurens flamma quasi
+            hortus voluptatis terra coram eo et post eum solitudo deserti neque est qui effugiat
+            eum</p>
+          <p xml:id="ioel2_4" n="4">quasi aspectus equorum aspectus eorum et quasi equites sic
+            current</p>
+          <p xml:id="ioel2_5" n="5">sicut sonitus quadrigarum super capita montium exilient sicut
+            sonitus flammae ignis devorantis stipulam velut populus fortis praeparatus ad
+            proelium</p>
+          <p xml:id="ioel2_6" n="6">a facie eius cruciabuntur populi omnes vultus redigentur in
+            ollam</p>
+          <p xml:id="ioel2_7" n="7">sicut fortes current quasi viri bellatores ascendent murum vir
+            in viis suis gradietur et non declinabunt a semitis suis</p>
+          <p xml:id="ioel2_8" n="8">unusquisque fratrem suum non coartabit singuli in calle suo
+            ambulabunt sed et per fenestras cadent et non demolientur</p>
+          <p xml:id="ioel2_9" n="9">urbem ingredientur in muro current domos conscendent per
+            fenestras intrabunt quasi fur</p>
+          <p xml:id="ioel2_10" n="10">a facie eius contremuit terra moti sunt caeli sol et luna
+            obtenebrati sunt et stellae retraxerunt splendorem suum</p>
+          <p xml:id="ioel2_11" n="11">et Dominus dedit vocem suam ante faciem exercitus sui quia
+            multa sunt nimis castra eius quia fortia et facientia verbum eius magnus enim dies
+            Domini et terribilis valde et quis sustinebit eum</p>
+          <p xml:id="ioel2_12" n="12">nunc ergo dicit Dominus convertimini ad me in toto corde
+            vestro in ieiunio et in fletu et in planctu</p>
+          <p xml:id="ioel2_13" n="13">et scindite corda vestra et non vestimenta vestra et
+            convertimini ad Dominum Deum vestrum quia benignus et misericors est patiens et multae
+            misericordiae et praestabilis super malitia</p>
+          <p xml:id="ioel2_14" n="14">quis scit si convertatur et ignoscat et relinquat post se
+            benedictionem sacrificium et libamen Domino Deo nostro</p>
+          <p xml:id="ioel2_15" n="15">canite tuba in Sion sanctificate ieiunium vocate coetum</p>
+          <p xml:id="ioel2_16" n="16">congregate populum sanctificate ecclesiam coadunate senes
+            congregate parvulos et sugentes ubera egrediatur sponsus de cubili suo et sponsa de
+            thalamo suo</p>
+          <p xml:id="ioel2_17" n="17">inter vestibulum et altare plorabunt sacerdotes ministri
+            Domini et dicent parce Domine populo tuo et ne des hereditatem tuam in obprobrium ut
+            dominentur eis nationes quare dicunt in populis ubi est Deus eorum</p>
+          <p xml:id="ioel2_18" n="18">zelatus est Dominus terram suam et pepercit populo suo</p>
+          <p xml:id="ioel2_19" n="19">et respondit Dominus et dixit populo suo ecce ego mittam vobis
+            frumentum et vinum et oleum et replebimini eo et non dabo vos ultra obprobrium in
+            gentibus</p>
+          <p xml:id="ioel2_20" n="20">et eum qui ab aquilone est procul faciam a vobis et expellam
+            eum in terram inviam et desertam faciem eius contra mare orientale et extremum eius ad
+            mare novissimum et ascendet fetor eius et ascendet putredo eius quia superbe egit</p>
+          <p xml:id="ioel2_21" n="21">noli timere terra exulta et laetare quoniam magnificavit
+            Dominus ut faceret</p>
+          <p xml:id="ioel2_22" n="22">nolite timere animalia regionis quia germinaverunt speciosa
+            deserti quia lignum adtulit fructum suum ficus et vinea dederunt virtutem suam</p>
+          <p xml:id="ioel2_23" n="23">et filii Sion exultate et laetamini in Domino Deo vestro quia
+            dedit vobis doctorem iustitiae et descendere faciet ad vos imbrem matutinum et serotinum
+            in principio</p>
+          <p xml:id="ioel2_24" n="24">et implebuntur areae frumento et redundabunt torcularia vino
+            et oleo</p>
+          <p xml:id="ioel2_25" n="25">et reddam vobis annos quos comedit lucusta bruchus et rubigo
+            et eruca fortitudo mea magna quam misi in vos</p>
+          <p xml:id="ioel2_26" n="26">et comedetis vescentes et saturabimini et laudabitis nomen
+            Domini Dei vestri qui fecit vobiscum mirabilia et non confundetur populus meus in
+            sempiternum</p>
+          <p xml:id="ioel2_27" n="27">et scietis quia in medio Israhel ego sum et ego Dominus Deus
+            vester et non est amplius et non confundetur populus meus in aeternum</p>
+          <p xml:id="ioel2_28" n="28">et erit post haec effundam spiritum meum super omnem carnem et
+            prophetabunt filii vestri et filiae vestrae senes vestri somnia somniabunt et iuvenes
+            vestri visiones videbunt</p>
+          <p xml:id="ioel2_29" n="29">sed et super servos et ancillas in diebus illis effundam
+            spiritum meum</p>
+          <p xml:id="ioel2_30" n="30">et dabo prodigia in caelo et in terra sanguinem et ignem et
+            vaporem fumi</p>
+          <p xml:id="ioel2_31" n="31">sol vertetur in tenebras et luna in sanguinem antequam veniat
+            dies Domini magnus et horribilis</p>
+          <p xml:id="ioel2_32" n="32">et erit omnis qui invocaverit nomen Domini salvus erit quia in
+            monte Sion et in Hierusalem erit salvatio sicut dixit Dominus et in residuis quos
+            Dominus vocaverit</p>
+        </div>
+        <div xml:id="bible-ioel3" n="3">
+          <head>Caput 3</head>
+          <p xml:id="ioel3_1" n="1">quia ecce in diebus illis et in tempore illo cum convertero
+            captivitatem Iuda et Hierusalem</p>
+          <p xml:id="ioel3_2" n="2">congregabo omnes gentes et deducam eas in valle Iosaphat et
+            disceptabo cum eis ibi super populo meo et hereditate mea Israhel quos disperserunt in
+            nationibus et terram meam diviserunt</p>
+          <p xml:id="ioel3_3" n="3">et super populum meum miserunt sortem et posuerunt puerum in
+            prostibulum et puellam vendiderunt pro vino ut biberent</p>
+          <p xml:id="ioel3_4" n="4">verum quid vobis et mihi Tyrus et Sidon et omnis terminus
+            Palestinorum numquid ultionem vos redditis mihi et si ulciscimini vos contra me cito
+            velociter reddam vicissitudinem vobis super caput vestrum</p>
+          <p xml:id="ioel3_5" n="5">argentum enim meum et aurum tulistis et desiderabilia mea et
+            pulcherrima intulistis in delubra vestra</p>
+          <p xml:id="ioel3_6" n="6">et filios Iuda et filios Hierusalem vendidistis filiis Graecorum
+            ut longe faceretis eos de finibus suis</p>
+          <p xml:id="ioel3_7" n="7">ecce ego suscitabo eos de loco in quo vendidistis eos et
+            convertam retributionem vestram in caput vestrum</p>
+          <p xml:id="ioel3_8" n="8">et vendam filios vestros et filias vestras in manibus filiorum
+            Iuda et venundabunt eos Sabeis genti longinquae quia Dominus locutus est</p>
+          <p xml:id="ioel3_9" n="9">clamate hoc in gentibus sanctificate bellum suscitate robustos
+            accedant ascendant omnes viri bellatores</p>
+          <p xml:id="ioel3_10" n="10">concidite aratra vestra in gladios et ligones vestros in
+            lanceas infirmus dicat quia fortis ego sum</p>
+          <p xml:id="ioel3_11" n="11">erumpite et venite omnes gentes de circuitu et congregamini
+            ibi occumbere faciet Dominus robustos tuos</p>
+          <p xml:id="ioel3_12" n="12">consurgant et ascendant gentes in vallem Iosaphat quia ibi
+            sedebo ut iudicem omnes gentes in circuitu</p>
+          <p xml:id="ioel3_13" n="13">mittite falces quoniam maturavit messis venite et descendite
+            quia plenum est torcular exuberant torcularia quia multiplicata est malitia eorum</p>
+          <p xml:id="ioel3_14" n="14">populi populi in valle concisionis quia iuxta est dies Domini
+            in valle concisionis</p>
+          <p xml:id="ioel3_15" n="15">sol et luna obtenebricata sunt et stellae retraxerunt
+            splendorem suum</p>
+          <p xml:id="ioel3_16" n="16">et Dominus de Sion rugiet et de Hierusalem dabit vocem suam et
+            movebuntur caeli et terra et Dominus spes populi sui et fortitudo filiorum Israhel</p>
+          <p xml:id="ioel3_17" n="17">et scietis quia ego Dominus Deus vester habitans in Sion in
+            monte sancto meo et erit Hierusalem sancta et alieni non transibunt per eam amplius</p>
+          <p xml:id="ioel3_18" n="18">et erit in die illa stillabunt montes dulcedinem et colles
+            fluent lacte et per omnes rivos Iuda ibunt aquae et fons de domo Domini egredietur et
+            inrigabit torrentem Spinarum</p>
+          <p xml:id="ioel3_19" n="19">Aegyptus in desolatione erit et Idumea in desertum perditionis
+            pro eo quod inique egerint in filios Iuda et effuderint sanguinem innocentem in terra
+            sua</p>
+          <p xml:id="ioel3_20" n="20">et Iudaea in aeternum habitabitur et Hierusalem in generatione
+            et generationem</p>
+          <p xml:id="ioel3_21" n="21">et mundabo sanguinem eorum quem non mundaveram et Dominus
+            commorabitur in Sion</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Haggai</title>
+        <author/>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"><date when="2011-10-04">October 04, 2011</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
+              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl>
+          <bibl>Biblia Sacra Vulgata - The Free Bible Group</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2011-10-04" status="draft" n="0.0.0"><p>File Started for the first
+          time.</p></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="bible-ag">
+        <div xml:id="bible-ag1" n="1">
+          <head>Caput 1</head>
+          <p xml:id="ag1_1" n="1">in anno secundo Darii regis in mense sexto in die una mensis
+            factum est verbum Domini in manu Aggei prophetae ad Zorobabel filium Salathihel ducem
+            Iuda et ad Iesum filium Iosedech sacerdotem magnum dicens</p>
+          <p xml:id="ag1_2" n="2">haec ait Dominus exercituum dicens populus iste dicit nondum venit
+            tempus domus Domini aedificandae</p>
+          <p xml:id="ag1_3" n="3">et factum est verbum Domini in manu Aggei prophetae dicens</p>
+          <p xml:id="ag1_4" n="4">numquid tempus vobis est ut habitetis in domibus laqueatis et
+            domus ista deserta</p>
+          <p xml:id="ag1_5" n="5">et nunc haec dicit Dominus exercituum ponite corda vestra super
+            vias vestras</p>
+          <p xml:id="ag1_6" n="6">seminastis multum et intulistis parum comedistis et non estis
+            satiati bibistis et non estis inebriati operuistis vos et non estis calefacti et qui
+            mercedes congregavit misit eas in sacculum pertusum</p>
+          <p xml:id="ag1_7" n="7">haec dicit Dominus exercituum ponite corda vestra super vias
+            vestras</p>
+          <p xml:id="ag1_8" n="8">ascendite in montem portate lignum et aedificate domum et
+            acceptabilis mihi erit et glorificabor dicit Dominus</p>
+          <p xml:id="ag1_9" n="9">respexistis ad amplius et ecce factum est minus et intulistis in
+            domum et exsuflavi illud quam ob causam dicit Dominus exercituum quia domus mea deserta
+            est et vos festinatis unusquisque in domum suam</p>
+          <p xml:id="ag1_10" n="10">propter hoc super vos prohibiti sunt caeli ne darent rorem et
+            terra prohibita est ne daret germen suum</p>
+          <p xml:id="ag1_11" n="11">et vocavi siccitatem super terram et super montes et super
+            triticum et super vinum et super oleum et quaecumque profert humus et super homines et
+            super iumenta et super omnem laborem manuum</p>
+          <p xml:id="ag1_12" n="12">et audivit Zorobabel filius Salathihel et Iesus filius Iosedech
+            sacerdos magnus et omnes reliquiae populi vocem Dei sui et verba Aggei prophetae sicut
+            misit eum Dominus Deus eorum ad ipsos et timuit populus a facie Domini</p>
+          <p xml:id="ag1_13" n="13">et dixit Aggeus nuntius Domini de nuntiis Domini populo dicens
+            ego vobiscum dicit Dominus</p>
+          <p xml:id="ag1_14" n="14">et suscitavit Dominus spiritum Zorobabel filii Salathihel ducis
+            Iuda et spiritum Iesu filii Iosedech sacerdotis magni et spiritum reliquorum de omni
+            populo et ingressi sunt et faciebant opus in domo Domini exercituum Dei sui</p>
+        </div>
+        <div xml:id="bible-ag2" n="2">
+          <head>Caput 2</head>
+          <p xml:id="ag2_1" n="1">in die vicesima et quarta mensis in sexto mense in anno secundo
+            Darii regis</p>
+          <p xml:id="ag2_2" n="2">in septimo mense vicesima et prima mensis factum est verbum Domini
+            in manu Aggei prophetae dicens</p>
+          <p xml:id="ag2_3" n="3">loquere ad Zorobabel filium Salathihel ducem Iuda et ad Iesum
+            filium Iosedech sacerdotem magnum et ad reliquos populi dicens</p>
+          <p xml:id="ag2_4" n="4">quis in vobis est derelictus qui vidit domum istam in gloria sua
+            prima et quid vos videtis hanc nunc numquid non ita est quasi non sit in oculis
+            vestris</p>
+          <p xml:id="ag2_5" n="5">et nunc confortare Zorobabel dicit Dominus et confortare Iesu fili
+            Iosedech sacerdos magne et confortare omnis popule terrae dicit Dominus exercituum et
+            facite quoniam ego vobiscum sum dicit Dominus exercituum</p>
+          <p xml:id="ag2_6" n="6">verbum quod placui vobiscum cum egrederemini de terra Aegypti et
+            spiritus meus erit in medio vestrum nolite timere</p>
+          <p xml:id="ag2_7" n="7">quia haec dicit Dominus exercituum adhuc unum modicum est et ego
+            commovebo caelum et terram et mare et aridam</p>
+          <p xml:id="ag2_8" n="8">et movebo omnes gentes et veniet desideratus cunctis gentibus et
+            implebo domum istam gloria dicit Dominus exercituum</p>
+          <p xml:id="ag2_9" n="9">meum est argentum et meum est aurum dicit Dominus exercituum</p>
+          <p xml:id="ag2_10" n="10">magna erit gloria domus istius novissimae plus quam primae dicit
+            Dominus exercituum et in loco isto dabo pacem dicit Dominus exercituum</p>
+          <p xml:id="ag2_11" n="11">in vicesima et quarta noni mensis in anno secundo Darii factum
+            est verbum Domini ad Aggeum prophetam dicens</p>
+          <p xml:id="ag2_12" n="12">haec dicit Dominus exercituum interroga sacerdotes legem
+            dicens</p>
+          <p xml:id="ag2_13" n="13">si tulerit homo carnem sanctificatam in ora vestimenti sui et
+            tetigerit de summitate eius panem aut pulmentum aut vinum aut oleum aut omnem cibum
+            numquid sanctificabitur respondentes autem sacerdotes dixerunt non</p>
+          <p xml:id="ag2_14" n="14">et dixit Aggeus si tetigerit pollutus in anima ex omnibus his
+            numquid contaminabitur et responderunt sacerdotes et dixerunt contaminabitur</p>
+          <p xml:id="ag2_15" n="15">et respondit Aggeus et dixit sic populus iste et sic gens ista
+            ante faciem meam dicit Dominus et sic omne opus manuum eorum et omnia quae obtulerint
+            ibi contaminata erunt</p>
+          <p xml:id="ag2_16" n="16">et nunc ponite corda vestra a die hac et supra antequam
+            poneretur lapis super lapidem in templo Domini</p>
+          <p xml:id="ag2_17" n="17">cum accederetis ad acervum viginti modiorum et fierent decem
+            intraretis ad torcular ut exprimeretis quinquaginta lagoenas et fiebant viginti</p>
+          <p xml:id="ag2_18" n="18">percussi vos vento urente et aurugine et grandine omnia opera
+            manuum vestrarum et non fuit in vobis qui reverteretur ad me dicit Dominus</p>
+          <p xml:id="ag2_19" n="19">ponite corda vestra ex die ista et in futurum a die vicesima et
+            quarta noni mensis a die qua fundamenta iacta sunt templi Domini ponite super cor
+            vestrum</p>
+          <p xml:id="ag2_20" n="20">numquid iam semen in germine est et adhuc vinea et ficus et
+            malogranatum et lignum olivae non floruit ex die ista benedicam</p>
+          <p xml:id="ag2_21" n="21">et factum est verbum Domini secundo ad Aggeum in vicesima et
+            quarta mensis dicens</p>
+          <p xml:id="ag2_22" n="22">loquere ad Zorobabel ducem Iuda dicens ego movebo caelum pariter
+            et terram</p>
+          <p xml:id="ag2_23" n="23">et subvertam solium regnorum et conteram fortitudinem regni
+            gentium et subvertam quadrigam et ascensorem eius et descendent equi et ascensores eorum
+            vir in gladio fratris sui</p>
+          <p xml:id="ag2_24" n="24">in die illo dicit Dominus exercituum adsumam te Zorobabel fili
+            Salathihel serve meus dicit Dominus et ponam te quasi signaculum quia te elegi dicit
+            Dominus exercituum</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

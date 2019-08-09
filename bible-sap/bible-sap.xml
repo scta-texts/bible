@@ -1,0 +1,1025 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Weisheit</title>
+        <author/>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"><date when="2011-10-04">October 04, 2011</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
+              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl>
+          <bibl>Biblia Sacra Vulgata - The Free Bible Group</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2011-10-04" status="draft" n="0.0.0"><p>File Started for the first
+          time.</p></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="bible-sap">
+        <div xml:id="bible-sap1" n="1">
+          <head>Caput 1</head>
+          <p xml:id="sap1_1" n="1">diligite iustitiam qui iudicatis terram sentite de Domino in
+            bonitate et in simplicitate cordis quaerite illum</p>
+          <p xml:id="sap1_2" n="2">quoniam invenitur ab his qui non temptant illum apparet autem eis
+            qui fidem habent in illum</p>
+          <p xml:id="sap1_3" n="3">perversae enim cogitationes separant a Deo probata autem virtus
+            corripit insipientes</p>
+          <p xml:id="sap1_4" n="4">quoniam in malivolam animam non intrabit sapientia nec habitabit
+            in corpore subdito peccatis</p>
+          <p xml:id="sap1_5" n="5">sanctus enim spiritus disciplinae effugiet fictum et auferet se a
+            cogitationibus quae sunt sine intellectu et corripietur superveniente iniquitate</p>
+          <p xml:id="sap1_6" n="6">benignus est enim spiritus sapientiae et non liberabit maledictum
+            a labiis suis quoniam renum illius testis est Deus et cordis eius scrutator est verus et
+            linguae illius auditor</p>
+          <p xml:id="sap1_7" n="7">quoniam spiritus Domini replevit orbem terrarum et hoc quod
+            continet omnia scientiam habet vocis</p>
+          <p xml:id="sap1_8" n="8">propter hoc qui loquitur iniqua non potest latere nec praeteriet
+            illum corripiens iudicium</p>
+          <p xml:id="sap1_9" n="9">in cogitationibus enim impii interrogatio erit sermonum autem
+            illius auditio ad Dominum veniet ad correptionem iniquitatum illius</p>
+          <p xml:id="sap1_10" n="10">quoniam auris zeli audit omnia et tumultus murmurationum non
+            abscondetur</p>
+          <p xml:id="sap1_11" n="11">custodite ergo vos a murmuratione quae nihil prodest et a
+            detractione parcite linguae quoniam responsum obscurum in vacuum non ibit os autem quod
+            mentitur occidit animam</p>
+          <p xml:id="sap1_12" n="12">nolite zelare mortem in errore vitae vestrae neque adquiratis
+            perditionem in operibus manuum vestrarum</p>
+          <p xml:id="sap1_13" n="13">quoniam Deus mortem non fecit nec laetatur in perditione
+            vivorum</p>
+          <p xml:id="sap1_14" n="14">creavit enim ut essent omnia et sanabiles nationes orbis
+            terrarum et non est in illis medicamentum exterminii nec inferorum regnum in terra</p>
+          <p xml:id="sap1_15" n="15">iustitia enim inmortalis est</p>
+          <p xml:id="sap1_16" n="16">impii autem manibus et verbis arcessierunt illam et aestimantes
+            illam amicam defluxerunt et sponsionem posuerunt ad illam quoniam digni sunt qui sunt ex
+            parte illius</p>
+        </div>
+        <div xml:id="bible-sap2" n="2">
+          <head>Caput 2</head>
+          <p xml:id="sap2_1" n="1">dixerunt enim apud se cogitantes non recte exiguum et cum taedio
+            est tempus vitae nostrae et non est refrigerium in fine hominis et non est qui agnitus
+            sit reversus ab inferis</p>
+          <p xml:id="sap2_2" n="2">quia ex nihilo nati sumus et post hoc erimus tamquam non fuerimus
+            quoniam fumus afflatus est in naribus nostris et sermo scintillae ad commovendum cor
+            nostrum</p>
+          <p xml:id="sap2_3" n="3">quia extincta cinis erit corpus et spiritus diffundetur tamquam
+            mollis aer et transiet vita nostra tamquam vestigium nubis et sicut nebula dissolvetur
+            quae fugata est a radiis solis et a calore illius adgravata</p>
+          <p xml:id="sap2_4" n="4">et nomen nostrum oblivionem accipiet per tempus et nemo memoriam
+            habebit operum nostrorum</p>
+          <p xml:id="sap2_5" n="5">umbrae enim transitus est tempus nostrum et non est reversio
+            finis nostri quoniam consignata est et nemo revertetur</p>
+          <p xml:id="sap2_6" n="6">venite ergo et fruamur bonis quae sunt et utamur creaturam
+            tamquam in iuventute celeriter</p>
+          <p xml:id="sap2_7" n="7">vino pretioso et unguentis nos impleamus et non praetereat nos
+            flos temporis</p>
+          <p xml:id="sap2_8" n="8">coronemus nos rosis antequam marcescant nullum pratum sit quod
+            non pertranseat luxuria nostra</p>
+          <p xml:id="sap2_9" n="9">ubique relinquamus signa laetitiae quoniam haec est pars nostra
+            et haec est sors</p>
+          <p xml:id="sap2_10" n="10">opprimamus pauperem iustum et non parcamus viduae nec veterani
+            revereamur canos multi temporis</p>
+          <p xml:id="sap2_11" n="11">sit autem fortitudo nostra lex iniustitiae quod infirmum est
+            enim inutile invenitur</p>
+          <p xml:id="sap2_12" n="12">circumveniamus ergo iustum quoniam inutilis est nobis et
+            contrarius est operibus nostris et inproperat nobis peccata legis et diffamat in nos
+            peccata disciplinae nostrae</p>
+          <p xml:id="sap2_13" n="13">promittit scientiam Dei se habere et filium Dei se nominat</p>
+          <p xml:id="sap2_14" n="14">factus est nobis in traductionem cogitationum nostrarum</p>
+          <p xml:id="sap2_15" n="15">gravis est nobis etiam ad videndum quoniam dissimilis est aliis
+            vita illius et inmutatae sunt viae eius</p>
+          <p xml:id="sap2_16" n="16">tamquam nugaces aestimati sumus ab illo et abstinet se a viis
+            nostris tamquam ab inmunditiis et praefert novissima iustorum et gloriatur patrem Deum
+            se habere</p>
+          <p xml:id="sap2_17" n="17">videamus ergo si sermones illius veri sunt et temptemus quae
+            ventura sunt illi et sciemus quae erunt novissima illius</p>
+          <p xml:id="sap2_18" n="18">si enim est verus filius Dei suscipiet illum et liberabit eum
+            de manu contrariorum</p>
+          <p xml:id="sap2_19" n="19">contumelia et tormento interrogemus eum ut sciamus reverentiam
+            illius et probemus patientiam ipsius</p>
+          <p xml:id="sap2_20" n="20">morte turpissima condemnemus illum erit enim ei respectus ex
+            sermonibus illius</p>
+          <p xml:id="sap2_21" n="21">haec cogitaverunt et erraverunt excaecavit enim illos malitia
+            eorum</p>
+          <p xml:id="sap2_22" n="22">et nescierunt sacramenta Dei neque mercedem speraverunt
+            iustitiae nec iudicaverunt honorem animarum sanctarum</p>
+          <p xml:id="sap2_23" n="23">quoniam Deus creavit hominem inexterminabilem et ad imaginem
+            suae similitudinis fecit illum</p>
+          <p xml:id="sap2_24" n="24">invidia autem diaboli mors introivit in orbem terrarum</p>
+          <p xml:id="sap2_25" n="25">imitantur autem illum qui sunt ex parte illius</p>
+        </div>
+        <div xml:id="bible-sap3" n="3">
+          <head>Caput 3</head>
+          <p xml:id="sap3_1" n="1">iustorum autem animae in manu Dei sunt et non tanget illos
+            tormentum mortis</p>
+          <p xml:id="sap3_2" n="2">visi sunt in oculis insipientium mori et aestimata est adflictio
+            exitus illorum</p>
+          <p xml:id="sap3_3" n="3">et quod a nobis est iter exterminii illi autem sunt in pace</p>
+          <p xml:id="sap3_4" n="4">et si coram hominibus tormenta passi sunt spes illorum
+            inmortalitate plena est</p>
+          <p xml:id="sap3_5" n="5">et in paucis vexati in multis bene disponentur quoniam Deus
+            tentavit illos et invenit illos dignos se</p>
+          <p xml:id="sap3_6" n="6">tamquam aurum in fornace probavit illos et quasi holocausta
+            hostiam accepit illos et in tempore erit respectus illorum</p>
+          <p xml:id="sap3_7" n="7">fulgebunt et tamquam scintillae in harundineto discurrent</p>
+          <p xml:id="sap3_8" n="8">iudicabunt nationes et dominabuntur populis et regnabit Dominus
+            illorum in perpetuum</p>
+          <p xml:id="sap3_9" n="9">qui confidunt in illum intellegent veritatem et fideles in
+            dilectione adquiescent illi quoniam donum et pax est electis illius</p>
+          <p xml:id="sap3_10" n="10">impii autem secundum quae cogitaverunt correptionem habebunt
+            qui neglexerunt iustum et a Domino recesserunt</p>
+          <p xml:id="sap3_11" n="11">sapientiam enim et disciplinam qui abicit infelix est et vacua
+            est spes illorum et labores sine fructu et inhabitabilia opera illorum sunt</p>
+          <p xml:id="sap3_12" n="12">mulieres eorum insensatae sunt et nequissimi filii eorum</p>
+          <p xml:id="sap3_13" n="13">maledicta creatura illorum quoniam felix sterilis incoinquinata
+            quae non scivit torum in delicto habebit fructum in respectione animarum</p>
+          <p xml:id="sap3_14" n="14">et spado qui non operatus est per manus suas iniquitatem nec
+            cogitavit adversus Deum nequissima dabitur enim illi fidei donum electum et sors in
+            templo Domini acceptissima</p>
+          <p xml:id="sap3_15" n="15">bonorum enim laborum gloriosus est fructus et quae non concidat
+            radix sapientiae</p>
+          <p xml:id="sap3_16" n="16">filii autem adulterorum inconsummati erunt et ab iniquo toro
+            semen exterminabitur</p>
+          <p xml:id="sap3_17" n="17">et si quidem longae vitae erunt in nihilum conputabuntur et
+            sine honore erit novissima senectus illorum</p>
+          <p xml:id="sap3_18" n="18">et si celerius defuncti fuerint non habebunt spem nec in die
+            agnitionis adlocutionem</p>
+          <p xml:id="sap3_19" n="19">nationis enim iniquae dirae sunt consummationes</p>
+        </div>
+        <div xml:id="bible-sap4" n="4">
+          <head>Caput 4</head>
+          <p xml:id="sap4_1" n="1">melior est generatio cum claritate inmortalitas est enim in
+            memoria illius quoniam et apud Deum nota est et apud homines</p>
+          <p xml:id="sap4_2" n="2">cum praesens est imitantur illam et desiderant eam cum se duxerit
+            et in perpetuum coronata triumphat incoinquinatorum certaminum praemium vincens</p>
+          <p xml:id="sap4_3" n="3">multigena autem impiorum multitudo non erit utilis et spuria
+            vitulamina non dabunt radices altas nec stabile firmamentum conlocabunt</p>
+          <p xml:id="sap4_4" n="4">et si in ramis in tempore germinaverint infirmiter posita a vento
+            commovebuntur et a nimietate ventorum eradicabuntur</p>
+          <p xml:id="sap4_5" n="5">confringentur rami inconsummati et fructus illorum inutilis et
+            acerbi ad manducandum et ad nihilum apti</p>
+          <p xml:id="sap4_6" n="6">ex iniquis enim omnes filii qui nascuntur testes sunt nequitiae
+            adversus parentes in interrogatione sua</p>
+          <p xml:id="sap4_7" n="7">iustus autem si morte praeoccupatus fuerit in refrigerio erit</p>
+          <p xml:id="sap4_8" n="8">senectus enim venerabilis est non diuturna neque numero annorum
+            conputata cani sunt autem sensus hominibus</p>
+          <p xml:id="sap4_9" n="9">et aetas senectutis vita inmaculata</p>
+          <p xml:id="sap4_10" n="10">placens Deo factus dilectus et vivens inter peccatores
+            translatus est</p>
+          <p xml:id="sap4_11" n="11">raptus est ne malitia mutaret intellectum illius aut fictio
+            decipiat animam illius</p>
+          <p xml:id="sap4_12" n="12">fascinatio enim nugacitatis obscurat bona et inconstantia
+            concupiscentiae transvertit sensum sine malitia</p>
+          <p xml:id="sap4_13" n="13">consummatus in brevi explevit tempora multa</p>
+          <p xml:id="sap4_14" n="14">placita enim erat Deo anima illius propter hoc properavit
+            educere illum de medio iniquitatum populi autem videntes et non intellegentes nec
+            ponentes in praecordiis talia</p>
+          <p xml:id="sap4_15" n="15">quoniam gratia Dei et misericordia in sanctos illius et
+            respectus in electos illius</p>
+          <p xml:id="sap4_16" n="16">condemnat autem iustus mortuus vivos impios et iuventus
+            celerius consummata longam vitam iniusti</p>
+          <p xml:id="sap4_17" n="17">videbunt enim finem sapientis et non intellegent quid
+            cogitaverit de illo Deus et quare munierit illum Dominus</p>
+          <p xml:id="sap4_18" n="18">videbunt enim et contemnent illos autem Dominus inridebit</p>
+          <p xml:id="sap4_19" n="19">et erunt post haec decidentes sine honore et in contumelia
+            inter mortuos in perpetuum quoniam disrumpet illos inflatos sine voce et commovebit
+            illos a fundamentis et usque ad supremum desolabuntur et erunt gementes et memoria
+            illorum periet</p>
+          <p xml:id="sap4_20" n="20">venient in cogitatione peccatorum suorum timidi et traducent
+            illos ex adverso iniquitates ipsorum</p>
+        </div>
+        <div xml:id="bible-sap5" n="5">
+          <head>Caput 5</head>
+          <p xml:id="sap5_1" n="1">tunc stabunt iusti in magna constantia adversus eos qui se
+            angustaverunt et qui abstulerunt labores illorum</p>
+          <p xml:id="sap5_2" n="2">videntes turbabuntur timore horribili et mirabuntur in
+            subitatione insperatae salutis</p>
+          <p xml:id="sap5_3" n="3">dicent inter se paenitentiam agentes et per angustiam spiritus
+            gementes hi sunt quos habuimus aliquando in risu et in similitudine inproperii</p>
+          <p xml:id="sap5_4" n="4">nos insensati vitam illorum aestimabamus insaniam et finem
+            illorum sine honore</p>
+          <p xml:id="sap5_5" n="5">quomodo conputati sunt inter filios Dei et inter sanctos sors
+            illorum est</p>
+          <p xml:id="sap5_6" n="6">ergo erravimus a via veritatis et iustitiae lumen non luxit nobis
+            et sol non est ortus nobis</p>
+          <p xml:id="sap5_7" n="7">lassati sumus in via iniquitatis et perditionis et ambulavimus
+            vias difficiles viam autem Domini ignoravimus</p>
+          <p xml:id="sap5_8" n="8">quid nobis profuit superbia aut quid divitiarum iactatio contulit
+            nobis</p>
+          <p xml:id="sap5_9" n="9">transierunt omnia illa tamquam umbra et tamquam nuntius
+            percurrens</p>
+          <p xml:id="sap5_10" n="10">et tamquam navis quae pertransit fluctuantem aquam cuius cum
+            praeterierit non est vestigium invenire neque semitam carinae illius in fluctibus</p>
+          <p xml:id="sap5_11" n="11">aut avis quae transvolat in aere nullum invenitur argumentum
+            itineris illius sed tantum sonitus est alarum verberans levem ventum et scindens per vim
+            itineris aerem commotis alis transvolavit et post hoc nullum signum invenitur itineris
+            illius</p>
+          <p xml:id="sap5_12" n="12">aut tamquam sagittae emissae in locum destinatum divisus aer
+            continuo in se reclusus est ut ignoretur transitus illius</p>
+          <p xml:id="sap5_13" n="13">sic et nos nati continuo desivimus esse et virtutis quidem
+            signum nullum valuimus ostendere in malignitate autem nostra consumpti sumus</p>
+          <p xml:id="sap5_14" n="14">talia dixerunt et peccaverunt</p>
+          <p xml:id="sap5_15" n="15">quoniam spes impii tamquam lanugo est quae a vento tollitur et
+            tamquam spuma gracilis quae a procella dispergitur et tamquam fumus qui a vento diffusus
+            est et tamquam memoria hospitis unius diei praetereuntis</p>
+          <p xml:id="sap5_16" n="16">iusti autem in perpetuum vivent et apud Dominum est merces
+            eorum et cogitatio illorum apud Altissimum</p>
+          <p xml:id="sap5_17" n="17">ideo accipient regnum decoris et diadema speciei de manu Domini
+            quoniam dextera sua teget eos et brachio suo defendet illos</p>
+          <p xml:id="sap5_18" n="18">accipiet armaturam zelus illius et armabit creaturam ad
+            ultionem inimicorum</p>
+          <p xml:id="sap5_19" n="19">induet pro torace iustitiam et accipiet pro galea iudicium
+            certum</p>
+          <p xml:id="sap5_20" n="20">sumet scutum inexpugnabilem aequitatem</p>
+          <p xml:id="sap5_21" n="21">acuet autem duram iram in lanceam et pugnabit cum illo orbis
+            terrarum contra insensatos</p>
+          <p xml:id="sap5_22" n="22">ibunt directae emissiones fulgorum et tamquam a bene curvato
+            arcu nubium exterminabuntur et ad certum locum insilient</p>
+          <p xml:id="sap5_23" n="23">et a petrosa ira plenae mittentur grandines et scandescet in
+            illos aqua maris et flumina concurrent duriter</p>
+          <p xml:id="sap5_24" n="24">contra illos stabit spiritus virtutis et tamquam turbedo venti
+            dividet illos et ad heremiam perducet omnem terram iniquitatis et malignitas evertet
+            sedes potentium</p>
+        </div>
+        <div xml:id="bible-sap6" n="6">
+          <head>Caput 6</head>
+          <p xml:id="sap6_1" n="1">melior est sapientia quam vires et vir prudens magis quam
+            fortis</p>
+          <p xml:id="sap6_2" n="2">audite ergo reges et intellegite discite iudices finium
+            terrae</p>
+          <p xml:id="sap6_3" n="3">praebete aures vos qui continetis multitudines et placetis vobis
+            in turbis nationum</p>
+          <p xml:id="sap6_4" n="4">quoniam data est a Domino potestas vobis et virtus ab Altissimo
+            qui interrogabit opera vestra et cogitationes scrutabitur</p>
+          <p xml:id="sap6_5" n="5">quoniam cum essetis ministri regni illius non recte iudicastis
+            neque custodistis legem iustitiae neque secundum voluntatem Dei ambulastis</p>
+          <p xml:id="sap6_6" n="6">horrende et cito apparebit vobis quoniam iudicium durissimum in
+            his qui praesunt fiet</p>
+          <p xml:id="sap6_7" n="7">exiguo enim conceditur misericordia potentes autem potenter
+            tormenta patientur</p>
+          <p xml:id="sap6_8" n="8">non enim subtrahet personam cuiusquam Dominus nec reverebitur
+            magnitudinem cuiusquam quoniam pusillum et magnum ipse fecit et aequaliter cura est illi
+            pro omnibus</p>
+          <p xml:id="sap6_9" n="9">fortioribus autem fortior instat cruciatio</p>
+          <p xml:id="sap6_10" n="10">ad vos ergo reges sunt hi sermones mei ut discatis sapientiam
+            et non excidatis</p>
+          <p xml:id="sap6_11" n="11">qui enim custodierint iusta iuste iustificabuntur et qui
+            didicerint ista invenient quid respondeant</p>
+          <p xml:id="sap6_12" n="12">concupiscite ergo sermones meos diligite illos et habebitis
+            disciplinam</p>
+          <p xml:id="sap6_13" n="13">clara est et quae numquam marcescat sapientia et facile videtur
+            ab his qui diligunt eam et invenietur ab his qui quaerunt illam</p>
+          <p xml:id="sap6_14" n="14">praeoccupat qui se concupiscunt ut illis se prior ostendat</p>
+          <p xml:id="sap6_15" n="15">qui de luce vigilaverit ad illam non laborabit adsidentem enim
+            illam foribus suis inveniet</p>
+          <p xml:id="sap6_16" n="16">cogitare ergo de illa sensus est consummatus et qui vigilaverit
+            propter illam cito erit securus</p>
+          <p xml:id="sap6_17" n="17">quoniam dignos se ipsa circuit quaerens et in viis ostendit se
+            illis hilariter et in omni providentia occurrit illis</p>
+          <p xml:id="sap6_18" n="18">initium enim illius verissima est disciplinae
+            concupiscentia</p>
+          <p xml:id="sap6_19" n="19">cura ergo disciplinae dilectio est et dilectio custoditio legum
+            illius est custoditio autem legum consummatio incorruptionis est</p>
+          <p xml:id="sap6_20" n="20">incorruptio autem facit esse proximum Deo</p>
+          <p xml:id="sap6_21" n="21">concupiscentia itaque sapientiae deducet ad regnum
+            perpetuum</p>
+          <p xml:id="sap6_22" n="22">si ergo delectamini sedibus et stemmatibus reges populi
+            diligite sapientiam ut in perpetuum regnetis</p>
+          <p xml:id="sap6_24" n="24">quid est autem sapientia et quemadmodum facta sit referam et
+            non abscondam a vobis sacramenta Dei sed ab initio nativitatis investigabo et ponam in
+            lucem scientiam illius et non praeteribo veritatem</p>
+          <p xml:id="sap6_25" n="25">neque cum invidia tabescente iter habebo quoniam ista non erit
+            particeps sapientiae</p>
+          <p xml:id="sap6_26" n="26">multitudo autem sapientium sanitas est orbis terrarum et rex
+            sapiens populi stabilimentum est</p>
+          <p xml:id="sap6_27" n="27">ergo accipite disciplinam per sermones meos et proderit
+            vobis</p>
+        </div>
+        <div xml:id="bible-sap7" n="7">
+          <head>Caput 7</head>
+          <p xml:id="sap7_1" n="1">sum quidem et ego mortalis homo similis omnibus et ex genere
+            terreno illius qui prior finctus est et in ventre matris figuratus sum caro</p>
+          <p xml:id="sap7_2" n="2">decem mensuum tempore coagulatus in sanguine ex semine hominis et
+            delectamento somni conveniente</p>
+          <p xml:id="sap7_3" n="3">et ego natus accepi communem aerem et in similiter factam decidi
+            terram primam vocem similem omnibus emisi plorans</p>
+          <p xml:id="sap7_4" n="4">in involumentis nutritus sum et curis magnis</p>
+          <p xml:id="sap7_5" n="5">nemo enim ex regibus aliud habuit nativitatis initium</p>
+          <p xml:id="sap7_6" n="6">unus ergo introitus est omnibus ad vitam et similis exitus</p>
+          <p xml:id="sap7_7" n="7">propter hoc optavi et datus est mihi sensus et invocavi et venit
+            in me spiritus sapientiae</p>
+          <p xml:id="sap7_8" n="8">et praeposui illam regnis et sedibus et divitias nihil esse duxi
+            in conparatione illius</p>
+          <p xml:id="sap7_9" n="9">nec conparavi illi lapidem pretiosum quoniam omne aurum in
+            conparatione illius harena est exigua et tamquam lutum aestimabitur argentum in
+            conspectu illius</p>
+          <p xml:id="sap7_10" n="10">super salutem et speciem dilexi illam et proposui pro luce
+            habere illam quoniam inextinguibile est lumen illius</p>
+          <p xml:id="sap7_11" n="11">venerunt autem mihi omnia bona pariter cum illa et
+            innumerabilis honestas per manus illius</p>
+          <p xml:id="sap7_12" n="12">et laetatus sum in omnibus quoniam antecedebat ista sapientia
+            et ignorabam quoniam horum omnium mater est</p>
+          <p xml:id="sap7_13" n="13">quam sine fictione didici et sine invidia communico et
+            honestatem illius non abscondo</p>
+          <p xml:id="sap7_14" n="14">infinitus enim thesaurus est hominibus quod qui usi sunt
+            participes facti sunt amicitiae Dei propter disciplinae dona commendati</p>
+          <p xml:id="sap7_15" n="15">mihi autem det Deus dicere ex sententia et praesumere digna
+            horum quae dantur quoniam ipse et sapientiae dux est et sapientium emendator</p>
+          <p xml:id="sap7_16" n="16">in manu enim illius et nos et sermones nostri et omnis
+            sapientia et operum scientiae disciplina</p>
+          <p xml:id="sap7_17" n="17">ipse enim mihi dedit horum quae sunt scientiam veram ut sciam
+            dispositionem orbis terrarum et virtutes elementorum</p>
+          <p xml:id="sap7_18" n="18">initium et consummationem et medietatem temporum et
+            meditationem omnium morum mutationes et divisiones temporum</p>
+          <p xml:id="sap7_19" n="19">anni cursus et stellarum dispositiones</p>
+          <p xml:id="sap7_20" n="20">naturas animalium et iras bestiarum vim ventorum et
+            cogitationes hominum differentias arborum et virtutes radicum</p>
+          <p xml:id="sap7_21" n="21">et quaecumque sunt absconsa et inprovisa didici omnium enim
+            artifex docuit me sapientia</p>
+          <p xml:id="sap7_22" n="22">est enim in illa spiritus intellectus sanctus unicus multiplex
+            subtilis mobilis dissertus incoinquinatus certus suavis amans bonum acutus qui nihil
+            vetat benefacere</p>
+          <p xml:id="sap7_23" n="23">humanus stabilis certus securus omnem habens virtutem omnia
+            prospiciens et qui capiat omnes spiritus intellegibiles mundos subtiles</p>
+          <p xml:id="sap7_24" n="24">omnibus enim mobilibus mobilior est sapientia adtingit autem
+            ubique et capit propter suam munditiam</p>
+          <p xml:id="sap7_25" n="25">vapor est enim virtutis Dei et emanatio quaedam est claritatis
+            omnipotentis Dei sincera et ideo nihil inquinatum in illa incurrit</p>
+          <p xml:id="sap7_26" n="26">candor est enim lucis aeternae et speculum sine macula Dei
+            maiestatis et imago bonitatis illius</p>
+          <p xml:id="sap7_27" n="27">et cum sit una omnia potest et permanens in se omnia innovat et
+            per nationes in animas sanctas se transfert amicos Dei et prophetas constituit</p>
+          <p xml:id="sap7_28" n="28">neminem enim diligit Deus nisi eum qui cum sapientia
+            inhabitat</p>
+          <p xml:id="sap7_29" n="29">est enim haec speciosior sole et super omnem stellarum
+            dispositionem luci conparata invenitur prior</p>
+          <p xml:id="sap7_30" n="30">illi enim succedit nox sapientiam autem non vincit malitia</p>
+        </div>
+        <div xml:id="bible-sap8" n="8">
+          <head>Caput 8</head>
+          <p xml:id="sap8_1" n="1">adtingit enim a fine usque ad finem fortiter et disponit omnia
+            suaviter</p>
+          <p xml:id="sap8_2" n="2">hanc amavi et exquisivi a iuventute mea et quaesivi sponsam mihi
+            adsumere et amator factus sum formae illius</p>
+          <p xml:id="sap8_3" n="3">generositatem glorificat contubernium habens Dei sed et omnium
+            Dominus dilexit illam</p>
+          <p xml:id="sap8_4" n="4">doctrix est enim disciplinae Dei et electrix operum illius</p>
+          <p xml:id="sap8_5" n="5">et si divitiae appetuntur in vita quid sapientiae locupletius
+            quae omnia operatur</p>
+          <p xml:id="sap8_6" n="6">si autem sensus operatur quis horum quae sunt magis quam illa est
+            artifex</p>
+          <p xml:id="sap8_7" n="7">et si iustitiam quis diligit labores huius magnas habent virtutes
+            sobrietatem enim et sapientiam docet et iustitiam et virtutem quibus utilius nihil est
+            in vita hominibus</p>
+          <p xml:id="sap8_8" n="8">et si multitudinem scientiae desiderat quis scit praeterita et de
+            futuris aestimat scit versutias sermonum et dissolutiones argumentorum signa et monstra
+            scit antequam fiant et eventus temporum et saeculorum</p>
+          <p xml:id="sap8_9" n="9">proposui ergo hanc adducere mihi ad convivendum sciens quoniam
+            communicabit mecum de bonis et erit adlocutio cogitationis et taedii mei</p>
+          <p xml:id="sap8_10" n="10">habebo propter hanc claritatem ad turbas et honorem apud
+            seniores iuvenis</p>
+          <p xml:id="sap8_11" n="11">acutus inveniar in iudicio et in conspectu potentium
+            admirabilis ero et facies principum mirabuntur me</p>
+          <p xml:id="sap8_12" n="12">tacentem me sustinebunt et loquentem me respicient et
+            sermocinante plura manus ori suo inponent</p>
+          <p xml:id="sap8_13" n="13">propterea habebo per hanc inmortalitatem et memoriam aeternam
+            his qui post me futuri sunt relinquam</p>
+          <p xml:id="sap8_14" n="14">disponam populos et nationes mihi erunt subiectae</p>
+          <p xml:id="sap8_15" n="15">timebunt me audientes reges horrendi in multitudine videbor
+            bonus et in bello fortis</p>
+          <p xml:id="sap8_16" n="16">intrans in domum meam conquiescam cum illa non enim habet
+            amaritudinem conversatio illius nec taedium convictus ipsius sed laetitiam et
+            gaudium</p>
+          <p xml:id="sap8_17" n="17">haec cogitans apud me et commemorans in corde meo quoniam
+            inmortalitas est in cogitatione sapientiae</p>
+          <p xml:id="sap8_18" n="18">et in amicitia illius delectatio bona et in operibus manuum
+            illius honestas sine defectione et in certamine loquellae illius sapientia et
+            praeclaritas in communicatione sermonum ipsius circuibam quaerens ut mihi illam
+            adsumerem</p>
+          <p xml:id="sap8_19" n="19">puer autem eram ingeniosus et sortitus sum animam bonam</p>
+          <p xml:id="sap8_20" n="20">et cum essem magis bonus veni ad corpus incoinquinatum</p>
+          <p xml:id="sap8_21" n="21">et ut scivi quoniam aliter non possum esse continens nisi Deus
+            det et hoc ipsum erat sapientiae scire cuius esset hoc donum adii Dominum et deprecatus
+            sum illum et dixi ex totis praecordiis meis</p>
+        </div>
+        <div xml:id="bible-sap9" n="9">
+          <head>Caput 9</head>
+          <p xml:id="sap9_1" n="1">Deus parentum et Domine misericordiae tuae qui fecisti omnia
+            verbo tuo</p>
+          <p xml:id="sap9_2" n="2">et sapientia tua constituisti hominem ut dominetur creaturae quae
+            a te facta est</p>
+          <p xml:id="sap9_3" n="3">ut disponat orbem terrarum in aequitate et iustitia et in
+            directione cordis iudicium iudicet</p>
+          <p xml:id="sap9_4" n="4">da mihi sedium tuarum adsistricem sapientiam et noli me reprobare
+            a pueris tuis</p>
+          <p xml:id="sap9_5" n="5">quoniam ego servus tuus et filius ancillae tuae sum homo infirmus
+            et exigui temporis et minor ad intellectum iudicii et legum</p>
+          <p xml:id="sap9_6" n="6">et si quis erit consummatus inter filios hominum si afuerit ab
+            illo sapientia tua in nihilum conputabitur</p>
+          <p xml:id="sap9_7" n="7">tu me elegisti regem populo tuo et iudicem filiorum tuorum et
+            filiarum</p>
+          <p xml:id="sap9_8" n="8">dixisti aedificare templum in monte sancto tuo et in civitate
+            habitationis tuae aram similitudinem tabernaculi sancti tui quod praeparasti ab
+            initio</p>
+          <p xml:id="sap9_9" n="9">et tecum sapientia quae novit opera tua quae et adfuit tunc cum
+            orbem terrarum faceres et sciebat quid placitum esset oculis tuis et quid directum in
+            praeceptis tuis</p>
+          <p xml:id="sap9_10" n="10">mitte illam de sanctis caelis tuis et mitte illam a sede
+            magnitudinis tuae ut mecum sit et mecum laboret et sciam quid acceptum sit apud te</p>
+          <p xml:id="sap9_11" n="11">scit enim illa omnia et intellegit et deducet me in operibus
+            meis sobrie et custodiet me in sua potentia</p>
+          <p xml:id="sap9_12" n="12">et erunt accepta opera mea et disponam populum tuum iuste et
+            ero dignus sedium patris mei</p>
+          <p xml:id="sap9_13" n="13">quis enim hominum poterit scire consilium Dei aut quis poterit
+            cogitare quid velit Dominus</p>
+          <p xml:id="sap9_14" n="14">cogitationes enim mortalium timidae et incertae providentiae
+            nostrae</p>
+          <p xml:id="sap9_15" n="15">corpus enim quod corrumpitur adgravat animam et deprimit
+            terrena inhabitatio sensum multa cogitantem</p>
+          <p xml:id="sap9_16" n="16">et difficile aestimamus quae in terra sunt et quae in prospectu
+            sunt invenimus cum labore quae in caelis sunt autem quis investigavit</p>
+          <p xml:id="sap9_17" n="17">sensum autem tuum quis scivit nisi tu dederis sapientiam et
+            miseris sanctum spiritum tuum de altissimis</p>
+          <p xml:id="sap9_18" n="18">et sic correctae sunt semitae eorum qui in terris sunt et quae
+            tibi placent didicerunt homines</p>
+          <p xml:id="sap9_19" n="19">et per sapientiam sanati sunt</p>
+        </div>
+        <div xml:id="bible-sap10" n="10">
+          <head>Caput 10</head>
+          <p xml:id="sap10_1" n="1">haec illum qui primus finctus est patrem orbis terrarum cum
+            solus esset creatus custodivit</p>
+          <p xml:id="sap10_2" n="2">et eduxit illum a delicto suo et dedit illi virtutem continendi
+            omnia</p>
+          <p xml:id="sap10_3" n="3">ab hac ut recessit iniustus in ira sua per iram homicidii
+            fraternitatis deperiit</p>
+          <p xml:id="sap10_4" n="4">propter quem cum aqua deleret terram iterum sanavit sapientia
+            per contemptibile lignum iustum gubernans</p>
+          <p xml:id="sap10_5" n="5">haec et in consensu nequitiae cum se nationes contulissent
+            scivit iustum et servavit sine querella Deo et in filii misericordia fortem
+            custodivit</p>
+          <p xml:id="sap10_6" n="6">haec iustum a pereuntibus impiis liberavit fugientem
+            descendentem ignem in Pentapoli</p>
+          <p xml:id="sap10_7" n="7">cuius in testimonium nequitiae fumigabunda constat deserta terra
+            et incerto tempore fructus habentes arbores et incredibilis animae memoria stans
+            figmentum salis</p>
+          <p xml:id="sap10_8" n="8">sapientiam enim praetereuntes non tantum in hoc lapsi sunt ut
+            ignorarent bona sed et insipientiae suae reliquerunt hominibus memoriam ut in his quae
+            peccaverunt nec latere potuissent</p>
+          <p xml:id="sap10_9" n="9">sapientia autem hos qui se observant a doloribus liberavit</p>
+          <p xml:id="sap10_10" n="10">haec profugum irae fratris iustum deduxit per vias rectas et
+            ostendit illi regnum Dei et dedit illi scientiam sanctorum honestavit illum in laboribus
+            et conplevit labores illius</p>
+          <p xml:id="sap10_11" n="11">in fraude circumvenientium illum adfuit et honestum illum
+            fecit</p>
+          <p xml:id="sap10_12" n="12">custodivit illum ab inimicis et a seductoribus tutavit eum et
+            certamen forte dedit illi ut vinceret ut sciret quoniam omnium potentior est
+            sapientia</p>
+          <p xml:id="sap10_13" n="13">haec venditum iustum non dereliquit sed a peccatoribus
+            liberavit illum descendit cum illo in foveam</p>
+          <p xml:id="sap10_14" n="14">et in vinculis non dereliquit illum donec adferret illi
+            sceptrum regni et potentiam adversus eos qui eum deprimebant et mendaces ostendit qui
+            maculaverunt ipsum et dedit illi claritatem aeternam</p>
+          <p xml:id="sap10_15" n="15">haec populum iustum et semen sine querella liberavit a
+            nationibus quae illum conprimebant</p>
+          <p xml:id="sap10_16" n="16">intravit in animam servi Domini et stetit contra reges
+            horrendos in portentis et signis</p>
+          <p xml:id="sap10_17" n="17">et reddidit iustis mercedem laborum suorum et deduxit illos in
+            via mirabili et fuit illis in velamento diei et in luce stellarum nocte</p>
+          <p xml:id="sap10_18" n="18">transtulit illos mare Rubrum et transvexit illos per aquam
+            nimiam</p>
+          <p xml:id="sap10_19" n="19">inimicos autem illorum demersit in mare et ab altitudine
+            inferorum eduxit illos ideo iusti tulerunt spolia impiorum</p>
+          <p xml:id="sap10_20" n="20">et decantaverunt Domine nomen sanctum tuum et victricem manum
+            tuam laudaverunt pariter</p>
+          <p xml:id="sap10_21" n="21">quoniam sapientia aperuit os mutorum et linguas infantium
+            fecit dissertas</p>
+        </div>
+        <div xml:id="bible-sap11" n="11">
+          <head>Caput 11</head>
+          <p xml:id="sap11_1" n="1">direxit opera illorum in manibus prophetae sancti</p>
+          <p xml:id="sap11_2" n="2">iter fecerunt per deserta quae non inhabitabantur et in locis
+            secretis fixerunt casas</p>
+          <p xml:id="sap11_3" n="3">steterunt contra hostes et de inimicis se vindicaverunt</p>
+          <p xml:id="sap11_4" n="4">sitierunt et invocaverunt te et data est illis de petra
+            altissima aqua et requies sitis de lapide duro</p>
+          <p xml:id="sap11_5" n="5">per quae enim poenas passi sunt inimici illorum</p>
+          <p xml:id="sap11_6" n="6">per haec cum illis deesset bene cum illis actum est</p>
+          <p xml:id="sap11_7" n="7">nam pro fonte quidem sempiterni fluminis humanum sanguinem
+            dedisti iniustis</p>
+          <p xml:id="sap11_8" n="8">qui comminuerentur in traductione infantum occisorum dedisti
+            illis abundantem aquam insperate</p>
+          <p xml:id="sap11_9" n="9">ostendens per sitim quae tunc fuit quemadmodum tuos exaltares et
+            adversarios illorum necares</p>
+          <p xml:id="sap11_10" n="10">cum enim temptati sunt et quidem cum misericordia disciplinam
+            accipientes scierunt quemadmodum cum ira iudicati impii tormenta paterentur</p>
+          <p xml:id="sap11_11" n="11">hos quidem tamquam pater monens probasti illos autem tamquam
+            durus rex interrogans condemnasti</p>
+          <p xml:id="sap11_12" n="12">absentes enim et praesentes similiter torquebantur</p>
+          <p xml:id="sap11_13" n="13">duplex enim illos acceperat taedium et gemitus cum memoria
+            praeteritorum</p>
+          <p xml:id="sap11_14" n="14">cum enim audirent per sua tormenta bene secum agi commemorati
+            sunt Dominum</p>
+          <p xml:id="sap11_15" n="15">quem enim in expositione prava proiectum deriserunt in finem
+            eventus mirati sunt non similiter iustis faciens</p>
+          <p xml:id="sap11_16" n="16">pro cogitationibus autem insensatis iniquitates illorum quod
+            quidam errantes colebant mutos serpentes et bestias supervacuas inmisisti illis
+            multitudinem mutorum animalium in vindictam</p>
+          <p xml:id="sap11_17" n="17">ut scirent quia per quae peccat quis per haec et torquetur</p>
+          <p xml:id="sap11_18" n="18">non enim inpossibilis erat omnipotens manus tua quae creavit
+            orbem terrarum ex materia invisa inmittere illis multitudinem ursorum aut audaces
+            leones</p>
+          <p xml:id="sap11_19" n="19">aut novi generis ira plenas et ignotas bestias aut vaporem
+            igneum spirantes aut odorem fumi proferentes aut horrendas ab oculis scintillas
+            emittentes</p>
+          <p xml:id="sap11_20" n="20">quarum non solum laesura poterat illos exterminare sed et
+            aspectus per timorem occidere</p>
+          <p xml:id="sap11_21" n="21">sed et sine his uno spiritu occidi poterant persecutionem
+            passi ab ipsis factis suis et dispersi per spiritum virtutis tuae sed omnia mensura et
+            numero et pondere disposuisti</p>
+          <p xml:id="sap11_22" n="22">multum enim valere tibi soli superat semper et virtuti brachii
+            tui quis resistet</p>
+          <p xml:id="sap11_23" n="23">quoniam tamquam momentum staterae sic ante te est orbis
+            terrarum et tamquam gutta roris antelucani quae descendit in terram</p>
+          <p xml:id="sap11_24" n="24">sed misereris omnium quoniam omnia potes et dissimulas peccata
+            hominum propter paenitentiam</p>
+          <p xml:id="sap11_25" n="25">diligis enim omnia quae sunt et nihil odisti horum quae
+            fecisti nec enim odiens aliquid constituisti</p>
+          <p xml:id="sap11_26" n="26">quomodo autem posset aliquid permanere nisi tu voluisses aut
+            quod a te vocatum non esset conservaretur</p>
+          <p xml:id="sap11_27" n="27">parcis autem omnibus quoniam tua sunt Domine qui animas
+            amas</p>
+        </div>
+        <div xml:id="bible-sap12" n="12">
+          <head>Caput 12</head>
+          <p xml:id="sap12_1" n="1">bonus enim spiritus tuus est in omnibus</p>
+          <p xml:id="sap12_2" n="2">propter quod hos qui exerrant partibus corripis et de quibus
+            peccant admonens adloqueris ut relicta malitia credant in te Domine</p>
+          <p xml:id="sap12_3" n="3">et illos enim antiquos inhabitatores sanctae tuae terrae
+            odiens</p>
+          <p xml:id="sap12_4" n="4">quoniam odibilia tibi opera faciebant per medicamina et
+            sacrificia iniusta</p>
+          <p xml:id="sap12_5" n="5">et filiorum necatores sine misericordia et comestores viscerum
+            hominum devorationem et sanguinis a medio sacramento tuo</p>
+          <p xml:id="sap12_6" n="6">et auctores parentes animarum inauxiliatarum voluisti perdere
+            per manus parentum nostrorum</p>
+          <p xml:id="sap12_7" n="7">ut dignam perciperent peregrinationem puerorum Dei quae tibi
+            omnium carior est terra</p>
+          <p xml:id="sap12_8" n="8">sed et his tamquam hominibus pepercisti et misisti antecessores
+            exercitus tui vespas ut illos paulatim exterminarent</p>
+          <p xml:id="sap12_9" n="9">non quia inpotens eras in bello subicere impios iustis aut
+            bestiis saevis aut verbo duro simul exterminare</p>
+          <p xml:id="sap12_10" n="10">sed partibus iudicans dabas locum paenitentiae non ignorans
+            quoniam nequa est natio illorum et naturalis malitia ipsorum et quoniam non poterat
+            mutari cogitatio illorum in perpetuum</p>
+          <p xml:id="sap12_11" n="11">semen enim erat maledictum ab initio nec timens aliquem veniam
+            dabas peccatis illorum</p>
+          <p xml:id="sap12_12" n="12">quis enim dicet tibi quid fecisti aut quis stabit contra
+            iudicium tuum aut quis in conspectum tuum veniet vindex iniquorum hominum aut quis tibi
+            inputabit si nationes perierint quas tu fecisti</p>
+          <p xml:id="sap12_13" n="13">nec enim est alius Deus quam tu cuius cura est de omnibus ut
+            ostendas quoniam non iniuste iudicasti</p>
+          <p xml:id="sap12_14" n="14">neque rex neque tyrannus in conspectu tuo inquirent de his
+            quos perdidisti</p>
+          <p xml:id="sap12_15" n="15">cum sis ergo iustus iuste omnia disponis ipsum quoque qui non
+            debet puniri condemnas exterum aestimas a tua virtute</p>
+          <p xml:id="sap12_16" n="16">virtus enim tua iustitiae initium est et ob hoc quod omnium
+            Dominus es omnibus te parcere facis</p>
+          <p xml:id="sap12_17" n="17">virtutem enim ostendis tu qui non crederis esse in virtute
+            consummatus et hos qui sciunt audaciam traducis</p>
+          <p xml:id="sap12_18" n="18">tu autem dominator virtutis cum tranquillitate iudicas et cum
+            magna reverentia disponis nos subest enim tibi cum voles posse</p>
+          <p xml:id="sap12_19" n="19">docuisti autem populum tuum per talia opera quoniam oportet
+            iustum esse et humanum et bonae spei fecisti filios tuos quoniam das locum in peccatis
+            paenitentiae</p>
+          <p xml:id="sap12_20" n="20">si enim inimicos servorum tuorum et debitos morti cum tanta
+            cruciasti adtentione et liberasti dans tempus et locum per quae possint mutari a
+            malitia</p>
+          <p xml:id="sap12_21" n="21">cum quanta diligentia iudicasti filios tuos quorum parentibus
+            iuramenta et conventiones dedisti bonarum promissionum</p>
+          <p xml:id="sap12_22" n="22">cum ergo nobis disciplinam das inimicos nostros multipliciter
+            flagellas ut bonitatem tuam cogitemus iudicantes et cum de nobis iudicatur speremus
+            misericordiam</p>
+          <p xml:id="sap12_23" n="23">unde et illis qui in vita sua insensate et iniuste vixerunt
+            per haec quae coluerunt dedisti summa tormenta</p>
+          <p xml:id="sap12_24" n="24">etenim in erroris via diutius erraverunt deos aestimantes haec
+            quae in animalibus sunt supervacua infantum insensatorum more viventes</p>
+          <p xml:id="sap12_25" n="25">propter hoc tamquam pueris insensatis iudicium in derisum
+            dedisti</p>
+          <p xml:id="sap12_26" n="26">qui autem ludibriis increpationis non correpti sunt dignum Dei
+            iudicium experti sunt</p>
+          <p xml:id="sap12_27" n="27">in his enim quae patiebantur moleste ferebant in quibus
+            patientes indignabantur per haec quos putabant deos in ipsis cum exterminarentur
+            videntes illum quem olim negabant se nosse Deum verum agnoverunt propter quod et finis
+            condemnationis illis veniet</p>
+        </div>
+        <div xml:id="bible-sap13" n="13">
+          <head>Caput 13</head>
+          <p xml:id="sap13_1" n="1">vani sunt autem omnes homines quibus non subest scientia Dei et
+            de his quae videntur bona non potuerunt intellegere eum qui est neque operibus
+            adtendentes agnoverunt quis esset artifex</p>
+          <p xml:id="sap13_2" n="2">sed aut ignem aut spiritum aut citatum aerem aut gyrum stellarum
+            aut nimiam aquam aut solem et lunam rectores orbis terrarum deos putaverunt</p>
+          <p xml:id="sap13_3" n="3">quorum si specie delectati deos putaverunt sciant quanto
+            dominator eorum speciosior est speciei enim generator haec omnia constituit</p>
+          <p xml:id="sap13_4" n="4">aut si virtutem et opera eorum mirati sunt intellegant ab ipsis
+            quoniam qui haec constituit fortior est illis</p>
+          <p xml:id="sap13_5" n="5">a magnitudine enim speciei et creaturae cognoscibiliter poterit
+            horum creator videri</p>
+          <p xml:id="sap13_6" n="6">sed tamen adhuc in his minor est querella et hii enim fortassis
+            errant Deum quaerentes et volentes invenire</p>
+          <p xml:id="sap13_7" n="7">etenim cum in operibus illius conversentur inquirunt et
+            persuasum habent quoniam bona sunt quae videntur</p>
+          <p xml:id="sap13_8" n="8">iterum autem nec his debet ignosci</p>
+          <p xml:id="sap13_9" n="9">si enim tantum potuerunt scire ut possent aestimare saeculum
+            quomodo huius Dominum non facilius invenerunt</p>
+          <p xml:id="sap13_10" n="10">infelices autem sunt et inter mortuos spes illorum est qui
+            appellaverunt deos opera manuum hominum aurum et argentum artis inventionem
+            similitudines animalium aut lapidem inutilem opus manus antiquae</p>
+          <p xml:id="sap13_11" n="11">aut si quis artifex faber de silva lignum rectum secaverit et
+            huius docte eradat omnem corticem et arte sua usus diligenter fabricet vas utile in
+            conversatione vitae</p>
+          <p xml:id="sap13_12" n="12">reliquias autem eius operis ad praeparationem escae
+            abutatur</p>
+          <p xml:id="sap13_13" n="13">et reliquum horum quod ad nullos usus facit lignum curvum et
+            verticibus plenum sculpat diligenter per vacuitatem suam et per scientiam artis suae
+            figuret illud et adsimilet illud imagini hominis</p>
+          <p xml:id="sap13_14" n="14">aut alicui ex animalibus illud conparet perliniens lubrica et
+            rubicundum faciens fuco colorem illius et omnem maculam quae in illo est perliniens</p>
+          <p xml:id="sap13_15" n="15">et faciat ei dignam habitationem in pariete ponens illud
+            confirmans ferro</p>
+          <p xml:id="sap13_16" n="16">ne forte cadat prospiciens illi sciens quoniam non potest se
+            adiuvare imago enim est et opus est illi adiutorio</p>
+          <p xml:id="sap13_17" n="17">et de substantia sua et filiis suis et nuptiis votum faciens
+            inquirit non erubescit loqui cum illo qui sine anima est</p>
+          <p xml:id="sap13_18" n="18">et pro sanitate quidem infirmum deprecatur et pro vita mortuum
+            rogat et in adiutorium inutilem invocat</p>
+          <p xml:id="sap13_19" n="19">et pro itinere petit ab hoc qui ambulare non potest et de
+            adquirendo et de operando et de omnium rerum eventu petit ab eo qui in omnibus est
+            inutilis</p>
+        </div>
+        <div xml:id="bible-sap14" n="14">
+          <head>Caput 14</head>
+          <p xml:id="sap14_1" n="1">iterum alius navigare cogitans et per feros fluctus incipiens
+            iter facere ligno portante se fragilius lignum invocat</p>
+          <p xml:id="sap14_2" n="2">illud enim cupiditas adquirendi excogitavit et artifex sapientia
+            fabricavit sua</p>
+          <p xml:id="sap14_3" n="3">tua autem pater gubernat providentia quoniam dedisti et in mari
+            viam et inter fluctus semitam firmissimam</p>
+          <p xml:id="sap14_4" n="4">ostendens quoniam potes ex omnibus sanare etiam si sine rate
+            aliquis adeat</p>
+          <p xml:id="sap14_5" n="5">sed ut non esset vacua sapientiae tuae opera propter hoc etiam
+            exiguo ligno credunt homines animas suas et transeuntes mare per ratem liberati sunt</p>
+          <p xml:id="sap14_6" n="6">sed ab initio cum perirent superbi gigantes spes orbis terrarum
+            ad ratem confugiens remisit saeculo semen nativitatis quae manu tua erat gubernata</p>
+          <p xml:id="sap14_7" n="7">benedictum est enim lignum per quod fit iustitia</p>
+          <p xml:id="sap14_8" n="8">per manus autem quod fit maledictum et ipsum et qui fecit illud
+            quia ille quidem operatus est illud autem cum esset fragile Deus cognominatus est</p>
+          <p xml:id="sap14_9" n="9">similiter autem odio sunt Deo impius et impietas eius</p>
+          <p xml:id="sap14_10" n="10">etenim quod factum est cum illo qui fecit tormenta
+            patietur</p>
+          <p xml:id="sap14_11" n="11">propter hoc et idolis nationum non erit respectus quoniam
+            creaturae Dei in odium factae sunt et in temptationem animis hominum et in muscipulum
+            pedibus insipientium</p>
+          <p xml:id="sap14_12" n="12">initium enim fornicationis est exquisitio idolorum et
+            adinventio illorum corruptio vitae est</p>
+          <p xml:id="sap14_13" n="13">neque erant ab initio neque erunt in perpetuum</p>
+          <p xml:id="sap14_14" n="14">supervacuitas enim hominum venit in orbem terrarum et ideo
+            brevis illorum finis inventus est</p>
+          <p xml:id="sap14_15" n="15">acerbo enim luctu dolens pater cito sibi filii rapti faciens
+            imaginem illum qui tunc homo mortuus fuerat nunc tamquam deum colere coepit et
+            constituit inter servos suos sacra et sacrificia</p>
+          <p xml:id="sap14_16" n="16">deinde interveniente tempore convalescente iniqua consuetudine
+            hic error tamquam lex custodita est et tyrannorum imperio colebantur figmenta</p>
+          <p xml:id="sap14_17" n="17">hos quos in palam honorare non poterant homines propter quod
+            longe essent e longinquo figura illorum adlata evidentem imaginem regis quem honorare
+            volebant fecerunt ut illum qui aberat tamquam praesentem colerent sua sollicitudine</p>
+          <p xml:id="sap14_18" n="18">provexit autem ad horum culturam et hos qui ignorabant
+            artificis eximia diligentia</p>
+          <p xml:id="sap14_19" n="19">ille enim volens placere illi qui se adsumpsit elaboravit arte
+            sua ut similitudinem in melius figuraret</p>
+          <p xml:id="sap14_20" n="20">multitudo autem adducta per speciem operis eum qui ante tempus
+            tamquam homo honoratus fuerat nunc deum existimaverunt</p>
+          <p xml:id="sap14_21" n="21">et haec fuit vitae humanae deceptio quoniam aut adfectui aut
+            regibus deservientes homines incommunicabile nomen lapidibus et lignis inposuerunt</p>
+          <p xml:id="sap14_22" n="22">et non sufficerat errasse eos circa Dei scientiam sed et in
+            magno viventes inscientiae bello tot et tam magna mala pacem appellant</p>
+          <p xml:id="sap14_23" n="23">aut enim filios suos sacrificantes aut obscura sacrificia
+            facientes aut insaniae plenas vigilias habentes</p>
+          <p xml:id="sap14_24" n="24">neque vitam neque nuptias mundas iam custodiunt sed alius
+            alium per invidiam occidit aut adulterans contristat</p>
+          <p xml:id="sap14_25" n="25">et omnia commixta sunt sanguis homicidium furtum et fictio
+            corruptio infidelitas turbatio et periurium tumultus bonorum</p>
+          <p xml:id="sap14_26" n="26">Domini inmemoratio animarum inquinatio nativitatis inmutatio
+            nuptiarum inconstantia moechiae et inpudicitia</p>
+          <p xml:id="sap14_27" n="27">infandorum enim idolorum cultura omnis mali causa est et
+            initium et finis</p>
+          <p xml:id="sap14_28" n="28">aut enim dum laetantur insaniunt aut vaticinantur falsa aut
+            vivunt iniuste aut periurant cito</p>
+          <p xml:id="sap14_29" n="29">dum enim confidunt in idolis quae sunt sine anima male
+            iurantes renoceri se non sperant</p>
+          <p xml:id="sap14_30" n="30">utraque ergo illis evenient digne quoniam male senserunt de
+            Deo adtendentes idolis et iniuste iuraverunt in dolo contemnentes iustitiam</p>
+          <p xml:id="sap14_31" n="31">non enim iurantium est virtus sed peccantium poena perambulat
+            semper in iniustorum praevaricationem</p>
+        </div>
+        <div xml:id="bible-sap15" n="15">
+          <head>Caput 15</head>
+          <p xml:id="sap15_1" n="1">tu autem Deus noster suavis et verus es patiens et misericordia
+            disponens omnia</p>
+          <p xml:id="sap15_2" n="2">etenim si peccaverimus tui sumus scientes magnitudinem tuam et
+            si non peccaverimus scimus quoniam apud te sumus conputati</p>
+          <p xml:id="sap15_3" n="3">nosse enim te consummata iustitia est et scire iustitiam et
+            virtutem tuam radix est inmortalitatis</p>
+          <p xml:id="sap15_4" n="4">non enim in errorem induxit nos hominum malae artis excogitatio
+            nec umbra picturae labor sine fructu effigies sculpta per varios colores</p>
+          <p xml:id="sap15_5" n="5">cuius aspectus insensato dat concupiscentiam et diligit mortuae
+            imaginis effigiem sine anima</p>
+          <p xml:id="sap15_6" n="6">malorum amatores digni qui spem in talibus habent et qui faciunt
+            illos et qui diligunt et qui colunt</p>
+          <p xml:id="sap15_7" n="7">sed et figulus mollem terram premens laboriose fingit ad usus
+            nostros unumquodque vas et de eodem luto fingit quae munda sunt in usum vasa similiter
+            et quae his sunt contraria horum autem vasorum qui sit usus iudex est figulus</p>
+          <p xml:id="sap15_8" n="8">et cum labore vanum deum de eodem fingit luto ille qui paulo
+            ante de terra factus fuerat et post pusillum se ducit unde acceptus est repetitus
+            debitum animae quem habebat</p>
+          <p xml:id="sap15_9" n="9">sed est illi cura non quia laboraturus est nec quoniam brevis
+            illi vita est sed concertatur aurificibus et argentariis sed et aerarios imitatur et
+            gloriam praefert quoniam res supervacuas fingit</p>
+          <p xml:id="sap15_10" n="10">cinis est cor eius et terra supervacua spes illius et luto
+            vilior vita illius</p>
+          <p xml:id="sap15_11" n="11">quoniam ignoravit qui se finxit et qui inspiravit illi animam
+            quae operatur et qui insuflavit spiritum vitalem</p>
+          <p xml:id="sap15_12" n="12">sed aestimaverunt ludum esse vitam nostram et conversationem
+            vitae conpositam ad lucrum et oportere undecumque etiam ex malo adquirere</p>
+          <p xml:id="sap15_13" n="13">hic enim super omnes scit se delinquere qui ex terrae materia
+            fragilia vasa et sculptilia fingit</p>
+          <p xml:id="sap15_14" n="14">omnes enim insipientes et infelices supra modum animae superbi
+            sunt inimici populi tui et imperantes illi</p>
+          <p xml:id="sap15_15" n="15">quoniam omnia idola nationum aestimaverunt deos quibus neque
+            oculorum visus est ad videndum neque nares ad percipiendum spiritum neque aures ad
+            audiendum nec digiti manuum ad tractandum sed et pedes eorum pigri ad ambulandum</p>
+          <p xml:id="sap15_16" n="16">homo enim fecit illos et qui spiritum mutuatus est is finxit
+            illos nemo enim sibi similem homo poterit deum fingere</p>
+          <p xml:id="sap15_17" n="17">cum sit enim mortalis mortuum fingit manibus iniquis melior
+            est enim ipse his quos colit quia ipse quidem vixit cum esset mortalis illi autem
+            numquam</p>
+          <p xml:id="sap15_18" n="18">sed et animalia miserrima colunt insensate enim conparata his
+            aliis sunt deteriora</p>
+          <p xml:id="sap15_19" n="19">sed nec aspectu aliquis ex his animalibus bona potest
+            conspicere effugit autem Dei laudem et benedictionem eius</p>
+        </div>
+        <div xml:id="bible-sap16" n="16">
+          <head>Caput 16</head>
+          <p xml:id="sap16_1" n="1">propter hoc per his similia passi sunt digne tormenta et per
+            multitudinem bestiarum exterminati sunt</p>
+          <p xml:id="sap16_2" n="2">pro quibus tormentis bene disposuisti populum tuum quibus
+            dedisti concupiscentiam delectamenti sui novum saporem escam parans eis ortygometram</p>
+          <p xml:id="sap16_3" n="3">ut illi quidem concupiscentes escam propter ea quae illis
+            ostensa et missa sunt etiam a necessaria concupiscentia averterentur hi autem in brevi
+            inopes facti novam gustaverunt escam</p>
+          <p xml:id="sap16_4" n="4">oportebat enim illis quidem sine excusatione supervenire
+            interitum exercentibus tyrannidem his autem tantum ostendere quemadmodum inimici illorum
+            exterminabantur</p>
+          <p xml:id="sap16_5" n="5">etenim cum supervenit illis saeva bestiarum ira morsibus
+            perversarum colubrarum exterminabantur</p>
+          <p xml:id="sap16_6" n="6">non in perpetuum permansit ira tua sed ad correptionem in brevi
+            turbati sunt signum habentes salutis ad commemorationem mandati legis tuae</p>
+          <p xml:id="sap16_7" n="7">qui enim conversus est non per hoc quod videbat sanabatur sed
+            per te omnium salvatorem</p>
+          <p xml:id="sap16_8" n="8">et in hoc autem ostendisti inimicis nostris quia tu es qui
+            liberas ab omni malo</p>
+          <p xml:id="sap16_9" n="9">illos enim lucustarum et muscarum occiderunt morsus et non est
+            inventa sanitas animae illorum quia digni erant ab huiusmodi exterminari</p>
+          <p xml:id="sap16_10" n="10">filios autem tuos nec draconum venenatorum vicerunt dentes
+            misericordia enim tua adveniens sanabat illos</p>
+          <p xml:id="sap16_11" n="11">in memoria enim sermonum tuorum examinabantur et salvabantur
+            ne in altam incidentes oblivionem non possent tuo uti adiutorio</p>
+          <p xml:id="sap16_12" n="12">etenim neque herba neque malagma sanavit illos sed tuus Domine
+            sermo qui sanat omnia</p>
+          <p xml:id="sap16_13" n="13">tu enim vitae et mortis habes potestatem et deducis ad portas
+            mortis et reducis</p>
+          <p xml:id="sap16_14" n="14">homo autem occidit quidem per malitiam animam suam et cum
+            exibit spiritus non revertetur nec revocabit animam quae recepta est</p>
+          <p xml:id="sap16_15" n="15">sed tuam manum effugere inpossibile est</p>
+          <p xml:id="sap16_16" n="16">negantes enim nosse te impii per fortitudinem brachii tui
+            flagellati sunt novis aquis et grandinibus et pluviis persecutionem passi et per ignem
+            consummati</p>
+          <p xml:id="sap16_17" n="17">quod enim mirabile erat in aqua quae omnia extinguit plus
+            ignis valebat vindex est enim orbis iustorum</p>
+          <p xml:id="sap16_18" n="18">quodam enim tempore mansuetabatur ignis ne conburerentur quae
+            ad impios missa erant animalia sed ut ipsi videntes scirent quoniam Dei iudicio
+            patiuntur persecutionem</p>
+          <p xml:id="sap16_19" n="19">et quodam tempore in aqua super virtutem ignis ardebat ut
+            iniquae terrae nationem exterminaret</p>
+          <p xml:id="sap16_20" n="20">pro quibus angelorum esca nutristi populum tuum et paratum
+            panem e caelo praestitisti illis sine labore omne delectamentum in se habentem et omnis
+            saporis suavitatem</p>
+          <p xml:id="sap16_21" n="21">substantia enim tua dulcedinem tuam quam in filios habes
+            ostendebat et serviens uniuscuiusque voluntati ad quod quis volebat convertebatur</p>
+          <p xml:id="sap16_22" n="22">nix autem et glacies sustinebant vim ignis et non tabescebant
+            ut scirent quoniam fructus inimicorum exterminabat ignis ardens in grandine et pluvia
+            coruscans</p>
+          <p xml:id="sap16_23" n="23">hoc autem iterum ut nutrirentur iusti etiam suae virtutis
+            oblitus est</p>
+          <p xml:id="sap16_24" n="24">creatura enim tibi factori deserviens excandescit in tormentum
+            adversus iniustos et lenior fit ad benefaciendum pro his qui in te confidunt</p>
+          <p xml:id="sap16_25" n="25">propter hoc et tunc in omnia transfigurata omnium nutrici
+            gratiae tuae deserviebant ad voluntatem horum qui a te desiderati sunt</p>
+          <p xml:id="sap16_26" n="26">ut scirent filii tui quos dilexisti Domine quoniam non
+            nativitatis fructus pascunt homines sed sermo tuus hos qui in te crediderint
+            conservat</p>
+          <p xml:id="sap16_27" n="27">quod enim ab igni non poterat exterminari statim ab exiguo
+            radio solis calefactum tabescebat</p>
+          <p xml:id="sap16_28" n="28">ut notum omnibus esset quoniam oportet praevenire solem ad
+            benedictionem tuam et ad orientem lucis tibi adorare</p>
+          <p xml:id="sap16_29" n="29">ingrati enim fides tamquam hibernalis glacies tabescit et
+            disperiet tamquam aqua supervacua</p>
+        </div>
+        <div xml:id="bible-sap17" n="17">
+          <head>Caput 17</head>
+          <p xml:id="sap17_1" n="1">magna enim sunt iudicia tua et inenarrabilia verba tua propter
+            hoc indisciplinatae animae erraverunt</p>
+          <p xml:id="sap17_2" n="2">dum enim persuasum habent iniqui posse dominari nationi sanctae
+            vinculis tenebrarum et longae noctis conpediti inclusi sub tectis fugitivi perpetuae
+            providentiae iacuerunt</p>
+          <p xml:id="sap17_3" n="3">et dum putant se latere in obscuris peccatis tenebroso
+            oblivionis velamento dispersi sunt paventes horrende et cum admiratione nimia
+            perturbati</p>
+          <p xml:id="sap17_4" n="4">neque enim quae continebat illos spelunca sine timore
+            custodiebat quoniam sonitus descendens perturbabat illos et personae tristes apparentes
+            pavorem illis praestabant</p>
+          <p xml:id="sap17_5" n="5">et ignis quidem nulla vis poterat illis lumen praebere nec
+            siderum limpidae flammae inluminare poterant illam noctem horrendam</p>
+          <p xml:id="sap17_6" n="6">apparebat autem illis subitaneus ignis timore plenus et timore
+            percussi illius quae non videbatur faciei aestimabant deteriora esse quae videbantur</p>
+          <p xml:id="sap17_7" n="7">et magicae artis adpositi erant derisus et sapientiae gloriae
+            correptio cum contumelia</p>
+          <p xml:id="sap17_8" n="8">illi enim qui promittebant timores turbationes expellere se ab
+            anima languente hi cum derisu pleni timore languebant</p>
+          <p xml:id="sap17_9" n="9">nam et si nihil illos ex monstris perturbabat transitu animalium
+            et serpentium sibilatione commoti tremebundi peribant et aerem quem nulla ratione quis
+            effugere posset negantes se videre</p>
+          <p xml:id="sap17_10" n="10">cum sit enim timida nequitia dat testimonium condemnata semper
+            enim praesumit saeva conturbata conscientia</p>
+          <p xml:id="sap17_11" n="11">nihil enim est timor nisi praesumptionis adiutorium proditio
+            cogitationis auxiliorum</p>
+          <p xml:id="sap17_12" n="12">et dum ab intro minor est expectatio maiorem putat scientiam
+            eius causae de qua tormentum praestat</p>
+          <p xml:id="sap17_13" n="13">illi autem qui inpotentem vere noctem et ab infimis et ab
+            altissimis inferis supervenientem eundem somnum dormientes</p>
+          <p xml:id="sap17_14" n="14">aliquando monstrorum exagitabantur timore aliquando animae
+            deficiebant traductione subitaneus enim illis et insperatus timor supervenerat</p>
+          <p xml:id="sap17_15" n="15">deinde si quicumque ex illis decidisset custodiebatur in
+            carcere sine ferro reclusus</p>
+          <p xml:id="sap17_16" n="16">si enim rusticus quis erat aut pastor aut agri laborum
+            operarius praeoccupatus esset ineffugibilem sustinebat necessitatem</p>
+          <p xml:id="sap17_17" n="17">una enim catena tenebrarum omnes erant conligati sive spiritus
+            sibilans aut inter spissos ramos avium sonus suavis aut vis aquae decurrentis nimium</p>
+          <p xml:id="sap17_18" n="18">aut sonus validus praecipitarum petrarum aut ludentium
+            animalium cursus invisus aut mugientium valida bestiarum vox aut resonans de altissimis
+            montibus echo deficientes faciebat illos prae timore</p>
+          <p xml:id="sap17_19" n="19">omnis enim orbis terrarum limpido luminabatur lumine et non
+            inpeditis operibus continebatur</p>
+          <p xml:id="sap17_20" n="20">solis autem illis superposita erat gravis nox imago tenebrarum
+            quae superventura illis erat ipsi ergo sibi erant graviores tenebris</p>
+        </div>
+        <div xml:id="bible-sap18" n="18">
+          <head>Caput 18</head>
+          <p xml:id="sap18_1" n="1">sanctis autem tuis maxima erat lux et horum quidem vocem
+            audiebant sed figuram non videbant et quia non et ipsi per eadem passi erant
+            magnificabant</p>
+          <p xml:id="sap18_2" n="2">et qui ante laesi erant quoniam non laedebantur gratias agebant
+            et ut esset differentia donum petebant</p>
+          <p xml:id="sap18_3" n="3">propter quod igni ardentem columnam ducem habuerunt ignotae viae
+            et solem sine laesura boni hospitii praestitisti</p>
+          <p xml:id="sap18_4" n="4">digni quidem illi carere luce et pati carcerem tenebrarum qui
+            inclusos custodiebant filios tuos per quos incipiebat incorruptum legis lumen saeculo
+            dari</p>
+          <p xml:id="sap18_5" n="5">cum cogitarent iustorum occidere infantes et uno exposito filio
+            et liberato in traductionem illorum multitudinem filiorum abstulisti et pariter illos
+            perdidisti in aquam validam</p>
+          <p xml:id="sap18_6" n="6">illa nox ante cognita est a parentibus nostris ut vere scientes
+            quibus iuramentis crediderunt animaequiores essent</p>
+          <p xml:id="sap18_7" n="7">suscepta est autem a populo tuo sanitas quidem iustorum
+            iniustorum autem exterminatio</p>
+          <p xml:id="sap18_8" n="8">sicut enim laesisti adversarios sic nos provocans
+            magnificasti</p>
+          <p xml:id="sap18_9" n="9">absconse enim sacrificabant iusti pueri bonorum et iustitiae
+            legem in concordia disposuerunt similiter bona et mala percepturos iustos patri iam
+            decantantes laudes</p>
+          <p xml:id="sap18_10" n="10">resonabat autem inconveniens inimicorum vox et flebilis
+            audiebatur planctus ploratorum infantium</p>
+          <p xml:id="sap18_11" n="11">simili autem poena servus cum domino adflictus et popularis
+            homo regi similia passus</p>
+          <p xml:id="sap18_12" n="12">similiter ergo omnes uno nomine mortis mortuos habebant
+            innumerabiles nec enim ad sepeliendum vivi sufficiebant quoniam uno momento quae erat
+            praeclarior natio illorum exterminata est</p>
+          <p xml:id="sap18_13" n="13">de omnibus enim non credentes propter veneficia tunc cum fuit
+            exterminium primogenitorum spoponderunt populum Dei se esse</p>
+          <p xml:id="sap18_14" n="14">cum enim quietum silentium contineret omnia et nox in suo
+            cursu medium iter haberet</p>
+          <p xml:id="sap18_15" n="15">omnipotens sermo tuus de caelo a regalibus sedibus durus
+            debellator in mediam exterminii terram prosilivit</p>
+          <p xml:id="sap18_16" n="16">gladius acutus insimulatum imperium tuum portans et stans
+            replevit omnia morte et usque ad caelum adtingebat stans in terra</p>
+          <p xml:id="sap18_17" n="17">tum continuo visus somniorum malorum turbaverunt illos et
+            timores supervenerunt insperati</p>
+          <p xml:id="sap18_18" n="18">et alius alibi proiectus semivivus propter quam moriebatur
+            causam demonstrabat</p>
+          <p xml:id="sap18_19" n="19">visiones enim quae illos turbaverunt haec praemonebant ne
+            inscii quare mala patiebantur perirent</p>
+          <p xml:id="sap18_20" n="20">tetigit autem tunc et iustos temptatio mortis et commotio in
+            heremo facta est multitudinis sed non diu permansit ira</p>
+          <p xml:id="sap18_21" n="21">properans enim homo sine querella propugnavit proferens
+            servitutis suae scutum orationem et per incensum deprecationem allegans restitit irae et
+            finem inposuit necessitati ostendens quoniam tuus est famulus</p>
+          <p xml:id="sap18_22" n="22">vicit autem turbas non virtute corporis nec armatura potentiae
+            sed verbo vexatorem subiecit iuramenta parentum et testamentum commemorans</p>
+          <p xml:id="sap18_23" n="23">cum enim iam acervatim cecidissent super alterutrum mortui
+            interstetit et amputavit impetum et divisit illam quae ad vivos ducebat viam</p>
+          <p xml:id="sap18_24" n="24">in veste enim poderis quam habebat totus erat orbis terrarum
+            et parentum magnalia in quattuor ordinibus lapidum erant sculpta et magnificentia tua in
+            diademate capitis illius erat scripta</p>
+          <p xml:id="sap18_25" n="25">haec autem his cessit qui exterminabat et haec extimuit erat
+            enim sola temptatio irae sufficiens</p>
+        </div>
+        <div xml:id="bible-sap19" n="19">
+          <head>Caput 19</head>
+          <p xml:id="sap19_1" n="1">impiis autem usque in novissimum sine misericordia ira
+            supervenit praesciebat enim et futura illorum</p>
+          <p xml:id="sap19_2" n="2">quoniam ipsi cum reversi essent ut se ducerent et cum magna
+            sollicitudine praemisissent illos consequebantur illos paenitentia acti</p>
+          <p xml:id="sap19_3" n="3">adhuc enim inter manus habentes luctus et deplorantes ad
+            monumenta mortuorum aliam sibi adsumpserunt cogitationem inscientiae et quos rogantes
+            proiecerunt hos tamquam fugitivos persequebantur</p>
+          <p xml:id="sap19_4" n="4">ducebat enim illos ad hunc finem digna necessitas et horum quae
+            acciderant memorationem amittebant</p>
+          <p xml:id="sap19_5" n="5">ut eam quae deerat tormentis replerent punitionem et populus
+            quidem tuus mirabiliter transiret illi autem novam mortem invenirent</p>
+          <p xml:id="sap19_6" n="6">omnis enim creatura ad suum genus ab initio refigurabatur
+            deserviens tuis praeceptis ut pueri tui custodirentur inlaesi</p>
+          <p xml:id="sap19_7" n="7">nam nubis castra eorum adumbrabat et ex aqua quae ante erat
+            terra arida apparuit et ex mari Rubro via sine inpedimento et campus germinans de
+            profundo nimio</p>
+          <p xml:id="sap19_8" n="8">per quem omnis natio transivit quae tegebatur tua manu videntes
+            mirabilia monstra</p>
+          <p xml:id="sap19_9" n="9">tamquam equi enim depaverunt et tamquam agni exultaverunt
+            magnificantes te Domine qui liberasti illos</p>
+          <p xml:id="sap19_10" n="10">memores enim erant adhuc eorum quae in incolatu illorum facta
+            fuerant quemadmodum pro natione animalium eduxit terra muscas et pro piscibus eructavit
+            fluvius multitudinem ranarum</p>
+          <p xml:id="sap19_11" n="11">novissime autem viderunt novam creaturam avium cum abducti
+            concupiscentia postulaverunt escam epulationis</p>
+          <p xml:id="sap19_12" n="12">in adlocutione enim desiderii ascendit illis de mari
+            ortygometra et vexationes peccatoribus supervenerunt non sine illis quae ante facta
+            erant argumentis per vim fluminum iuste enim patiebantur secundum suas nequitias</p>
+          <p xml:id="sap19_13" n="13">etenim detestabiliorem inhospitalitatem instituerunt alii
+            quidem ignotos non recipiebant advenas alii autem bonos hospites in servitutem
+            accipiebant</p>
+          <p xml:id="sap19_14" n="14">et non solum hoc sed et alius quis respectus erit illorum
+            quoniam inviti recipiebant extraneos</p>
+          <p xml:id="sap19_15" n="15">qui autem cum laetitia receperunt hos qui eisdem usi erant
+            iustitiis saevissimis adflixerunt doloribus</p>
+          <p xml:id="sap19_16" n="16">percussi sunt autem caecitate sicut illi in foribus iusti cum
+            subitaneis cooperti essent tenebris unusquisque ostii sui transitum quaerebat</p>
+          <p xml:id="sap19_17" n="17">in se enim elementa dum convertuntur sicut in organo
+            qualitatis sonus inmutatur et omnia suum sonum custodiunt unde est aestimare et ex ipso
+            certo visu</p>
+          <p xml:id="sap19_18" n="18">agrestia enim in aquatica convertebantur et quaecumque erant
+            natantia in terram transiebant</p>
+          <p xml:id="sap19_19" n="19">ignis in aqua valebat supra suam virtutem et aqua extinguentis
+            naturae obliviscebatur</p>
+          <p xml:id="sap19_20" n="20">flammae e contrario corruptibilium animalium non vexaverunt
+            carnes coambulantium nec dissolvebant illam quae facile dissolvitur sicut glacies bonam
+            escam in omnibus enim Domine magnificasti populum tuum et honorasti et non despexisti in
+            omni tempore et in omni loco adsistens eis</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

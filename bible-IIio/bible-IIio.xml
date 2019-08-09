@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>2 Johannes</title>
+        <author/>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"><date when="2011-10-04">October 04, 2011</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
+              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl>
+          <bibl>Biblia Sacra Vulgata - The Free Bible Group</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2011-10-04" status="draft" n="0.0.0"><p>File Started for the first
+          time.</p></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="bible-IIio">
+        <div xml:id="bible-IIio1" n="1">
+          <head>Caput 1</head>
+          <p xml:id="IIio1_1" n="1">senior electae dominae et natis eius quos ego diligo in veritate
+            et non ego solus sed et omnes qui cognoverunt veritatem</p>
+          <p xml:id="IIio1_2" n="2">propter veritatem quae permanet in nobis et nobiscum erit in
+            aeternum</p>
+          <p xml:id="IIio1_3" n="3">sit nobiscum gratia misericordia pax a Deo Patre et a Christo
+            Iesu Filio Patris in veritate et caritate</p>
+          <p xml:id="IIio1_4" n="4">gavisus sum valde quoniam inveni de filiis tuis ambulantes in
+            veritate sicut mandatum accepimus a Patre</p>
+          <p xml:id="IIio1_5" n="5">et nunc rogo te domina non tamquam mandatum novum scribens tibi
+            sed quod habuimus ab initio ut diligamus alterutrum</p>
+          <p xml:id="IIio1_6" n="6">et haec est caritas ut ambulemus secundum mandata eius hoc
+            mandatum est ut quemadmodum audistis ab initio in eo ambuletis</p>
+          <p xml:id="IIio1_7" n="7">quoniam multi seductores exierunt in mundum qui non confitentur
+            Iesum Christum venientem in carne hic est seductor et antichristus</p>
+          <p xml:id="IIio1_8" n="8">videte vosmet ipsos ne perdatis quae operati estis sed ut
+            mercedem plenam accipiatis</p>
+          <p xml:id="IIio1_9" n="9">omnis qui praecedit et non manet in doctrina Christi Deum non
+            habet qui permanet in doctrina hic et Filium et Patrem habet</p>
+          <p xml:id="IIio1_10" n="10">si quis venit ad vos et hanc doctrinam non adfert nolite
+            recipere eum in domum nec have ei dixeritis</p>
+          <p xml:id="IIio1_11" n="11">qui enim dicit illi have communicat operibus illius
+            malignis</p>
+          <p xml:id="IIio1_12" n="12">plura habens vobis scribere nolui per cartam et atramentum
+            spero enim me futurum apud vos et os ad os loqui ut gaudium vestrum plenum sit</p>
+          <p xml:id="IIio1_13" n="13">salutant te filii sororis tuae electae</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Rut</title>
+        <author/>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"><date when="2011-10-04">October 04, 2011</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
+              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl>
+          <bibl>Biblia Sacra Vulgata - The Free Bible Group</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2011-10-04" status="draft" n="0.0.0"><p>File Started for the first
+          time.</p></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="bible-rut">
+        <div xml:id="bible-rut1" n="1">
+          <head>Caput 1</head>
+          <p xml:id="rut1_1" n="1">in diebus unius iudicis quando iudices praeerant facta est fames
+            in terra abiitque homo de Bethleem Iuda ut peregrinaretur in regione moabitide cum uxore
+            sua ac duobus liberis</p>
+          <p xml:id="rut1_2" n="2">ipse vocabatur Helimelech uxor eius Noemi e duobus filiis alter
+            Maalon et alter Chellion Ephrathei de Bethleem Iuda ingressique regionem moabitidem
+            morabantur ibi</p>
+          <p xml:id="rut1_3" n="3">et mortuus est Helimelech maritus Noemi remansitque ipsa cum
+            filiis</p>
+          <p xml:id="rut1_4" n="4">qui acceperunt uxores moabitidas quarum una vocabatur Orpha
+            altera Ruth manseruntque ibi decem annis</p>
+          <p xml:id="rut1_5" n="5">et ambo mortui sunt Maalon videlicet et Chellion remansitque
+            mulier orbata duobus liberis ac marito</p>
+          <p xml:id="rut1_6" n="6">et surrexit ut in patriam pergeret cum utraque nuru sua de
+            regione moabitide audierat enim quod respexisset Dominus populum suum et dedisset eis
+            escas</p>
+          <p xml:id="rut1_7" n="7">egressa est itaque de loco peregrinationis suae cum utraque nuru
+            et iam in via posita revertendi in terram Iuda</p>
+          <p xml:id="rut1_8" n="8">dixit ad eas ite in domum matris vestrae faciat Dominus vobiscum
+            misericordiam sicut fecistis cum mortuis et mecum</p>
+          <p xml:id="rut1_9" n="9">det vobis invenire requiem in domibus virorum quos sortiturae
+            estis et osculata est eas quae elevata voce flere coeperunt</p>
+          <p xml:id="rut1_10" n="10">et dicere tecum pergemus ad populum tuum</p>
+          <p xml:id="rut1_11" n="11">quibus illa respondit revertimini filiae mi cur venitis mecum
+            num ultra habeo filios in utero meo ut viros ex me sperare possitis</p>
+          <p xml:id="rut1_12" n="12">revertimini filiae mi abite iam enim senectute confecta sum nec
+            apta vinculo coniugali etiam si possem hac nocte concipere et parere filios</p>
+          <p xml:id="rut1_13" n="13">si eos expectare velitis donec crescant et annos impleant
+            pubertatis ante eritis vetulae quam nubatis nolite quaeso filiae mi quia vestra angustia
+            me magis premit et egressa est manus Domini contra me</p>
+          <p xml:id="rut1_14" n="14">elevata igitur voce rursum flere coeperunt Orpha osculata
+            socrum est ac reversa Ruth adhesit socrui suae</p>
+          <p xml:id="rut1_15" n="15">cui dixit Noemi en reversa est cognata tua ad populum suum et
+            ad deos suos vade cum ea</p>
+          <p xml:id="rut1_16" n="16">quae respondit ne adverseris mihi ut relinquam te et abeam
+            quocumque perrexeris pergam ubi morata fueris et ego pariter morabor populus tuus
+            populus meus et Deus tuus Deus meus</p>
+          <p xml:id="rut1_17" n="17">quae te morientem terra susceperit in ea moriar ibique locum
+            accipiam sepulturae haec mihi faciat Deus et haec addat si non sola mors me et te
+            separaverit</p>
+          <p xml:id="rut1_18" n="18">videns ergo Noemi quod obstinato Ruth animo decrevisset secum
+            pergere adversari noluit nec ultra ad suos reditum persuadere</p>
+          <p xml:id="rut1_19" n="19">profectaeque sunt simul et venerunt in Bethleem quibus urbem
+            ingressis velox apud cunctos fama percrebuit dicebantque mulieres haec est illa
+            Noemi</p>
+          <p xml:id="rut1_20" n="20">quibus ait ne vocetis me Noemi id est pulchram sed vocate me
+            Mara hoc est amaram quia valde me amaritudine replevit Omnipotens</p>
+          <p xml:id="rut1_21" n="21">egressa sum plena et vacuam reduxit me Dominus cur igitur
+            vocatis me Noemi quam humiliavit Dominus et adflixit Omnipotens</p>
+          <p xml:id="rut1_22" n="22">venit ergo Noemi cum Ruth Moabitide nuru sua de terra
+            peregrinationis suae ac reversa est in Bethleem quando primum hordea metebantur</p>
+        </div>
+        <div xml:id="bible-rut2" n="2">
+          <head>Caput 2</head>
+          <p xml:id="rut2_1" n="1">erat autem vir Helimelech consanguineus homo potens et magnarum
+            opum nomine Booz</p>
+          <p xml:id="rut2_2" n="2">dixitque Ruth Moabitis ad socrum suam si iubes vadam in agrum et
+            colligam spicas quae metentium fugerint manus ubicumque clementis in me patris familias
+            repperero gratiam cui illa respondit vade filia mi</p>
+          <p xml:id="rut2_3" n="3">abiit itaque et colligebat spicas post terga metentium accidit
+            autem ut ager ille haberet dominum Booz qui erat de cognatione Helimelech</p>
+          <p xml:id="rut2_4" n="4">et ecce ipse veniebat de Bethleem dixitque messoribus Dominus
+            vobiscum qui responderunt ei benedicat tibi Dominus</p>
+          <p xml:id="rut2_5" n="5">dixitque Booz iuveni qui messoribus praeerat cuius est haec
+            puella</p>
+          <p xml:id="rut2_6" n="6">qui respondit haec est Moabitis quae venit cum Noemi de regione
+            moabitide</p>
+          <p xml:id="rut2_7" n="7">et rogavit ut spicas colligeret remanentes sequens messorum
+            vestigia et de mane usque nunc stat in agro et ne ad momentum quidem domum reversa
+            est</p>
+          <p xml:id="rut2_8" n="8">et ait Booz ad Ruth audi filia ne vadas ad colligendum in alterum
+            agrum nec recedas ab hoc loco sed iungere puellis meis</p>
+          <p xml:id="rut2_9" n="9">et ubi messuerint sequere mandavi enim pueris meis ut nemo tibi
+            molestus sit sed etiam si sitieris vade ad sarcinulas et bibe aquas de quibus et pueri
+            bibunt</p>
+          <p xml:id="rut2_10" n="10">quae cadens in faciem suam et adorans super terram dixit ad eum
+            unde mihi hoc ut invenirem gratiam ante oculos tuos et nosse me dignareris peregrinam
+            mulierem</p>
+          <p xml:id="rut2_11" n="11">cui ille respondit nuntiata sunt mihi omnia quae feceris socrui
+            tuae post mortem viri tui et quod dereliqueris parentes tuos et terram in qua nata es et
+            veneris ad populum quem ante nesciebas</p>
+          <p xml:id="rut2_12" n="12">reddat tibi Dominus pro opere tuo et plenam mercedem recipias a
+            Domino Deo Israhel ad quem venisti et sub cuius confugisti alas</p>
+          <p xml:id="rut2_13" n="13">quae ait inveni gratiam ante oculos tuos domine mi qui
+            consolatus es me et locutus es ad cor ancillae tuae quae non sum similis unius puellarum
+            tuarum</p>
+          <p xml:id="rut2_14" n="14">dixitque ad eam Booz quando hora vescendi fuerit veni huc et
+            comede panem et intingue buccellam tuam in aceto sedit itaque ad messorum latus et
+            congessit pulentam sibi comeditque et saturata est et tulit reliquias</p>
+          <p xml:id="rut2_15" n="15">atque inde surrexit ut spicas ex more colligeret praecepit
+            autem Booz pueris suis dicens etiam si vobiscum metere voluerit ne prohibeatis eam</p>
+          <p xml:id="rut2_16" n="16">et de vestris quoque manipulis proicite de industria et
+            remanere permittite ut absque rubore colligat et colligentem nemo corripiat</p>
+          <p xml:id="rut2_17" n="17">collegit ergo in agro usque ad vesperam et quae collegerat
+            virga caedens et excutiens invenit hordei quasi oephi mensuram id est tres modios</p>
+          <p xml:id="rut2_18" n="18">quos portans reversa est in civitatem et ostendit socrui suae
+            insuper protulit et dedit ei de reliquiis cibi sui quo saturata fuerat</p>
+          <p xml:id="rut2_19" n="19">dixitque ei socrus ubi hodie collegisti et ubi fecisti opus sit
+            benedictus qui misertus est tui indicavitque ei apud quem esset operata et nomen dixit
+            viri quod Booz vocaretur</p>
+          <p xml:id="rut2_20" n="20">cui respondit Noemi benedictus sit a Domino quoniam eandem
+            gratiam quam praebuerat vivis servavit et mortuis rursumque propinquus ait noster est
+            homo</p>
+          <p xml:id="rut2_21" n="21">et Ruth hoc quoque inquit praecepit mihi ut tamdiu messoribus
+            eius iungerer donec omnes segetes meterentur</p>
+          <p xml:id="rut2_22" n="22">cui dixit socrus melius est filia mi ut cum puellis eius exeas
+            ad metendum ne in alieno agro quispiam resistat tibi</p>
+          <p xml:id="rut2_23" n="23">iuncta est itaque puellis Booz et tamdiu cum eis messuit donec
+            hordea et triticum in horreis conderentur</p>
+        </div>
+        <div xml:id="bible-rut3" n="3">
+          <head>Caput 3</head>
+          <p xml:id="rut3_1" n="1">postquam autem reversa est ad socrum suam audivit ab ea filia mi
+            quaeram tibi requiem et providebo ut bene sit tibi</p>
+          <p xml:id="rut3_2" n="2">Booz iste cuius puellis in agro iuncta es propinquus est noster
+            et hac nocte aream hordei ventilat</p>
+          <p xml:id="rut3_3" n="3">lava igitur et unguere et induere cultioribus vestimentis ac
+            descende in aream non te videat homo donec esum potumque finierit</p>
+          <p xml:id="rut3_4" n="4">quando autem ierit ad dormiendum nota locum in quo dormiat
+            veniesque et discoperies pallium quo operitur a parte pedum et proicies te et ibi
+            iacebis ipse autem dicet tibi quid agere debeas</p>
+          <p xml:id="rut3_5" n="5">quae respondit quicquid praeceperis faciam</p>
+          <p xml:id="rut3_6" n="6">descenditque in aream et fecit omnia quae sibi imperaverat
+            socrus</p>
+          <p xml:id="rut3_7" n="7">cumque comedisset Booz et bibisset et factus esset hilarior
+            issetque ad dormiendum iuxta acervum manipulorum venit abscondite et discoperto a
+            pedibus eius pallio se proiecit</p>
+          <p xml:id="rut3_8" n="8">et ecce nocte iam media expavit homo et conturbatus est viditque
+            mulierem iacentem ad pedes suos</p>
+          <p xml:id="rut3_9" n="9">et ait illi quae es illaque respondit ego sum Ruth ancilla tua
+            expande pallium tuum super famulam tuam quia propinquus es</p>
+          <p xml:id="rut3_10" n="10">et ille benedicta inquit es Domino filia et priorem
+            misericordiam posteriore superasti quia non es secuta iuvenes pauperes sive divites</p>
+          <p xml:id="rut3_11" n="11">noli ergo metuere sed quicquid dixeris mihi faciam tibi scit
+            enim omnis populus qui habitat intra portas urbis meae mulierem te esse virtutis</p>
+          <p xml:id="rut3_12" n="12">nec abnuo me propinquum sed est alius me propinquior</p>
+          <p xml:id="rut3_13" n="13">quiesce hac nocte et facto mane si te voluerit propinquitatis
+            iure retinere bene res acta est sin autem ille noluerit ego te absque ulla dubitatione
+            suscipiam vivit Dominus dormi usque mane</p>
+          <p xml:id="rut3_14" n="14">dormivit itaque ad pedes eius usque ad noctis abscessum
+            surrexitque antequam homines se cognoscerent mutuo et dixit Booz cave ne quis noverit
+            quod huc veneris</p>
+          <p xml:id="rut3_15" n="15">et rursum expande inquit palliolum tuum quo operiris et tene
+            utraque manu qua extendente et tenente mensus est sex modios hordei et posuit super eam
+            quae portans ingressa est civitatem</p>
+          <p xml:id="rut3_16" n="16">et venit ad socrum suam quae dixit ei quid egisti filia
+            narravitque ei omnia quae sibi fecisset homo</p>
+          <p xml:id="rut3_17" n="17">et ait ecce sex modios hordei dedit mihi et ait nolo vacuam te
+            reverti ad socrum tuam</p>
+          <p xml:id="rut3_18" n="18">dixitque Noemi expecta filia donec videamus quem res exitum
+            habeat neque enim cessabit homo nisi conpleverit quod locutus est</p>
+        </div>
+        <div xml:id="bible-rut4" n="4">
+          <head>Caput 4</head>
+          <p xml:id="rut4_1" n="1">ascendit ergo Booz ad portam et sedit ibi cumque vidisset
+            propinquum praeterire de quo prius sermo habitus est dixit ad eum declina paulisper et
+            sede hic vocans eum nomine suo qui devertit et sedit</p>
+          <p xml:id="rut4_2" n="2">tollens autem Booz decem viros de senioribus civitatis dixit ad
+            eos sedete hic</p>
+          <p xml:id="rut4_3" n="3">quibus residentibus locutus est ad propinquum partem agri fratris
+            nostri Helimelech vendit Noemi quae reversa est de regione moabitide</p>
+          <p xml:id="rut4_4" n="4">quod audire te volui et tibi dicere coram cunctis sedentibus et
+            maioribus natu de populo meo si vis possidere iure propinquitatis eme et posside sin
+            autem tibi displicet hoc ipsum indica mihi ut sciam quid facere debeam nullus est enim
+            propinquus excepto te qui prior es et me qui secundus sum at ille respondit ego agrum
+            emam</p>
+          <p xml:id="rut4_5" n="5">cui dixit Booz quando emeris agrum de manu mulieris Ruth quoque
+            Moabitidem quae uxor defuncti fuit debes accipere ut suscites nomen propinqui tui in
+            hereditate sua</p>
+          <p xml:id="rut4_6" n="6">qui respondit cedo iure propinquitatis neque enim posteritatem
+            familiae meae delere debeo tu meo utere privilegio quo me libenter carere profiteor</p>
+          <p xml:id="rut4_7" n="7">hic autem erat mos antiquitus in Israhel inter propinquos et si
+            quando alter alteri suo iure cedebat ut esset firma concessio solvebat homo calciamentum
+            suum et dabat proximo suo hoc erat testimonium cessionis in Israhel</p>
+          <p xml:id="rut4_8" n="8">dixit ergo propinquus Booz tolle calciamentum quod statim solvit
+            de pede suo</p>
+          <p xml:id="rut4_9" n="9">at ille maioribus natu et universo populo testes inquit vos estis
+            hodie quod possederim omnia quae fuerunt Helimelech et Chellion et Maalon tradente
+            Noemi</p>
+          <p xml:id="rut4_10" n="10">et Ruth Moabitidem uxorem Maalon in coniugium sumpserim ut
+            suscitem nomen defuncti in hereditate sua ne vocabulum eius de familia sua ac fratribus
+            et populo deleatur vos inquam huius rei testes estis</p>
+          <p xml:id="rut4_11" n="11">respondit omnis populus qui erat in porta et maiores natu nos
+            testes sumus faciat Dominus hanc mulierem quae ingreditur domum tuam sicut Rachel et
+            Liam quae aedificaverunt domum Israhel ut sit exemplum virtutis in Ephrata et habeat
+            celebre nomen in Bethleem</p>
+          <p xml:id="rut4_12" n="12">fiatque domus tua sicut domus Phares quem Thamar peperit Iudae
+            de semine quod dederit Dominus tibi ex hac puella</p>
+          <p xml:id="rut4_13" n="13">tulit itaque Booz Ruth et accepit uxorem ingressusque est ad
+            eam et dedit illi Dominus ut conciperet et pareret filium</p>
+          <p xml:id="rut4_14" n="14">dixeruntque mulieres ad Noemi benedictus Dominus qui non est
+            passus ut deficeret successor familiae tuae et vocaretur nomen eius in Israhel</p>
+          <p xml:id="rut4_15" n="15">et habeas qui consoletur animam tuam et enutriat senectutem de
+            nuru enim tua natus est quae te diligit et multo tibi est melior quam si septem haberes
+            filios</p>
+          <p xml:id="rut4_16" n="16">susceptumque Noemi puerum posuit in sinu suo et nutricis ac
+            gerulae officio fungebatur</p>
+          <p xml:id="rut4_17" n="17">vicinae autem mulieres congratulantes ei et dicentes natus est
+            filius Noemi vocaverunt nomen eius Obed hic est pater Isai patris David</p>
+          <p xml:id="rut4_18" n="18">hae sunt generationes Phares Phares genuit Esrom</p>
+          <p xml:id="rut4_19" n="19">Esrom genuit Aram Aram genuit Aminadab</p>
+          <p xml:id="rut4_20" n="20">Aminadab genuit Naasson Naasson genuit Salma</p>
+          <p xml:id="rut4_21" n="21">Salma genuit Booz Booz genuit Obed</p>
+          <p xml:id="rut4_22" n="22">Obed genuit Isai Isai genuit David</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

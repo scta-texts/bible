@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Titus</title>
+        <author/>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"><date when="2011-10-04">October 04, 2011</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
+              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl>
+          <bibl>Biblia Sacra Vulgata - The Free Bible Group</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2011-10-04" status="draft" n="0.0.0"><p>File Started for the first
+          time.</p></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="bible-tit">
+        <div xml:id="bible-tit1" n="1">
+          <head>Caput 1</head>
+          <p xml:id="tit1_1" n="1">Paulus servus Dei apostolus autem Iesu Christi secundum fidem
+            electorum Dei et agnitionem veritatis quae secundum pietatem est</p>
+          <p xml:id="tit1_2" n="2">in spem vitae aeternae quam promisit qui non mentitur Deus ante
+            tempora saecularia</p>
+          <p xml:id="tit1_3" n="3">manifestavit autem temporibus suis verbum suum in praedicatione
+            quae credita est mihi secundum praeceptum salvatoris nostri Dei</p>
+          <p xml:id="tit1_4" n="4">Tito dilecto filio secundum communem fidem gratia et pax a Deo
+            Patre et Christo Iesu salvatore nostro</p>
+          <p xml:id="tit1_5" n="5">huius rei gratia reliqui te Cretae ut ea quae desunt corrigas et
+            constituas per civitates presbyteros sicut ego tibi disposui</p>
+          <p xml:id="tit1_6" n="6">si quis sine crimine est unius uxoris vir filios habens fideles
+            non in accusatione luxuriae aut non subditos</p>
+          <p xml:id="tit1_7" n="7">oportet enim episcopum sine crimine esse sicut Dei dispensatorem
+            non superbum non iracundum non vinolentum non percussorem non turpilucri cupidum</p>
+          <p xml:id="tit1_8" n="8">sed hospitalem benignum sobrium iustum sanctum continentem</p>
+          <p xml:id="tit1_9" n="9">amplectentem eum qui secundum doctrinam est fidelem sermonem ut
+            potens sit et exhortari in doctrina sana et eos qui contradicunt arguere</p>
+          <p xml:id="tit1_10" n="10">sunt enim multi et inoboedientes vaniloqui et seductores maxime
+            qui de circumcisione sunt</p>
+          <p xml:id="tit1_11" n="11">quos oportet redargui qui universas domos subvertunt docentes
+            quae non oportet turpis lucri gratia</p>
+          <p xml:id="tit1_12" n="12">dixit quidam ex illis proprius ipsorum propheta Cretenses
+            semper mendaces malae bestiae ventres pigri</p>
+          <p xml:id="tit1_13" n="13">testimonium hoc verum est quam ob causam increpa illos dure ut
+            sani sint in fide</p>
+          <p xml:id="tit1_14" n="14">non intendentes iudaicis fabulis et mandatis hominum
+            aversantium se a veritate</p>
+          <p xml:id="tit1_15" n="15">omnia munda mundis coinquinatis autem et infidelibus nihil
+            mundum sed inquinatae sunt eorum et mens et conscientia</p>
+          <p xml:id="tit1_16" n="16">confitentur se nosse Deum factis autem negant cum sunt
+            abominati et incredibiles et ad omne opus bonum reprobi</p>
+        </div>
+        <div xml:id="bible-tit2" n="2">
+          <head>Caput 2</head>
+          <p xml:id="tit2_1" n="1">tu autem loquere quae decet sanam doctrinam</p>
+          <p xml:id="tit2_2" n="2">senes ut sobrii sint pudici prudentes sani fide dilectione
+            patientia</p>
+          <p xml:id="tit2_3" n="3">anus similiter in habitu sancto non criminatrices non vino multo
+            servientes bene docentes</p>
+          <p xml:id="tit2_4" n="4">ut prudentiam doceant adulescentulas ut viros suos ament filios
+            diligant</p>
+          <p xml:id="tit2_5" n="5">prudentes castas domus curam habentes benignas subditas suis
+            viris ut non blasphemetur verbum Dei</p>
+          <p xml:id="tit2_6" n="6">iuvenes similiter hortare ut sobrii sint</p>
+          <p xml:id="tit2_7" n="7">in omnibus te ipsum praebe exemplum bonorum operum in doctrina
+            integritatem gravitatem</p>
+          <p xml:id="tit2_8" n="8">verbum sanum inreprehensibilem ut is qui ex adverso est vereatur
+            nihil habens malum dicere de nobis</p>
+          <p xml:id="tit2_9" n="9">servos dominis suis subditos esse in omnibus placentes non
+            contradicentes</p>
+          <p xml:id="tit2_10" n="10">non fraudantes, sed in omnibus fidem bonam ostendentes ut
+            doctrinam salutaris nostri Dei ornent in omnibus</p>
+          <p xml:id="tit2_11" n="11">apparuit enim gratia Dei salutaris omnibus hominibus</p>
+          <p xml:id="tit2_12" n="12">erudiens nos ut abnegantes impietatem et saecularia desideria
+            sobrie et iuste et pie vivamus in hoc saeculo</p>
+          <p xml:id="tit2_13" n="13">expectantes beatam spem et adventum gloriae magni Dei et
+            salvatoris nostri Iesu Christi</p>
+          <p xml:id="tit2_14" n="14">qui dedit semet ipsum pro nobis ut nos redimeret ab omni
+            iniquitate et mundaret sibi populum acceptabilem sectatorem bonorum operum</p>
+          <p xml:id="tit2_15" n="15">haec loquere et exhortare et argue cum omni imperio nemo te
+            contemnat</p>
+        </div>
+        <div xml:id="bible-tit3" n="3">
+          <head>Caput 3</head>
+          <p xml:id="tit3_1" n="1">admone illos principibus et potestatibus subditos esse dicto
+            oboedire ad omne opus bonum paratos esse</p>
+          <p xml:id="tit3_2" n="2">neminem blasphemare non litigiosos esse modestos omnem
+            ostendentes mansuetudinem ad omnes homines</p>
+          <p xml:id="tit3_3" n="3">eramus enim et nos aliquando insipientes increduli errantes
+            servientes desideriis et voluptatibus variis in malitia et invidia agentes odibiles
+            odientes invicem</p>
+          <p xml:id="tit3_4" n="4">cum autem benignitas et humanitas apparuit salvatoris nostri
+            Dei</p>
+          <p xml:id="tit3_5" n="5">non ex operibus iustitiae quae fecimus nos sed secundum suam
+            misericordiam salvos nos fecit per lavacrum regenerationis et renovationis Spiritus
+            Sancti</p>
+          <p xml:id="tit3_6" n="6">quem effudit in nos abunde per Iesum Christum salvatorem
+            nostrum</p>
+          <p xml:id="tit3_7" n="7">ut iustificati gratia ipsius heredes simus secundum spem vitae
+            aeternae</p>
+          <p xml:id="tit3_8" n="8">fidelis sermo est et de his volo te confirmare ut curent bonis
+            operibus praeesse qui credunt Deo haec sunt bona et utilia hominibus</p>
+          <p xml:id="tit3_9" n="9">stultas autem quaestiones et genealogias et contentiones et
+            pugnas legis devita sunt enim inutiles et vanae</p>
+          <p xml:id="tit3_10" n="10">hereticum hominem post unam et secundam correptionem devita</p>
+          <p xml:id="tit3_11" n="11">sciens quia subversus est qui eiusmodi est et delinquit proprio
+            iudicio condemnatus</p>
+          <p xml:id="tit3_12" n="12">cum misero ad te Arteman aut Tychicum festina ad me venire
+            Nicopolim ibi enim statui hiemare</p>
+          <p xml:id="tit3_13" n="13">Zenan legis peritum et Apollo sollicite praemitte ut nihil
+            illis desit</p>
+          <p xml:id="tit3_14" n="14">discant autem et nostri bonis operibus praeesse ad usus
+            necessarios ut non sint infructuosi</p>
+          <p xml:id="tit3_15" n="15">salutant te qui mecum sunt omnes saluta qui nos amant in fide
+            gratia Dei cum omnibus vobis amen</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

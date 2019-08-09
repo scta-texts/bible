@@ -1,0 +1,1802 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sprüche</title>
+        <author/>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"><date when="2011-10-04">October 04, 2011</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
+              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl>
+          <bibl>Biblia Sacra Vulgata - The Free Bible Group</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2011-10-04" status="draft" n="0.0.0"><p>File Started for the first
+          time.</p></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="bible-prov">
+        <div xml:id="bible-prov1" n="1">
+          <head>Caput 1</head>
+          <p xml:id="prov1_1" n="1">parabolae Salomonis filii David regis Israhel</p>
+          <p xml:id="prov1_2" n="2">ad sciendam sapientiam et disciplinam</p>
+          <p xml:id="prov1_3" n="3">ad intellegenda verba prudentiae et suscipiendam eruditionem
+            doctrinae iustitiam et iudicium et aequitatem</p>
+          <p xml:id="prov1_4" n="4">ut detur parvulis astutia adulescenti scientia et
+            intellectus</p>
+          <p xml:id="prov1_5" n="5">audiens sapiens sapientior erit et intellegens gubernacula
+            possidebit</p>
+          <p xml:id="prov1_6" n="6">animadvertet parabolam et interpretationem verba sapientium et
+            enigmata eorum</p>
+          <p xml:id="prov1_7" n="7">timor Domini principium scientiae sapientiam atque doctrinam
+            stulti despiciunt</p>
+          <p xml:id="prov1_8" n="8">audi fili mi disciplinam patris tui et ne dimittas legem matris
+            tuae</p>
+          <p xml:id="prov1_9" n="9">ut addatur gratia capiti tuo et torques collo tuo</p>
+          <p xml:id="prov1_10" n="10">fili mi si te lactaverint peccatores ne adquiescas</p>
+          <p xml:id="prov1_11" n="11">si dixerint veni nobiscum insidiemur sanguini abscondamus
+            tendiculas contra insontem frustra</p>
+          <p xml:id="prov1_12" n="12">degluttiamus eum sicut infernus viventem et integrum quasi
+            descendentem in lacum</p>
+          <p xml:id="prov1_13" n="13">omnem pretiosam substantiam repperiemus implebimus domos
+            nostras spoliis</p>
+          <p xml:id="prov1_14" n="14">sortem mitte nobiscum marsuppium unum sit omnium nostrum</p>
+          <p xml:id="prov1_15" n="15">fili mi ne ambules cum eis prohibe pedem tuum a semitis
+            eorum</p>
+          <p xml:id="prov1_16" n="16">pedes enim illorum ad malum currunt et festinant ut effundant
+            sanguinem</p>
+          <p xml:id="prov1_17" n="17">frustra autem iacitur rete ante oculos pinnatorum</p>
+          <p xml:id="prov1_18" n="18">ipsique contra sanguinem suum insidiantur et moliuntur fraudes
+            contra animas suas</p>
+          <p xml:id="prov1_19" n="19">sic semitae omnis avari animas possidentium rapiunt</p>
+          <p xml:id="prov1_20" n="20">sapientia foris praedicat in plateis dat vocem suam</p>
+          <p xml:id="prov1_21" n="21">in capite turbarum clamitat in foribus portarum urbis profert
+            verba sua dicens</p>
+          <p xml:id="prov1_22" n="22">usquequo parvuli diligitis infantiam et stulti ea quae sibi
+            sunt noxia cupiunt et inprudentes odibunt scientiam</p>
+          <p xml:id="prov1_23" n="23">convertimini ad correptionem meam en proferam vobis spiritum
+            meum et ostendam verba mea</p>
+          <p xml:id="prov1_24" n="24">quia vocavi et rennuistis extendi manum meam et non fuit qui
+            aspiceret</p>
+          <p xml:id="prov1_25" n="25">despexistis omne consilium meum et increpationes meas
+            neglexistis</p>
+          <p xml:id="prov1_26" n="26">ego quoque in interitu vestro ridebo et subsannabo cum vobis
+            quod timebatis advenerit</p>
+          <p xml:id="prov1_27" n="27">cum inruerit repentina calamitas et interitus quasi tempestas
+            ingruerit quando venerit super vos tribulatio et angustia</p>
+          <p xml:id="prov1_28" n="28">tunc invocabunt me et non exaudiam mane consurgent et non
+            invenient me</p>
+          <p xml:id="prov1_29" n="29">eo quod exosam habuerint disciplinam et timorem Domini non
+            susceperint</p>
+          <p xml:id="prov1_30" n="30">nec adquieverint consilio meo et detraxerint universae
+            correptioni meae</p>
+          <p xml:id="prov1_31" n="31">comedent igitur fructus viae suae suisque consiliis
+            saturabuntur</p>
+          <p xml:id="prov1_32" n="32">aversio parvulorum interficiet eos et prosperitas stultorum
+            perdet illos</p>
+          <p xml:id="prov1_33" n="33">qui autem me audierit absque terrore requiescet et abundantia
+            perfruetur malorum timore sublato</p>
+        </div>
+        <div xml:id="bible-prov2" n="2">
+          <head>Caput 2</head>
+          <p xml:id="prov2_1" n="1">fili mi si susceperis sermones meos et mandata mea absconderis
+            penes te</p>
+          <p xml:id="prov2_2" n="2">ut audiat sapientiam auris tua inclina cor tuum ad noscendam
+            prudentiam</p>
+          <p xml:id="prov2_3" n="3">si enim sapientiam invocaveris et inclinaveris cor tuum
+            prudentiae</p>
+          <p xml:id="prov2_4" n="4">si quaesieris eam quasi pecuniam et sicut thesauros effoderis
+            illam</p>
+          <p xml:id="prov2_5" n="5">tunc intelleges timorem Domini et scientiam Dei invenies</p>
+          <p xml:id="prov2_6" n="6">quia Dominus dat sapientiam et ex ore eius scientia et
+            prudentia</p>
+          <p xml:id="prov2_7" n="7">custodiet rectorum salutem et proteget gradientes
+            simpliciter</p>
+          <p xml:id="prov2_8" n="8">servans semitas iustitiae et vias sanctorum custodiens</p>
+          <p xml:id="prov2_9" n="9">tunc intelleges iustitiam et iudicium et aequitatem et omnem
+            semitam bonam</p>
+          <p xml:id="prov2_10" n="10">si intraverit sapientia cor tuum et scientia animae tuae
+            placuerit</p>
+          <p xml:id="prov2_11" n="11">consilium custodiet te prudentia servabit te</p>
+          <p xml:id="prov2_12" n="12">ut eruaris de via mala ab homine qui perversa loquitur</p>
+          <p xml:id="prov2_13" n="13">qui relinquunt iter rectum et ambulant per vias tenebrosas</p>
+          <p xml:id="prov2_14" n="14">qui laetantur cum malefecerint et exultant in rebus
+            pessimis</p>
+          <p xml:id="prov2_15" n="15">quorum viae perversae et infames gressus eorum</p>
+          <p xml:id="prov2_16" n="16">ut eruaris a muliere aliena et ab extranea quae mollit
+            sermones suos</p>
+          <p xml:id="prov2_17" n="17">et relinquit ducem pubertatis suae</p>
+          <p xml:id="prov2_18" n="18">et pacti Dei sui oblita est inclinata est enim ad mortem domus
+            eius et ad impios semitae ipsius</p>
+          <p xml:id="prov2_19" n="19">omnes qui ingrediuntur ad eam non revertentur nec adprehendent
+            semitas vitae</p>
+          <p xml:id="prov2_20" n="20">ut ambules in via bona et calles iustorum custodias</p>
+          <p xml:id="prov2_21" n="21">qui enim recti sunt habitabunt in terra et simplices
+            permanebunt in ea</p>
+          <p xml:id="prov2_22" n="22">impii vero de terra perdentur et qui inique agunt auferentur
+            ex ea</p>
+        </div>
+        <div xml:id="bible-prov3" n="3">
+          <head>Caput 3</head>
+          <p xml:id="prov3_1" n="1">fili mi ne obliviscaris legis meae et praecepta mea custodiat
+            cor tuum</p>
+          <p xml:id="prov3_2" n="2">longitudinem enim dierum et annos vitae et pacem adponent
+            tibi</p>
+          <p xml:id="prov3_3" n="3">misericordia et veritas non te deserant circumda eas gutturi tuo
+            et describe in tabulis cordis tui</p>
+          <p xml:id="prov3_4" n="4">et invenies gratiam et disciplinam bonam coram Deo et
+            hominibus</p>
+          <p xml:id="prov3_5" n="5">habe fiduciam in Domino ex toto corde tuo et ne innitaris
+            prudentiae tuae</p>
+          <p xml:id="prov3_6" n="6">in omnibus viis tuis cogita illum et ipse diriget gressus
+            tuos</p>
+          <p xml:id="prov3_7" n="7">ne sis sapiens apud temet ipsum time Dominum et recede a
+            malo</p>
+          <p xml:id="prov3_8" n="8">sanitas quippe erit umbilico tuo et inrigatio ossuum tuorum</p>
+          <p xml:id="prov3_9" n="9">honora Dominum de tua substantia et de primitiis omnium frugum
+            tuarum</p>
+          <p xml:id="prov3_10" n="10">et implebuntur horrea tua saturitate et vino torcularia
+            redundabunt</p>
+          <p xml:id="prov3_11" n="11">disciplinam Domini fili mi ne abicias nec deficias cum ab eo
+            corriperis</p>
+          <p xml:id="prov3_12" n="12">quem enim diligit Dominus corripit et quasi pater in filio
+            conplacet sibi</p>
+          <p xml:id="prov3_13" n="13">beatus homo qui invenit sapientiam et qui affluit
+            prudentia</p>
+          <p xml:id="prov3_14" n="14">melior est adquisitio eius negotiatione argenti et auro primo
+            fructus eius</p>
+          <p xml:id="prov3_15" n="15">pretiosior est cunctis opibus et omnia quae desiderantur huic
+            non valent conparari</p>
+          <p xml:id="prov3_16" n="16">longitudo dierum in dextera eius in sinistra illius divitiae
+            et gloria</p>
+          <p xml:id="prov3_17" n="17">viae eius viae pulchrae et omnes semitae illius pacificae</p>
+          <p xml:id="prov3_18" n="18">lignum vitae est his qui adprehenderint eam et qui tenuerit
+            eam beatus</p>
+          <p xml:id="prov3_19" n="19">Dominus sapientia fundavit terram stabilivit caelos
+            prudentia</p>
+          <p xml:id="prov3_20" n="20">sapientia illius eruperunt abyssi et nubes rore
+            concrescunt</p>
+          <p xml:id="prov3_21" n="21">fili mi ne effluant haec ab oculis tuis custodi legem atque
+            consilium</p>
+          <p xml:id="prov3_22" n="22">et erit vita animae tuae et gratia faucibus tuis</p>
+          <p xml:id="prov3_23" n="23">tunc ambulabis fiducialiter in via tua et pes tuus non
+            inpinget</p>
+          <p xml:id="prov3_24" n="24">si dormieris non timebis quiesces et suavis erit somnus
+            tuus</p>
+          <p xml:id="prov3_25" n="25">ne paveas repentino terrore et inruentes tibi potentias
+            impiorum</p>
+          <p xml:id="prov3_26" n="26">Dominus enim erit in latere tuo et custodiet pedem tuum ne
+            capiaris</p>
+          <p xml:id="prov3_27" n="27">noli prohibere benefacere eum qui potest si vales et ipse
+            benefac</p>
+          <p xml:id="prov3_28" n="28">ne dicas amico tuo vade et revertere et cras dabo tibi cum
+            statim possis dare</p>
+          <p xml:id="prov3_29" n="29">ne moliaris amico tuo malum cum ille in te habeat fiduciam</p>
+          <p xml:id="prov3_30" n="30">ne contendas adversus hominem frustra cum ipse tibi nihil mali
+            fecerit</p>
+          <p xml:id="prov3_31" n="31">ne aemuleris hominem iniustum nec imiteris vias eius</p>
+          <p xml:id="prov3_32" n="32">quia abominatio Domini est omnis inlusor et cum simplicibus
+            sermocinatio eius</p>
+          <p xml:id="prov3_33" n="33">egestas a Domino in domo impii habitacula autem iustorum
+            benedicentur</p>
+          <p xml:id="prov3_34" n="34">inlusores ipse deludet et mansuetis dabit gratiam</p>
+          <p xml:id="prov3_35" n="35">gloriam sapientes possidebunt stultorum exaltatio
+            ignominia</p>
+        </div>
+        <div xml:id="bible-prov4" n="4">
+          <head>Caput 4</head>
+          <p xml:id="prov4_1" n="1">audite filii disciplinam patris et adtendite ut sciatis
+            prudentiam</p>
+          <p xml:id="prov4_2" n="2">donum bonum tribuam vobis legem meam ne derelinquatis</p>
+          <p xml:id="prov4_3" n="3">nam et ego filius fui patris mei tenellus et unigenitus coram
+            matre mea</p>
+          <p xml:id="prov4_4" n="4">et docebat me atque dicebat suscipiat verba mea cor tuum custodi
+            praecepta mea et vives</p>
+          <p xml:id="prov4_5" n="5">posside sapientiam posside prudentiam ne obliviscaris neque
+            declines a verbis oris mei</p>
+          <p xml:id="prov4_6" n="6">ne dimittas eam et custodiet te dilige eam et servabit te</p>
+          <p xml:id="prov4_7" n="7">principium sapientiae posside sapientiam et in omni possessione
+            tua adquire prudentiam</p>
+          <p xml:id="prov4_8" n="8">arripe illam et exaltabit te glorificaberis ab ea cum eam fueris
+            amplexatus</p>
+          <p xml:id="prov4_9" n="9">dabit capiti tuo augmenta gratiarum et corona inclita proteget
+            te</p>
+          <p xml:id="prov4_10" n="10">audi fili mi et suscipe verba mea ut multiplicentur tibi anni
+            vitae</p>
+          <p xml:id="prov4_11" n="11">viam sapientiae monstravi tibi duxi te per semitas
+            aequitatis</p>
+          <p xml:id="prov4_12" n="12">quas cum ingressus fueris non artabuntur gressus tui et
+            currens non habebis offendiculum</p>
+          <p xml:id="prov4_13" n="13">tene disciplinam ne dimittas eam custodi illam quia ipsa est
+            vita tua</p>
+          <p xml:id="prov4_14" n="14">ne delecteris semitis impiorum nec tibi placeat malorum
+            via</p>
+          <p xml:id="prov4_15" n="15">fuge ab ea ne transeas per illam declina et desere eam</p>
+          <p xml:id="prov4_16" n="16">non enim dormiunt nisi malefecerint et rapitur somnus ab eis
+            nisi subplantaverint</p>
+          <p xml:id="prov4_17" n="17">comedunt panem impietatis et vinum iniquitatis bibunt</p>
+          <p xml:id="prov4_18" n="18">iustorum autem semita quasi lux splendens procedit et crescit
+            usque ad perfectam diem</p>
+          <p xml:id="prov4_19" n="19">via impiorum tenebrosa nesciunt ubi corruant</p>
+          <p xml:id="prov4_20" n="20">fili mi ausculta sermones meos et ad eloquia mea inclina aurem
+            tuam</p>
+          <p xml:id="prov4_21" n="21">ne recedant ab oculis tuis custodi ea in medio cordis tui</p>
+          <p xml:id="prov4_22" n="22">vita enim sunt invenientibus ea et universae carni sanitas</p>
+          <p xml:id="prov4_23" n="23">omni custodia serva cor tuum quia ex ipso vita procedit</p>
+          <p xml:id="prov4_24" n="24">remove a te os pravum et detrahentia labia sint procul a
+            te</p>
+          <p xml:id="prov4_25" n="25">oculi tui recta videant et palpebrae tuae praecedant gressus
+            tuos</p>
+          <p xml:id="prov4_26" n="26">dirige semitam pedibus tuis et omnes viae tuae
+            stabilientur</p>
+          <p xml:id="prov4_27" n="27">ne declines ad dexteram et ad sinistram averte pedem tuum a
+            malo</p>
+        </div>
+        <div xml:id="bible-prov5" n="5">
+          <head>Caput 5</head>
+          <p xml:id="prov5_1" n="1">fili mi adtende sapientiam meam et prudentiae meae inclina aurem
+            tuam</p>
+          <p xml:id="prov5_2" n="2">ut custodias cogitationes et disciplinam labia tua
+            conservent</p>
+          <p xml:id="prov5_3" n="3">favus enim stillans labia meretricis et nitidius oleo guttur
+            eius</p>
+          <p xml:id="prov5_4" n="4">novissima autem illius amara quasi absinthium et acuta quasi
+            gladius biceps</p>
+          <p xml:id="prov5_5" n="5">pedes eius descendunt in mortem et ad inferos gressus illius
+            penetrant</p>
+          <p xml:id="prov5_6" n="6">per semitam vitae non ambulat vagi sunt gressus eius et
+            investigabiles</p>
+          <p xml:id="prov5_7" n="7">nunc ergo fili audi me et ne recedas a verbis oris mei</p>
+          <p xml:id="prov5_8" n="8">longe fac ab ea viam tuam et ne adpropinques foribus domus
+            eius</p>
+          <p xml:id="prov5_9" n="9">ne des alienis honorem tuum et annos tuos crudeli</p>
+          <p xml:id="prov5_10" n="10">ne forte impleantur extranei viribus tuis et labores tui sint
+            in domo aliena</p>
+          <p xml:id="prov5_11" n="11">et gemas in novissimis quando consumpseris carnes et corpus
+            tuum et dicas</p>
+          <p xml:id="prov5_12" n="12">cur detestatus sum disciplinam et increpationibus non
+            adquievit cor meum</p>
+          <p xml:id="prov5_13" n="13">nec audivi vocem docentium me et magistris non inclinavi aurem
+            meam</p>
+          <p xml:id="prov5_14" n="14">paene fui in omni malo in medio ecclesiae et synagogae</p>
+          <p xml:id="prov5_15" n="15">bibe aquam de cisterna tua et fluenta putei tui</p>
+          <p xml:id="prov5_16" n="16">deriventur fontes tui foras et in plateis aquas tuas
+            divide</p>
+          <p xml:id="prov5_17" n="17">habeto eas solus nec sint alieni participes tui</p>
+          <p xml:id="prov5_18" n="18">sit vena tua benedicta et laetare cum muliere adulescentiae
+            tuae</p>
+          <p xml:id="prov5_19" n="19">cerva carissima et gratissimus hinulus ubera eius inebrient te
+            omni tempore in amore illius delectare iugiter</p>
+          <p xml:id="prov5_20" n="20">quare seduceris fili mi ab aliena et foveris sinu alterius</p>
+          <p xml:id="prov5_21" n="21">respicit Dominus vias hominis et omnes gressus illius
+            considerat</p>
+          <p xml:id="prov5_22" n="22">iniquitates suae capiunt impium et funibus peccatorum suorum
+            constringitur</p>
+          <p xml:id="prov5_23" n="23">ipse morietur quia non habuit disciplinam et multitudine
+            stultitiae suae decipietur</p>
+        </div>
+        <div xml:id="bible-prov6" n="6">
+          <head>Caput 6</head>
+          <p xml:id="prov6_1" n="1">fili mi si spoponderis pro amico tuo defixisti apud extraneum
+            manum tuam</p>
+          <p xml:id="prov6_2" n="2">inlaqueatus es verbis oris tui et captus propriis sermonibus</p>
+          <p xml:id="prov6_3" n="3">fac ergo quod dico fili mi et temet ipsum libera quia incidisti
+            in manu proximi tui discurre festina suscita amicum tuum</p>
+          <p xml:id="prov6_4" n="4">ne dederis somnum oculis tuis nec dormitent palpebrae tuae</p>
+          <p xml:id="prov6_5" n="5">eruere quasi dammula de manu et quasi avis de insidiis
+            aucupis</p>
+          <p xml:id="prov6_6" n="6">vade ad formicam o piger et considera vias eius et disce
+            sapientiam</p>
+          <p xml:id="prov6_7" n="7">quae cum non habeat ducem nec praeceptorem nec principem</p>
+          <p xml:id="prov6_8" n="8">parat aestate cibum sibi et congregat in messe quod comedat</p>
+          <p xml:id="prov6_9" n="9">usquequo piger dormis quando consurges ex somno tuo</p>
+          <p xml:id="prov6_10" n="10">paululum dormies paululum dormitabis paululum conseres manus
+            ut dormias</p>
+          <p xml:id="prov6_11" n="11">et veniet tibi quasi viator egestas et pauperies quasi vir
+            armatus</p>
+          <p xml:id="prov6_12" n="12">homo apostata vir inutilis graditur ore perverso</p>
+          <p xml:id="prov6_13" n="13">annuit oculis terit pede digito loquitur</p>
+          <p xml:id="prov6_14" n="14">pravo corde machinatur malum et in omni tempore iurgia
+            seminat</p>
+          <p xml:id="prov6_15" n="15">huic extemplo veniet perditio sua et subito conteretur nec
+            habebit ultra medicinam</p>
+          <p xml:id="prov6_16" n="16">sex sunt quae odit Dominus et septimum detestatur anima
+            eius</p>
+          <p xml:id="prov6_17" n="17">oculos sublimes linguam mendacem manus effundentes innoxium
+            sanguinem</p>
+          <p xml:id="prov6_18" n="18">cor machinans cogitationes pessimas pedes veloces ad currendum
+            in malum</p>
+          <p xml:id="prov6_19" n="19">proferentem mendacia testem fallacem et eum qui seminat inter
+            fratres discordias</p>
+          <p xml:id="prov6_20" n="20">conserva fili mi praecepta patris tui et ne dimittas legem
+            matris tuae</p>
+          <p xml:id="prov6_21" n="21">liga ea in corde tuo iugiter et circumda gutturi tuo</p>
+          <p xml:id="prov6_22" n="22">cum ambulaveris gradiantur tecum cum dormieris custodiant te
+            et evigilans loquere cum eis</p>
+          <p xml:id="prov6_23" n="23">quia mandatum lucerna est et lex lux et via vitae increpatio
+            disciplinae</p>
+          <p xml:id="prov6_24" n="24">ut custodiant te a muliere mala et a blanda lingua
+            extraneae</p>
+          <p xml:id="prov6_25" n="25">non concupiscat pulchritudinem eius cor tuum nec capiaris
+            nutibus illius</p>
+          <p xml:id="prov6_26" n="26">pretium enim scorti vix unius est panis mulier autem viri
+            pretiosam animam capit</p>
+          <p xml:id="prov6_27" n="27">numquid abscondere potest homo ignem in sinu suo ut vestimenta
+            illius non ardeant</p>
+          <p xml:id="prov6_28" n="28">aut ambulare super prunas et non conburentur plantae eius</p>
+          <p xml:id="prov6_29" n="29">sic qui ingreditur ad mulierem proximi sui non erit mundus cum
+            tetigerit eam</p>
+          <p xml:id="prov6_30" n="30">non grandis est culpae cum quis furatus fuerit furatur enim ut
+            esurientem impleat animam</p>
+          <p xml:id="prov6_31" n="31">deprehensus quoque reddet septuplum et omnem substantiam domus
+            suae tradet</p>
+          <p xml:id="prov6_32" n="32">qui autem adulter est propter cordis inopiam perdet animam
+            suam</p>
+          <p xml:id="prov6_33" n="33">turpitudinem et ignominiam congregat sibi et obprobrium illius
+            non delebitur</p>
+          <p xml:id="prov6_34" n="34">quia zelus et furor viri non parcet in die vindictae</p>
+          <p xml:id="prov6_35" n="35">nec adquiescet cuiusquam precibus nec suscipiet pro
+            redemptione dona plurima</p>
+        </div>
+        <div xml:id="bible-prov7" n="7">
+          <head>Caput 7</head>
+          <p xml:id="prov7_1" n="1">fili mi custodi sermones meos et praecepta mea reconde tibi</p>
+          <p xml:id="prov7_2" n="2">serva mandata mea et vives et legem meam quasi pupillam oculi
+            tui</p>
+          <p xml:id="prov7_3" n="3">liga eam in digitis tuis scribe illam in tabulis cordis tui</p>
+          <p xml:id="prov7_4" n="4">dic sapientiae soror mea es et prudentiam voca amicam tuam</p>
+          <p xml:id="prov7_5" n="5">ut custodiat te a muliere extranea et ab aliena quae verba sua
+            dulcia facit</p>
+          <p xml:id="prov7_6" n="6">de fenestra enim domus meae per cancellos prospexi</p>
+          <p xml:id="prov7_7" n="7">et video parvulos considero vecordem iuvenem</p>
+          <p xml:id="prov7_8" n="8">qui transit in platea iuxta angulum et propter viam domus illius
+            graditur</p>
+          <p xml:id="prov7_9" n="9">in obscuro advesperascente die in noctis tenebris et
+            caligine</p>
+          <p xml:id="prov7_10" n="10">et ecce mulier occurrit illi ornatu meretricio praeparata ad
+            capiendas animas garrula et vaga</p>
+          <p xml:id="prov7_11" n="11">quietis inpatiens nec valens in domo consistere pedibus
+            suis</p>
+          <p xml:id="prov7_12" n="12">nunc foris nunc in plateis nunc iuxta angulos insidians</p>
+          <p xml:id="prov7_13" n="13">adprehensumque deosculatur iuvenem et procaci vultu blanditur
+            dicens</p>
+          <p xml:id="prov7_14" n="14">victimas pro salute debui hodie reddidi vota mea</p>
+          <p xml:id="prov7_15" n="15">idcirco egressa sum in occursum tuum desiderans te videre et
+            repperi</p>
+          <p xml:id="prov7_16" n="16">intexui funibus lectum meum stravi tapetibus pictis ex
+            Aegypto</p>
+          <p xml:id="prov7_17" n="17">aspersi cubile meum murra et aloe et cinnamomo</p>
+          <p xml:id="prov7_18" n="18">veni inebriemur uberibus donec inlucescat dies et fruamur
+            cupitis amplexibus</p>
+          <p xml:id="prov7_19" n="19">non est enim vir in domo sua abiit via longissima</p>
+          <p xml:id="prov7_20" n="20">sacculum pecuniae secum tulit in die plenae lunae reversurus
+            est domum suam</p>
+          <p xml:id="prov7_21" n="21">inretivit eum multis sermonibus et blanditiis labiorum
+            protraxit illum</p>
+          <p xml:id="prov7_22" n="22">statim eam sequitur quasi bos ductus ad victimam et quasi
+            agnus lasciviens et ignorans quod ad vincula stultus trahatur</p>
+          <p xml:id="prov7_23" n="23">donec transfigat sagitta iecur eius velut si avis festinet ad
+            laqueum et nescit quia de periculo animae illius agitur</p>
+          <p xml:id="prov7_24" n="24">nunc ergo fili audi me et adtende verba oris mei</p>
+          <p xml:id="prov7_25" n="25">ne abstrahatur in viis illius mens tua neque decipiaris
+            semitis eius</p>
+          <p xml:id="prov7_26" n="26">multos enim vulneratos deiecit et fortissimi quique interfecti
+            sunt ab ea</p>
+          <p xml:id="prov7_27" n="27">viae inferi domus eius penetrantes interiora mortis</p>
+        </div>
+        <div xml:id="bible-prov8" n="8">
+          <head>Caput 8</head>
+          <p xml:id="prov8_1" n="1">numquid non sapientia clamitat et prudentia dat vocem suam</p>
+          <p xml:id="prov8_2" n="2">in summis excelsisque verticibus super viam in mediis semitis
+            stans</p>
+          <p xml:id="prov8_3" n="3">iuxta portas civitatis in ipsis foribus loquitur dicens</p>
+          <p xml:id="prov8_4" n="4">o viri ad vos clamito et vox mea ad filios hominum</p>
+          <p xml:id="prov8_5" n="5">intellegite parvuli astutiam et insipientes animadvertite</p>
+          <p xml:id="prov8_6" n="6">audite quoniam de rebus magnis locutura sum et aperientur labia
+            mea ut recta praedicent</p>
+          <p xml:id="prov8_7" n="7">veritatem meditabitur guttur meum et labia mea detestabuntur
+            impium</p>
+          <p xml:id="prov8_8" n="8">iusti sunt omnes sermones mei non est in eis pravum quid neque
+            perversum</p>
+          <p xml:id="prov8_9" n="9">recti sunt intellegentibus et aequi invenientibus scientiam</p>
+          <p xml:id="prov8_10" n="10">accipite disciplinam meam et non pecuniam doctrinam magis quam
+            aurum eligite</p>
+          <p xml:id="prov8_11" n="11">melior est enim sapientia cunctis pretiosissimis et omne
+            desiderabile ei non potest conparari</p>
+          <p xml:id="prov8_12" n="12">ego sapientia habito in consilio et eruditis intersum
+            cogitationibus</p>
+          <p xml:id="prov8_13" n="13">timor Domini odit malum arrogantiam et superbiam et viam
+            pravam et os bilingue detestor</p>
+          <p xml:id="prov8_14" n="14">meum est consilium et aequitas mea prudentia mea est
+            fortitudo</p>
+          <p xml:id="prov8_15" n="15">per me reges regnant et legum conditores iusta decernunt</p>
+          <p xml:id="prov8_16" n="16">per me principes imperant et potentes decernunt iustitiam</p>
+          <p xml:id="prov8_17" n="17">ego diligentes me diligo et qui mane vigilant ad me invenient
+            me</p>
+          <p xml:id="prov8_18" n="18">mecum sunt divitiae et gloria opes superbae et iustitia</p>
+          <p xml:id="prov8_19" n="19">melior est fructus meus auro et pretioso lapide et genimina
+            mea argento electo</p>
+          <p xml:id="prov8_20" n="20">in viis iustitiae ambulo in medio semitarum iudicii</p>
+          <p xml:id="prov8_21" n="21">ut ditem diligentes me et thesauros eorum repleam</p>
+          <p xml:id="prov8_22" n="22">Dominus possedit me initium viarum suarum antequam quicquam
+            faceret a principio</p>
+          <p xml:id="prov8_23" n="23">ab aeterno ordita sum et ex antiquis antequam terra fieret</p>
+          <p xml:id="prov8_24" n="24">necdum erant abyssi et ego iam concepta eram necdum fontes
+            aquarum eruperant</p>
+          <p xml:id="prov8_25" n="25">necdum montes gravi mole constiterant ante colles ego
+            parturiebar</p>
+          <p xml:id="prov8_26" n="26">adhuc terram non fecerat et flumina et cardines orbis
+            terrae</p>
+          <p xml:id="prov8_27" n="27">quando praeparabat caelos aderam quando certa lege et gyro
+            vallabat abyssos</p>
+          <p xml:id="prov8_28" n="28">quando aethera firmabat sursum et librabat fontes aquarum</p>
+          <p xml:id="prov8_29" n="29">quando circumdabat mari terminum suum et legem ponebat aquis
+            ne transirent fines suos quando adpendebat fundamenta terrae</p>
+          <p xml:id="prov8_30" n="30">cum eo eram cuncta conponens et delectabar per singulos dies
+            ludens coram eo omni tempore</p>
+          <p xml:id="prov8_31" n="31">ludens in orbe terrarum et deliciae meae esse cum filiis
+            hominum</p>
+          <p xml:id="prov8_32" n="32">nunc ergo filii audite me beati qui custodiunt vias meas</p>
+          <p xml:id="prov8_33" n="33">audite disciplinam et estote sapientes et nolite abicere
+            eam</p>
+          <p xml:id="prov8_34" n="34">beatus homo qui audit me qui vigilat ad fores meas cotidie et
+            observat ad postes ostii mei</p>
+          <p xml:id="prov8_35" n="35">qui me invenerit inveniet vitam et hauriet salutem a
+            Domino</p>
+          <p xml:id="prov8_36" n="36">qui autem in me peccaverit laedet animam suam omnes qui me
+            oderunt diligunt mortem</p>
+        </div>
+        <div xml:id="bible-prov9" n="9">
+          <head>Caput 9</head>
+          <p xml:id="prov9_1" n="1">sapientia aedificavit sibi domum excidit columnas septem</p>
+          <p xml:id="prov9_2" n="2">immolavit victimas suas miscuit vinum et proposuit mensam
+            suam</p>
+          <p xml:id="prov9_3" n="3">misit ancillas suas ut vocarent ad arcem et ad moenia
+            civitatis</p>
+          <p xml:id="prov9_4" n="4">si quis est parvulus veniat ad me et insipientibus locuta
+            est</p>
+          <p xml:id="prov9_5" n="5">venite comedite panem meum et bibite vinum quod miscui vobis</p>
+          <p xml:id="prov9_6" n="6">relinquite infantiam et vivite et ambulate per vias
+            prudentiae</p>
+          <p xml:id="prov9_7" n="7">qui erudit derisorem ipse sibi facit iniuriam et qui arguit
+            impium generat maculam sibi</p>
+          <p xml:id="prov9_8" n="8">noli arguere derisorem ne oderit te argue sapientem et diliget
+            te</p>
+          <p xml:id="prov9_9" n="9">da sapienti et addetur ei sapientia doce iustum et festinabit
+            accipere</p>
+          <p xml:id="prov9_10" n="10">principium sapientiae timor Domini et scientia sanctorum
+            prudentia</p>
+          <p xml:id="prov9_11" n="11">per me enim multiplicabuntur dies tui et addentur tibi anni
+            vitae</p>
+          <p xml:id="prov9_12" n="12">si sapiens fueris tibimet ipsi eris si inlusor solus portabis
+            malum</p>
+          <p xml:id="prov9_13" n="13">mulier stulta et clamosa plenaque inlecebris et nihil omnino
+            sciens</p>
+          <p xml:id="prov9_14" n="14">sedit in foribus domus suae super sellam in excelso urbis
+            loco</p>
+          <p xml:id="prov9_15" n="15">ut vocaret transeuntes viam et pergentes itinere suo</p>
+          <p xml:id="prov9_16" n="16">quis est parvulus declinet ad me et vecordi locuta est</p>
+          <p xml:id="prov9_17" n="17">aquae furtivae dulciores sunt et panis absconditus suavior</p>
+          <p xml:id="prov9_18" n="18">et ignoravit quod gigantes ibi sint et in profundis inferni
+            convivae eius</p>
+        </div>
+        <div xml:id="bible-prov10" n="10">
+          <head>Caput 10</head>
+          <p xml:id="prov10_1" n="1">parabolae Salomonis filius sapiens laetificat patrem filius
+            vero stultus maestitia est matris suae</p>
+          <p xml:id="prov10_2" n="2">non proderunt thesauri impietatis iustitia vero liberabit a
+            morte</p>
+          <p xml:id="prov10_3" n="3">non adfliget Dominus fame animam iusti et insidias impiorum
+            subvertet</p>
+          <p xml:id="prov10_4" n="4">egestatem operata est manus remissa manus autem fortium
+            divitias parat</p>
+          <p xml:id="prov10_5" n="5">qui congregat in messe filius sapiens est qui autem stertit
+            aestate filius confusionis</p>
+          <p xml:id="prov10_6" n="6">benedictio super caput iusti os autem impiorum operit
+            iniquitatem</p>
+          <p xml:id="prov10_7" n="7">memoria iusti cum laudibus et nomen impiorum putrescet</p>
+          <p xml:id="prov10_8" n="8">sapiens corde praecepta suscipiet stultus caeditur labiis</p>
+          <p xml:id="prov10_9" n="9">qui ambulat simpliciter ambulat confidenter qui autem depravat
+            vias suas manifestus erit</p>
+          <p xml:id="prov10_10" n="10">qui annuit oculo dabit dolorem stultus labiis
+            verberabitur</p>
+          <p xml:id="prov10_11" n="11">vena vitae os iusti et os impiorum operiet iniquitatem</p>
+          <p xml:id="prov10_12" n="12">odium suscitat rixas et universa delicta operit caritas</p>
+          <p xml:id="prov10_13" n="13">in labiis sapientis invenietur sapientia et virga in dorso
+            eius qui indiget corde</p>
+          <p xml:id="prov10_14" n="14">sapientes abscondunt scientiam os autem stulti confusioni
+            proximum est</p>
+          <p xml:id="prov10_15" n="15">substantia divitis urbs fortitudinis eius pavor pauperum
+            egestas eorum</p>
+          <p xml:id="prov10_16" n="16">opus iusti ad vitam fructus impii ad peccatum</p>
+          <p xml:id="prov10_17" n="17">via vitae custodienti disciplinam qui autem increpationes
+            relinquit errat</p>
+          <p xml:id="prov10_18" n="18">abscondunt odium labia mendacia qui profert contumeliam
+            insipiens est</p>
+          <p xml:id="prov10_19" n="19">in multiloquio peccatum non deerit qui autem moderatur labia
+            sua prudentissimus est</p>
+          <p xml:id="prov10_20" n="20">argentum electum lingua iusti cor impiorum pro nihilo</p>
+          <p xml:id="prov10_21" n="21">labia iusti erudiunt plurimos qui autem indocti sunt in
+            cordis egestate morientur</p>
+          <p xml:id="prov10_22" n="22">benedictio Domini divites facit nec sociabitur ei
+            adflictio</p>
+          <p xml:id="prov10_23" n="23">quasi per risum stultus operatur scelus sapientia autem est
+            viro prudentia</p>
+          <p xml:id="prov10_24" n="24">quod timet impius veniet super eum desiderium suum iustis
+            dabitur</p>
+          <p xml:id="prov10_25" n="25">quasi tempestas transiens non erit impius iustus autem quasi
+            fundamentum sempiternum</p>
+          <p xml:id="prov10_26" n="26">sicut acetum dentibus et fumus oculis sic piger his qui
+            miserunt eum</p>
+          <p xml:id="prov10_27" n="27">timor Domini adponet dies et anni impiorum breviabuntur</p>
+          <p xml:id="prov10_28" n="28">expectatio iustorum laetitia spes autem impiorum peribit</p>
+          <p xml:id="prov10_29" n="29">fortitudo simplicis via Domini et pavor his qui operantur
+            malum</p>
+          <p xml:id="prov10_30" n="30">iustus in aeternum non commovebitur impii autem non
+            habitabunt in terram</p>
+          <p xml:id="prov10_31" n="31">os iusti parturiet sapientiam lingua pravorum peribit</p>
+          <p xml:id="prov10_32" n="32">labia iusti considerant placita et os impiorum perversa</p>
+        </div>
+        <div xml:id="bible-prov11" n="11">
+          <head>Caput 11</head>
+          <p xml:id="prov11_1" n="1">statera dolosa abominatio apud Dominum et pondus aequum
+            voluntas eius</p>
+          <p xml:id="prov11_2" n="2">ubi fuerit superbia ibi erit et contumelia ubi autem humilitas
+            ibi et sapientia</p>
+          <p xml:id="prov11_3" n="3">simplicitas iustorum diriget eos et subplantatio perversorum
+            vastabit illos</p>
+          <p xml:id="prov11_4" n="4">non proderunt divitiae in die ultionis iustitia autem liberabit
+            a morte</p>
+          <p xml:id="prov11_5" n="5">iustitia simplicis diriget viam eius et in impietate sua
+            corruet impius</p>
+          <p xml:id="prov11_6" n="6">iustitia rectorum liberabit eos et in insidiis suis capientur
+            iniqui</p>
+          <p xml:id="prov11_7" n="7">mortuo homine impio nulla erit ultra spes et expectatio
+            sollicitorum peribit</p>
+          <p xml:id="prov11_8" n="8">iustus de angustia liberatus est et tradetur impius pro eo</p>
+          <p xml:id="prov11_9" n="9">simulator ore decipit amicum suum iusti autem liberabuntur
+            scientia</p>
+          <p xml:id="prov11_10" n="10">in bonis iustorum exultabit civitas et in perditione impiorum
+            erit laudatio</p>
+          <p xml:id="prov11_11" n="11">benedictione iustorum exaltabitur civitas et ore impiorum
+            subvertetur</p>
+          <p xml:id="prov11_12" n="12">qui despicit amicum suum indigens corde est vir autem prudens
+            tacebit</p>
+          <p xml:id="prov11_13" n="13">qui ambulat fraudulenter revelat arcana qui autem fidelis est
+            animi celat commissum</p>
+          <p xml:id="prov11_14" n="14">ubi non est gubernator populus corruet salus autem ubi multa
+            consilia</p>
+          <p xml:id="prov11_15" n="15">adfligetur malo qui fidem facit pro extraneo qui autem cavet
+            laqueos securus erit</p>
+          <p xml:id="prov11_16" n="16">mulier gratiosa inveniet gloriam et robusti habebunt
+            divitias</p>
+          <p xml:id="prov11_17" n="17">benefacit animae suae vir misericors qui autem crudelis est
+            et propinquos abicit</p>
+          <p xml:id="prov11_18" n="18">impius facit opus instabile seminanti autem iustitiam merces
+            fidelis</p>
+          <p xml:id="prov11_19" n="19">clementia praeparat vitam et sectatio malorum mortem</p>
+          <p xml:id="prov11_20" n="20">abominabile Domino pravum cor et voluntas eius in his qui
+            simpliciter ambulant</p>
+          <p xml:id="prov11_21" n="21">manus in manu non erit innocens malus semen autem iustorum
+            salvabitur</p>
+          <p xml:id="prov11_22" n="22">circulus aureus in naribus suis mulier pulchra et fatua</p>
+          <p xml:id="prov11_23" n="23">desiderium iustorum omne bonum est praestolatio impiorum
+            furor</p>
+          <p xml:id="prov11_24" n="24">alii dividunt propria et ditiores fiunt alii rapiunt non sua
+            et semper in egestate sunt</p>
+          <p xml:id="prov11_25" n="25">anima quae benedicit inpinguabitur et qui inebriat ipse
+            quoque inebriabitur</p>
+          <p xml:id="prov11_26" n="26">qui abscondit frumenta maledicetur in populis benedictio
+            autem super caput vendentium</p>
+          <p xml:id="prov11_27" n="27">bene consurgit diluculo qui quaerit bona qui autem
+            investigator malorum est opprimetur ab eis</p>
+          <p xml:id="prov11_28" n="28">qui confidet in divitiis suis corruet iusti autem quasi
+            virens folium germinabunt</p>
+          <p xml:id="prov11_29" n="29">qui conturbat domum suam possidebit ventos et qui stultus est
+            serviet sapienti</p>
+          <p xml:id="prov11_30" n="30">fructus iusti lignum vitae et qui suscipit animas sapiens
+            est</p>
+          <p xml:id="prov11_31" n="31">si iustus in terra recipit quanto magis impius et
+            peccator</p>
+        </div>
+        <div xml:id="bible-prov12" n="12">
+          <head>Caput 12</head>
+          <p xml:id="prov12_1" n="1">qui diligit disciplinam diligit scientiam qui autem odit
+            increpationes insipiens est</p>
+          <p xml:id="prov12_2" n="2">qui bonus est hauriet a Domino gratiam qui autem confidit
+            cogitationibus suis impie agit</p>
+          <p xml:id="prov12_3" n="3">non roborabitur homo ex impietate et radix iustorum non
+            commovebitur</p>
+          <p xml:id="prov12_4" n="4">mulier diligens corona viro suo et putredo in ossibus eius quae
+            confusione res dignas gerit</p>
+          <p xml:id="prov12_5" n="5">cogitationes iustorum iudicia et consilia impiorum
+            fraudulentia</p>
+          <p xml:id="prov12_6" n="6">verba impiorum insidiantur sanguini os iustorum liberabit
+            eos</p>
+          <p xml:id="prov12_7" n="7">verte impios et non erunt domus autem iustorum permanebit</p>
+          <p xml:id="prov12_8" n="8">doctrina sua noscetur vir qui autem vanus et excors est patebit
+            contemptui</p>
+          <p xml:id="prov12_9" n="9">melior est pauper et sufficiens sibi quam gloriosus et indigens
+            pane</p>
+          <p xml:id="prov12_10" n="10">novit iustus animas iumentorum suorum viscera autem impiorum
+            crudelia</p>
+          <p xml:id="prov12_11" n="11">qui operatur terram suam saturabitur panibus qui autem
+            sectatur otium stultissimus est</p>
+          <p xml:id="prov12_12" n="12">desiderium impii munimentum est pessimorum radix autem
+            iustorum proficiet</p>
+          <p xml:id="prov12_13" n="13">propter peccata labiorum ruina proximat malo effugiet autem
+            iustus de angustia</p>
+          <p xml:id="prov12_14" n="14">de fructu oris sui unusquisque replebitur bonis et iuxta
+            opera manuum suarum retribuetur ei</p>
+          <p xml:id="prov12_15" n="15">via stulti recta in oculis eius qui autem sapiens est audit
+            consilia</p>
+          <p xml:id="prov12_16" n="16">fatuus statim indicat iram suam qui autem dissimulat iniuriam
+            callidus est</p>
+          <p xml:id="prov12_17" n="17">qui quod novit loquitur index iustitiae est qui autem
+            mentitur testis est fraudulentus</p>
+          <p xml:id="prov12_18" n="18">est qui promittit et quasi gladio pungitur conscientiae
+            lingua autem sapientium sanitas est</p>
+          <p xml:id="prov12_19" n="19">labium veritatis firmum erit in perpetuum qui autem testis
+            est repentinus concinnat linguam mendacii</p>
+          <p xml:id="prov12_20" n="20">dolus in corde cogitantium mala qui autem ineunt pacis
+            consilia sequitur eos gaudium</p>
+          <p xml:id="prov12_21" n="21">non contristabit iustum quicquid ei acciderit impii autem
+            replebuntur malo</p>
+          <p xml:id="prov12_22" n="22">abominatio Domino labia mendacia qui autem fideliter agunt
+            placent ei</p>
+          <p xml:id="prov12_23" n="23">homo versutus celat scientiam et cor insipientium provocabit
+            stultitiam</p>
+          <p xml:id="prov12_24" n="24">manus fortium dominabitur quae autem remissa est tributis
+            serviet</p>
+          <p xml:id="prov12_25" n="25">maeror in corde viri humiliabit illud et sermone bono
+            laetificabitur</p>
+          <p xml:id="prov12_26" n="26">qui neglegit damnum propter amicum iustus est iter autem
+            impiorum decipiet eos</p>
+          <p xml:id="prov12_27" n="27">non inveniet fraudulentus lucrum et substantia hominis erit
+            auri pretium</p>
+          <p xml:id="prov12_28" n="28">in semita iustitiae vita iter autem devium ducit ad
+            mortem</p>
+        </div>
+        <div xml:id="bible-prov13" n="13">
+          <head>Caput 13</head>
+          <p xml:id="prov13_1" n="1">filius sapiens doctrina patris qui autem inlusor est non audit
+            cum arguitur</p>
+          <p xml:id="prov13_2" n="2">de fructu oris homo saturabitur bonis anima autem
+            praevaricatorum iniqua</p>
+          <p xml:id="prov13_3" n="3">qui custodit os suum custodit animam suam qui autem
+            inconsideratus est ad loquendum sentiet mala</p>
+          <p xml:id="prov13_4" n="4">vult et non vult piger anima autem operantium inpinguabitur</p>
+          <p xml:id="prov13_5" n="5">verbum mendax iustus detestabitur impius confundit et
+            confundetur</p>
+          <p xml:id="prov13_6" n="6">iustitia custodit innocentis viam impietas vero peccato
+            subplantat</p>
+          <p xml:id="prov13_7" n="7">est quasi dives cum nihil habeat et est quasi pauper cum in
+            multis divitiis sit</p>
+          <p xml:id="prov13_8" n="8">redemptio animae viri divitiae suae qui autem pauper est
+            increpationem non sustinet</p>
+          <p xml:id="prov13_9" n="9">lux iustorum laetificat lucerna autem impiorum extinguetur</p>
+          <p xml:id="prov13_10" n="10">inter superbos semper iurgia sunt qui autem agunt cuncta
+            consilio reguntur sapientia</p>
+          <p xml:id="prov13_11" n="11">substantia festinata minuetur quae autem paulatim colligitur
+            manu multiplicabitur</p>
+          <p xml:id="prov13_12" n="12">spes quae differtur adfligit animam lignum vitae desiderium
+            veniens</p>
+          <p xml:id="prov13_13" n="13">qui detrahit alicui rei ipse se in futurum obligat qui autem
+            timet praeceptum in pace versabitur</p>
+          <p xml:id="prov13_14" n="14">lex sapientis fons vitae ut declinet a ruina mortis</p>
+          <p xml:id="prov13_15" n="15">doctrina bona dabit gratiam in itinere contemptorum
+            vorago</p>
+          <p xml:id="prov13_16" n="16">astutus omnia agit cum consilio qui autem fatuus est aperit
+            stultitiam</p>
+          <p xml:id="prov13_17" n="17">nuntius impii cadet in malum legatus fidelis sanitas</p>
+          <p xml:id="prov13_18" n="18">egestas et ignominia ei qui deserit disciplinam qui autem
+            adquiescit arguenti glorificabitur</p>
+          <p xml:id="prov13_19" n="19">desiderium si conpleatur delectat animam detestantur stulti
+            eos qui fugiunt mala</p>
+          <p xml:id="prov13_20" n="20">qui cum sapientibus graditur sapiens erit amicus stultorum
+            efficietur similis</p>
+          <p xml:id="prov13_21" n="21">peccatores persequetur malum et iustis retribuentur bona</p>
+          <p xml:id="prov13_22" n="22">bonus relinquet heredes filios et nepotes et custoditur iusto
+            substantia peccatoris</p>
+          <p xml:id="prov13_23" n="23">multi cibi in novalibus patrum et alii congregantur absque
+            iudicio</p>
+          <p xml:id="prov13_24" n="24">qui parcit virgae suae odit filium suum qui autem diligit
+            illum instanter erudit</p>
+          <p xml:id="prov13_25" n="25">iustus comedit et replet animam suam venter autem impiorum
+            insaturabilis</p>
+        </div>
+        <div xml:id="bible-prov14" n="14">
+          <head>Caput 14</head>
+          <p xml:id="prov14_1" n="1">sapiens mulier aedificavit domum suam insipiens instructam
+            quoque destruet manibus</p>
+          <p xml:id="prov14_2" n="2">ambulans recto itinere et timens Deum despicitur ab eo qui
+            infami graditur via</p>
+          <p xml:id="prov14_3" n="3">in ore stulti virga superbiae labia sapientium custodiunt
+            eos</p>
+          <p xml:id="prov14_4" n="4">ubi non sunt boves praesepe vacuum est ubi autem plurimae
+            segetes ibi manifesta fortitudo bovis</p>
+          <p xml:id="prov14_5" n="5">testis fidelis non mentietur profert mendacium testis
+            dolosus</p>
+          <p xml:id="prov14_6" n="6">quaerit derisor sapientiam et non inveniet doctrina prudentium
+            facilis</p>
+          <p xml:id="prov14_7" n="7">vade contra virum stultum et nescito labia prudentiae</p>
+          <p xml:id="prov14_8" n="8">sapientia callidi est intellegere viam suam et inprudentia
+            stultorum errans</p>
+          <p xml:id="prov14_9" n="9">stultis inludet peccatum inter iustos morabitur gratia</p>
+          <p xml:id="prov14_10" n="10">cor quod novit amaritudinem animae suae in gaudio eius non
+            miscebitur extraneus</p>
+          <p xml:id="prov14_11" n="11">domus impiorum delebitur tabernacula iustorum germinabunt</p>
+          <p xml:id="prov14_12" n="12">est via quae videtur homini iusta novissima autem eius
+            deducunt ad mortem</p>
+          <p xml:id="prov14_13" n="13">risus dolore miscebitur et extrema gaudii luctus occupat</p>
+          <p xml:id="prov14_14" n="14">viis suis replebitur stultus et super eum erit vir bonus</p>
+          <p xml:id="prov14_15" n="15">innocens credit omni verbo astutus considerat gressus
+            suos</p>
+          <p xml:id="prov14_16" n="16">sapiens timet et declinat malum stultus transilit et
+            confidit</p>
+          <p xml:id="prov14_17" n="17">inpatiens operabitur stultitiam et vir versutus odiosus
+            est</p>
+          <p xml:id="prov14_18" n="18">possidebunt parvuli stultitiam et astuti expectabunt
+            scientiam</p>
+          <p xml:id="prov14_19" n="19">iacebunt mali ante bonos et impii ante portas iustorum</p>
+          <p xml:id="prov14_20" n="20">etiam proximo suo pauper odiosus erit amici vero divitum
+            multi</p>
+          <p xml:id="prov14_21" n="21">qui despicit proximum suum peccat qui autem miseretur pauperi
+            beatus erit</p>
+          <p xml:id="prov14_22" n="22">errant qui operantur malum misericordia et veritas praeparant
+            bona</p>
+          <p xml:id="prov14_23" n="23">in omni opere erit abundantia ubi autem verba sunt plurima
+            frequenter egestas</p>
+          <p xml:id="prov14_24" n="24">corona sapientium divitiae eorum fatuitas stultorum
+            inprudentia</p>
+          <p xml:id="prov14_25" n="25">liberat animas testis fidelis et profert mendacia
+            versipellis</p>
+          <p xml:id="prov14_26" n="26">in timore Domini fiducia fortitudinis et filiis eius erit
+            spes</p>
+          <p xml:id="prov14_27" n="27">timor Domini fons vitae ut declinet a ruina mortis</p>
+          <p xml:id="prov14_28" n="28">in multitudine populi dignitas regis et in paucitate plebis
+            ignominia principis</p>
+          <p xml:id="prov14_29" n="29">qui patiens est multa gubernatur prudentia qui autem
+            inpatiens exaltat stultitiam suam</p>
+          <p xml:id="prov14_30" n="30">vita carnium sanitas cordis putredo ossuum invidia</p>
+          <p xml:id="prov14_31" n="31">qui calumniatur egentem exprobrat factori eius honorat autem
+            eum qui miseretur pauperis</p>
+          <p xml:id="prov14_32" n="32">in malitia sua expelletur impius sperat autem iustus in morte
+            sua</p>
+          <p xml:id="prov14_33" n="33">in corde prudentis requiescit sapientia et indoctos quoque
+            erudiet</p>
+          <p xml:id="prov14_34" n="34">iustitia elevat gentem miseros facit populos peccatum</p>
+          <p xml:id="prov14_35" n="35">acceptus est regi minister intellegens iracundiam eius
+            inutilis sustinebit</p>
+        </div>
+        <div xml:id="bible-prov15" n="15">
+          <head>Caput 15</head>
+          <p xml:id="prov15_1" n="1">responsio mollis frangit iram sermo durus suscitat furorem</p>
+          <p xml:id="prov15_2" n="2">lingua sapientium ornat scientiam os fatuorum ebullit
+            stultitiam</p>
+          <p xml:id="prov15_3" n="3">in omni loco oculi Domini contemplantur malos et bonos</p>
+          <p xml:id="prov15_4" n="4">lingua placabilis lignum vitae quae inmoderata est conteret
+            spiritum</p>
+          <p xml:id="prov15_5" n="5">stultus inridet disciplinam patris sui qui autem custodit
+            increpationes astutior fiet</p>
+          <p xml:id="prov15_6" n="6">domus iusti plurima fortitudo et in fructibus impii
+            conturbatur</p>
+          <p xml:id="prov15_7" n="7">labia sapientium disseminabunt scientiam cor stultorum
+            dissimile erit</p>
+          <p xml:id="prov15_8" n="8">victimae impiorum abominabiles Domino vota iustorum
+            placabilia</p>
+          <p xml:id="prov15_9" n="9">abominatio est Domino via impii qui sequitur iustitiam
+            diligetur ab eo</p>
+          <p xml:id="prov15_10" n="10">doctrina mala deserenti viam qui increpationes odit
+            morietur</p>
+          <p xml:id="prov15_11" n="11">infernus et perditio coram Domino quanto magis corda filiorum
+            hominum</p>
+          <p xml:id="prov15_12" n="12">non amat pestilens eum qui se corripit nec ad sapientes
+            graditur</p>
+          <p xml:id="prov15_13" n="13">cor gaudens exhilarat faciem in maerore animi deicitur
+            spiritus</p>
+          <p xml:id="prov15_14" n="14">cor sapientis quaerit doctrinam et os stultorum pascetur
+            inperitia</p>
+          <p xml:id="prov15_15" n="15">omnes dies pauperis mali secura mens quasi iuge convivium</p>
+          <p xml:id="prov15_16" n="16">melius est parum cum timore Domini quam thesauri magni et
+            insatiabiles</p>
+          <p xml:id="prov15_17" n="17">melius est vocare ad holera cum caritate quam ad vitulum
+            saginatum cum odio</p>
+          <p xml:id="prov15_18" n="18">vir iracundus provocat rixas qui patiens est mitigat
+            suscitatas</p>
+          <p xml:id="prov15_19" n="19">iter pigrorum quasi sepes spinarum via iustorum absque
+            offendiculo</p>
+          <p xml:id="prov15_20" n="20">filius sapiens laetificat patrem et stultus homo despicit
+            matrem suam</p>
+          <p xml:id="prov15_21" n="21">stultitia gaudium stulto et vir prudens dirigit gressus</p>
+          <p xml:id="prov15_22" n="22">dissipantur cogitationes ubi non est consilium ubi vero
+            plures sunt consiliarii confirmantur</p>
+          <p xml:id="prov15_23" n="23">laetatur homo in sententia oris sui et sermo oportunus est
+            optimus</p>
+          <p xml:id="prov15_24" n="24">semita vitae super eruditum ut declinet de inferno
+            novissimo</p>
+          <p xml:id="prov15_25" n="25">domum superborum demolietur Dominus et firmos facit terminos
+            viduae</p>
+          <p xml:id="prov15_26" n="26">abominatio Domini cogitationes malae et purus sermo
+            pulcherrimus</p>
+          <p xml:id="prov15_27" n="27">conturbat domum suam qui sectatur avaritiam qui autem odit
+            munera vivet</p>
+          <p xml:id="prov15_28" n="28">mens iusti meditatur oboedientiam os impiorum redundat
+            malis</p>
+          <p xml:id="prov15_29" n="29">longe est Dominus ab impiis et orationes iustorum
+            exaudiet</p>
+          <p xml:id="prov15_30" n="30">lux oculorum laetificat animam fama bona inpinguat ossa</p>
+          <p xml:id="prov15_31" n="31">auris quae audit increpationes vitae in medio sapientium
+            commorabitur</p>
+          <p xml:id="prov15_32" n="32">qui abicit disciplinam despicit animam suam qui adquiescit
+            increpationibus possessor est cordis</p>
+          <p xml:id="prov15_33" n="33">timor Domini disciplina sapientiae et gloriam praecedit
+            humilitas</p>
+        </div>
+        <div xml:id="bible-prov16" n="16">
+          <head>Caput 16</head>
+          <p xml:id="prov16_1" n="1">hominis est animum praeparare et Dei gubernare linguam</p>
+          <p xml:id="prov16_2" n="2">omnes viae hominum patent oculis eius spirituum ponderator est
+            Dominus</p>
+          <p xml:id="prov16_3" n="3">revela Domino opera tua et dirigentur cogitationes tuae</p>
+          <p xml:id="prov16_4" n="4">universa propter semet ipsum operatus est Dominus impium quoque
+            ad diem malum</p>
+          <p xml:id="prov16_5" n="5">abominatio Domini omnis arrogans etiam si manus ad manum fuerit
+            non erit innocens</p>
+          <p xml:id="prov16_6" n="6">misericordia et veritate redimitur iniquitas et in timore
+            Domini declinatur a malo</p>
+          <p xml:id="prov16_7" n="7">cum placuerint Domino viae hominis inimicos quoque eius
+            convertet ad pacem</p>
+          <p xml:id="prov16_8" n="8">melius est parum cum iustitia quam multi fructus cum
+            iniquitate</p>
+          <p xml:id="prov16_9" n="9">cor hominis disponet viam suam sed Domini est dirigere gressus
+            eius</p>
+          <p xml:id="prov16_10" n="10">divinatio in labiis regis in iudicio non errabit os eius</p>
+          <p xml:id="prov16_11" n="11">pondus et statera iudicia Domini sunt et opera eius omnes
+            lapides sacculi</p>
+          <p xml:id="prov16_12" n="12">abominabiles regi qui agunt impie quoniam iustitia firmatur
+            solium</p>
+          <p xml:id="prov16_13" n="13">voluntas regum labia iusta qui recta loquitur diligetur</p>
+          <p xml:id="prov16_14" n="14">indignatio regis nuntii mortis et vir sapiens placabit
+            eam</p>
+          <p xml:id="prov16_15" n="15">in hilaritate vultus regis vita et clementia eius quasi imber
+            serotinus</p>
+          <p xml:id="prov16_16" n="16">posside sapientiam quia auro melior est et adquire prudentiam
+            quia pretiosior est argento</p>
+          <p xml:id="prov16_17" n="17">semita iustorum declinat mala custos animae suae servat viam
+            suam</p>
+          <p xml:id="prov16_18" n="18">contritionem praecedit superbia et ante ruinam exaltatur
+            spiritus</p>
+          <p xml:id="prov16_19" n="19">melius est humiliari cum mitibus quam dividere spolia cum
+            superbis</p>
+          <p xml:id="prov16_20" n="20">eruditus in verbo repperiet bona et qui in Domino sperat
+            beatus est</p>
+          <p xml:id="prov16_21" n="21">qui sapiens corde est appellabitur prudens et qui dulcis
+            eloquio maiora percipiet</p>
+          <p xml:id="prov16_22" n="22">fons vitae eruditio possidentis doctrina stultorum
+            fatuitas</p>
+          <p xml:id="prov16_23" n="23">cor sapientis erudiet os eius et labiis illius addet
+            gratiam</p>
+          <p xml:id="prov16_24" n="24">favus mellis verba conposita dulcedo animae et sanitas
+            ossuum</p>
+          <p xml:id="prov16_25" n="25">est via quae videtur homini recta et novissimum eius ducit ad
+            mortem</p>
+          <p xml:id="prov16_26" n="26">anima laborantis laborat sibi quia conpulit eum os suum</p>
+          <p xml:id="prov16_27" n="27">vir impius fodit malum et in labiis eius ignis ardescit</p>
+          <p xml:id="prov16_28" n="28">homo perversus suscitat lites et verbosus separat
+            principes</p>
+          <p xml:id="prov16_29" n="29">vir iniquus lactat amicum suum et ducit eum per viam non
+            bonam</p>
+          <p xml:id="prov16_30" n="30">qui adtonitis oculis cogitat prava mordens labia sua perficit
+            malum</p>
+          <p xml:id="prov16_31" n="31">corona dignitatis senectus in viis iustitiae repperietur</p>
+          <p xml:id="prov16_32" n="32">melior est patiens viro forte et qui dominatur animo suo
+            expugnatore urbium</p>
+          <p xml:id="prov16_33" n="33">sortes mittuntur in sinu sed a Domino temperantur</p>
+        </div>
+        <div xml:id="bible-prov17" n="17">
+          <head>Caput 17</head>
+          <p xml:id="prov17_1" n="1">melior est buccella sicca cum gaudio quam domus plena victimis
+            cum iurgio</p>
+          <p xml:id="prov17_2" n="2">servus sapiens dominabitur filiis stultis et inter fratres
+            hereditatem dividet</p>
+          <p xml:id="prov17_3" n="3">sicut igne probatur argentum et aurum camino ita corda probat
+            Dominus</p>
+          <p xml:id="prov17_4" n="4">malus oboedit linguae iniquae et fallax obtemperat labiis
+            mendacibus</p>
+          <p xml:id="prov17_5" n="5">qui despicit pauperem exprobrat factori eius et qui in ruina
+            laetatur alterius non erit inpunitus</p>
+          <p xml:id="prov17_6" n="6">corona senum filii filiorum et gloria filiorum patres sui</p>
+          <p xml:id="prov17_7" n="7">non decent stultum verba conposita nec principem labium
+            mentiens</p>
+          <p xml:id="prov17_8" n="8">gemma gratissima expectatio praestolantis quocumque se verterit
+            prudenter intellegit</p>
+          <p xml:id="prov17_9" n="9">qui celat delictum quaerit amicitias qui altero sermone repetit
+            separat foederatos</p>
+          <p xml:id="prov17_10" n="10">plus proficit correptio apud prudentem quam centum plagae
+            apud stultum</p>
+          <p xml:id="prov17_11" n="11">semper iurgia quaerit malus angelus autem crudelis mittetur
+            contra eum</p>
+          <p xml:id="prov17_12" n="12">expedit magis ursae occurrere raptis fetibus quam fatuo
+            confidenti sibi in stultitia sua</p>
+          <p xml:id="prov17_13" n="13">qui reddit mala pro bonis non recedet malum de domo eius</p>
+          <p xml:id="prov17_14" n="14">qui dimittit aquam caput est iurgiorum et antequam patiatur
+            contumeliam iudicium deserit</p>
+          <p xml:id="prov17_15" n="15">et qui iustificat impium et qui condemnat iustum abominabilis
+            est uterque apud Dominum</p>
+          <p xml:id="prov17_16" n="16">quid prodest habere divitias stultum cum sapientiam emere non
+            possit</p>
+          <p xml:id="prov17_17" n="17">omni tempore diligit qui amicus est et frater in angustiis
+            conprobatur</p>
+          <p xml:id="prov17_18" n="18">homo stultus plaudet manibus cum spoponderit pro amico
+            suo</p>
+          <p xml:id="prov17_19" n="19">qui meditatur discordiam diligit rixas et qui exaltat ostium
+            quaerit ruinam</p>
+          <p xml:id="prov17_20" n="20">qui perversi cordis est non inveniet bonum et qui vertit
+            linguam incidet in malum</p>
+          <p xml:id="prov17_21" n="21">natus est stultus in ignominiam suam sed nec pater in fatuo
+            laetabitur</p>
+          <p xml:id="prov17_22" n="22">animus gaudens aetatem floridam facit spiritus tristis
+            exsiccat ossa</p>
+          <p xml:id="prov17_23" n="23">munera de sinu impius accipit ut pervertat semitas
+            iudicii</p>
+          <p xml:id="prov17_24" n="24">in facie prudentis lucet sapientia oculi stultorum in finibus
+            terrae</p>
+          <p xml:id="prov17_25" n="25">ira patris filius stultus et dolor matris quae genuit eum</p>
+          <p xml:id="prov17_26" n="26">non est bonum damnum inferre iusto nec percutere principem
+            qui recta iudicat</p>
+          <p xml:id="prov17_27" n="27">qui moderatur sermones suos doctus et prudens est et pretiosi
+            spiritus vir eruditus</p>
+          <p xml:id="prov17_28" n="28">stultus quoque si tacuerit sapiens putabitur et si
+            conpresserit labia sua intellegens</p>
+        </div>
+        <div xml:id="bible-prov18" n="18">
+          <head>Caput 18</head>
+          <p xml:id="prov18_1" n="1">occasiones quaerit qui vult recedere ab amico omni tempore erit
+            exprobrabilis</p>
+          <p xml:id="prov18_2" n="2">non recipit stultus verba prudentiae nisi ea dixeris quae
+            versantur in corde eius</p>
+          <p xml:id="prov18_3" n="3">impius cum in profundum venerit peccatorum contemnit sed
+            sequitur eum ignominia et obprobrium</p>
+          <p xml:id="prov18_4" n="4">aqua profunda verba ex ore viri et torrens redundans fons
+            sapientiae</p>
+          <p xml:id="prov18_5" n="5">accipere personam impii non est bonum ut declines a veritate
+            iudicii</p>
+          <p xml:id="prov18_6" n="6">labia stulti inmiscunt se rixis et os eius iurgia provocat</p>
+          <p xml:id="prov18_7" n="7">os stulti contritio eius et labia illius ruina animae eius</p>
+          <p xml:id="prov18_8" n="8">verba bilinguis quasi simplicia et ipsa perveniunt usque ad
+            interiora ventris</p>
+          <p xml:id="prov18_9" n="9">qui mollis et dissolutus est in opere suo frater est sua opera
+            dissipantis</p>
+          <p xml:id="prov18_10" n="10">turris fortissima nomen Domini ad ipsum currit iustus et
+            exaltabitur</p>
+          <p xml:id="prov18_11" n="11">substantia divitis urbs roboris eius et quasi murus validus
+            circumdans eum</p>
+          <p xml:id="prov18_12" n="12">antequam conteratur exaltatur cor hominis et antequam
+            glorificetur humiliatur</p>
+          <p xml:id="prov18_13" n="13">qui prius respondit quam audiat stultum se esse demonstrat et
+            confusione dignum</p>
+          <p xml:id="prov18_14" n="14">spiritus viri sustentat inbecillitatem suam spiritum vero ad
+            irascendum facilem quis poterit sustinere</p>
+          <p xml:id="prov18_15" n="15">cor prudens possidebit scientiam et auris sapientium quaerit
+            doctrinam</p>
+          <p xml:id="prov18_16" n="16">donum hominis dilatat viam eius et ante principes spatium ei
+            facit</p>
+          <p xml:id="prov18_17" n="17">iustus prior est accusator sui venit amicus eius et
+            investigavit eum</p>
+          <p xml:id="prov18_18" n="18">contradictiones conprimit sors et inter potentes quoque
+            diiudicat</p>
+          <p xml:id="prov18_19" n="19">frater qui adiuvatur a fratre quasi civitas firma et iudicia
+            quasi vectes urbium</p>
+          <p xml:id="prov18_20" n="20">de fructu oris viri replebitur venter eius et genimina
+            labiorum illius saturabunt eum</p>
+          <p xml:id="prov18_21" n="21">mors et vita in manu linguae qui diligunt eam comedent
+            fructus eius</p>
+          <p xml:id="prov18_22" n="22">qui invenit mulierem invenit bonum et hauriet iucunditatem a
+            Domino</p>
+          <p xml:id="prov18_23" n="23">cum obsecrationibus loquetur pauper et dives effabitur
+            rigide</p>
+          <p xml:id="prov18_24" n="24">vir amicalis ad societatem magis amicus erit quam frater</p>
+        </div>
+        <div xml:id="bible-prov19" n="19">
+          <head>Caput 19</head>
+          <p xml:id="prov19_1" n="1">melior est pauper qui ambulat in simplicitate sua quam torquens
+            labia insipiens</p>
+          <p xml:id="prov19_2" n="2">ubi non est scientia animae non est bonum et qui festinus est
+            pedibus offendit</p>
+          <p xml:id="prov19_3" n="3">stultitia hominis subplantat gressus eius et contra Deum fervet
+            animo suo</p>
+          <p xml:id="prov19_4" n="4">divitiae addunt amicos plurimos a paupere autem et hii quos
+            habuit separantur</p>
+          <p xml:id="prov19_5" n="5">testis falsus non erit inpunitus et qui mendacia loquitur non
+            effugiet</p>
+          <p xml:id="prov19_6" n="6">multi colunt personam potentis et amici sunt dona tribuenti</p>
+          <p xml:id="prov19_7" n="7">fratres hominis pauperis oderunt eum insuper et amici procul
+            recesserunt ab eo qui tantum verba sectatur nihil habebit</p>
+          <p xml:id="prov19_8" n="8">qui autem possessor est mentis diligit animam suam et custos
+            prudentiae inveniet bona</p>
+          <p xml:id="prov19_9" n="9">testis falsus non erit inpunitus et qui loquitur mendacia
+            peribit</p>
+          <p xml:id="prov19_10" n="10">non decent stultum deliciae nec servum dominari
+            principibus</p>
+          <p xml:id="prov19_11" n="11">doctrina viri per patientiam noscitur et gloria eius est
+            iniqua praetergredi</p>
+          <p xml:id="prov19_12" n="12">sicut fremitus leonis ita et regis ira et sicut ros super
+            herbam ita hilaritas eius</p>
+          <p xml:id="prov19_13" n="13">dolor patris filius stultus et tecta iugiter perstillantia
+            litigiosa mulier</p>
+          <p xml:id="prov19_14" n="14">domus et divitiae dantur a patribus a Domino autem proprie
+            uxor prudens</p>
+          <p xml:id="prov19_15" n="15">pigredo inmittit soporem et anima dissoluta esuriet</p>
+          <p xml:id="prov19_16" n="16">qui custodit mandatum custodit animam suam qui autem neglegit
+            vias suas mortificabitur</p>
+          <p xml:id="prov19_17" n="17">feneratur Domino qui miseretur pauperis et vicissitudinem
+            suam reddet ei</p>
+          <p xml:id="prov19_18" n="18">erudi filium tuum ne desperes ad interfectionem autem eius ne
+            ponas animam tuam</p>
+          <p xml:id="prov19_19" n="19">qui inpatiens est sustinebit damnum et cum rapuerit aliud
+            adponet</p>
+          <p xml:id="prov19_20" n="20">audi consilium et suscipe disciplinam ut sis sapiens in
+            novissimis tuis</p>
+          <p xml:id="prov19_21" n="21">multae cogitationes in corde viri voluntas autem Domini
+            permanebit</p>
+          <p xml:id="prov19_22" n="22">homo indigens misericors est et melior pauper quam vir
+            mendax</p>
+          <p xml:id="prov19_23" n="23">timor Domini ad vitam et in plenitudine commorabitur absque
+            visitatione pessimi</p>
+          <p xml:id="prov19_24" n="24">abscondit piger manum suam sub ascella nec ad os suum
+            adplicat eam</p>
+          <p xml:id="prov19_25" n="25">pestilente flagellato stultus sapientior erit sin autem
+            corripueris sapientem intelleget disciplinam</p>
+          <p xml:id="prov19_26" n="26">qui adfligit patrem et fugat matrem ignominiosus est et
+            infelix</p>
+          <p xml:id="prov19_27" n="27">non cesses fili audire doctrinam nec ignores sermones
+            scientiae</p>
+          <p xml:id="prov19_28" n="28">testis iniquus deridet iudicium et os impiorum devorat
+            iniquitatem</p>
+          <p xml:id="prov19_29" n="29">parata sunt derisoribus iudicia et mallei percutientes
+            stultorum corporibus</p>
+        </div>
+        <div xml:id="bible-prov20" n="20">
+          <head>Caput 20</head>
+          <p xml:id="prov20_1" n="1">luxuriosa res vinum et tumultuosa ebrietas quicumque his
+            delectatur non erit sapiens</p>
+          <p xml:id="prov20_2" n="2">sicut rugitus leonis ita terror regis qui provocat eum peccat
+            in animam suam</p>
+          <p xml:id="prov20_3" n="3">honor est homini qui separat se a contentionibus omnes autem
+            stulti miscentur contumeliis</p>
+          <p xml:id="prov20_4" n="4">propter frigus piger arare noluit mendicabit ergo aestate et
+            non dabitur ei</p>
+          <p xml:id="prov20_5" n="5">sicut aqua profunda sic consilium in corde viri sed homo
+            sapiens exhauriet illud</p>
+          <p xml:id="prov20_6" n="6">multi homines misericordes vocantur virum autem fidelem quis
+            inveniet</p>
+          <p xml:id="prov20_7" n="7">iustus qui ambulat in simplicitate sua beatos post se filios
+            derelinquet</p>
+          <p xml:id="prov20_8" n="8">rex qui sedet in solio iudicii dissipat omne malum intuitu
+            suo</p>
+          <p xml:id="prov20_9" n="9">quis potest dicere mundum est cor meum purus sum a peccato</p>
+          <p xml:id="prov20_10" n="10">pondus et pondus mensura et mensura utrumque abominabile est
+            apud Deum</p>
+          <p xml:id="prov20_11" n="11">ex studiis suis intellegitur puer si munda et si recta sint
+            opera eius</p>
+          <p xml:id="prov20_12" n="12">aurem audientem et oculum videntem Dominus fecit utrumque</p>
+          <p xml:id="prov20_13" n="13">noli diligere somnum ne te egestas opprimat aperi oculos tuos
+            et saturare panibus</p>
+          <p xml:id="prov20_14" n="14">malum est malum est dicit omnis emptor et cum recesserit tunc
+            gloriabitur</p>
+          <p xml:id="prov20_15" n="15">est aurum et multitudo gemmarum vas autem pretiosum labia
+            scientiae</p>
+          <p xml:id="prov20_16" n="16">tolle vestimentum eius qui fideiussor extitit alieni et pro
+            extraneis aufer pignus ab eo</p>
+          <p xml:id="prov20_17" n="17">suavis est homini panis mendacii et postea implebitur os eius
+            calculo</p>
+          <p xml:id="prov20_18" n="18">cogitationes consiliis roborantur et gubernaculis tractanda
+            sunt bella</p>
+          <p xml:id="prov20_19" n="19">ei qui revelat mysteria et ambulat fraudulenter et dilatat
+            labia sua ne commiscearis</p>
+          <p xml:id="prov20_20" n="20">qui maledicit patri suo et matri extinguetur lucerna eius in
+            mediis tenebris</p>
+          <p xml:id="prov20_21" n="21">hereditas ad quam festinatur in principio in novissimo
+            benedictione carebit</p>
+          <p xml:id="prov20_22" n="22">ne dicas reddam malum expecta Dominum et liberabit te</p>
+          <p xml:id="prov20_23" n="23">abominatio est apud Deum pondus et pondus statera dolosa non
+            est bona</p>
+          <p xml:id="prov20_24" n="24">a Domino diriguntur gressus viri quis autem hominum
+            intellegere potest viam suam</p>
+          <p xml:id="prov20_25" n="25">ruina est hominis devorare sanctos et post vota tractare</p>
+          <p xml:id="prov20_26" n="26">dissipat impios rex sapiens et curvat super eos fornicem</p>
+          <p xml:id="prov20_27" n="27">lucerna Domini spiraculum hominis quae investigat omnia
+            secreta ventris</p>
+          <p xml:id="prov20_28" n="28">misericordia et veritas custodiunt regem et roboratur
+            clementia thronus eius</p>
+          <p xml:id="prov20_29" n="29">exultatio iuvenum fortitudo eorum et dignitas senum
+            canities</p>
+          <p xml:id="prov20_30" n="30">livor vulneris absterget mala et plagae in secretioribus
+            ventris</p>
+        </div>
+        <div xml:id="bible-prov21" n="21">
+          <head>Caput 21</head>
+          <p xml:id="prov21_1" n="1">sicut divisiones aquarum ita cor regis in manu Domini quocumque
+            voluerit inclinabit illud</p>
+          <p xml:id="prov21_2" n="2">omnis via viri recta sibi videtur adpendit autem corda
+            Dominus</p>
+          <p xml:id="prov21_3" n="3">facere misericordiam et iudicium magis placent Domino quam
+            victimae</p>
+          <p xml:id="prov21_4" n="4">exaltatio oculorum et dilatatio cordis lucerna impiorum
+            peccatum</p>
+          <p xml:id="prov21_5" n="5">cogitationes robusti semper in abundantia omnis autem piger
+            semper in egestate</p>
+          <p xml:id="prov21_6" n="6">qui congregat thesauros lingua mendacii vanus est et inpingetur
+            ad laqueos mortis</p>
+          <p xml:id="prov21_7" n="7">rapinae impiorum detrahent eos quia noluerunt facere
+            iudicium</p>
+          <p xml:id="prov21_8" n="8">perversa via viri aliena est qui autem mundus est rectum opus
+            eius</p>
+          <p xml:id="prov21_9" n="9">melius est sedere in angulo domatis quam cum muliere litigiosa
+            et in domo communi</p>
+          <p xml:id="prov21_10" n="10">anima impii desiderat malum non miserebitur proximo suo</p>
+          <p xml:id="prov21_11" n="11">multato pestilente sapientior erit parvulus et si sectetur
+            sapientem sumet scientiam</p>
+          <p xml:id="prov21_12" n="12">excogitat iustus de domo impii ut detrahat impios in
+            malum</p>
+          <p xml:id="prov21_13" n="13">qui obturat aurem suam ad clamorem pauperis et ipse clamabit
+            et non exaudietur</p>
+          <p xml:id="prov21_14" n="14">munus absconditum extinguet iras et donum in sinu
+            indignationem maximam</p>
+          <p xml:id="prov21_15" n="15">gaudium iusto est facere iudicium et pavor operantibus
+            iniquitatem</p>
+          <p xml:id="prov21_16" n="16">vir qui erraverit a via doctrinae in coetu gigantum
+            commorabitur</p>
+          <p xml:id="prov21_17" n="17">qui diligit epulas in egestate erit qui amat vinum et pinguia
+            non ditabitur</p>
+          <p xml:id="prov21_18" n="18">pro iusto datur impius et pro rectis iniquus</p>
+          <p xml:id="prov21_19" n="19">melius est habitare in terra deserta quam cum muliere rixosa
+            et iracunda</p>
+          <p xml:id="prov21_20" n="20">thesaurus desiderabilis et oleum in habitaculo iusti et
+            inprudens homo dissipabit illud</p>
+          <p xml:id="prov21_21" n="21">qui sequitur iustitiam et misericordiam inveniet vitam et
+            iustitiam et gloriam</p>
+          <p xml:id="prov21_22" n="22">civitatem fortium ascendit sapiens et destruxit robur
+            fiduciae eius</p>
+          <p xml:id="prov21_23" n="23">qui custodit os suum et linguam suam custodit ab angustiis
+            animam suam</p>
+          <p xml:id="prov21_24" n="24">superbus et arrogans vocatur indoctus qui in ira operatur
+            superbiam</p>
+          <p xml:id="prov21_25" n="25">desideria occidunt pigrum noluerunt enim quicquam manus eius
+            operari</p>
+          <p xml:id="prov21_26" n="26">tota die concupiscit et desiderat qui autem iustus est
+            tribuet et non cessabit</p>
+          <p xml:id="prov21_27" n="27">hostiae impiorum abominabiles quia offeruntur ex scelere</p>
+          <p xml:id="prov21_28" n="28">testis mendax peribit vir oboediens loquitur victoriam</p>
+          <p xml:id="prov21_29" n="29">vir impius procaciter obfirmat vultum suum qui autem rectus
+            est corrigit viam suam</p>
+          <p xml:id="prov21_30" n="30">non est sapientia non est prudentia non est consilium contra
+            Dominum</p>
+          <p xml:id="prov21_31" n="31">equus paratur ad diem belli Dominus autem salutem tribuet</p>
+        </div>
+        <div xml:id="bible-prov22" n="22">
+          <head>Caput 22</head>
+          <p xml:id="prov22_1" n="1">melius est nomen bonum quam divitiae multae super argentum et
+            aurum gratia bona</p>
+          <p xml:id="prov22_2" n="2">dives et pauper obviaverunt sibi utriusque operator est
+            Dominus</p>
+          <p xml:id="prov22_3" n="3">callidus vidit malum et abscondit se innocens pertransiit et
+            adflictus est damno</p>
+          <p xml:id="prov22_4" n="4">finis modestiae timor Domini divitiae et gloria et vita</p>
+          <p xml:id="prov22_5" n="5">arma et gladii in via perversi custos animae suae longe recedit
+            ab eis</p>
+          <p xml:id="prov22_6" n="6">proverbium est adulescens iuxta viam suam etiam cum senuerit
+            non recedet ab ea</p>
+          <p xml:id="prov22_7" n="7">dives pauperibus imperat et qui accipit mutuum servus est
+            fenerantis</p>
+          <p xml:id="prov22_8" n="8">qui seminat iniquitatem metet mala et virga irae suae
+            consummabitur</p>
+          <p xml:id="prov22_9" n="9">qui pronus est ad misericordiam benedicetur de panibus enim
+            suis dedit pauperi</p>
+          <p xml:id="prov22_10" n="10">eice derisorem et exibit cum eo iurgium cessabuntque causae
+            et contumeliae</p>
+          <p xml:id="prov22_11" n="11">qui diligit cordis munditiam propter gratiam labiorum suorum
+            habebit amicum regem</p>
+          <p xml:id="prov22_12" n="12">oculi Domini custodiunt scientiam et subplantantur verba
+            iniqui</p>
+          <p xml:id="prov22_13" n="13">dicit piger leo foris in medio platearum occidendus sum</p>
+          <p xml:id="prov22_14" n="14">fovea profunda os alienae cui iratus est Dominus incidet in
+            eam</p>
+          <p xml:id="prov22_15" n="15">stultitia conligata est in corde pueri et virga disciplinae
+            fugabit eam</p>
+          <p xml:id="prov22_16" n="16">qui calumniatur pauperem ut augeat divitias suas dabit ipse
+            ditiori et egebit</p>
+          <p xml:id="prov22_17" n="17">inclina aurem tuam et audi verba sapientium adpone autem cor
+            ad doctrinam meam</p>
+          <p xml:id="prov22_18" n="18">quae pulchra erit tibi cum servaveris eam in ventre tuo et
+            redundabit in labiis tuis</p>
+          <p xml:id="prov22_19" n="19">ut sit in Domino fiducia tua unde et ostendi eam tibi
+            hodie</p>
+          <p xml:id="prov22_20" n="20">ecce descripsi eam tibi tripliciter in cogitationibus et
+            scientia</p>
+          <p xml:id="prov22_21" n="21">ut ostenderem tibi firmitatem et eloquia veritatis respondere
+            ex his illi qui misit te</p>
+          <p xml:id="prov22_22" n="22">non facias violentiam pauperi quia pauper est neque conteras
+            egenum in porta</p>
+          <p xml:id="prov22_23" n="23">quia Dominus iudicabit causam eius et configet eos qui
+            confixerint animam eius</p>
+          <p xml:id="prov22_24" n="24">noli esse amicus homini iracundo neque ambules cum viro
+            furioso</p>
+          <p xml:id="prov22_25" n="25">ne forte discas semitas eius et sumas scandalum animae
+            tuae</p>
+          <p xml:id="prov22_26" n="26">noli esse cum his qui defigunt manus suas et qui vades se
+            offerunt pro debitis</p>
+          <p xml:id="prov22_27" n="27">si enim non habes unde restituas quid causae est ut tollat
+            operimentum de cubili tuo</p>
+          <p xml:id="prov22_28" n="28">ne transgrediaris terminos antiquos quos posuerunt patres
+            tui</p>
+          <p xml:id="prov22_29" n="29">vidisti virum velocem in opere suo coram regibus stabit nec
+            erit ante ignobiles</p>
+        </div>
+        <div xml:id="bible-prov23" n="23">
+          <head>Caput 23</head>
+          <p xml:id="prov23_1" n="1">quando sederis ut comedas cum principe diligenter adtende quae
+            posita sunt ante faciem tuam</p>
+          <p xml:id="prov23_2" n="2">et statue cultrum in gutture tuo si tamen habes in potestate
+            animam tuam</p>
+          <p xml:id="prov23_3" n="3">ne desideres de cibis eius in quo est panis mendacii</p>
+          <p xml:id="prov23_4" n="4">noli laborare ut diteris sed prudentiae tuae pone modum</p>
+          <p xml:id="prov23_5" n="5">ne erigas oculos tuos ad opes quas habere non potes quia
+            facient sibi pinnas quasi aquilae et avolabunt in caelum</p>
+          <p xml:id="prov23_6" n="6">ne comedas cum homine invido et ne desideres cibos eius</p>
+          <p xml:id="prov23_7" n="7">quoniam in similitudinem arioli et coniectoris aestimat quod
+            ignorat comede et bibe dicet tibi et mens eius non est tecum</p>
+          <p xml:id="prov23_8" n="8">cibos quos comederas evomes et perdes pulchros sermones
+            tuos</p>
+          <p xml:id="prov23_9" n="9">in auribus insipientium ne loquaris quia despicient doctrinam
+            eloquii tui</p>
+          <p xml:id="prov23_10" n="10">ne adtingas terminos parvulorum et agrum pupillorum ne
+            introeas</p>
+          <p xml:id="prov23_11" n="11">propinquus enim eorum Fortis est et ipse iudicabit contra te
+            causam illorum</p>
+          <p xml:id="prov23_12" n="12">ingrediatur ad doctrinam cor tuum et aures tuae ad verba
+            scientiae</p>
+          <p xml:id="prov23_13" n="13">noli subtrahere a puero disciplinam si enim percusseris eum
+            virga non morietur</p>
+          <p xml:id="prov23_14" n="14">tu virga percuties eum et animam eius de inferno
+            liberabis</p>
+          <p xml:id="prov23_15" n="15">fili mi si sapiens fuerit animus tuus gaudebit tecum cor
+            meum</p>
+          <p xml:id="prov23_16" n="16">et exultabunt renes mei cum locuta fuerint rectum labia
+            tua</p>
+          <p xml:id="prov23_17" n="17">non aemuletur cor tuum peccatores sed in timore Domini esto
+            tota die</p>
+          <p xml:id="prov23_18" n="18">quia habebis spem in novissimo et praestolatio tua non
+            auferetur</p>
+          <p xml:id="prov23_19" n="19">audi fili mi et esto sapiens et dirige in via animum tuum</p>
+          <p xml:id="prov23_20" n="20">noli esse in conviviis potatorum nec in comesationibus eorum
+            qui carnes ad vescendum conferunt</p>
+          <p xml:id="prov23_21" n="21">quia vacantes potibus et dantes symbola consumentur et
+            vestietur pannis dormitatio</p>
+          <p xml:id="prov23_22" n="22">audi patrem tuum qui genuit te et ne contemnas cum senuerit
+            mater tua</p>
+          <p xml:id="prov23_23" n="23">veritatem eme et noli vendere sapientiam et doctrinam et
+            intellegentiam</p>
+          <p xml:id="prov23_24" n="24">exultat gaudio pater iusti qui sapientem genuit laetabitur in
+            eo</p>
+          <p xml:id="prov23_25" n="25">gaudeat pater tuus et mater tua et exultet quae genuit te</p>
+          <p xml:id="prov23_26" n="26">praebe fili mi cor tuum mihi et oculi tui vias meas
+            custodiant</p>
+          <p xml:id="prov23_27" n="27">fovea enim profunda est meretrix et puteus angustus
+            aliena</p>
+          <p xml:id="prov23_28" n="28">insidiatur in via quasi latro et quos incautos viderit
+            interficit</p>
+          <p xml:id="prov23_29" n="29">cui vae cuius patri vae cui rixae cui foveae cui sine causa
+            vulnera cui suffusio oculorum</p>
+          <p xml:id="prov23_30" n="30">nonne his qui morantur in vino et student calicibus
+            epotandis</p>
+          <p xml:id="prov23_31" n="31">ne intuearis vinum quando flavescit cum splenduerit in vitro
+            color eius ingreditur blande</p>
+          <p xml:id="prov23_32" n="32">sed in novissimo mordebit ut coluber et sicut regulus venena
+            diffundet</p>
+          <p xml:id="prov23_33" n="33">oculi tui videbunt extraneas et cor tuum loquetur
+            perversa</p>
+          <p xml:id="prov23_34" n="34">et eris sicut dormiens in medio mari et quasi sopitus
+            gubernator amisso clavo</p>
+          <p xml:id="prov23_35" n="35">et dices verberaverunt me sed non dolui traxerunt me et ego
+            non sensi quando evigilabo et rursum vina repperiam</p>
+        </div>
+        <div xml:id="bible-prov24" n="24">
+          <head>Caput 24</head>
+          <p xml:id="prov24_1" n="1">ne aemuleris viros malos nec desideres esse cum eis</p>
+          <p xml:id="prov24_2" n="2">quia rapinas meditatur mens eorum et fraudes labia eorum
+            loquuntur</p>
+          <p xml:id="prov24_3" n="3">sapientia aedificabitur domus et prudentia roborabitur</p>
+          <p xml:id="prov24_4" n="4">in doctrina replebuntur cellaria universa substantia pretiosa
+            et pulcherrima</p>
+          <p xml:id="prov24_5" n="5">vir sapiens et fortis est et vir doctus robustus et validus</p>
+          <p xml:id="prov24_6" n="6">quia cum dispositione initur bellum et erit salus ubi multa
+            consilia sunt</p>
+          <p xml:id="prov24_7" n="7">excelsa stulto sapientia in porta non aperiet os suum</p>
+          <p xml:id="prov24_8" n="8">qui cogitat malefacere stultus vocabitur</p>
+          <p xml:id="prov24_9" n="9">cogitatio stulti peccatum est et abominatio hominum
+            detractor</p>
+          <p xml:id="prov24_10" n="10">si desperaveris lassus in die angustiae inminuetur fortitudo
+            tua</p>
+          <p xml:id="prov24_11" n="11">erue eos qui ducuntur ad mortem et qui trahuntur ad interitum
+            liberare ne cesses</p>
+          <p xml:id="prov24_12" n="12">si dixeris vires non suppetunt qui inspector est cordis ipse
+            intellegit et servatorem animae tuae nihil fallit reddetque homini iuxta opera sua</p>
+          <p xml:id="prov24_13" n="13">comede fili mi mel quia bonum est et favum dulcissimum
+            gutturi tuo</p>
+          <p xml:id="prov24_14" n="14">sic et doctrina sapientiae animae tuae quam cum inveneris
+            habebis in novissimis et spes tua non peribit</p>
+          <p xml:id="prov24_15" n="15">ne insidieris et quaeras impietatem in domo iusti neque
+            vastes requiem eius</p>
+          <p xml:id="prov24_16" n="16">septies enim cadet iustus et resurget impii autem corruent in
+            malum</p>
+          <p xml:id="prov24_17" n="17">cum ceciderit inimicus tuus ne gaudeas et in ruina eius ne
+            exultet cor tuum</p>
+          <p xml:id="prov24_18" n="18">ne forte videat Dominus et displiceat ei et auferat ab eo
+            iram suam</p>
+          <p xml:id="prov24_19" n="19">ne contendas cum pessimis nec aemuleris impios</p>
+          <p xml:id="prov24_20" n="20">quoniam non habent futurorum spem mali et lucerna impiorum
+            extinguetur</p>
+          <p xml:id="prov24_21" n="21">time Dominum fili mi et regem et cum detractoribus non
+            commiscearis</p>
+          <p xml:id="prov24_22" n="22">quoniam repente consurget perditio eorum et ruinam utriusque
+            quis novit</p>
+          <p xml:id="prov24_23" n="23">haec quoque sapientibus cognoscere personam in iudicio non
+            est bonum</p>
+          <p xml:id="prov24_24" n="24">qui dicit impio iustus es maledicent ei populi et
+            detestabuntur eum tribus</p>
+          <p xml:id="prov24_25" n="25">qui arguunt laudabuntur et super ipsos veniet benedictio</p>
+          <p xml:id="prov24_26" n="26">labia deosculabitur qui recta verba respondet</p>
+          <p xml:id="prov24_27" n="27">praepara foris opus tuum et diligenter exerce agrum tuum ut
+            postea aedifices domum tuam</p>
+          <p xml:id="prov24_28" n="28">ne sis testis frustra contra proximum tuum nec lactes
+            quemquam labiis tuis</p>
+          <p xml:id="prov24_29" n="29">ne dicas quomodo fecit mihi sic faciam ei reddam unicuique
+            secundum opus suum</p>
+          <p xml:id="prov24_30" n="30">per agrum hominis pigri transivi et per vineam viri
+            stulti</p>
+          <p xml:id="prov24_31" n="31">et ecce totum repleverant urticae operuerant superficiem eius
+            spinae et maceria lapidum destructa erat</p>
+          <p xml:id="prov24_32" n="32">quod cum vidissem posui in corde meo et exemplo didici
+            disciplinam</p>
+          <p xml:id="prov24_33" n="33">parum inquam dormies modicum dormitabis pauxillum manus
+            conseres ut quiescas</p>
+          <p xml:id="prov24_34" n="34">et veniet quasi cursor egestas tua et mendicitas quasi vir
+            armatus</p>
+        </div>
+        <div xml:id="bible-prov25" n="25">
+          <head>Caput 25</head>
+          <p xml:id="prov25_1" n="1">haec quoque parabolae Salomonis quas transtulerunt viri
+            Ezechiae regis Iuda</p>
+          <p xml:id="prov25_2" n="2">gloria Dei celare verbum et gloria regum investigare
+            sermonem</p>
+          <p xml:id="prov25_3" n="3">caelum sursum et terra deorsum et cor regum inscrutabile</p>
+          <p xml:id="prov25_4" n="4">aufer robiginem de argento et egredietur vas purissimum</p>
+          <p xml:id="prov25_5" n="5">aufer impietatem de vultu regis et firmabitur iustitia thronus
+            eius</p>
+          <p xml:id="prov25_6" n="6">ne gloriosus appareas coram rege et in loco magnorum ne
+            steteris</p>
+          <p xml:id="prov25_7" n="7">melius est enim ut dicatur tibi ascende huc quam ut humilieris
+            coram principe</p>
+          <p xml:id="prov25_8" n="8">quae viderunt oculi tui ne proferas in iurgio cito ne postea
+            emendare non possis cum dehonestaveris amicum tuum</p>
+          <p xml:id="prov25_9" n="9">causam tuam tracta cum amico tuo et secretum extraneo non
+            reveles</p>
+          <p xml:id="prov25_10" n="10">ne forte insultet tibi cum audierit et exprobrare non
+            cesset</p>
+          <p xml:id="prov25_11" n="11">mala aurea in lectis argenteis qui loquitur verbum in tempore
+            suo</p>
+          <p xml:id="prov25_12" n="12">inauris aurea et margaritum fulgens qui arguit sapientem et
+            aurem oboedientem</p>
+          <p xml:id="prov25_13" n="13">sicut frigus nivis in die messis ita legatus fidelis ei qui
+            misit eum animam illius requiescere facit</p>
+          <p xml:id="prov25_14" n="14">nubes et ventus et pluviae non sequentes vir gloriosus et
+            promissa non conplens</p>
+          <p xml:id="prov25_15" n="15">patientia lenietur princeps et lingua mollis confringet
+            duritiam</p>
+          <p xml:id="prov25_16" n="16">mel invenisti comede quod sufficit tibi ne forte saturatus
+            evomas illud</p>
+          <p xml:id="prov25_17" n="17">subtrahe pedem tuum de domo proximi tui nequando satiatus
+            oderit te</p>
+          <p xml:id="prov25_18" n="18">iaculum et gladius et sagitta acuta homo qui loquitur contra
+            proximum suum testimonium falsum</p>
+          <p xml:id="prov25_19" n="19">dens putridus et pes lapsus qui sperat super infideli in die
+            angustiae</p>
+          <p xml:id="prov25_20" n="20">et amittit pallium in die frigoris acetum in nitro et qui
+            cantat carmina cordi pessimo</p>
+          <p xml:id="prov25_21" n="21">si esurierit inimicus tuus ciba illum et si sitierit da ei
+            aquam bibere</p>
+          <p xml:id="prov25_22" n="22">prunam enim congregabis super caput eius et Dominus reddet
+            tibi</p>
+          <p xml:id="prov25_23" n="23">ventus aquilo dissipat pluvias et facies tristis linguam
+            detrahentem</p>
+          <p xml:id="prov25_24" n="24">melius est sedere in angulo domatis quam cum muliere
+            litigiosa et in domo communi</p>
+          <p xml:id="prov25_25" n="25">aqua frigida animae sitienti et nuntius bonus de terra
+            longinqua</p>
+          <p xml:id="prov25_26" n="26">fons turbatus pede et vena corrupta iustus cadens coram
+            impio</p>
+          <p xml:id="prov25_27" n="27">sicut qui mel multum comedit non est ei bonum sic qui
+            scrutator est maiestatis opprimitur gloria</p>
+          <p xml:id="prov25_28" n="28">sicut urbs patens et absque murorum ambitu ita vir qui non
+            potest in loquendo cohibere spiritum suum</p>
+        </div>
+        <div xml:id="bible-prov26" n="26">
+          <head>Caput 26</head>
+          <p xml:id="prov26_1" n="1">quomodo nix aestate et pluvia in messe sic indecens est stulto
+            gloria</p>
+          <p xml:id="prov26_2" n="2">sicut avis ad alia transvolans et passer quolibet vadens sic
+            maledictum frustra prolatum in quempiam superveniet</p>
+          <p xml:id="prov26_3" n="3">flagellum equo et camus asino et virga dorso inprudentium</p>
+          <p xml:id="prov26_4" n="4">ne respondeas stulto iuxta stultitiam suam ne efficiaris ei
+            similis</p>
+          <p xml:id="prov26_5" n="5">responde stulto iuxta stultitiam suam ne sibi sapiens esse
+            videatur</p>
+          <p xml:id="prov26_6" n="6">claudus pedibus et iniquitatem bibens qui mittit verba per
+            nuntium stultum</p>
+          <p xml:id="prov26_7" n="7">quomodo pulchras frustra habet claudus tibias sic indecens est
+            in ore stultorum parabola</p>
+          <p xml:id="prov26_8" n="8">sicut qui mittit lapidem in acervum Mercurii ita qui tribuit
+            insipienti honorem</p>
+          <p xml:id="prov26_9" n="9">quomodo si spina nascatur in manu temulenti sic parabola in ore
+            stultorum</p>
+          <p xml:id="prov26_10" n="10">iudicium determinat causas et qui inponit stulto silentium
+            iras mitigat</p>
+          <p xml:id="prov26_11" n="11">sicut canis qui revertitur ad vomitum suum sic inprudens qui
+            iterat stultitiam suam</p>
+          <p xml:id="prov26_12" n="12">vidisti hominem sapientem sibi videri magis illo spem habebit
+            stultus</p>
+          <p xml:id="prov26_13" n="13">dicit piger leaena in via leo in itineribus</p>
+          <p xml:id="prov26_14" n="14">sicut ostium vertitur in cardine suo ita piger in lectulo
+            suo</p>
+          <p xml:id="prov26_15" n="15">abscondit piger manus sub ascellas suas et laborat si ad os
+            suum eas converterit</p>
+          <p xml:id="prov26_16" n="16">sapientior sibi piger videtur septem viris loquentibus
+            sententias</p>
+          <p xml:id="prov26_17" n="17">sicut qui adprehendit auribus canem sic qui transit et
+            inpatiens commiscetur rixae alterius</p>
+          <p xml:id="prov26_18" n="18">sicut noxius est qui mittit lanceas et sagittas et mortem</p>
+          <p xml:id="prov26_19" n="19">sic vir qui fraudulenter nocet amico suo et cum fuerit
+            deprehensus dicit ludens feci</p>
+          <p xml:id="prov26_20" n="20">cum defecerint ligna extinguetur ignis et susurrone subtracto
+            iurgia conquiescunt</p>
+          <p xml:id="prov26_21" n="21">sicut carbones ad prunam et ligna ad ignem sic homo iracundus
+            suscitat rixas</p>
+          <p xml:id="prov26_22" n="22">verba susurronis quasi simplicia et ipsa perveniunt ad intima
+            ventris</p>
+          <p xml:id="prov26_23" n="23">quomodo si argento sordido ornare velis vas fictile sic labia
+            tumentia cum pessimo corde sociata</p>
+          <p xml:id="prov26_24" n="24">labiis suis intellegitur inimicus cum in corde tractaverit
+            dolos</p>
+          <p xml:id="prov26_25" n="25">quando submiserit vocem suam ne credideris ei quoniam septem
+            nequitiae sunt in corde illius</p>
+          <p xml:id="prov26_26" n="26">qui operit odium fraudulenter revelabitur malitia eius in
+            concilio</p>
+          <p xml:id="prov26_27" n="27">qui fodit foveam incidet in eam et qui volvit lapidem
+            revertetur ad eum</p>
+          <p xml:id="prov26_28" n="28">lingua fallax non amat veritatem et os lubricum operatur
+            ruinas</p>
+        </div>
+        <div xml:id="bible-prov27" n="27">
+          <head>Caput 27</head>
+          <p xml:id="prov27_1" n="1">ne glorieris in crastinum ignorans quid superventura pariat
+            dies</p>
+          <p xml:id="prov27_2" n="2">laudet te alienus et non os tuum extraneus et non labia tua</p>
+          <p xml:id="prov27_3" n="3">grave est saxum et onerosa harena sed ira stulti utroque
+            gravior</p>
+          <p xml:id="prov27_4" n="4">ira non habet misericordiam nec erumpens furor et impetum
+            concitati ferre quis poterit</p>
+          <p xml:id="prov27_5" n="5">melior est manifesta correptio quam amor absconditus</p>
+          <p xml:id="prov27_6" n="6">meliora sunt vulnera diligentis quam fraudulenta odientis
+            oscula</p>
+          <p xml:id="prov27_7" n="7">anima saturata calcabit favum anima esuriens et amarum pro
+            dulce sumet</p>
+          <p xml:id="prov27_8" n="8">sicut avis transmigrans de nido suo sic vir qui relinquit locum
+            suum</p>
+          <p xml:id="prov27_9" n="9">unguento et variis odoribus delectatur cor et bonis amici
+            consiliis anima dulcoratur</p>
+          <p xml:id="prov27_10" n="10">amicum tuum et amicum patris tui ne dimiseris et domum
+            fratris tui ne ingrediaris in die adflictionis tuae melior est vicinus iuxta quam frater
+            procul</p>
+          <p xml:id="prov27_11" n="11">stude sapientiae fili mi et laetifica cor meum ut possim
+            exprobranti respondere sermonem</p>
+          <p xml:id="prov27_12" n="12">astutus videns malum absconditus est parvuli transeuntes
+            sustinuere dispendia</p>
+          <p xml:id="prov27_13" n="13">tolle vestimentum eius qui spopondit pro extraneo et pro
+            alienis auferto pignus</p>
+          <p xml:id="prov27_14" n="14">qui benedicit proximo suo voce grandi de nocte consurgens
+            maledicenti similis erit</p>
+          <p xml:id="prov27_15" n="15">tecta perstillantia in die frigoris et litigiosa mulier
+            conparantur</p>
+          <p xml:id="prov27_16" n="16">qui retinet eam quasi qui ventum teneat et oleum dexterae
+            suae vocabit</p>
+          <p xml:id="prov27_17" n="17">ferrum ferro acuitur et homo exacuit faciem amici sui</p>
+          <p xml:id="prov27_18" n="18">qui servat ficum comedet fructus eius et qui custos est
+            domini sui glorificabitur</p>
+          <p xml:id="prov27_19" n="19">quomodo in aquis resplendent vultus prospicientium sic corda
+            hominum manifesta sunt prudentibus</p>
+          <p xml:id="prov27_20" n="20">infernus et perditio non replentur similiter et oculi hominum
+            insatiabiles</p>
+          <p xml:id="prov27_21" n="21">quomodo probatur in conflatorio argentum et in fornace aurum
+            sic probatur homo ore laudantis</p>
+          <p xml:id="prov27_22" n="22">si contuderis stultum in pila quasi tisanas feriente desuper
+            pilo non auferetur ab eo stultitia eius</p>
+          <p xml:id="prov27_23" n="23">diligenter agnosce vultum pecoris tui tuosque greges
+            considera</p>
+          <p xml:id="prov27_24" n="24">non enim habebis iugiter potestatem sed corona tribuetur in
+            generatione generationum</p>
+          <p xml:id="prov27_25" n="25">aperta sunt prata et apparuerunt herbae virentes et collecta
+            sunt faena de montibus</p>
+          <p xml:id="prov27_26" n="26">agni ad vestimentum tuum et hedi agri pretium</p>
+          <p xml:id="prov27_27" n="27">sufficiat tibi lac caprarum in cibos tuos in necessaria domus
+            tuae et ad victum ancillis tuis</p>
+        </div>
+        <div xml:id="bible-prov28" n="28">
+          <head>Caput 28</head>
+          <p xml:id="prov28_1" n="1">fugit impius nemine persequente iustus autem quasi leo
+            confidens absque terrore erit</p>
+          <p xml:id="prov28_2" n="2">propter peccata terrae multi principes eius et propter hominis
+            sapientiam et horum scientiam quae dicuntur vita ducis longior erit</p>
+          <p xml:id="prov28_3" n="3">vir pauper calumnians pauperes similis imbri vehementi in quo
+            paratur fames</p>
+          <p xml:id="prov28_4" n="4">qui derelinquunt legem laudant impium qui custodiunt
+            succenduntur contra eum</p>
+          <p xml:id="prov28_5" n="5">viri mali non cogitant iudicium qui autem requirunt Dominum
+            animadvertunt omnia</p>
+          <p xml:id="prov28_6" n="6">melior est pauper ambulans in simplicitate sua quam dives
+            pravis itineribus</p>
+          <p xml:id="prov28_7" n="7">qui custodit legem filius sapiens est qui pascit comesatores
+            confundit patrem suum</p>
+          <p xml:id="prov28_8" n="8">qui coacervat divitias usuris et fenore liberali in pauperes
+            congregat eas</p>
+          <p xml:id="prov28_9" n="9">qui declinat aurem suam ne audiat legem oratio eius erit
+            execrabilis</p>
+          <p xml:id="prov28_10" n="10">qui decipit iustos in via mala in interitu suo corruet et
+            simplices possidebunt bona</p>
+          <p xml:id="prov28_11" n="11">sapiens sibi videtur vir dives pauper autem prudens
+            scrutabitur eum</p>
+          <p xml:id="prov28_12" n="12">in exultatione iustorum multa gloria regnantibus impiis
+            ruinae hominum</p>
+          <p xml:id="prov28_13" n="13">qui abscondit scelera sua non dirigetur qui confessus fuerit
+            et reliquerit ea misericordiam consequetur</p>
+          <p xml:id="prov28_14" n="14">beatus homo qui semper est pavidus qui vero mentis est durae
+            corruet in malum</p>
+          <p xml:id="prov28_15" n="15">leo rugiens et ursus esuriens princeps impius super populum
+            pauperem</p>
+          <p xml:id="prov28_16" n="16">dux indigens prudentia multos opprimet per calumniam qui
+            autem odit avaritiam longi fient dies eius</p>
+          <p xml:id="prov28_17" n="17">hominem qui calumniatur animae sanguinem si usque ad lacum
+            fugerit nemo sustentet</p>
+          <p xml:id="prov28_18" n="18">qui ambulat simpliciter salvus erit qui perversis ingreditur
+            viis concidet semel</p>
+          <p xml:id="prov28_19" n="19">qui operatur terram suam saturabitur panibus qui sectatur
+            otium replebitur egestate</p>
+          <p xml:id="prov28_20" n="20">vir fidelis multum laudabitur qui autem festinat ditari non
+            erit innocens</p>
+          <p xml:id="prov28_21" n="21">qui cognoscit in iudicio faciem non facit bene iste et pro
+            buccella panis deserit veritatem</p>
+          <p xml:id="prov28_22" n="22">vir qui festinat ditari et aliis invidet ignorat quod egestas
+            superveniat ei</p>
+          <p xml:id="prov28_23" n="23">qui corripit hominem gratiam postea inveniet apud eum magis
+            quam ille qui per linguae blandimenta decipit</p>
+          <p xml:id="prov28_24" n="24">qui subtrahit aliquid a patre suo et matre et dicit hoc non
+            est peccatum particeps homicidae est</p>
+          <p xml:id="prov28_25" n="25">qui se iactat et dilatat iurgia concitat qui sperat in Domino
+            saginabitur</p>
+          <p xml:id="prov28_26" n="26">qui confidit in corde suo stultus est qui autem graditur
+            sapienter iste salvabitur</p>
+          <p xml:id="prov28_27" n="27">qui dat pauperi non indigebit qui despicit deprecantem
+            sustinebit penuriam</p>
+          <p xml:id="prov28_28" n="28">cum surrexerint impii abscondentur homines cum illi perierint
+            multiplicabuntur iusti</p>
+        </div>
+        <div xml:id="bible-prov29" n="29">
+          <head>Caput 29</head>
+          <p xml:id="prov29_1" n="1">viro qui corripientem dura cervice contemnit repentinus
+            superveniet interitus et eum sanitas non sequitur</p>
+          <p xml:id="prov29_2" n="2">in multiplicatione iustorum laetabitur vulgus cum impii
+            sumpserint principatum gemet populus</p>
+          <p xml:id="prov29_3" n="3">vir qui amat sapientiam laetificat patrem suum qui autem nutrit
+            scorta perdet substantiam</p>
+          <p xml:id="prov29_4" n="4">rex iustus erigit terram vir avarus destruet eam</p>
+          <p xml:id="prov29_5" n="5">homo qui blandis fictisque sermonibus loquitur amico suo rete
+            expandit gressibus eius</p>
+          <p xml:id="prov29_6" n="6">peccantem virum iniquum involvet laqueus et iustus laudabit
+            atque gaudebit</p>
+          <p xml:id="prov29_7" n="7">novit iustus causam pauperum impius ignorat scientiam</p>
+          <p xml:id="prov29_8" n="8">homines pestilentes dissipant civitatem sapientes avertunt
+            furorem</p>
+          <p xml:id="prov29_9" n="9">vir sapiens si cum stulto contenderit sive irascatur sive
+            rideat non inveniet requiem</p>
+          <p xml:id="prov29_10" n="10">viri sanguinum oderunt simplicem iusti quaerunt animam
+            eius</p>
+          <p xml:id="prov29_11" n="11">totum spiritum suum profert stultus sapiens differt et
+            reservat in posterum</p>
+          <p xml:id="prov29_12" n="12">princeps qui libenter audit verba mendacii omnes ministros
+            habebit impios</p>
+          <p xml:id="prov29_13" n="13">pauper et creditor obviam fuerunt sibi utriusque inluminator
+            est Dominus</p>
+          <p xml:id="prov29_14" n="14">rex qui iudicat in veritate pauperes thronus eius in aeternum
+            firmabitur</p>
+          <p xml:id="prov29_15" n="15">virga atque correptio tribuet sapientiam puer autem qui
+            dimittitur voluntati suae confundet matrem suam</p>
+          <p xml:id="prov29_16" n="16">in multiplicatione impiorum multiplicabuntur scelera et iusti
+            ruinas eorum videbunt</p>
+          <p xml:id="prov29_17" n="17">erudi filium tuum et refrigerabit te et dabit delicias animae
+            tuae</p>
+          <p xml:id="prov29_18" n="18">cum prophetia defecerit dissipabitur populus qui custodit
+            legem beatus est</p>
+          <p xml:id="prov29_19" n="19">servus verbis non potest erudiri quia quod dicis intellegit
+            et respondere contemnit</p>
+          <p xml:id="prov29_20" n="20">vidisti hominem velocem ad loquendum stulti magis speranda
+            est quam illius correptio</p>
+          <p xml:id="prov29_21" n="21">qui delicate a pueritia nutrit servum suum postea illum
+            sentiet contumacem</p>
+          <p xml:id="prov29_22" n="22">vir iracundus provocat rixas et qui ad indignandum facilis
+            est erit ad peccata proclivior</p>
+          <p xml:id="prov29_23" n="23">superbum sequitur humilitas et humilem spiritu suscipiet
+            gloria</p>
+          <p xml:id="prov29_24" n="24">qui cum fure partitur odit animam suam adiurantem audit et
+            non indicat</p>
+          <p xml:id="prov29_25" n="25">qui timet hominem cito corruet qui sperat in Domino
+            sublevabitur</p>
+          <p xml:id="prov29_26" n="26">multi requirunt faciem principis et a Domino iudicium
+            egreditur singulorum</p>
+          <p xml:id="prov29_27" n="27">abominantur iusti virum impium et abominantur impii eos qui
+            in recta sunt via</p>
+        </div>
+        <div xml:id="bible-prov30" n="30">
+          <head>Caput 30</head>
+          <p xml:id="prov30_1" n="1">verba Congregantis filii Vomentis visio quam locutus est vir
+            cum quo est Deus et qui Deo secum morante confortatus ait</p>
+          <p xml:id="prov30_2" n="2">stultissimus sum virorum et sapientia hominum non est mecum</p>
+          <p xml:id="prov30_3" n="3">non didici sapientiam et non novi sanctorum scientiam</p>
+          <p xml:id="prov30_4" n="4">quis ascendit in caelum atque descendit quis continuit spiritum
+            manibus suis quis conligavit aquas quasi in vestimento quis suscitavit omnes terminos
+            terrae quod nomen eius et quod nomen filii eius si nosti</p>
+          <p xml:id="prov30_5" n="5">omnis sermo Dei ignitus clypeus est sperantibus in se</p>
+          <p xml:id="prov30_6" n="6">ne addas quicquam verbis illius et arguaris inveniarisque
+            mendax</p>
+          <p xml:id="prov30_7" n="7">duo rogavi te ne deneges mihi antequam moriar</p>
+          <p xml:id="prov30_8" n="8">vanitatem et verba mendacia longe fac a me mendicitatem et
+            divitias ne dederis mihi tribue tantum victui meo necessaria</p>
+          <p xml:id="prov30_9" n="9">ne forte saturatus inliciar ad negandum et dicam quis est
+            Dominus et egestate conpulsus furer et peierem nomen Dei mei</p>
+          <p xml:id="prov30_10" n="10">ne accuses servum ad dominum suum ne forte maledicat tibi et
+            corruas</p>
+          <p xml:id="prov30_11" n="11">generatio quae patri suo maledicit et quae non benedicit
+            matri suae</p>
+          <p xml:id="prov30_12" n="12">generatio quae sibi munda videtur et tamen non est lota a
+            sordibus suis</p>
+          <p xml:id="prov30_13" n="13">generatio cuius excelsi sunt oculi et palpebrae eius in alta
+            subrectae</p>
+          <p xml:id="prov30_14" n="14">generatio quae pro dentibus gladios habet et commandit
+            molaribus suis ut comedat inopes de terra et pauperes ex hominibus</p>
+          <p xml:id="prov30_15" n="15">sanguisugae duae sunt filiae dicentes adfer adfer tria sunt
+            insaturabilia et quartum quod numquam dicit sufficit</p>
+          <p xml:id="prov30_16" n="16">infernus et os vulvae et terra quae non satiatur aqua ignis
+            vero numquam dicit sufficit</p>
+          <p xml:id="prov30_17" n="17">oculum qui subsannat patrem et qui despicit partum matris
+            suae effodiant corvi de torrentibus et comedant illum filii aquilae</p>
+          <p xml:id="prov30_18" n="18">tria sunt difficilia mihi et quartum penitus ignoro</p>
+          <p xml:id="prov30_19" n="19">viam aquilae in caelo viam colubri super petram viam navis in
+            medio mari et viam viri in adulescentula</p>
+          <p xml:id="prov30_20" n="20">talis est via mulieris adulterae quae comedit et tergens os
+            suum dicit non sum operata malum</p>
+          <p xml:id="prov30_21" n="21">per tria movetur terra et quartum non potest sustinere</p>
+          <p xml:id="prov30_22" n="22">per servum cum regnaverit per stultum cum saturatus fuerit
+            cibo</p>
+          <p xml:id="prov30_23" n="23">per odiosam mulierem cum in matrimonio fuerit adsumpta et per
+            ancillam cum heres fuerit dominae suae</p>
+          <p xml:id="prov30_24" n="24">quattuor sunt minima terrae et ipsa sunt sapientiora
+            sapientibus</p>
+          <p xml:id="prov30_25" n="25">formicae populus infirmus quae praeparant in messe cibum
+            sibi</p>
+          <p xml:id="prov30_26" n="26">lepusculus plebs invalida quae conlocat in petra cubile
+            suum</p>
+          <p xml:id="prov30_27" n="27">regem lucusta non habet et egreditur universa per turmas</p>
+          <p xml:id="prov30_28" n="28">stilio manibus nititur et moratur in aedibus regis</p>
+          <p xml:id="prov30_29" n="29">tria sunt quae bene gradiuntur et quartum quod incedit
+            feliciter</p>
+          <p xml:id="prov30_30" n="30">leo fortissimus bestiarum ad nullius pavebit occursum</p>
+          <p xml:id="prov30_31" n="31">gallus succinctus lumbos et aries nec est rex qui resistat
+            ei</p>
+          <p xml:id="prov30_32" n="32">et qui stultus apparuit postquam elatus est in sublime si
+            enim intellexisset ori inposuisset manum</p>
+          <p xml:id="prov30_33" n="33">qui autem fortiter premit ubera ad eliciendum lac exprimit
+            butyrum et qui vehementer emungitur elicit sanguinem et qui provocat iras producit
+            discordias</p>
+        </div>
+        <div xml:id="bible-prov31" n="31">
+          <head>Caput 31</head>
+          <p xml:id="prov31_1" n="1">verba Lamuhel regis visio qua erudivit eum mater sua</p>
+          <p xml:id="prov31_2" n="2">quid dilecte mi quid dilecte uteri mei quid dilecte votorum
+            meorum</p>
+          <p xml:id="prov31_3" n="3">ne dederis mulieribus substantiam tuam et vias tuas ad delendos
+            reges</p>
+          <p xml:id="prov31_4" n="4">noli regibus o Lamuhel noli regibus dare vinum quia nullum
+            secretum est ubi regnat ebrietas</p>
+          <p xml:id="prov31_5" n="5">ne forte bibat et obliviscatur iudiciorum et mutet causam
+            filiorum pauperis</p>
+          <p xml:id="prov31_6" n="6">date siceram maerentibus et vinum his qui amaro sunt animo</p>
+          <p xml:id="prov31_7" n="7">bibant ut obliviscantur egestatis suae et doloris non
+            recordentur amplius</p>
+          <p xml:id="prov31_8" n="8">aperi os tuum muto et causis omnium filiorum qui
+            pertranseunt</p>
+          <p xml:id="prov31_9" n="9">aperi os tuum decerne quod iustum est et iudica inopem et
+            pauperem</p>
+          <p xml:id="prov31_10" n="10">aleph mulierem fortem quis inveniet procul et de ultimis
+            finibus pretium eius</p>
+          <p xml:id="prov31_11" n="11">beth confidit in ea cor viri sui et spoliis non indigebit</p>
+          <p xml:id="prov31_12" n="12">gimel reddet ei bonum et non malum omnibus diebus vitae
+            suae</p>
+          <p xml:id="prov31_13" n="13">deleth quaesivit lanam et linum et operata est consilio
+            manuum suarum</p>
+          <p xml:id="prov31_14" n="14">he facta est quasi navis institoris de longe portat panem
+            suum</p>
+          <p xml:id="prov31_15" n="15">vav et de nocte surrexit deditque praedam domesticis suis et
+            cibaria ancillis suis</p>
+          <p xml:id="prov31_16" n="16">zai consideravit agrum et emit eum de fructu manuum suarum
+            plantavit vineam</p>
+          <p xml:id="prov31_17" n="17">heth accinxit fortitudine lumbos suos et roboravit brachium
+            suum</p>
+          <p xml:id="prov31_18" n="18">teth gustavit quia bona est negotiatio eius non extinguetur
+            in nocte lucerna illius</p>
+          <p xml:id="prov31_19" n="19">ioth manum suam misit ad fortia et digiti eius adprehenderunt
+            fusum</p>
+          <p xml:id="prov31_20" n="20">caph manum suam aperuit inopi et palmas suas extendit ad
+            pauperem</p>
+          <p xml:id="prov31_21" n="21">lameth non timebit domui suae a frigoribus nivis omnes enim
+            domestici eius vestiti duplicibus</p>
+          <p xml:id="prov31_22" n="22">mem stragulam vestem fecit sibi byssus et purpura indumentum
+            eius</p>
+          <p xml:id="prov31_23" n="23">nun nobilis in portis vir eius quando sederit cum senatoribus
+            terrae</p>
+          <p xml:id="prov31_24" n="24">samech sindonem fecit et vendidit et cingulum tradidit
+            Chananeo</p>
+          <p xml:id="prov31_25" n="25">ain fortitudo et decor indumentum eius et ridebit in die
+            novissimo</p>
+          <p xml:id="prov31_26" n="26">phe os suum aperuit sapientiae et lex clementiae in lingua
+            eius</p>
+          <p xml:id="prov31_27" n="27">sade considerat semitas domus suae et panem otiosa non
+            comedet</p>
+          <p xml:id="prov31_28" n="28">coph surrexerunt filii eius et beatissimam praedicaverunt vir
+            eius et laudavit eam</p>
+          <p xml:id="prov31_29" n="29">res multae filiae congregaverunt divitias tu supergressa es
+            universas</p>
+          <p xml:id="prov31_30" n="30">sin fallax gratia et vana est pulchritudo mulier timens
+            Dominum ipsa laudabitur</p>
+          <p xml:id="prov31_31" n="31">thau date ei de fructu manuum suarum et laudent eam in portis
+            opera eius</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

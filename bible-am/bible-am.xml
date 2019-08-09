@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Amos</title>
+        <author/>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"><date when="2011-10-04">October 04, 2011</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
+              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl>
+          <bibl>Biblia Sacra Vulgata - The Free Bible Group</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2011-10-04" status="draft" n="0.0.0"><p>File Started for the first
+          time.</p></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="bible-am">
+        <div xml:id="bible-am1" n="1">
+          <head>Caput 1</head>
+          <p xml:id="am1_1" n="1">verba Amos qui fuit in pastoralibus de Thecuae quae vidit super
+            Israhel in diebus Oziae regis Iuda et in diebus Hieroboam filii Ioas regis Israhel ante
+            duos annos terraemotus</p>
+          <p xml:id="am1_2" n="2">et dixit Dominus de Sion rugiet et de Hierusalem dabit vocem suam
+            et luxerunt speciosa pastorum et exsiccatus est vertex Carmeli</p>
+          <p xml:id="am1_3" n="3">haec dicit Dominus super tribus sceleribus Damasci et super
+            quattuor non convertam eum eo quod trituraverint in plaustris ferreis Galaad</p>
+          <p xml:id="am1_4" n="4">et mittam ignem in domum Azahel et devorabit domos Benadad</p>
+          <p xml:id="am1_5" n="5">et conteram vectem Damasci et disperdam habitatorem de campo Idoli
+            et tenentem sceptrum de domo Voluptatis et transferetur populus Syriae Cyrenen dicit
+            Dominus</p>
+          <p xml:id="am1_6" n="6">haec dicit Dominus super tribus sceleribus Gazae et super quattuor
+            non convertam eum eo quod transtulerit captivitatem perfectam ut concluderet eam in
+            Idumea</p>
+          <p xml:id="am1_7" n="7">et mittam ignem in murum Gazae et devorabit aedes eius</p>
+          <p xml:id="am1_8" n="8">et disperdam habitatorem de Azoto et tenentem sceptrum de Ascalone
+            et convertam manum meam super Accaron et peribunt reliqui Philisthinorum dicit Dominus
+            Deus</p>
+          <p xml:id="am1_9" n="9">haec dicit Dominus super tribus sceleribus Tyri et super quattuor
+            non convertam eum eo quod concluserint captivitatem perfectam in Idumea et non sint
+            recordati foederis fratrum</p>
+          <p xml:id="am1_10" n="10">et emittam ignem in murum Tyri et devorabit aedes eius</p>
+          <p xml:id="am1_11" n="11">haec dicit Dominus super tribus sceleribus Edom et super
+            quattuor non convertam eum eo quod persecutus sit in gladio fratrem suum et violaverit
+            misericordiam eius et tenuerit ultra furorem suum et indignationem suam servaverit usque
+            in finem</p>
+          <p xml:id="am1_12" n="12">mittam ignem in Theman et devorabit aedes Bosrae</p>
+          <p xml:id="am1_13" n="13">haec dicit Dominus super tribus sceleribus filiorum Ammon et
+            super quattuor non convertam eum eo quod dissecuerit praegnantes Galaad ad dilatandum
+            terminum suum</p>
+          <p xml:id="am1_14" n="14">et succendam ignem in muro Rabbae et devorabit aedes eius in
+            ululatu in die belli et in turbine in die commotionis</p>
+          <p xml:id="am1_15" n="15">et ibit Melchom in captivitatem ipse et principes eius simul
+            dicit Dominus</p>
+        </div>
+        <div xml:id="bible-am2" n="2">
+          <head>Caput 2</head>
+          <p xml:id="am2_1" n="1">haec dicit Dominus super tribus sceleribus Moab et super quattuor
+            non convertam eum eo quod incenderit ossa regis Idumeae usque ad cinerem</p>
+          <p xml:id="am2_2" n="2">et mittam ignem in Moab et devorabit aedes Carioth et morietur in
+            sonitu Moab in clangore tubae</p>
+          <p xml:id="am2_3" n="3">et disperdam iudicem de medio eius et omnes principes eius
+            interficiam cum eo dicit Dominus</p>
+          <p xml:id="am2_4" n="4">haec dicit Dominus super tribus sceleribus Iuda et super quattuor
+            non convertam eum eo quod abiecerint legem Domini et mandata eius non custodierint
+            deceperunt enim eos idola sua post quae abierant patres eorum</p>
+          <p xml:id="am2_5" n="5">et mittam ignem in Iuda et devorabit aedes Hierusalem</p>
+          <p xml:id="am2_6" n="6">haec dicit Dominus super tribus sceleribus Israhel et super
+            quattuor non convertam eum pro eo quod vendiderit argento iustum et pauperem pro
+            calciamentis</p>
+          <p xml:id="am2_7" n="7">qui conterunt super pulverem terrae capita pauperum et viam
+            humilium declinant et filius ac pater eius ierunt ad puellam ut violarent nomen sanctum
+            meum</p>
+          <p xml:id="am2_8" n="8">et super vestimentis pigneratis accubuerunt iuxta omne altare et
+            vinum damnatorum bibebant in domo Dei sui</p>
+          <p xml:id="am2_9" n="9">ego autem exterminavi Amorreum a facie eorum cuius altitudo
+            cedrorum altitudo eius et fortis ipse quasi quercus et contrivi fructum eius desuper et
+            radices eius subter</p>
+          <p xml:id="am2_10" n="10">ego sum qui ascendere vos feci de terra Aegypti et eduxi vos in
+            deserto quadraginta annis ut possideretis terram Amorrei</p>
+          <p xml:id="am2_11" n="11">et suscitavi de filiis vestris in prophetas et de iuvenibus
+            vestris nazarenos numquid non ita est filii Israhel dicit Dominus</p>
+          <p xml:id="am2_12" n="12">et propinabatis nazarenis vino et prophetis mandabatis dicentes
+            ne prophetetis</p>
+          <p xml:id="am2_13" n="13">ecce ego stridebo super vos sicut stridet plaustrum onustum
+            faeno</p>
+          <p xml:id="am2_14" n="14">et peribit fuga a veloce et fortis non obtinebit virtutem suam
+            et robustus non salvabit animam suam</p>
+          <p xml:id="am2_15" n="15">et tenens arcum non stabit et velox pedibus suis non salvabitur
+            et ascensor equi non salvabit animam suam</p>
+          <p xml:id="am2_16" n="16">et robustus corde inter fortes nudus fugiet in die illa dicit
+            Dominus</p>
+        </div>
+        <div xml:id="bible-am3" n="3">
+          <head>Caput 3</head>
+          <p xml:id="am3_1" n="1">audite verbum quod locutus est Dominus super vos filii Israhel
+            super omni cognatione quam eduxi de terra Aegypti dicens</p>
+          <p xml:id="am3_2" n="2">tantummodo vos cognovi ex omnibus cognationibus terrae idcirco
+            visitabo super vos omnes iniquitates vestras</p>
+          <p xml:id="am3_3" n="3">numquid ambulabunt duo pariter nisi convenerit eis</p>
+          <p xml:id="am3_4" n="4">numquid rugiet leo in saltu nisi habuerit praedam numquid dabit
+            catulus leonis vocem de cubili suo nisi aliquid adprehenderit</p>
+          <p xml:id="am3_5" n="5">numquid cadet avis in laqueum terrae absque aucupe numquid
+            auferetur laqueus de terra antequam quid ceperit</p>
+          <p xml:id="am3_6" n="6">si clanget tuba in civitate et populus non expavescet si erit
+            malum in civitate quod Dominus non fecit</p>
+          <p xml:id="am3_7" n="7">quia non faciet Dominus Deus verbum nisi revelaverit secretum suum
+            ad servos suos prophetas</p>
+          <p xml:id="am3_8" n="8">leo rugiet quis non timebit Dominus Deus locutus est quis non
+            prophetabit</p>
+          <p xml:id="am3_9" n="9">auditum facite in aedibus Azoti et in aedibus terrae Aegypti et
+            dicite congregamini super montes Samariae et videte insanias multas in medio eius et
+            calumniam patientes in penetrabilibus eius</p>
+          <p xml:id="am3_10" n="10">et nescierunt facere rectum dicit Dominus thesaurizantes
+            iniquitatem et rapinas in aedibus suis</p>
+          <p xml:id="am3_11" n="11">propterea haec dicit Dominus Deus tribulabitur et circumietur
+            terra et detrahetur ex te fortitudo tua et diripientur aedes tuae</p>
+          <p xml:id="am3_12" n="12">haec dicit Dominus quomodo si eruat pastor de ore leonis duo
+            crura aut extremum auriculae sic eruentur filii Israhel qui habitant in Samaria in plaga
+            lectuli et in Damasco grabatti</p>
+          <p xml:id="am3_13" n="13">audite et contestamini in domo Iacob dicit Dominus Deus
+            exercituum</p>
+          <p xml:id="am3_14" n="14">quia in die cum visitare coepero praevaricationes Israhel super
+            eum visitabo et super altaria Bethel et amputabuntur cornua altaris et cadent in
+            terram</p>
+          <p xml:id="am3_15" n="15">et percutiam domum hiemalem cum domo aestiva et peribunt domus
+            eburneae et dissipabuntur aedes multae dicit Dominus</p>
+        </div>
+        <div xml:id="bible-am4" n="4">
+          <head>Caput 4</head>
+          <p xml:id="am4_1" n="1">audite verbum hoc vaccae pingues quae estis in monte Samariae quae
+            calumniam facitis egenis et confringitis pauperes quae dicitis dominis vestris adferte
+            et bibemus</p>
+          <p xml:id="am4_2" n="2">iuravit Dominus Deus in sancto suo quia ecce dies venient super
+            vos et levabunt vos in contis et reliquias vestras in ollis ferventibus</p>
+          <p xml:id="am4_3" n="3">et per aperturas exibitis altera contra alteram et proiciemini in
+            Armon dicit Dominus</p>
+          <p xml:id="am4_4" n="4">venite ad Bethel et impie agite ad Galgalam et multiplicate
+            praevaricationem et offerte mane victimas vestras tribus diebus decimas vestras</p>
+          <p xml:id="am4_5" n="5">et sacrificate de fermentato laudem et vocate voluntarias
+            oblationes et adnuntiate sic enim voluistis filii Israhel dicit Dominus Deus</p>
+          <p xml:id="am4_6" n="6">unde et ego dedi vobis stuporem dentium in cunctis urbibus vestris
+            et indigentiam panum in omnibus locis vestris et non estis reversi ad me dicit
+            Dominus</p>
+          <p xml:id="am4_7" n="7">ego quoque prohibui a vobis imbrem cum adhuc tres menses
+            superessent usque ad messem et plui super civitatem unam et super civitatem alteram non
+            plui pars una conpluta est et pars super quam non plui aruit</p>
+          <p xml:id="am4_8" n="8">et venerunt duae et tres civitates ad civitatem unam ut biberent
+            aquam et non sunt satiatae et non redistis ad me dicit Dominus</p>
+          <p xml:id="am4_9" n="9">percussi vos in vento urente et in aurugine multitudinem hortorum
+            vestrorum et vinearum vestrarum oliveta vestra et ficeta vestra comedit eruca et non
+            redistis ad me dicit Dominus</p>
+          <p xml:id="am4_10" n="10">misi in vos mortem in via Aegypti percussi in gladio iuvenes
+            vestros usque ad captivitatem equorum vestrorum et ascendere feci putredinem castrorum
+            vestrorum in nares vestras et non redistis ad me dicit Dominus</p>
+          <p xml:id="am4_11" n="11">subverti vos sicut subvertit Deus Sodomam et Gomorram et facti
+            estis quasi torris raptus de incendio et non redistis ad me dicit Dominus</p>
+          <p xml:id="am4_12" n="12">quapropter haec faciam tibi Israhel postquam autem haec fecero
+            tibi praeparare in occursum Dei tui Israhel</p>
+          <p xml:id="am4_13" n="13">quia ecce formans montes et creans ventum et adnuntians homini
+            eloquium suum faciens matutinam nebulam et gradiens super excelsa terrae Dominus Deus
+            exercituum nomen eius</p>
+        </div>
+        <div xml:id="bible-am5" n="5">
+          <head>Caput 5</head>
+          <p xml:id="am5_1" n="1">audite verbum istud quod ego levo super vos planctum domus Israhel
+            cecidit non adiciet ut resurgat</p>
+          <p xml:id="am5_2" n="2">virgo Israhel proiecta est in terram suam non est qui suscitet
+            eam</p>
+          <p xml:id="am5_3" n="3">quia haec dicit Dominus Deus urbs de qua egrediebantur mille
+            relinquentur in ea centum et de qua egrediebantur centum relinquentur in ea decem in
+            domo Israhel</p>
+          <p xml:id="am5_4" n="4">quia haec dicit Dominus domui Israhel quaerite me et vivetis</p>
+          <p xml:id="am5_5" n="5">et nolite quaerere Bethel et in Galgala nolite intrare et in
+            Bersabee non transibitis quia Galgala captiva ducetur et Bethel erit inutilis</p>
+          <p xml:id="am5_6" n="6">quaerite Dominum et vivite ne forte conburatur ut ignis domus
+            Ioseph et devorabit et non erit qui extinguat Bethel</p>
+          <p xml:id="am5_7" n="7">qui convertitis in absinthium iudicium et iustitiam in terra
+            relinquitis</p>
+          <p xml:id="am5_8" n="8">facientem Arcturum et Orionem et convertentem in mane tenebras et
+            diem nocte mutantem qui vocat aquas maris et effundit eas super faciem terrae Dominus
+            nomen eius</p>
+          <p xml:id="am5_9" n="9">qui subridet vastitatem super robustum et depopulationem super
+            potentem adfert</p>
+          <p xml:id="am5_10" n="10">odio habuerunt in porta corripientem et loquentem perfecte
+            abominati sunt</p>
+          <p xml:id="am5_11" n="11">idcirco pro eo quod diripiebatis pauperem et praedam electam
+            tollebatis ab eo domos quadro lapide aedificabitis et non habitabitis in eis vineas
+            amantissimas plantabitis et non bibetis vinum earum</p>
+          <p xml:id="am5_12" n="12">quia cognovi multa scelera vestra et fortia peccata vestra
+            hostes iusti accipientes munus et pauperes in porta deprimentes</p>
+          <p xml:id="am5_13" n="13">ideo prudens in tempore illo tacebit quia tempus malum est</p>
+          <p xml:id="am5_14" n="14">quaerite bonum et non malum ut vivatis et erit Dominus Deus
+            exercituum vobiscum sicut dixistis</p>
+          <p xml:id="am5_15" n="15">odite malum et diligite bonum et constituite in porta iudicium
+            si forte misereatur Dominus Deus exercituum reliquiis Ioseph</p>
+          <p xml:id="am5_16" n="16">propterea haec dicit Dominus Deus exercituum Dominator in
+            omnibus plateis planctus et in cunctis quae foris sunt dicetur vae vae et vocabunt
+            agricolam ad luctum et ad planctum eos qui sciunt plangere</p>
+          <p xml:id="am5_17" n="17">et in omnibus vineis erit planctus quia pertransibo in medio tui
+            dicit Dominus</p>
+          <p xml:id="am5_18" n="18">vae desiderantibus diem Domini ad quid eam vobis dies Domini
+            ista tenebrae et non lux</p>
+          <p xml:id="am5_19" n="19">quomodo si fugiat vir a facie leonis et occurrat ei ursus et
+            ingrediatur domum et innitatur manu sua super parietem et mordeat eum coluber</p>
+          <p xml:id="am5_20" n="20">numquid non tenebrae dies Domini et non lux et caligo et non
+            splendor in ea</p>
+          <p xml:id="am5_21" n="21">odi et proieci festivitates vestras et non capiam odorem coetuum
+            vestrorum</p>
+          <p xml:id="am5_22" n="22">quod si adtuleritis mihi holocaustomata et munera vestra non
+            suscipiam et vota pinguium vestrorum non respiciam</p>
+          <p xml:id="am5_23" n="23">aufer a me tumultum carminum tuorum et cantica lyrae tuae non
+            audiam</p>
+          <p xml:id="am5_24" n="24">et revelabitur quasi aqua iudicium et iustitia quasi torrens
+            fortis</p>
+          <p xml:id="am5_25" n="25">numquid hostias et sacrificium obtulistis mihi in deserto
+            quadraginta annis domus Israhel</p>
+          <p xml:id="am5_26" n="26">et portastis tabernaculum Moloch vestro et imaginem idolorum
+            vestrorum sidus dei vestri quae fecistis vobis</p>
+          <p xml:id="am5_27" n="27">et migrare vos faciam trans Damascum dixit Dominus Deus
+            exercituum nomen eius</p>
+        </div>
+        <div xml:id="bible-am6" n="6">
+          <head>Caput 6</head>
+          <p xml:id="am6_1" n="1">vae qui opulenti estis in Sion et confiditis in monte Samariae
+            optimates capita populorum ingredientes pompatice domum Israhel</p>
+          <p xml:id="am6_2" n="2">transite in Chalanne et videte et ite inde in Emath magnam et
+            descendite in Geth Palestinorum et ad optima quaeque regna horum si latior terminus
+            eorum termino vestro est</p>
+          <p xml:id="am6_3" n="3">qui separati estis in diem malum et adpropinquatis solio
+            iniquitatis</p>
+          <p xml:id="am6_4" n="4">qui dormitis in lectis eburneis et lascivitis in stratis vestris
+            qui comeditis agnum de grege et vitulos de medio armenti</p>
+          <p xml:id="am6_5" n="5">qui canitis ad vocem psalterii sicut David putaverunt se habere
+            vasa cantici</p>
+          <p xml:id="am6_6" n="6">bibentes in fialis vinum et optimo unguento delibuti et nihil
+            patiebantur super contritione Ioseph</p>
+          <p xml:id="am6_7" n="7">quapropter nunc migrabunt in capite transmigrantium et auferetur
+            factio lascivientium</p>
+          <p xml:id="am6_8" n="8">iuravit Dominus Deus in anima sua dicit Dominus Deus exercituum
+            detestor ego superbiam Iacob et domos eius odi et tradam civitatem cum habitatoribus
+            suis</p>
+          <p xml:id="am6_9" n="9">quod si reliqui fuerint decem viri in domo una et ipsi
+            morientur</p>
+          <p xml:id="am6_10" n="10">et tollet eum propinquus suus et conburet eum ut efferat ossa de
+            domo et dicet ei qui in penetrabilibus domus est numquid adhuc est apud te</p>
+          <p xml:id="am6_11" n="11">et respondebit finis est et dicet ei tace et non recorderis
+            nominis Domini</p>
+          <p xml:id="am6_12" n="12">quia ecce Dominus mandabit et percutiet domum maiorem ruinis et
+            domum minorem scissionibus</p>
+          <p xml:id="am6_13" n="13">numquid currere queunt in petris equi aut arari potest in
+            bubalis quoniam convertistis in amaritudinem iudicium et fructum iustitiae in
+            absinthium</p>
+          <p xml:id="am6_14" n="14">qui laetamini in nihili qui dicitis numquid non in fortitudine
+            nostra adsumpsimus nobis cornua</p>
+          <p xml:id="am6_15" n="15">ecce enim suscitabo super vos domus Israhel dicit Dominus Deus
+            exercituum gentem et conterent vos ab introitu Emath usque ad torrentem Deserti</p>
+        </div>
+        <div xml:id="bible-am7" n="7">
+          <head>Caput 7</head>
+          <p xml:id="am7_1" n="1">haec ostendit mihi Dominus Deus et ecce fictor lucustae in
+            principio germinantium serotini imbris et ecce serotinus post tonsorem regis</p>
+          <p xml:id="am7_2" n="2">et factum est cum consummasset comedere herbam terrae et dixi
+            Domine Deus propitius esto obsecro quis suscitabit Iacob quia parvulus est</p>
+          <p xml:id="am7_3" n="3">misertus est Dominus super hoc non erit dixit Dominus</p>
+          <p xml:id="am7_4" n="4">haec ostendit mihi Dominus Deus et ecce vocabat iudicium ad ignem
+            Dominus Deus et devoravit abyssum multam et comedit simul partem</p>
+          <p xml:id="am7_5" n="5">et dixi Domine Deus quiesce obsecro quis suscitabit Iacob quia
+            parvulus est</p>
+          <p xml:id="am7_6" n="6">misertus est Dominus super hoc sed et istud non erit dixit Dominus
+            Deus</p>
+          <p xml:id="am7_7" n="7">haec ostendit mihi et ecce Dominus stans super murum litum et in
+            manu eius trulla cementarii</p>
+          <p xml:id="am7_8" n="8">et dixit Dominus ad me quid tu vides Amos et dixi trullam
+            cementarii et dixit Dominus ecce ego ponam trullam in medio populi mei Israhel non
+            adiciam ultra superinducere eum</p>
+          <p xml:id="am7_9" n="9">et demolientur excelsa idoli et sanctificationes Israhel
+            desolabuntur et consurgam super domum Hieroboam in gladio</p>
+          <p xml:id="am7_10" n="10">et misit Amasias sacerdos Bethel ad Hieroboam regem Israhel
+            dicens rebellavit contra te Amos in medio domus Israhel non poterit terra sustinere
+            universos sermones eius</p>
+          <p xml:id="am7_11" n="11">haec enim dicit Amos in gladio morietur Hieroboam et Israhel
+            captivus migrabit de terra sua</p>
+          <p xml:id="am7_12" n="12">et dixit Amasias ad Amos qui vides gradere fuge in terram Iuda
+            et comede ibi panem et ibi prophetabis</p>
+          <p xml:id="am7_13" n="13">et in Bethel non adicies ultra ut prophetes quia sanctificatio
+            regis est et domus regni est</p>
+          <p xml:id="am7_14" n="14">et respondit Amos et dixit ad Amasiam non sum propheta et non
+            sum filius prophetae sed armentarius ego sum vellicans sycomoros</p>
+          <p xml:id="am7_15" n="15">et tulit me Dominus cum sequerer gregem et dixit ad me Dominus
+            vade propheta ad populum meum Israhel</p>
+          <p xml:id="am7_16" n="16">et nunc audi verbum Domini tu dicis non prophetabis super
+            Israhel et non stillabis super domum idoli</p>
+          <p xml:id="am7_17" n="17">propter hoc haec dicit Dominus uxor tua in civitate fornicabitur
+            et filii tui et filiae tuae in gladio cadent et humus tua funiculo metietur et tu in
+            terra polluta morieris et Israhel captivus migrabit de terra sua</p>
+        </div>
+        <div xml:id="bible-am8" n="8">
+          <head>Caput 8</head>
+          <p xml:id="am8_1" n="1">haec ostendit mihi Dominus Deus et ecce uncinus pomorum</p>
+          <p xml:id="am8_2" n="2">et dixit quid tu vides Amos et dixi uncinum pomorum et dixit
+            Dominus ad me venit finis super populum meum Israhel non adiciam ultra ut pertranseam
+            eum</p>
+          <p xml:id="am8_3" n="3">et stridebunt cardines templi in die illa dicit Dominus Deus multi
+            morientur in omni loco proicietur silentium</p>
+          <p xml:id="am8_4" n="4">audite hoc qui conteritis pauperem et deficere facitis egenos
+            terrae</p>
+          <p xml:id="am8_5" n="5">dicentes quando transibit mensis et venundabimus merces et
+            sabbatum et aperiemus frumentum ut inminuamus mensuram et augeamus siclum et subponamus
+            stateras dolosas</p>
+          <p xml:id="am8_6" n="6">ut possideamus in argento egenos et pauperes pro calciamentis et
+            quisquilias frumenti vendamus</p>
+          <p xml:id="am8_7" n="7">iuravit Dominus in superbia Iacob si oblitus fuero usque ad finem
+            omnia opera eorum</p>
+          <p xml:id="am8_8" n="8">numquid super isto non commovebitur terra et lugebit omnis
+            habitator eius et ascendet quasi fluvius universus et eicietur et defluet quasi rivus
+            Aegypti</p>
+          <p xml:id="am8_9" n="9">et erit in die illa dicit Dominus occidet sol meridie et
+            tenebrescere faciam terram in die luminis</p>
+          <p xml:id="am8_10" n="10">et convertam festivitates vestras in luctum et omnia cantica
+            vestra in planctum et inducam super omne dorsum vestrum saccum et super omne caput
+            calvitium et ponam eam quasi luctum unigeniti et novissima eius quasi diem amarum</p>
+          <p xml:id="am8_11" n="11">ecce dies veniunt dicit Dominus et mittam famem in terram non
+            famem panis neque sitim aquae sed audiendi verbum Domini</p>
+          <p xml:id="am8_12" n="12">et commovebuntur a mari usque ad mare et ab aquilone usque ad
+            orientem circumibunt quaerentes verbum Domini et non invenient</p>
+          <p xml:id="am8_13" n="13">in die illa deficient virgines pulchrae et adulescentes in
+            siti</p>
+          <p xml:id="am8_14" n="14">qui iurant in delicto Samariae et dicunt vivit deus tuus Dan et
+            vivit via Bersabee et cadent et non resurgent ultra</p>
+        </div>
+        <div xml:id="bible-am9" n="9">
+          <head>Caput 9</head>
+          <p xml:id="am9_1" n="1">vidi Dominum stantem super altare et dixit percute cardinem et
+            commoveantur superliminaria avaritia enim in capite omnium et novissimum eorum in gladio
+            interficiam non erit fuga eis fugiet et non salvabitur ex eis qui fugerit</p>
+          <p xml:id="am9_2" n="2">si descenderint usque ad infernum inde manus mea educet eos et si
+            ascenderint usque ad caelum inde detraham eos</p>
+          <p xml:id="am9_3" n="3">et si absconditi fuerint in vertice Carmeli inde scrutans auferam
+            eos et si celaverint se ab oculis meis in fundo maris ibi mandabo serpenti et mordebit
+            eos</p>
+          <p xml:id="am9_4" n="4">et si abierint in captivitatem coram inimicis suis ibi mandabo
+            gladio et occidet eos et ponam oculos meos super eos in malum et non in bonum</p>
+          <p xml:id="am9_5" n="5">et Dominus Deus exercituum qui tangit terram et tabescet et
+            lugebunt omnes habitantes in ea et ascendet sicut rivus omnis et defluet sicut fluvius
+            Aegypti</p>
+          <p xml:id="am9_6" n="6">qui aedificat in caelo ascensionem suam et fasciculum suum super
+            terram fundavit qui vocat aquas maris et effundit eas super faciem terrae Dominus nomen
+            eius</p>
+          <p xml:id="am9_7" n="7">numquid non ut filii Aethiopum vos estis mihi filii Israhel ait
+            Dominus numquid non Israhel ascendere feci de terra Aegypti et Palestinos de Cappadocia
+            et Syros de Cyrene</p>
+          <p xml:id="am9_8" n="8">ecce oculi Domini Dei super regnum peccans et conteram illud a
+            facie terrae verumtamen conterens non conteram domum Iacob dicit Dominus</p>
+          <p xml:id="am9_9" n="9">ecce enim ego mandabo et concutiam in omnibus gentibus domum
+            Israhel sicut concutitur in cribro et non cadet lapillus super terram</p>
+          <p xml:id="am9_10" n="10">in gladio morientur omnes peccatores populi mei qui dicunt non
+            adpropinquabit et non veniet super nos malum</p>
+          <p xml:id="am9_11" n="11">in die illo suscitabo tabernaculum David quod cecidit et
+            reaedificabo aperturas murorum eius et ea quae corruerant instaurabo et reaedificabo eum
+            sicut diebus antiquis</p>
+          <p xml:id="am9_12" n="12">ut possideant reliquias Idumeae et omnes nationes eo quod
+            invocatum sit nomen meum super eos dicit Dominus faciens haec</p>
+          <p xml:id="am9_13" n="13">ecce dies veniunt dicit Dominus et conprehendet arator messorem
+            et calcator uvae mittentem semen et stillabunt montes dulcedinem et omnes colles culti
+            erunt</p>
+          <p xml:id="am9_14" n="14">et convertam captivitatem populi mei Israhel et aedificabunt
+            civitates desertas et habitabunt et plantabunt vineas et bibent vinum earum et facient
+            hortos et comedent fructus eorum</p>
+          <p xml:id="am9_15" n="15">et plantabo eos super humum suam et non evellam eos ultra de
+            terra sua quam dedi eis dicit Dominus Deus tuus</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

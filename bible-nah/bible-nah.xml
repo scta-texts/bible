@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Nahum</title>
+        <author/>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"><date when="2011-10-04">October 04, 2011</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
+              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl>
+          <bibl>Biblia Sacra Vulgata - The Free Bible Group</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2011-10-04" status="draft" n="0.0.0"><p>File Started for the first
+          time.</p></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="bible-nah">
+        <div xml:id="bible-nah1" n="1">
+          <head>Caput 1</head>
+          <p xml:id="nah1_1" n="1">onus Nineve liber visionis Naum Helcesei</p>
+          <p xml:id="nah1_2" n="2">Deus aemulator et ulciscens Dominus ulciscens Dominus et habens
+            furorem ulciscens Dominus in hostes suos et irascens ipse inimicis suis</p>
+          <p xml:id="nah1_3" n="3">Dominus patiens et magnus fortitudine et mundans non faciet
+            innocentem Dominus in tempestate et turbine viae eius et nebulae pulvis pedum eius</p>
+          <p xml:id="nah1_4" n="4">increpans mare et exsiccans illud et omnia flumina ad desertum
+            deducens infirmatus est Basan et Carmelus et flos Libani elanguit</p>
+          <p xml:id="nah1_5" n="5">montes commoti sunt ab eo et colles adsolati sunt et contremuit
+            terra a facie eius et orbis et omnes habitantes in eo</p>
+          <p xml:id="nah1_6" n="6">ante faciem indignationis eius quis stabit et quis resistet in
+            ira furoris eius indignatio eius effusa est ut ignis et petrae dissolutae sunt ab eo</p>
+          <p xml:id="nah1_7" n="7">bonus Dominus et confortans in die tribulationis et sciens
+            sperantes in se</p>
+          <p xml:id="nah1_8" n="8">et in diluvio praetereunte consummationem faciet loci eius et
+            inimicos eius persequentur tenebrae</p>
+          <p xml:id="nah1_9" n="9">quid cogitatis contra Dominum consummationem ipse faciet non
+            consurget duplex tribulatio</p>
+          <p xml:id="nah1_10" n="10">quia sicut spinae se invicem conplectuntur sic convivium eorum
+            pariter potantium consumentur quasi stipula ariditate plena</p>
+          <p xml:id="nah1_11" n="11">ex te exivit cogitans contra Dominum malitiam mente pertractans
+            praevaricationem</p>
+          <p xml:id="nah1_12" n="12">haec dicit Dominus si perfecti fuerint et ita plures sic quoque
+            adtondentur et pertransibit adflixi te et non adfligam te ultra</p>
+          <p xml:id="nah1_13" n="13">et nunc conteram virgam eius de dorso tuo et vincula tua
+            disrumpam</p>
+          <p xml:id="nah1_14" n="14">et praecipiet super te Dominus non seminabitur ex nomine tuo
+            amplius de domo Dei tui interficiam sculptile et conflatile ponam sepulchrum tuum quia
+            inhonoratus es</p>
+          <p xml:id="nah1_15" n="15">ecce super montes pedes evangelizantis et adnuntiantis pacem
+            celebra Iuda festivitates tuas et redde vota tua quia non adiciet ultra ut pertranseat
+            in te Belial universus interiit</p>
+        </div>
+        <div xml:id="bible-nah2" n="2">
+          <head>Caput 2</head>
+          <p xml:id="nah2_1" n="1">ascendit qui dispergat coram te qui custodit obsidionem
+            contemplare viam conforta lumbos robora virtutem valde</p>
+          <p xml:id="nah2_2" n="2">quia reddidit Dominus superbiam Iacob sicut superbiam Israhel
+            quia vastatores dissipaverunt eos et propagines eorum corruperunt</p>
+          <p xml:id="nah2_3" n="3">clypeus fortium eius ignitus viri exercitus in coccineis igneae
+            habenae currus in die praeparationis eius et agitatores consopiti sunt</p>
+          <p xml:id="nah2_4" n="4">in itineribus conturbati sunt quadrigae conlisae sunt in plateis
+            aspectus eorum quasi lampades quasi fulgura discurrentia</p>
+          <p xml:id="nah2_5" n="5">recordabitur fortium suorum ruent in itineribus suis velociter
+            ascendent muros eius et praeparabitur umbraculum</p>
+          <p xml:id="nah2_6" n="6">portae fluviorum apertae sunt et templum ad solum dirutum</p>
+          <p xml:id="nah2_7" n="7">et miles captivus abductus est et ancillae eius minabantur
+            gementes ut columbae murmurantes in cordibus suis</p>
+          <p xml:id="nah2_8" n="8">et Nineve quasi piscina aquarum aquae eius ipsi vero fugerunt
+            state state et non est qui revertatur</p>
+          <p xml:id="nah2_9" n="9">diripite argentum diripite aurum et non est finis divitiarum ex
+            omnibus vasis desiderabilibus</p>
+          <p xml:id="nah2_10" n="10">dissipata et scissa et dilacerata et cor tabescens et
+            dissolutio geniculorum et defectio in cunctis renibus et facies omnium sicut nigredo
+            ollae</p>
+          <p xml:id="nah2_11" n="11">ubi est habitaculum leonum et pascua catulorum leonum ad quam
+            ivit leo ut ingrederetur illuc catulus leonis et non est qui exterreat</p>
+          <p xml:id="nah2_12" n="12">leo cepit sufficienter catulis suis et necavit leaenis suis et
+            implevit praeda speluncas suas et cubile suum rapina</p>
+          <p xml:id="nah2_13" n="13">ecce ego ad te dicit Dominus exercituum et succendam usque ad
+            fumum quadrigas eius et leunculos tuos comedet gladius et exterminabo de terra praedam
+            tuam et non audietur ultra vox nuntiorum tuorum</p>
+        </div>
+        <div xml:id="bible-nah3" n="3">
+          <head>Caput 3</head>
+          <p xml:id="nah3_1" n="1">vae civitas sanguinum universa mendacii dilaceratione plena non
+            recedet a te rapina</p>
+          <p xml:id="nah3_2" n="2">vox flagelli et vox impetus rotae et equi frementis et quadrigae
+            ferventis equitis ascendentis</p>
+          <p xml:id="nah3_3" n="3">et micantis gladii et fulgurantis hastae et multitudinis
+            interfectae et gravis ruinae nec est finis cadaverum et corruent in corporibus suis</p>
+          <p xml:id="nah3_4" n="4">propter multitudinem fornicationum meretricis speciosae et gratae
+            et habentis maleficia quae vendidit gentes in fornicationibus suis et familias in
+            maleficiis suis</p>
+          <p xml:id="nah3_5" n="5">ecce ego ad te dicit Dominus exercituum et revelabo pudenda tua
+            in facie tua et ostendam gentibus nuditatem tuam et regnis ignominiam tuam</p>
+          <p xml:id="nah3_6" n="6">et proiciam super te abominationes et contumeliis te adficiam et
+            ponam te in exemplum</p>
+          <p xml:id="nah3_7" n="7">et erit omnis qui viderit te resiliet a te et dicet vastata est
+            Nineve quis commovebit super te caput unde quaeram consolatorem tibi</p>
+          <p xml:id="nah3_8" n="8">numquid melior es ab Alexandria populorum quae habitat in
+            fluminibus aqua in circuitu eius cuius divitiae mare aquae muri eius</p>
+          <p xml:id="nah3_9" n="9">Aethiopia fortitudo et Aegyptus et non est finis Africa et Lybies
+            fuerunt in auxilio tuo</p>
+          <p xml:id="nah3_10" n="10">sed et ipsa in transmigrationem ducta est in captivitatem
+            parvuli eius elisi sunt in capite omnium viarum et super inclitos eius miserunt sortem
+            et omnes optimates eius confixi sunt in conpedibus</p>
+          <p xml:id="nah3_11" n="11">et tu ergo inebriaberis eris despecta et tu quaeres auxilium ab
+            inimico</p>
+          <p xml:id="nah3_12" n="12">omnes munitiones tuae sicuti ficus cum grossis suis si
+            concussae fuerint cadent in os comedentis</p>
+          <p xml:id="nah3_13" n="13">ecce populus tuus mulieres in medio tui inimicis tuis
+            adapertione pandentur portae terrae tuae devorabit ignis vectes tuos</p>
+          <p xml:id="nah3_14" n="14">aquam propter obsidionem hauri tibi extrue munitiones tuas
+            intra in lutum et calca subigens tene laterem</p>
+          <p xml:id="nah3_15" n="15">ibi comedet te ignis peribis gladio devorabit te ut bruchus
+            congregare ut bruchus multiplicare ut lucusta</p>
+          <p xml:id="nah3_16" n="16">plures fecisti negotiationes tuas quam stellae sunt caeli
+            bruchus expansus est et avolavit</p>
+          <p xml:id="nah3_17" n="17">custodes tui quasi lucustae et parvuli tui quasi lucustae
+            lucustarum quae considunt in sepibus in die frigoris sol ortus est et avolaverunt et non
+            est cognitus locus earum ubi fuerint</p>
+          <p xml:id="nah3_18" n="18">dormitaverunt pastores tui rex Assur sepelientur principes tui
+            latitavit populus tuus in montibus et non est qui congreget</p>
+          <p xml:id="nah3_19" n="19">non est obscura contritio tua pessima est plaga tua omnes qui
+            audierunt auditionem tuam conpresserunt manum super te quia super quem non transiit
+            malitia tua semper</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

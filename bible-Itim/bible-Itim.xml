@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1 Timotheus</title>
+        <author/>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"><date when="2011-10-04">October 04, 2011</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
+              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl>
+          <bibl>Biblia Sacra Vulgata - The Free Bible Group</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2011-10-04" status="draft" n="0.0.0"><p>File Started for the first
+          time.</p></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="bible-Itim">
+        <div xml:id="bible-Itim1" n="1">
+          <head>Caput 1</head>
+          <p xml:id="Itim1_1" n="1">Paulus apostolus Christi Iesu secundum imperium Dei salvatoris
+            nostri et Christi Iesu spei nostrae</p>
+          <p xml:id="Itim1_2" n="2">Timotheo dilecto filio in fide gratia misericordia pax a Deo
+            Patre et Christo Iesu Domino nostro</p>
+          <p xml:id="Itim1_3" n="3">sicut rogavi te ut remaneres Ephesi cum irem in Macedoniam ut
+            denuntiares quibusdam ne aliter docerent</p>
+          <p xml:id="Itim1_4" n="4">neque intenderent fabulis et genealogiis interminatis quae
+            quaestiones praestant magis quam aedificationem Dei quae est in fide</p>
+          <p xml:id="Itim1_5" n="5">finis autem praecepti est caritas de corde puro et conscientia
+            bona et fide non ficta</p>
+          <p xml:id="Itim1_6" n="6">a quibus quidam aberrantes conversi sunt in vaniloquium</p>
+          <p xml:id="Itim1_7" n="7">volentes esse legis doctores non intellegentes neque quae
+            loquuntur neque de quibus adfirmant</p>
+          <p xml:id="Itim1_8" n="8">scimus autem quia bona est lex si quis ea legitime utatur</p>
+          <p xml:id="Itim1_9" n="9">sciens hoc quia iusto lex non est posita sed iniustis et non
+            subditis impiis et peccatoribus sceleratis et contaminatis patricidis et matricidis
+            homicidis</p>
+          <p xml:id="Itim1_10" n="10">fornicariis masculorum concubitoribus plagiariis mendacibus
+            periuris et si quid aliud sanae doctrinae adversatur</p>
+          <p xml:id="Itim1_11" n="11">quae est secundum evangelium gloriae beati Dei quod creditum
+            est mihi</p>
+          <p xml:id="Itim1_12" n="12">gratias ago ei qui me confortavit Christo Iesu Domino nostro
+            quia fidelem me existimavit ponens in ministerio</p>
+          <p xml:id="Itim1_13" n="13">qui prius fui blasphemus et persecutor et contumeliosus sed
+            misericordiam consecutus sum quia ignorans feci in incredulitate</p>
+          <p xml:id="Itim1_14" n="14">superabundavit autem gratia Domini nostri cum fide et
+            dilectione quae est in Christo Iesu</p>
+          <p xml:id="Itim1_15" n="15">fidelis sermo et omni acceptione dignus quia Christus Iesus
+            venit in mundum peccatores salvos facere quorum primus ego sum</p>
+          <p xml:id="Itim1_16" n="16">sed ideo misericordiam consecutus sum ut in me primo
+            ostenderet Christus Iesus omnem patientiam ad deformationem eorum qui credituri sunt
+            illi in vitam aeternam</p>
+          <p xml:id="Itim1_17" n="17">regi autem saeculorum inmortali invisibili soli Deo honor et
+            gloria in saecula saeculorum amen</p>
+          <p xml:id="Itim1_18" n="18">hoc praeceptum commendo tibi fili Timothee secundum
+            praecedentes in te prophetias ut milites in illis bonam militiam</p>
+          <p xml:id="Itim1_19" n="19">habens fidem et bonam conscientiam quam quidam repellentes
+            circa fidem naufragaverunt</p>
+          <p xml:id="Itim1_20" n="20">ex quibus est Hymeneus et Alexander quos tradidi Satanae ut
+            discant non blasphemare</p>
+        </div>
+        <div xml:id="bible-Itim2" n="2">
+          <head>Caput 2</head>
+          <p xml:id="Itim2_1" n="1">obsecro igitur primo omnium fieri obsecrationes orationes
+            postulationes gratiarum actiones pro omnibus hominibus</p>
+          <p xml:id="Itim2_2" n="2">pro regibus et omnibus qui in sublimitate sunt ut quietam et
+            tranquillam vitam agamus in omni pietate et castitate</p>
+          <p xml:id="Itim2_3" n="3">hoc enim bonum est et acceptum coram salutari nostro Deo</p>
+          <p xml:id="Itim2_4" n="4">qui omnes homines vult salvos fieri et ad agnitionem veritatis
+            venire</p>
+          <p xml:id="Itim2_5" n="5">unus enim Deus unus et mediator Dei et hominum homo Christus
+            Iesus</p>
+          <p xml:id="Itim2_6" n="6">qui dedit redemptionem semet ipsum pro omnibus testimonium
+            temporibus suis</p>
+          <p xml:id="Itim2_7" n="7">in quo positus sum ego praedicator et apostolus veritatem dico
+            non mentior doctor gentium in fide et veritate</p>
+          <p xml:id="Itim2_8" n="8">volo ergo viros orare in omni loco levantes puras manus sine ira
+            et disceptatione</p>
+          <p xml:id="Itim2_9" n="9">similiter et mulieres in habitu ornato cum verecundia et
+            sobrietate ornantes se non in tortis crinibus aut auro aut margaritis vel veste
+            pretiosa</p>
+          <p xml:id="Itim2_10" n="10">sed quod decet mulieres promittentes pietatem per opera
+            bona</p>
+          <p xml:id="Itim2_11" n="11">mulier in silentio discat cum omni subiectione</p>
+          <p xml:id="Itim2_12" n="12">docere autem mulieri non permitto neque dominari in virum sed
+            esse in silentio</p>
+          <p xml:id="Itim2_13" n="13">Adam enim primus formatus est deinde Eva</p>
+          <p xml:id="Itim2_14" n="14">et Adam non est seductus mulier autem seducta in
+            praevaricatione fuit</p>
+          <p xml:id="Itim2_15" n="15">salvabitur autem per filiorum generationem si permanserint in
+            fide et dilectione et sanctificatione cum sobrietate</p>
+        </div>
+        <div xml:id="bible-Itim3" n="3">
+          <head>Caput 3</head>
+          <p xml:id="Itim3_1" n="1">fidelis sermo si quis episcopatum desiderat bonum opus
+            desiderat</p>
+          <p xml:id="Itim3_2" n="2">oportet ergo episcopum inreprehensibilem esse unius uxoris virum
+            sobrium prudentem ornatum hospitalem doctorem</p>
+          <p xml:id="Itim3_3" n="3">non vinolentum non percussorem sed modestum non litigiosum non
+            cupidum</p>
+          <p xml:id="Itim3_4" n="4">suae domui bene praepositum filios habentem subditos cum omni
+            castitate</p>
+          <p xml:id="Itim3_5" n="5">si quis autem domui suae praeesse nescit quomodo ecclesiae Dei
+            diligentiam habebit</p>
+          <p xml:id="Itim3_6" n="6">non neophytum ne in superbia elatus in iudicium incidat
+            diaboli</p>
+          <p xml:id="Itim3_7" n="7">oportet autem illum et testimonium habere bonum ab his qui foris
+            sunt ut non in obprobrium incidat et laqueum diaboli</p>
+          <p xml:id="Itim3_8" n="8">diaconos similiter pudicos non bilingues non multo vino deditos
+            non turpe lucrum sectantes</p>
+          <p xml:id="Itim3_9" n="9">habentes mysterium fidei in conscientia pura</p>
+          <p xml:id="Itim3_10" n="10">et hii autem probentur primum et sic ministrent nullum crimen
+            habentes</p>
+          <p xml:id="Itim3_11" n="11">mulieres similiter pudicas non detrahentes sobrias fideles in
+            omnibus</p>
+          <p xml:id="Itim3_12" n="12">diacones sint unius uxoris viri qui filiis suis bene praesunt
+            et suis domibus</p>
+          <p xml:id="Itim3_13" n="13">qui enim bene ministraverint gradum sibi bonum adquirent et
+            multam fiduciam in fide quae est in Christo Iesu</p>
+          <p xml:id="Itim3_14" n="14">haec tibi scribo sperans venire ad te cito</p>
+          <p xml:id="Itim3_15" n="15">si autem tardavero ut scias quomodo oporteat te in domo Dei
+            conversari quae est ecclesia Dei vivi columna et firmamentum veritatis</p>
+          <p xml:id="Itim3_16" n="16">et manifeste magnum est pietatis sacramentum quod manifestatum
+            est in carne iustificatum est in spiritu apparuit angelis praedicatum est gentibus
+            creditum est in mundo adsumptum est in gloria</p>
+        </div>
+        <div xml:id="bible-Itim4" n="4">
+          <head>Caput 4</head>
+          <p xml:id="Itim4_1" n="1">Spiritus autem manifeste dicit quia in novissimis temporibus
+            discedent quidam a fide adtendentes spiritibus erroris et doctrinis daemoniorum</p>
+          <p xml:id="Itim4_2" n="2">in hypocrisi loquentium mendacium et cauteriatam habentium suam
+            conscientiam</p>
+          <p xml:id="Itim4_3" n="3">prohibentium nubere abstinere a cibis quos Deus creavit ad
+            percipiendum cum gratiarum actione fidelibus et his qui cognoverunt veritatem</p>
+          <p xml:id="Itim4_4" n="4">quia omnis creatura Dei bona et nihil reiciendum quod cum
+            gratiarum actione percipitur</p>
+          <p xml:id="Itim4_5" n="5">sanctificatur enim per verbum Dei et orationem</p>
+          <p xml:id="Itim4_6" n="6">haec proponens fratribus bonus eris minister Christi Iesu
+            enutritus verbis fidei et bonae doctrinae quam adsecutus es</p>
+          <p xml:id="Itim4_7" n="7">ineptas autem et aniles fabulas devita exerce te ipsum ad
+            pietatem</p>
+          <p xml:id="Itim4_8" n="8">nam corporalis exercitatio ad modicum utilis est pietas autem ad
+            omnia utilis est promissionem habens vitae quae nunc est et futurae</p>
+          <p xml:id="Itim4_9" n="9">fidelis sermo et omni acceptione dignus</p>
+          <p xml:id="Itim4_10" n="10">in hoc enim laboramus et maledicimur quia speravimus in Deum
+            vivum qui est salvator omnium hominum maxime fidelium</p>
+          <p xml:id="Itim4_11" n="11">praecipe haec et doce</p>
+          <p xml:id="Itim4_12" n="12">nemo adulescentiam tuam contemnat sed exemplum esto fidelium
+            in verbo in conversatione in caritate in fide in castitate</p>
+          <p xml:id="Itim4_13" n="13">dum venio adtende lectioni exhortationi doctrinae</p>
+          <p xml:id="Itim4_14" n="14">noli neglegere gratiam quae in te est quae data est tibi per
+            prophetiam cum inpositione manuum presbyterii</p>
+          <p xml:id="Itim4_15" n="15">haec meditare in his esto ut profectus tuus manifestus sit
+            omnibus</p>
+          <p xml:id="Itim4_16" n="16">adtende tibi et doctrinae insta in illis hoc enim faciens et
+            te ipsum salvum facies et qui te audiunt</p>
+        </div>
+        <div xml:id="bible-Itim5" n="5">
+          <head>Caput 5</head>
+          <p xml:id="Itim5_1" n="1">seniorem ne increpaveris sed obsecra ut patrem iuvenes ut
+            fratres</p>
+          <p xml:id="Itim5_2" n="2">anus ut matres iuvenculas ut sorores in omni castitate</p>
+          <p xml:id="Itim5_3" n="3">viduas honora quae vere viduae sunt</p>
+          <p xml:id="Itim5_4" n="4">si qua autem vidua filios aut nepotes habet discant primum domum
+            suam regere et mutuam vicem reddere parentibus hoc enim acceptum est coram Deo</p>
+          <p xml:id="Itim5_5" n="5">quae autem vere vidua est et desolata speravit in Deum et instat
+            obsecrationibus et orationibus nocte ac die</p>
+          <p xml:id="Itim5_6" n="6">nam quae in deliciis est vivens mortua est</p>
+          <p xml:id="Itim5_7" n="7">et hoc praecipe ut inreprehensibiles sint</p>
+          <p xml:id="Itim5_8" n="8">si quis autem suorum et maxime domesticorum curam non habet
+            fidem negavit et est infideli deterior</p>
+          <p xml:id="Itim5_9" n="9">vidua eligatur non minus sexaginta annorum quae fuerit unius
+            viri uxor</p>
+          <p xml:id="Itim5_10" n="10">in operibus bonis testimonium habens si filios educavit si
+            hospitio recepit si sanctorum pedes lavit si tribulationem patientibus subministravit si
+            omne opus bonum subsecuta est</p>
+          <p xml:id="Itim5_11" n="11">adulescentiores autem viduas devita cum enim luxuriatae
+            fuerint in Christo nubere volunt</p>
+          <p xml:id="Itim5_12" n="12">habentes damnationem quia primam fidem irritam fecerunt</p>
+          <p xml:id="Itim5_13" n="13">simul autem et otiosae discunt circumire domos non solum
+            otiosae sed et verbosae et curiosae loquentes quae non oportet</p>
+          <p xml:id="Itim5_14" n="14">volo ergo iuveniores nubere filios procreare matres familias
+            esse nullam occasionem dare adversario maledicti gratia</p>
+          <p xml:id="Itim5_15" n="15">iam enim quaedam conversae sunt retro Satanan</p>
+          <p xml:id="Itim5_16" n="16">si qua fidelis habet viduas subministret illis et non gravetur
+            ecclesia ut his quae vere viduae sunt sufficiat</p>
+          <p xml:id="Itim5_17" n="17">qui bene praesunt presbyteri duplici honore digni habeantur
+            maxime qui laborant in verbo et doctrina</p>
+          <p xml:id="Itim5_18" n="18">dicit enim scriptura non infrenabis os bovi trituranti et
+            dignus operarius mercede sua</p>
+          <p xml:id="Itim5_19" n="19">adversus presbyterum accusationem noli recipere nisi sub
+            duobus et tribus testibus</p>
+          <p xml:id="Itim5_20" n="20">peccantes coram omnibus argue ut et ceteri timorem habeant</p>
+          <p xml:id="Itim5_21" n="21">testor coram Deo et Christo Iesu et electis angelis ut haec
+            custodias sine praeiudicio nihil faciens in aliam partem declinando</p>
+          <p xml:id="Itim5_22" n="22">manus cito nemini inposueris neque communicaveris peccatis
+            alienis te ipsum castum custodi</p>
+          <p xml:id="Itim5_23" n="23">noli adhuc aquam bibere sed vino modico utere propter
+            stomachum tuum et frequentes tuas infirmitates</p>
+          <p xml:id="Itim5_24" n="24">quorundam hominum peccata manifesta sunt praecedentia ad
+            iudicium quosdam autem et subsequuntur</p>
+          <p xml:id="Itim5_25" n="25">similiter et facta bona manifesta sunt et quae aliter se
+            habent abscondi non possunt</p>
+        </div>
+        <div xml:id="bible-Itim6" n="6">
+          <head>Caput 6</head>
+          <p xml:id="Itim6_1" n="1">quicumque sunt sub iugo servi dominos suos omni honore dignos
+            arbitrentur ne nomen Domini et doctrina blasphemetur</p>
+          <p xml:id="Itim6_2" n="2">qui autem fideles habent dominos non contemnant quia fratres
+            sunt sed magis serviant quia fideles sunt et dilecti qui beneficii participes sunt haec
+            doce et exhortare</p>
+          <p xml:id="Itim6_3" n="3">si quis aliter docet et non adquiescit sanis sermonibus Domini
+            nostri Iesu Christi et ei quae secundum pietatem est doctrinae</p>
+          <p xml:id="Itim6_4" n="4">superbus nihil sciens sed languens circa quaestiones et pugnas
+            verborum ex quibus oriuntur invidiae contentiones blasphemiae suspiciones malae</p>
+          <p xml:id="Itim6_5" n="5">conflictationes hominum mente corruptorum et qui veritate
+            privati sunt existimantium quaestum esse pietatem</p>
+          <p xml:id="Itim6_6" n="6">est autem quaestus magnus pietas cum sufficientia</p>
+          <p xml:id="Itim6_7" n="7">nihil enim intulimus in mundum haut dubium quia nec auferre quid
+            possumus</p>
+          <p xml:id="Itim6_8" n="8">habentes autem alimenta et quibus tegamur his contenti sumus</p>
+          <p xml:id="Itim6_9" n="9">nam qui volunt divites fieri incidunt in temptationem et laqueum
+            et desideria multa inutilia et nociva quae mergunt homines in interitum et
+            perditionem</p>
+          <p xml:id="Itim6_10" n="10">radix enim omnium malorum est cupiditas quam quidam appetentes
+            erraverunt a fide et inseruerunt se doloribus multis</p>
+          <p xml:id="Itim6_11" n="11">tu autem o homo Dei haec fuge sectare vero iustitiam pietatem
+            fidem caritatem patientiam mansuetudinem</p>
+          <p xml:id="Itim6_12" n="12">certa bonum certamen fidei adprehende vitam aeternam in qua
+            vocatus es et confessus bonam confessionem coram multis testibus</p>
+          <p xml:id="Itim6_13" n="13">praecipio tibi coram Deo qui vivificat omnia et Christo Iesu
+            qui testimonium reddidit sub Pontio Pilato bonam confessionem</p>
+          <p xml:id="Itim6_14" n="14">ut serves mandatum sine macula inreprehensibile usque in
+            adventum Domini nostri Iesu Christi</p>
+          <p xml:id="Itim6_15" n="15">quem suis temporibus ostendet beatus et solus potens rex regum
+            et Dominus dominantium</p>
+          <p xml:id="Itim6_16" n="16">qui solus habet inmortalitatem lucem habitans inaccessibilem
+            quem vidit nullus hominum sed nec videre potest cui honor et imperium sempiternum
+            amen</p>
+          <p xml:id="Itim6_17" n="17">divitibus huius saeculi praecipe non sublime sapere neque
+            sperare in incerto divitiarum sed in Deo qui praestat nobis omnia abunde ad fruendum</p>
+          <p xml:id="Itim6_18" n="18">bene agere divites fieri in operibus bonis facile tribuere
+            communicare</p>
+          <p xml:id="Itim6_19" n="19">thesaurizare sibi fundamentum bonum in futurum ut adprehendant
+            veram vitam</p>
+          <p xml:id="Itim6_20" n="20">o Timothee depositum custodi devitans profanas vocum novitates
+            et oppositiones falsi nominis scientiae</p>
+          <p xml:id="Itim6_21" n="21">quam quidam promittentes circa fidem exciderunt gratia
+            tecum</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

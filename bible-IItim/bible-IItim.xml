@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>2 Timotheus</title>
+        <author/>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"><date when="2011-10-04">October 04, 2011</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
+              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl>
+          <bibl>Biblia Sacra Vulgata - The Free Bible Group</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2011-10-04" status="draft" n="0.0.0"><p>File Started for the first
+          time.</p></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="bible-IItim">
+        <div xml:id="bible-IItim1" n="1">
+          <head>Caput 1</head>
+          <p xml:id="IItim1_1" n="1">Paulus apostolus Christi Iesu per voluntatem Dei secundum
+            promissionem vitae quae est in Christo Iesu</p>
+          <p xml:id="IItim1_2" n="2">Timotheo carissimo filio gratia misericordia pax a Deo Patre et
+            Christo Iesu Domino nostro</p>
+          <p xml:id="IItim1_3" n="3">gratias ago Deo cui servio a progenitoribus in conscientia pura
+            quam sine intermissione habeam tui memoriam in orationibus meis nocte ac die</p>
+          <p xml:id="IItim1_4" n="4">desiderans te videre memor lacrimarum tuarum ut gaudio
+            implear</p>
+          <p xml:id="IItim1_5" n="5">recordationem accipiens eius fidei quae est in te non ficta
+            quae et habitavit primum in avia tua Loide et matre tua Eunice certus sum autem quod et
+            in te</p>
+          <p xml:id="IItim1_6" n="6">propter quam causam admoneo te ut resuscites gratiam Dei quae
+            est in te per inpositionem manuum mearum</p>
+          <p xml:id="IItim1_7" n="7">non enim dedit nobis Deus spiritum timoris sed virtutis et
+            dilectionis et sobrietatis</p>
+          <p xml:id="IItim1_8" n="8">noli itaque erubescere testimonium Domini nostri neque me
+            vinctum eius sed conlabora evangelio secundum virtutem Dei</p>
+          <p xml:id="IItim1_9" n="9">qui nos liberavit et vocavit vocatione sancta non secundum
+            opera nostra sed secundum propositum suum et gratiam quae data est nobis in Christo Iesu
+            ante tempora saecularia</p>
+          <p xml:id="IItim1_10" n="10">manifestata est autem nunc per inluminationem salvatoris
+            nostri Iesu Christi qui destruxit quidem mortem inluminavit autem vitam et
+            incorruptionem per evangelium</p>
+          <p xml:id="IItim1_11" n="11">in quo positus sum ego praedicator et apostolus et magister
+            gentium</p>
+          <p xml:id="IItim1_12" n="12">ob quam causam etiam haec patior sed non confundor scio enim
+            cui credidi et certus sum quia potens est depositum meum servare in illum diem</p>
+          <p xml:id="IItim1_13" n="13">formam habe sanorum verborum quae a me audisti in fide et
+            dilectione in Christo Iesu</p>
+          <p xml:id="IItim1_14" n="14">bonum depositum custodi per Spiritum Sanctum qui habitat in
+            nobis</p>
+          <p xml:id="IItim1_15" n="15">scis hoc quod aversi sunt a me omnes qui in Asia sunt ex
+            quibus est Phygelus et Hermogenes</p>
+          <p xml:id="IItim1_16" n="16">det misericordiam Dominus Onesifori domui quia saepe me
+            refrigeravit et catenam meam non erubuit</p>
+          <p xml:id="IItim1_17" n="17">sed cum Romam venisset sollicite me quaesivit et invenit</p>
+          <p xml:id="IItim1_18" n="18">det illi Dominus invenire misericordiam a Domino in illa die
+            et quanta Ephesi ministravit melius tu nosti</p>
+        </div>
+        <div xml:id="bible-IItim2" n="2">
+          <head>Caput 2</head>
+          <p xml:id="IItim2_1" n="1">tu ergo fili mi confortare in gratia quae est in Christo
+            Iesu</p>
+          <p xml:id="IItim2_2" n="2">et quae audisti a me per multos testes haec commenda fidelibus
+            hominibus qui idonei erunt et alios docere</p>
+          <p xml:id="IItim2_3" n="3">labora sicut bonus miles Christi Iesu</p>
+          <p xml:id="IItim2_4" n="4">nemo militans inplicat se negotiis saecularibus ut ei placeat
+            cui se probavit</p>
+          <p xml:id="IItim2_5" n="5">nam et qui certat in agone non coronatur nisi legitime
+            certaverit</p>
+          <p xml:id="IItim2_6" n="6">laborantem agricolam oportet primum de fructibus accipere</p>
+          <p xml:id="IItim2_7" n="7">intellege quae dico dabit enim tibi Dominus in omnibus
+            intellectum</p>
+          <p xml:id="IItim2_8" n="8">memor esto Iesum Christum resurrexisse a mortuis ex semine
+            David secundum evangelium meum</p>
+          <p xml:id="IItim2_9" n="9">in quo laboro usque ad vincula quasi male operans sed verbum
+            Dei non est alligatum</p>
+          <p xml:id="IItim2_10" n="10">ideo omnia sustineo propter electos ut et ipsi salutem
+            consequantur quae est in Christo Iesu cum gloria caelesti</p>
+          <p xml:id="IItim2_11" n="11">fidelis sermo nam si conmortui sumus et convivemus</p>
+          <p xml:id="IItim2_12" n="12">si sustinemus et conregnabimus si negabimus et ille negabit
+            nos</p>
+          <p xml:id="IItim2_13" n="13">si non credimus ille fidelis manet negare se ipsum non
+            potest</p>
+          <p xml:id="IItim2_14" n="14">haec commone testificans coram Domino noli verbis contendere
+            in nihil utile ad subversionem audientium</p>
+          <p xml:id="IItim2_15" n="15">sollicite cura te ipsum probabilem exhibere Deo operarium
+            inconfusibilem recte tractantem verbum veritatis</p>
+          <p xml:id="IItim2_16" n="16">profana autem inaniloquia devita multum enim proficient ad
+            impietatem</p>
+          <p xml:id="IItim2_17" n="17">et sermo eorum ut cancer serpit ex quibus est Hymeneus et
+            Philetus</p>
+          <p xml:id="IItim2_18" n="18">qui a veritate exciderunt dicentes resurrectionem iam factam
+            et subvertunt quorundam fidem</p>
+          <p xml:id="IItim2_19" n="19">sed firmum fundamentum Dei stetit habens signaculum hoc
+            cognovit Dominus qui sunt eius et discedat ab iniquitate omnis qui nominat nomen
+            Domini</p>
+          <p xml:id="IItim2_20" n="20">in magna autem domo non solum sunt vasa aurea et argentea sed
+            et lignea et fictilia et quaedam quidem in honorem quaedam autem in contumeliam</p>
+          <p xml:id="IItim2_21" n="21">si quis ergo emundaverit se ab istis erit vas in honorem
+            sanctificatum et utile Domino ad omne opus bonum paratum</p>
+          <p xml:id="IItim2_22" n="22">iuvenilia autem desideria fuge sectare vero iustitiam fidem
+            caritatem pacem cum his qui invocant Dominum de corde puro</p>
+          <p xml:id="IItim2_23" n="23">stultas autem et sine disciplina quaestiones devita sciens
+            quia generant lites</p>
+          <p xml:id="IItim2_24" n="24">servum autem Domini non oportet litigare sed mansuetum esse
+            ad omnes docibilem patientem</p>
+          <p xml:id="IItim2_25" n="25">cum modestia corripientem eos qui resistunt nequando det
+            illis Deus paenitentiam ad cognoscendam veritatem</p>
+          <p xml:id="IItim2_26" n="26">et resipiscant a diaboli laqueis a quo capti tenentur ad
+            ipsius voluntatem</p>
+        </div>
+        <div xml:id="bible-IItim3" n="3">
+          <head>Caput 3</head>
+          <p xml:id="IItim3_1" n="1">hoc autem scito quod in novissimis diebus instabunt tempora
+            periculosa</p>
+          <p xml:id="IItim3_2" n="2">et erunt homines se ipsos amantes cupidi elati superbi
+            blasphemi parentibus inoboedientes ingrati scelesti</p>
+          <p xml:id="IItim3_3" n="3">sine affectione sine pace criminatores incontinentes inmites
+            sine benignitate</p>
+          <p xml:id="IItim3_4" n="4">proditores protervi tumidi voluptatium amatores magis quam
+            Dei</p>
+          <p xml:id="IItim3_5" n="5">habentes speciem quidem pietatis virtutem autem eius abnegantes
+            et hos devita</p>
+          <p xml:id="IItim3_6" n="6">ex his enim sunt qui penetrant domos et captivas ducunt
+            mulierculas oneratas peccatis quae ducuntur variis desideriis</p>
+          <p xml:id="IItim3_7" n="7">semper discentes et numquam ad scientiam veritatis
+            pervenientes</p>
+          <p xml:id="IItim3_8" n="8">quemadmodum autem Iannes et Mambres restiterunt Mosi ita et hii
+            resistunt veritati homines corrupti mente reprobi circa fidem</p>
+          <p xml:id="IItim3_9" n="9">sed ultra non proficient insipientia enim eorum manifesta erit
+            omnibus sicut et illorum fuit</p>
+          <p xml:id="IItim3_10" n="10">tu autem adsecutus es meam doctrinam institutionem propositum
+            fidem longanimitatem dilectionem patientiam</p>
+          <p xml:id="IItim3_11" n="11">persecutiones passiones qualia mihi facta sunt Antiochiae
+            Iconii Lystris quales persecutiones sustinui et ex omnibus me eripuit Dominus</p>
+          <p xml:id="IItim3_12" n="12">et omnes qui volunt pie vivere in Christo Iesu persecutionem
+            patientur</p>
+          <p xml:id="IItim3_13" n="13">mali autem homines et seductores proficient in peius errantes
+            et in errorem mittentes</p>
+          <p xml:id="IItim3_14" n="14">tu vero permane in his quae didicisti et credita sunt tibi
+            sciens a quo didiceris</p>
+          <p xml:id="IItim3_15" n="15">et quia ab infantia sacras litteras nosti quae te possint
+            instruere ad salutem per fidem quae est in Christo Iesu</p>
+          <p xml:id="IItim3_16" n="16">omnis scriptura divinitus inspirata et utilis ad docendum ad
+            arguendum ad corrigendum ad erudiendum in iustitia</p>
+          <p xml:id="IItim3_17" n="17">ut perfectus sit homo Dei ad omne opus bonum instructus</p>
+        </div>
+        <div xml:id="bible-IItim4" n="4">
+          <head>Caput 4</head>
+          <p xml:id="IItim4_1" n="1">testificor coram Deo et Christo Iesu qui iudicaturus est vivos
+            ac mortuos et adventum ipsius et regnum eius</p>
+          <p xml:id="IItim4_2" n="2">praedica verbum insta oportune inportune argue obsecra increpa
+            in omni patientia et doctrina</p>
+          <p xml:id="IItim4_3" n="3">erit enim tempus cum sanam doctrinam non sustinebunt sed ad sua
+            desideria coacervabunt sibi magistros prurientes auribus</p>
+          <p xml:id="IItim4_4" n="4">et a veritate quidem auditum avertent ad fabulas autem
+            convertentur</p>
+          <p xml:id="IItim4_5" n="5">tu vero vigila in omnibus labora opus fac evangelistae
+            ministerium tuum imple</p>
+          <p xml:id="IItim4_6" n="6">ego enim iam delibor et tempus meae resolutionis instat</p>
+          <p xml:id="IItim4_7" n="7">bonum certamen certavi cursum consummavi fidem servavi</p>
+          <p xml:id="IItim4_8" n="8">in reliquo reposita est mihi iustitiae corona quam reddet mihi
+            Dominus in illa die iustus iudex non solum autem mihi sed et his qui diligunt adventum
+            eius</p>
+          <p xml:id="IItim4_9" n="9">festina venire ad me cito</p>
+          <p xml:id="IItim4_10" n="10">Demas enim me dereliquit diligens hoc saeculum et abiit
+            Thessalonicam Crescens in Galliam Titus in Dalmatiam</p>
+          <p xml:id="IItim4_11" n="11">Lucas est mecum solus Marcum adsume et adduc tecum est enim
+            mihi utilis in ministerium</p>
+          <p xml:id="IItim4_12" n="12">Tychicum autem misi Ephesum</p>
+          <p xml:id="IItim4_13" n="13">paenulam quam reliqui Troade apud Carpum veniens adfers et
+            libros maxime autem membranas</p>
+          <p xml:id="IItim4_14" n="14">Alexander aerarius multa mala mihi ostendit reddat ei Dominus
+            secundum opera eius</p>
+          <p xml:id="IItim4_15" n="15">quem et tu devita valde enim restitit verbis nostris</p>
+          <p xml:id="IItim4_16" n="16">in prima mea defensione nemo mihi adfuit sed omnes me
+            dereliquerunt non illis reputetur</p>
+          <p xml:id="IItim4_17" n="17">Dominus autem mihi adstitit et confortavit me ut per me
+            praedicatio impleatur et audiant omnes gentes et liberatus sum de ore leonis</p>
+          <p xml:id="IItim4_18" n="18">liberabit me Dominus ab omni opere malo et salvum faciet in
+            regnum suum caeleste cui gloria in saecula saeculorum amen</p>
+          <p xml:id="IItim4_19" n="19">saluta Priscam et Aquilam et Onesifori domum</p>
+          <p xml:id="IItim4_20" n="20">Erastus remansit Corinthi Trophimum autem reliqui infirmum
+            Mileti</p>
+          <p xml:id="IItim4_21" n="21">festina ante hiemem venire salutat te Eubulus et Pudens et
+            Linus et Claudia et fratres omnes</p>
+          <p xml:id="IItim4_22" n="22">Dominus Iesus cum spiritu tuo gratia nobiscum amen</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

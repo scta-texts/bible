@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tobia</title>
+        <author/>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"><date when="2011-10-04">October 04, 2011</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
+              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl>
+          <bibl>Biblia Sacra Vulgata - The Free Bible Group</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2011-10-04" status="draft" n="0.0.0"><p>File Started for the first
+          time.</p></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="bible-tob">
+        <div xml:id="bible-tob1" n="1">
+          <head>Caput 1</head>
+          <p xml:id="tob1_1" n="1">Tobias ex tribu et civitate Nepthalim quae est in superioribus
+            Galileae supra Naasson post viam quae ducit ad occidentem in sinistro habens civitatem
+            Sephet</p>
+          <p xml:id="tob1_2" n="2">cum captus esset in diebus Salmanassar regis Assyriorum in
+            captivitate tamen positus viam veritatis non deseruit</p>
+          <p xml:id="tob1_3" n="3">ita ut omnia quae habere poterat cotidie concaptivis fratribus
+            qui erant ex genere inpertiret</p>
+          <p xml:id="tob1_4" n="4">cumque esset iunior omnibus in tribu Nepthalim nihil tamen
+            puerile gessit in opere</p>
+          <p xml:id="tob1_5" n="5">denique cum irent omnes ad vitulos aureos quos Hieroboam fecerat
+            rex Israhel hic solus fugiebat consortia omnium</p>
+          <p xml:id="tob1_6" n="6">et pergebat ad Hierusalem ad templum Domini et ibi adorabat
+            Dominum Deum suum Israhel omnia primitiva sua et decimas suas fideliter offerens</p>
+          <p xml:id="tob1_7" n="7">ita ut in tertio anno proselytis et advenis ministraret omnem
+            decimationem</p>
+          <p xml:id="tob1_8" n="8">haec et his similia secundum legem Dei puerulus observabat</p>
+          <p xml:id="tob1_9" n="9">cum vero factus esset vir accepit uxorem Annam ex tribu sua
+            genuitque ex ea filium nomen suum inponens ei</p>
+          <p xml:id="tob1_10" n="10">ab infantia timere Deum docuit et abstinere ab omni peccato</p>
+          <p xml:id="tob1_11" n="11">igitur cum per captivitatem devenisset cum uxore sua et filio
+            in civitatem Nineve cum omni tribu sua</p>
+          <p xml:id="tob1_12" n="12">et omnes ederent ex cibis gentilium iste custodivit animam suam
+            et numquam contaminatus est in escis eorum</p>
+          <p xml:id="tob1_13" n="13">et quoniam memor fuit Domini in toto corde suo dedit illi
+            Dominus gratiam in conspectu Salmanassar regis</p>
+          <p xml:id="tob1_14" n="14">et dedit ei potestatem quocumque vellet ire habens libertatem
+            quaecumque facere voluisset</p>
+          <p xml:id="tob1_15" n="15">pergebat ergo per omnes qui erant in captivitate et monita
+            salutis dabat eis</p>
+          <p xml:id="tob1_16" n="16">cum autem venisset in Rages civitatem Medorum et ex his quibus
+            honoratus fuerat a rege habuisset decem talenta argenti</p>
+          <p xml:id="tob1_17" n="17">et cum multa turba generis sui Gabelum egentem videret qui erat
+            ex tribu eius sub chirografo dedit illi memoratum pondus argenti</p>
+          <p xml:id="tob1_18" n="18">post multum vero temporis mortuo Salmanassar rege cum regnaret
+            Sennacherim filius eius pro eo et filios Israhel exosos haberet in conspectu suo</p>
+          <p xml:id="tob1_19" n="19">Tobias pergebat per omnem cognationem suam et consolabatur eos
+            dividebatque unicuique prout poterat de facultatibus suis</p>
+          <p xml:id="tob1_20" n="20">esurientes alebat nudis vestimenta praebebat et mortuis atque
+            occisis sepulturam sollicitus exhibebat</p>
+          <p xml:id="tob1_21" n="21">denique cum reversus esset rex Sennacherim fugiens a Iudaea
+            plagam quam circa eum Deus fecerat propter blasphemiam suam et iratus multos occideret
+            ex filiis Israhel Tobias sepeliebat corpora eorum</p>
+          <p xml:id="tob1_22" n="22">at ubi nuntiatum est regi iussit eum occidi et tulit ei omnem
+            substantiam eius</p>
+          <p xml:id="tob1_23" n="23">Tobias vero cum filio suo et cum uxore fugiens nudus latuit
+            quia multi diligebant eum</p>
+          <p xml:id="tob1_24" n="24">post dies vero quadraginta et quinque occiderunt regem filii
+            ipsius</p>
+          <p xml:id="tob1_25" n="25">et reversus est Tobias ad domum suam omnisque facultas eius
+            restituta est ei</p>
+        </div>
+        <div xml:id="bible-tob2" n="2">
+          <head>Caput 2</head>
+          <p xml:id="tob2_1" n="1">post haec vero cum esset dies festus Domini et factum esset
+            prandium bonum in domo Tobis</p>
+          <p xml:id="tob2_2" n="2">dixit filio suo vade et adduc aliquos ex tribu nostra timentes
+            Deum et epulentur nobiscum</p>
+          <p xml:id="tob2_3" n="3">cumque abisset reversus nuntiat unum ex filiis Israhel iugulatum
+            iacere in platea statimque exiliens de accubitu suo relinquens prandium ieiunus pervenit
+            ad corpus</p>
+          <p xml:id="tob2_4" n="4">tollensque illud portavit ad domum suam occulte ut dum sol
+            occubuisset caute sepeliret eum</p>
+          <p xml:id="tob2_5" n="5">cumque occultasset corpus manducavit panem cum luctu et
+            tremore</p>
+          <p xml:id="tob2_6" n="6">memorans illum sermonem quem dixit Dominus per Amos prophetam
+            dies festi vestri convertentur in lamentationem et luctum</p>
+          <p xml:id="tob2_7" n="7">cum vero sol occubuisset abiit et sepelevit eum</p>
+          <p xml:id="tob2_8" n="8">arguebant autem illum omnes proximi sui dicentes iam huius rei
+            causa interfici iussus es et vix effugisti mortis imperium et iterum sepelis mortuos</p>
+          <p xml:id="tob2_9" n="9">sed Tobias plus timens Deum quam regem rapiebat corpora occisorum
+            et occultabat in domo sua et mediis noctibus sepeliebat ea</p>
+          <p xml:id="tob2_10" n="10">contigit autem ut quadam die fatigatus a sepultura veniens
+            domum iactasset se iuxta parietem et obdormisset</p>
+          <p xml:id="tob2_11" n="11">ex nido hirundinum dormienti illi calida stercora insiderent
+            super oculos eius fieretque caecus</p>
+          <p xml:id="tob2_12" n="12">hanc autem temptationem ideo permisit Dominus evenire illi ut
+            posteris daretur exemplum patientiae eius sicut et sancti Iob</p>
+          <p xml:id="tob2_13" n="13">nam cum ab infantia sua semper Deum timuerit et mandata eius
+            custodierit non est contristatus contra Deum quod plaga caecitatis evenerit ei</p>
+          <p xml:id="tob2_14" n="14">sed inmobilis in Dei timore permansit agens gratias Deo omnibus
+            diebus vitae suae</p>
+          <p xml:id="tob2_15" n="15">nam sicut beato Iob insultabant reges ita isti parentes et
+            cognati eius et inridebant vitam eius dicentes</p>
+          <p xml:id="tob2_16" n="16">ubi est spes tua pro qua elemosynas et sepulturas faciebas</p>
+          <p xml:id="tob2_17" n="17">Tobias vero increpabat eos dicens nolite ita loqui</p>
+          <p xml:id="tob2_18" n="18">quoniam filii sanctorum sumus et vitam illam expectamus quam
+            Deus daturus est his qui fidem suam numquam mutant ab eo</p>
+          <p xml:id="tob2_19" n="19">Anna vero uxor eius ibat ad textrinum opus cotidie et de labore
+            manuum suarum victum quem consequi poterat deferebat</p>
+          <p xml:id="tob2_20" n="20">unde factum est ut hedum caprarum accipiens detulisset domi</p>
+          <p xml:id="tob2_21" n="21">cuius cum vocem balantis vir eius audisset dixit videte ne
+            forte furtivus sit reddite eum dominis suis quia non licet nobis ex furto aliquid aut
+            edere aut contingere</p>
+          <p xml:id="tob2_22" n="22">ad haec uxor eius irata respondit manifeste vana facta est spes
+            tua et elemosynae tuae modo paruerunt</p>
+          <p xml:id="tob2_23" n="23">atque his et aliis huiusmodi verbis exprobrabat ei</p>
+        </div>
+        <div xml:id="bible-tob3" n="3">
+          <head>Caput 3</head>
+          <p xml:id="tob3_1" n="1">tunc Tobias ingemuit et coepit orare cum lacrimis</p>
+          <p xml:id="tob3_2" n="2">dicens iustus es Domine et omnia iudicia tua iusta sunt et omnes
+            viae tuae misericordia et veritas et iudicium</p>
+          <p xml:id="tob3_3" n="3">et nunc Domine memor esto mei ne vindictam sumas de peccatis meis
+            neque reminiscaris delicta mea vel parentum meorum</p>
+          <p xml:id="tob3_4" n="4">quoniam non oboedivimus praeceptis tuis et traditi sumus in
+            direptionem et captivitatem et mortem et in fabulam et in inproperium omnibus nationibus
+            in quibus dispersisti nos</p>
+          <p xml:id="tob3_5" n="5">et nunc Domine magna iudicia tua quia non egimus secundum
+            praecepta tua et non ambulavimus sinceriter coram te</p>
+          <p xml:id="tob3_6" n="6">et nunc Domine secundum voluntatem tuam fac mecum et praecipe in
+            pace recipi spiritum meum expedit enim mihi mori magis quam vivere</p>
+          <p xml:id="tob3_7" n="7">eadem itaque die contigit ut Sarra filia Raguhel in civitate
+            Medorum ut et ipsa audiret inproperium ab una ex ancillis patris sui</p>
+          <p xml:id="tob3_8" n="8">quoniam tradita fuerat septem viris et daemonium nomine Asmodeus
+            occiderat eos mox ut ingressi fuissent ad eam</p>
+          <p xml:id="tob3_9" n="9">ergo cum pro culpa sua increparet puellam respondit ei dicens
+            amplius ex te non videamus filium aut filiam super terram interfectrix virorum
+            tuorum</p>
+          <p xml:id="tob3_10" n="10">numquid et me occidere vis sicut et iam septem occidisti ad
+            hanc vocem perrexit in superiori cubiculo domus suae et tribus diebus et tribus noctibus
+            non manducavit neque bibit</p>
+          <p xml:id="tob3_11" n="11">sed in oratione persistens lacrimis deprecabatur Dominum ut ab
+            isto inproperio liberaret eam</p>
+          <p xml:id="tob3_12" n="12">factum est autem tertia die dum conpleret orationem benedicens
+            Dominum</p>
+          <p xml:id="tob3_13" n="13">dixit benedictum est nomen tuum Deus patrum nostrorum qui cum
+            iratus fueris misericordiam facies et in tempore tribulationis peccata dimittis his qui
+            invocant te</p>
+          <p xml:id="tob3_14" n="14">ad te Domine faciem meam converto ad te oculos meos
+            converto</p>
+          <p xml:id="tob3_15" n="15">peto Domine ut de vinculo inproperii huius absolvas me aut
+            certe desuper terra eripias me</p>
+          <p xml:id="tob3_16" n="16">tu scis Domine quia numquam concupivi virum et mundam servavi
+            animam meam ab omni concupiscentia</p>
+          <p xml:id="tob3_17" n="17">numquam cum ludentibus miscui me neque cum his qui in levitate
+            ambulant participem me praebui</p>
+          <p xml:id="tob3_18" n="18">virum autem cum timore tuo non libidine mea consensi
+            suscipere</p>
+          <p xml:id="tob3_19" n="19">et aut ego indigna fui illis aut illi mihi forsitan digni non
+            fuerunt quia forsitan viro alio conservasti me</p>
+          <p xml:id="tob3_20" n="20">non est enim in hominis potestate consilium tuum</p>
+          <p xml:id="tob3_21" n="21">hoc autem certum habet omnis qui colit te quia vita eius si in
+            probatione fuerit coronabitur si autem in tribulatione fuerit liberabitur et si in
+            correptione fuerit ad misericordiam tuam pervenire licebit</p>
+          <p xml:id="tob3_22" n="22">non enim delectaris in perditionibus nostris quia post
+            tempestatem tranquillum facis et post lacrimationem et fletum exultationem infundis</p>
+          <p xml:id="tob3_23" n="23">sit nomen tuum Deus Israhel benedictum in saecula</p>
+          <p xml:id="tob3_24" n="24">in illo tempore exauditae sunt preces amborum in conspectu
+            gloriae summi Dei</p>
+          <p xml:id="tob3_25" n="25">et missus est angelus Domini sanctus Rafahel ut curaret ambos
+            quorum uno tempore fuerat oratio in conspectu Domini recitata</p>
+        </div>
+        <div xml:id="bible-tob4" n="4">
+          <head>Caput 4</head>
+          <p xml:id="tob4_1" n="1">igitur cum Tobias putaret orationem suam exaudiri ut mori
+            potuisset vocavit ad se Tobiam filium suum</p>
+          <p xml:id="tob4_2" n="2">dixitque ei audi fili mi verba oris mei et ea in corde tuo quasi
+            fundamentum construe</p>
+          <p xml:id="tob4_3" n="3">cum acceperit Deus animam meam corpus meum sepeli et honorem
+            habebis matri tuae omnibus diebus vitae eius</p>
+          <p xml:id="tob4_4" n="4">memor enim esse debes quae et quanta pericula passa sit propter
+            te in utero suo</p>
+          <p xml:id="tob4_5" n="5">cum autem et ipsa conpleverit tempus vitae suae sepelies eam
+            circa me</p>
+          <p xml:id="tob4_6" n="6">omnibus autem diebus vitae tuae Deum in mente habe et cave ne
+            aliquando peccato consentias et praetermittas praecepta Dei nostri</p>
+          <p xml:id="tob4_7" n="7">ex substantia tua fac elemosynam et noli avertere faciem tuam ab
+            ullo paupere ita enim fiet ut nec a te avertatur facies Domini</p>
+          <p xml:id="tob4_8" n="8">quomodo potueris ita esto misericors</p>
+          <p xml:id="tob4_9" n="9">si multum tibi fuerit abundanter tribue si exiguum fuerit etiam
+            exiguum libenter inpertire stude</p>
+          <p xml:id="tob4_10" n="10">praemium enim tibi bonum thesaurizas in die necessitatis</p>
+          <p xml:id="tob4_11" n="11">quoniam elemosyna ab omni peccato et a morte liberat et non
+            patietur animam ire in tenebras</p>
+          <p xml:id="tob4_12" n="12">fiducia magna erit coram summo Deo elemosyna omnibus qui
+            faciunt eam</p>
+          <p xml:id="tob4_13" n="13">adtende tibi fili mi ab omni fornicatione et praeter uxorem
+            tuam numquam patiaris crimen scire</p>
+          <p xml:id="tob4_14" n="14">superbiam numquam in tuo sensu aut in tuo verbo dominari
+            permittas in ipsa enim initium sumpsit omnis perditio</p>
+          <p xml:id="tob4_15" n="15">quicumque aliquid tibi operatus fuerit statim mercedem ei
+            restitue et merces mercennarii apud te omnino non maneat</p>
+          <p xml:id="tob4_16" n="16">quod ab alio odis fieri tibi vide ne alteri tu aliquando
+            facias</p>
+          <p xml:id="tob4_17" n="17">panem tuum cum esurientibus et egenis comede et de vestimentis
+            tuis nudos tege</p>
+          <p xml:id="tob4_18" n="18">panem tuum et vinum super sepulturam iusti constitue et noli ex
+            eo manducare et bibere cum peccatoribus</p>
+          <p xml:id="tob4_19" n="19">consilium semper a sapiente perquire</p>
+          <p xml:id="tob4_20" n="20">omni tempore benedic Deum et pete ab eo ut vias tuas dirigat et
+            omnia consilia tua in ipso permaneant</p>
+          <p xml:id="tob4_21" n="21">indico etiam tibi fili mi dedisse me decem talenta argenti dum
+            infantulus esses Gabelo in Rages civitate Medorum et chirografum eius apud me habeo</p>
+          <p xml:id="tob4_22" n="22">et ideo perquire quomodo ad eum pervenias et recipias ab eo
+            supra memoratum pondus argenti et restituas ei chirografum suum</p>
+          <p xml:id="tob4_23" n="23">noli timere fili mi pauperem quidem vitam gerimus sed multa
+            bona habemus si timuerimus Deum et recesserimus ab omni peccato et fecerimus bene</p>
+        </div>
+        <div xml:id="bible-tob5" n="5">
+          <head>Caput 5</head>
+          <p xml:id="tob5_1" n="1">tunc Tobias respondit patri suo et dixit omnia quaecumque
+            praecepisti mihi faciam pater</p>
+          <p xml:id="tob5_2" n="2">quomodo autem hanc pecuniam inquiram ignoro ille me nescit neque
+            ego illum quod signum dabo illi sed neque viam qua pergatur illuc aliquando cognovi</p>
+          <p xml:id="tob5_3" n="3">tunc pater suus respondit illi et dixit chirografum quidem eius
+            penes me habeo quem dum illi ostenderis statim restituet</p>
+          <p xml:id="tob5_4" n="4">sed perge nunc et inquire tibi aliquem fidelem virum qui eat
+            tecum salva mercede sua dum adhuc vivo ut recipias ea</p>
+          <p xml:id="tob5_5" n="5">tunc egressus Tobias invenit iuvenem splendidum stantem
+            praecinctum et quasi paratum ad ambulandum</p>
+          <p xml:id="tob5_6" n="6">et ignorans quod angelus Dei esset salutavit eum et dixit unde te
+            habemus bone iuvenis</p>
+          <p xml:id="tob5_7" n="7">at ille respondit ex filiis Israhel et Tobias dixit ei nosti viam
+            quae ducit in regionem Medorum</p>
+          <p xml:id="tob5_8" n="8">cui respondit novi et omnia itinera eius frequenter ambulavi et
+            mansi apud Gabelum fratrem nostrum qui moratur in Rages civitate Medorum quae posita est
+            in monte Exbathanis</p>
+          <p xml:id="tob5_9" n="9">cui Tobias ait sustine me obsecro donec haec ipsa nuntiem patri
+            meo</p>
+          <p xml:id="tob5_10" n="10">tunc ingressus indicavit universa haec patri suo super quae
+            admiratus pater rogat ut introiret ad eum</p>
+          <p xml:id="tob5_11" n="11">ingressus itaque salutavit eum et dixit gaudium tibi semper
+            sit</p>
+          <p xml:id="tob5_12" n="12">et Tobias ait quale mihi gaudium erit qui in tenebris sedeo et
+            lumen caeli non video</p>
+          <p xml:id="tob5_13" n="13">cui ait iuvenis forti animo esto in proximo est ut a Deo
+            cureris</p>
+          <p xml:id="tob5_14" n="14">dixit itaque illi Tobias numquid poteris perducere filium meum
+            ad Gabelum in Rages Medorum et cum redieris restituam tibi mercedem tuam</p>
+          <p xml:id="tob5_15" n="15">et dixit ei angelus ego eum ducam et reducam ad te</p>
+          <p xml:id="tob5_16" n="16">cui Tobias respondit rogo te indica mihi de qua domo aut de qua
+            tribu es tu</p>
+          <p xml:id="tob5_17" n="17">cui Rafahel angelus dixit genus quaeris mercennarii an ipsum
+            mercennarium qui cum filio tuo eat</p>
+          <p xml:id="tob5_18" n="18">sed ne forte sollicitum te reddam ego sum Azarias Ananiae magni
+            filius</p>
+          <p xml:id="tob5_19" n="19">et Tobias respondit ex magno genere es tu sed peto ne irascaris
+            quod voluerim cognoscere genus tuum</p>
+          <p xml:id="tob5_20" n="20">dixit autem illi angelus ego sanum ducam et sanum tibi reducam
+            filium tuum</p>
+          <p xml:id="tob5_21" n="21">respondens autem Tobias dixit bene ambuletis et sit Deus in
+            itinere vestro et angelus eius comitetur vobiscum</p>
+          <p xml:id="tob5_22" n="22">tunc paratis omnibus quae erant in via portanda fecit Tobias
+            vale patri et matri suae et ambulaverunt ambo simul</p>
+          <p xml:id="tob5_23" n="23">cumque profecti essent coepit flere mater eius et dicere
+            baculum senectutis nostrae tulisti et transmisisti a nobis</p>
+          <p xml:id="tob5_24" n="24">numquam esset ipsa pecunia pro qua misisti eum</p>
+          <p xml:id="tob5_25" n="25">sufficiebat enim nobis paupertas nostra ut divitias
+            conputaremus hoc quod videbamus filium nostrum</p>
+          <p xml:id="tob5_26" n="26">dixitque ei Tobias noli flere salvus perveniet filius noster et
+            salvus revertetur ad nos et oculi tui videbunt eum</p>
+          <p xml:id="tob5_27" n="27">credo enim quoniam angelus Dei bonus comitetur ei et bene
+            disponat omnia quae circa ipsum geruntur ita ut cum gaudio revertatur ad nos</p>
+          <p xml:id="tob5_28" n="28">ad hanc vocem cessavit mater eius flere et tacuit</p>
+        </div>
+        <div xml:id="bible-tob6" n="6">
+          <head>Caput 6</head>
+          <p xml:id="tob6_1" n="1">profectusque est Tobias et canis secutus est eum et mansit prima
+            mansione iuxta fluvium Tigris</p>
+          <p xml:id="tob6_2" n="2">et exivit ut lavaret pedes suos et ecce piscis inmanis exivit ad
+            devorandum eum</p>
+          <p xml:id="tob6_3" n="3">quem expavescens clamavit voce magna dicens Domine invadet me</p>
+          <p xml:id="tob6_4" n="4">et dixit ei angelus adprehende brancia eius et trahe eum ad te
+            quod cum fecisset adtraxit eum in sicco et palpitare coepit ante pedes eius</p>
+          <p xml:id="tob6_5" n="5">tunc dixit ei angelus extentera hunc piscem et cor eius et fel
+            eius et iecur repone tibi sunt enim haec necessaria ad medicamenta utiliter</p>
+          <p xml:id="tob6_6" n="6">quod cum fecisset assavit carnes eius et secum sustulerunt in via
+            cetera salierunt quae sufficerent eis quousque pervenirent in Rages civitatem
+            Medorum</p>
+          <p xml:id="tob6_7" n="7">tunc interrogavit Tobias angelum et dixit ei obsecro te Azarias
+            frater ut dicas mihi quod remedium habebunt ista quae de pisce servare iussisti</p>
+          <p xml:id="tob6_8" n="8">respondensque dixit ei cordis eius particulam si super carbones
+            ponas fumus eius extricat omne daemonium sive a viro sive a muliere ita ut ultra non
+            accedat ad eos</p>
+          <p xml:id="tob6_10" n="10">et dixit ei ubi vis ut maneamus</p>
+          <p xml:id="tob6_11" n="11">respondensque angelus ait est hic Raguhel nomine propinquus vir
+            de tribu tua et hic habet filiam nomine Sarram sed neque masculum neque feminam ullum
+            habet alium praeter eam</p>
+          <p xml:id="tob6_12" n="12">tibi debetur omnis substantia eius et oportet te eam accipere
+            coniugem</p>
+          <p xml:id="tob6_13" n="13">pete ergo eam a patre eius et dabit tibi eam uxorem</p>
+          <p xml:id="tob6_14" n="14">tunc respondit Tobias et dixit audio quia tradita est viris
+            septem et mortui sunt sed et haec audivi quia daemonium illos occidit</p>
+          <p xml:id="tob6_15" n="15">timeo ergo ne forte mihi haec eveniant et cum sim unicus
+            parentibus meis deponam senectutem illorum cum tristitia ad infernum</p>
+          <p xml:id="tob6_16" n="16">tunc angelus Rafahel dixit ei audi me et ostendam tibi qui sunt
+            quibus praevalere potest daemonium</p>
+          <p xml:id="tob6_17" n="17">hii namque qui coniugium ita suscipiunt ut Deum a se sua mente
+            excludant et suae libidini ita vacent sicut equus et mulus in quibus non est intellectus
+            habet potestatem daemonium super eos</p>
+          <p xml:id="tob6_18" n="18">tu autem cum acceperis eam ingressus cubiculum per tres dies
+            continens esto ab ea et nihil aliud nisi orationibus vacabis cum ea</p>
+          <p xml:id="tob6_19" n="19">ipsa autem nocte incenso iecore piscis fugabitur daemonium</p>
+          <p xml:id="tob6_20" n="20">secunda vero nocte in copulatione sanctorum patriarcharum
+            admitteris</p>
+          <p xml:id="tob6_21" n="21">tertia autem nocte benedictione consequeris ut filii ex vobis
+            incolomes procreentur</p>
+          <p xml:id="tob6_22" n="22">transacta autem tertia nocte accipies virginem cum timore
+            Domini amore filiorum magis quam libidinis ductus ut in semine Abrahae benedictionem in
+            filiis consequaris</p>
+        </div>
+        <div xml:id="bible-tob7" n="7">
+          <head>Caput 7</head>
+          <p xml:id="tob7_1" n="1">ingressi sunt autem ad Raguhelem et suscepit eos Raguhel cum
+            gaudio</p>
+          <p xml:id="tob7_2" n="2">intuensque Tobiam Raguhel dixit Annae uxori suae quam similis est
+            iuvenis iste consobrino meo</p>
+          <p xml:id="tob7_3" n="3">et cum haec dixisset ait unde estis iuvenes fratres nostri at
+            illi dixerunt ex tribu Nepthalim sumus ex captivitate Nineven</p>
+          <p xml:id="tob7_4" n="4">dixit illis Raguhel nostis Tobiam fratrem meum qui dixerunt
+            novimus</p>
+          <p xml:id="tob7_5" n="5">cumque multa bona loquerentur de eo dixit angelus ad Raguhel
+            Tobias de quo interrogas pater huius est</p>
+          <p xml:id="tob7_6" n="6">et misit se Raguhel et cum lacrimis osculatus est eum et plorans
+            super collum eius</p>
+          <p xml:id="tob7_7" n="7">dixit benedictio sit tibi fili mi quia boni et optimi viri filius
+            es</p>
+          <p xml:id="tob7_8" n="8">et Anna uxor eius et Sarra filia ipsorum lacrimatae sunt</p>
+          <p xml:id="tob7_9" n="9">postquam autem locuti sunt praecepit Raguhel occidi arietem et
+            parari convivium cumque hortaretur eos discumbere ad prandendum</p>
+          <p xml:id="tob7_10" n="10">Tobias dixit hic ego hodie non manducabo neque bibam nisi prius
+            petitionem meam confirmes et promittas mihi dare Sarram filiam tuam</p>
+          <p xml:id="tob7_11" n="11">quo audito verbo Raguhel expavit sciens quid evenerit illis
+            septem viris et timere coepit ne forte et huic similiter accideret et cum nutaret et non
+            daret ullum petenti responsum</p>
+          <p xml:id="tob7_12" n="12">dixit ei angelus noli timere dare illam isti quoniam huic
+            timenti Deum debetur coniux filia tua propterea alius non potuit habere illam</p>
+          <p xml:id="tob7_13" n="13">tunc dixit Raguhel non dubito quod Deus preces et lacrimas meas
+            in conspectu suo admiserit</p>
+          <p xml:id="tob7_14" n="14">et credo quoniam ideo vos fecit ad me venire ut ista
+            coniungeretur cognationi suae secundum legem Mosi et nunc noli dubium gerere quod tibi
+            eam non tradam</p>
+          <p xml:id="tob7_15" n="15">et adprehendens dexteram filiae suae dexterae Tobiae tradidit
+            dicens Deus Abraham et Deus Isaac et Deus Iacob sit vobiscum et ipse coniungat vos
+            impleatque benedictionem suam in vobis</p>
+          <p xml:id="tob7_16" n="16">et accepta carta fecerunt conscriptionem coniugii</p>
+          <p xml:id="tob7_17" n="17">et post haec epulati sunt benedicentes Deum</p>
+          <p xml:id="tob7_18" n="18">vocavitque ad se Raguhel Annam uxorem suam et praecepit ei ut
+            praepararet alterum cubiculum</p>
+          <p xml:id="tob7_19" n="19">et introduxit in eum Sarram filiam suam et lacrimata est</p>
+          <p xml:id="tob7_20" n="20">dixitque ei forti animo esto filia mi Dominus caeli det tibi
+            gaudium pro taedio quo perpessa es</p>
+        </div>
+        <div xml:id="bible-tob8" n="8">
+          <head>Caput 8</head>
+          <p xml:id="tob8_1" n="1">postquam vero cenaverunt introduxerunt iuvenem ad eam</p>
+          <p xml:id="tob8_2" n="2">recordatus itaque Tobias sermonem angeli protulit de cassidile
+            suo partem iecoris posuitque eam super carbones vivos</p>
+          <p xml:id="tob8_3" n="3">tunc Rafahel angelus adprehendit daemonium et religavit eum in
+            deserto superioris Aegypti</p>
+          <p xml:id="tob8_4" n="4">tunc hortatus est virginem Tobias dixitque ei Sarra exsurge
+            deprecemus Deum hodie et cras et secundum cras quia istis tribus noctibus Deo iungimur
+            tertia autem transacta nocte in nostro erimus coniugio</p>
+          <p xml:id="tob8_5" n="5">filii quippe sanctorum sumus et non possumus ita coniungi sicut
+            et gentes quae ignorant Deum</p>
+          <p xml:id="tob8_6" n="6">surgentes autem pariter instanter orabant ambo ut sanitas daretur
+            eis</p>
+          <p xml:id="tob8_7" n="7">dixitque Tobias Domine Deus patrum nostrorum benedicant te caeli
+            et terra et mare fontes et flumina et omnis creatura tua quae in eis sunt</p>
+          <p xml:id="tob8_8" n="8">tu fecisti Adam de limo terrae dedistique ei adiutorium Evam</p>
+          <p xml:id="tob8_9" n="9">et nunc Domine tu scis quia non luxuriae causa accipio sororem
+            meam sed sola posteritatis dilectione in qua benedicatur nomen tuum in saecula
+            saeculorum</p>
+          <p xml:id="tob8_10" n="10">dixit itaque Sarra miserere nobis Domine miserere nobis et
+            consenescamus ambo pariter sani</p>
+          <p xml:id="tob8_11" n="11">et factum est circa pullorum cantum accersiri iussit Raguhel
+            servos suos et abierunt pariter ut foderent sepulchrum</p>
+          <p xml:id="tob8_12" n="12">dicebat enim ne simili modo evenerit ei quod et ceteris illis
+            septem qui sunt ingressi ad eam</p>
+          <p xml:id="tob8_13" n="13">cumque parassent fossam reversus ad uxorem suam Raguhel
+            dixit</p>
+          <p xml:id="tob8_14" n="14">mitte unam ex ancillis tuis et videat si mortuus est ut
+            sepeliam illum antequam inlucescat</p>
+          <p xml:id="tob8_15" n="15">at illa mittens unam ex ancillis suis ingressa cubiculum
+            repperitque eos incolomes secum pariter dormientes</p>
+          <p xml:id="tob8_16" n="16">reversa nuntiavit bonum nuntium et benedixerunt Deum Raguhel
+            videlicet et Anna uxor eius</p>
+          <p xml:id="tob8_17" n="17">et dixerunt benedicimus te Domine Deus Israhel quia non
+            contigit nobis quemadmodum putabamus</p>
+          <p xml:id="tob8_18" n="18">fecisti enim nobiscum misericordiam tuam et exclusisti a nobis
+            inimicum persequentem nos</p>
+          <p xml:id="tob8_19" n="19">misertus es autem duobus unicis fac eos Domine in plenius
+            benedicere te et sacrificium tibi laudis tuae et suae sanitatis offerre ut cognoscat
+            universitas gentium quia tu es Deus solus in universa terra</p>
+          <p xml:id="tob8_20" n="20">statimque praecepit servis suis Raguhel ut replerent fossam
+            quam fecerant priusquam lucesceret</p>
+          <p xml:id="tob8_21" n="21">uxori autem suae dixit ut instrueret convivium et praepararet
+            omnia quae in cibos erant iter agentibus necessaria</p>
+          <p xml:id="tob8_22" n="22">duas quoque vaccas pingues et quattuor arietes occidi fecit et
+            parari epulas omnibus vicinis suis et cunctis amicis</p>
+          <p xml:id="tob8_23" n="23">et adiuravit Raguhel Tobiam ut duas ebdomadas moraretur apud
+            eum</p>
+          <p xml:id="tob8_24" n="24">de omnibus autem quae possidebat Raguhel dimidiam partem dedit
+            Tobiae et fecit hanc scripturam ut pars dimidia quae supererat post obitum eorum Tobis
+            dominio deveniret</p>
+        </div>
+        <div xml:id="bible-tob9" n="9">
+          <head>Caput 9</head>
+          <p xml:id="tob9_1" n="1">tunc vocavit ad se Tobias angelum quem quidem hominem aestimabat
+            et dixit ei Azarias frater peto ut auscultes verba mea</p>
+          <p xml:id="tob9_2" n="2">si me ipsum tradam tibi servum non ero condignus providentiae
+            tuae</p>
+          <p xml:id="tob9_3" n="3">tamen obsecro ut adsumas tibi animalia sive servitia et vadas ad
+            Gabelum in Rages Medorum reddasque ei chirografum suum et recipias ab eo pecuniam et
+            roges eum venire ad nuptias meas</p>
+          <p xml:id="tob9_4" n="4">scis enim ipse quoniam numerat dies pater meus et si tardavero
+            una die plus contristatur anima eius</p>
+          <p xml:id="tob9_5" n="5">et certe vides quomodo Raguhel coniuraverit me cuius adiuramentum
+            spernere non possum</p>
+          <p xml:id="tob9_6" n="6">tunc Rafahel adsumens quattuor ex servis Raguhelis et duos
+            camelos in Rages Medorum perrexit et inveniens Gabelum dedit ei chirografum suum et
+            recepit omnem pecuniam</p>
+          <p xml:id="tob9_7" n="7">indicavitque ei de Tobia filio Tobiae omnia quae gesta sunt
+            fecitque eum secum venire ad nuptias</p>
+          <p xml:id="tob9_8" n="8">cumque ingressus esset domum Raguhelis invenit Tobiam
+            discumbentem et exiliens osculati sunt se alterutrum flevit itaque Gabelus et benedixit
+            Deum</p>
+          <p xml:id="tob9_9" n="9">et dixit benedicat te Dominus Deus Israhel quia filius es viri
+            optimi et iusti et timentis Deum et elemosynas facientis</p>
+          <p xml:id="tob9_10" n="10">et dicatur benedictio super uxorem tuam et super parentes
+            vestros</p>
+          <p xml:id="tob9_11" n="11">et videatis filios vestros et filios filiorum vestrorum usque
+            in tertiam et quartam generationem et sit semen vestrum benedictum a Deo Israhel qui
+            regnat in saecula saeculorum</p>
+          <p xml:id="tob9_12" n="12">cumque omnes dixissent amen accesserunt ad convivium sed et cum
+            timore Domini nuptiarum convivium exercebant</p>
+        </div>
+        <div xml:id="bible-tob10" n="10">
+          <head>Caput 10</head>
+          <p xml:id="tob10_1" n="1">cum vero moras faceret Tobias causa nuptiarum sollicitus erat
+            pater eius Tobias dicens putas quare moratur filius meus aut quare detentus est ibi</p>
+          <p xml:id="tob10_2" n="2">putasne Gabelus mortuus est et nemo illi reddet pecuniam</p>
+          <p xml:id="tob10_3" n="3">coepit autem contristari nimis ipse et Anna uxor eius cum eo et
+            coeperunt ambo simul flere eo quod die statuto minime reverteretur filius eorum ad
+            eos</p>
+          <p xml:id="tob10_4" n="4">flebat igitur mater eius inremediabilibus lacrimis atque dicebat
+            heu heu me fili mi ut quid te misimus peregrinari lumen oculorum nostrorum baculum
+            senectutis nostrae solacium vitae nostrae spem posteritatis nostrae</p>
+          <p xml:id="tob10_5" n="5">omnia in te uno habentes te non debuimus dimittere ire a
+            nobis</p>
+          <p xml:id="tob10_6" n="6">cui dicebat Tobias tace et noli turbari sanus est filius noster
+            satis fidelis est vir ille cum quo misimus eum</p>
+          <p xml:id="tob10_7" n="7">illa autem nullo modo consolari poterat sed cotidie exiliens
+            circumspiciebat et circuibat vias omnes per quas spes remeandi videbatur ut procul
+            videret eum si fieri possit venientem</p>
+          <p xml:id="tob10_8" n="8">at vero Raguhel dicebat ad generum suum mane hic et ego mittam
+            nuntium salutis de te ad Tobiam patrem tuum</p>
+          <p xml:id="tob10_9" n="9">cui Tobias dixit ego novi quia pater meus et mater mea modo dies
+            conputant et cruciatur spiritus eorum in ipsis</p>
+          <p xml:id="tob10_10" n="10">cumque verbis multis rogaret Raguhel Tobiam et ille eum nulla
+            ratione vellet audire tradidit ei Sarram et dimidiam partem omnis substantiae suae in
+            pueris et in puellis et in pecudibus et in camelis et in pecunia multa et salvum atque
+            gaudentem dimisit eum a se</p>
+          <p xml:id="tob10_11" n="11">dicens angelus Domini sanctus sit in itinere vestro
+            perducatque vos incolomes et inveniatis omnia recte circa conparentes vestros et videant
+            oculi mei filios vestros priusquam moriar</p>
+          <p xml:id="tob10_12" n="12">et adprehendentes parentes filiam suam osculati sunt eam et
+            dimiserunt ire</p>
+          <p xml:id="tob10_13" n="13">monentes eam honorare soceros diligere maritum regere familiam
+            gubernare domum et se ipsam inreprehensibilem exhibere</p>
+        </div>
+        <div xml:id="bible-tob11" n="11">
+          <head>Caput 11</head>
+          <p xml:id="tob11_1" n="1">cumque reverterentur pervenerunt ad Charram quae est in medio
+            itinere contra Nineven undecimo die</p>
+          <p xml:id="tob11_2" n="2">dixit angelus Tobias frater scis quemadmodum reliquisti patrem
+            tuum</p>
+          <p xml:id="tob11_3" n="3">si placet itaque tibi praecedamus et lento gradu insequentur
+            iter nostrum familiae simul cum coniuge tua et cum animalibus</p>
+          <p xml:id="tob11_4" n="4">cumque hoc placuisset ut irent dixit Rafahel ad Tobiam tolle
+            tecum ex felle piscis erit enim necessarium tulit itaque Tobias ex felle illo et
+            abierunt</p>
+          <p xml:id="tob11_5" n="5">Anna vero sedebat secus viam in supercilio montis unde respicere
+            poterat de longinquo</p>
+          <p xml:id="tob11_6" n="6">et dum ex eodem loco specularetur adventum eius vidit a longe et
+            ilico agnovit venientem filium suum et currens nuntiavit viro suo dicens ecce venit
+            filius tuus</p>
+          <p xml:id="tob11_7" n="7">dixitque Rafahel ad Tobiam adubi introieris domum tuam statim
+            adora Dominum Deum tuum et gratias agens ei accede ad patrem tuum et osculare eum</p>
+          <p xml:id="tob11_8" n="8">statimque lini super oculos eius ex felle isto piscis quod
+            portas tecum scias enim quoniam mox aperientur oculi eius et videbit pater tuus lumen
+            caeli et in aspectu tuo gaudebit</p>
+          <p xml:id="tob11_9" n="9">tunc praecucurrit canis qui simul fuerat in via et quasi nuntius
+            adveniens blandimento suae caudae gaudebat</p>
+          <p xml:id="tob11_10" n="10">unde contigit ut exsurgens caecus pater coepit offendens
+            pedibus currere et data manu puero occurrit in obviam filio suo</p>
+          <p xml:id="tob11_11" n="11">et suscipiens osculatus est eum cum uxore sua et coeperunt
+            flere prae gaudio</p>
+          <p xml:id="tob11_12" n="12">cumque adorassent Dominum et gratias egissent consederunt</p>
+          <p xml:id="tob11_13" n="13">tunc sumens Tobias de felle piscis linivit oculos patri
+            suo</p>
+          <p xml:id="tob11_14" n="14">et sustinens quasi dimidiam fere horam coepit albugo ex oculis
+            eius quasi membrana ovi egredi</p>
+          <p xml:id="tob11_15" n="15">quem adprehendens Tobias traxit ab oculis eius statimque visum
+            recepit</p>
+          <p xml:id="tob11_16" n="16">et glorificabant Deum ipse videlicet et uxor eius et omnes qui
+            sciebant eum</p>
+          <p xml:id="tob11_17" n="17">dicebatque Tobias benedico te Domine Deus Israhel quoniam tu
+            castigasti me et tu sanasti me et ecce video Tobiam filium meum</p>
+          <p xml:id="tob11_18" n="18">ingressa est etiam post septem dies Sarra uxor filii eius et
+            omnes familiae et pecora sana et cameli et pecunia multa uxoris sed et alia pecunia quam
+            receperat a Gabelo</p>
+          <p xml:id="tob11_19" n="19">et narravit parentibus suis omnia beneficia Dei quae fecisset
+            circa eum per hominem qui eum duxerat</p>
+          <p xml:id="tob11_20" n="20">veneruntque Achior et Nabath consobrini Tobiae gaudentes ad
+            Tobin congratulantes ei de omnibus bonis quae circa illum ostenderat Deus</p>
+          <p xml:id="tob11_21" n="21">et per septem dies epulantes omnes gaudio magno gavisi
+            sunt</p>
+        </div>
+        <div xml:id="bible-tob12" n="12">
+          <head>Caput 12</head>
+          <p xml:id="tob12_1" n="1">tunc vocavit ad se Tobias filium suum dixitque ei quid possumus
+            dare viro isti sancto qui venit tecum</p>
+          <p xml:id="tob12_2" n="2">respondens Tobias dixit pater quam mercedem dabimus ei aut quid
+            dignum poterit esse beneficiis eius</p>
+          <p xml:id="tob12_3" n="3">me duxit et reduxit sanum pecuniam a Gabelo ipse suscepit uxorem
+            ipse me habere fecit et daemonium ab ea conpescuit gaudium parentibus eius fecit me
+            ipsum a devoratione piscis eripuit te quoque fecit videre lumen caeli et bonis omnibus
+            per eum repleti sumus quid illi ad haec dignum poterimus dare</p>
+          <p xml:id="tob12_4" n="4">sed peto te pater mi ut roges eum si forte dignabitur medietatem
+            de omnibus quae adlata sunt sibi adsumere</p>
+          <p xml:id="tob12_5" n="5">et vocantes eum pater scilicet et filius tulerunt eum in partem
+            et rogare coeperunt ut dignaretur dimidiam partem omnium quae adtulerant acceptam
+            habere</p>
+          <p xml:id="tob12_6" n="6">tunc dixit eis occulte benedicite Deum caeli et coram omnibus
+            viventibus confitemini illi quoniam fecit vobiscum misericordiam suam</p>
+          <p xml:id="tob12_7" n="7">etenim sacramentum regis abscondere bonum est opera autem Dei
+            revelare et confiteri honorificum est</p>
+          <p xml:id="tob12_8" n="8">bona est oratio cum ieiunio et elemosyna magis quam thesauros
+            auri condere</p>
+          <p xml:id="tob12_9" n="9">quoniam elemosyna a morte liberat et ipsa est quae purgat
+            peccata et faciet invenire vitam aeternam</p>
+          <p xml:id="tob12_10" n="10">qui autem faciunt peccatum et iniquitatem hostes sunt animae
+            suae</p>
+          <p xml:id="tob12_11" n="11">manifesto ergo vobis veritatem et non abscondam a vobis
+            sermonem occultum</p>
+          <p xml:id="tob12_12" n="12">quando orabas cum lacrimis et sepeliebas mortuos et
+            derelinquebas prandium et mortuos abscondebas per diem in domo tua et nocte sepeliebas
+            ego obtuli orationem tuam Domino</p>
+          <p xml:id="tob12_13" n="13">et quia acceptus eras Deo necesse fuit ut temptatio probaret
+            te</p>
+          <p xml:id="tob12_14" n="14">et nunc misit me Dominus ut curarem te et Sarram uxorem filii
+            tui a daemonio liberarem</p>
+          <p xml:id="tob12_15" n="15">ego enim sum Rafahel angelus unus ex septem qui adstamus ante
+            Dominum</p>
+          <p xml:id="tob12_16" n="16">cumque haec audissent turbati sunt et trementes ceciderunt
+            super faciem suam</p>
+          <p xml:id="tob12_17" n="17">dixitque eis angelus pax vobis nolite timere</p>
+          <p xml:id="tob12_18" n="18">etenim cum essem vobiscum per voluntatem Dei ipsum benedicite
+            et cantate illi</p>
+          <p xml:id="tob12_19" n="19">videbar quidem vobiscum manducare et bibere sed ego cibo
+            invisibili et potu qui ab hominibus videri non potest utor</p>
+          <p xml:id="tob12_20" n="20">tempus est ergo ut revertar ad eum qui me misit vos autem
+            benedicite Deum et narrate omnia mirabilia eius</p>
+          <p xml:id="tob12_21" n="21">et cum haec dixisset ab aspectu eorum ablatus est et ultra eum
+            videre non potuerunt</p>
+          <p xml:id="tob12_22" n="22">tunc prostrati per horas tres in faciem benedixerunt Deum et
+            exsurgentes narraverunt omnia mirabilia eius</p>
+        </div>
+        <div xml:id="bible-tob13" n="13">
+          <head>Caput 13</head>
+          <p xml:id="tob13_1" n="1">aperiens autem Tobias senior os suum benedixit Dominum et dixit
+            magnus es Domine in aeternum et in omnia saecula regnum tuum</p>
+          <p xml:id="tob13_2" n="2">quoniam tu flagellas et salvas deducis ad infernum et reducis et
+            non est qui effugiat manum tuam</p>
+          <p xml:id="tob13_3" n="3">confitemini Domino filii Israhel et in conspectu gentium laudate
+            eum</p>
+          <p xml:id="tob13_4" n="4">quoniam ideo dispersit vos inter gentes quae ignorant eum ut vos
+            narretis mirabilia eius et faciatis scire eos quia non est alius Deus omnipotens praeter
+            eum</p>
+          <p xml:id="tob13_5" n="5">ipse castigavit nos propter iniquitates nostras et ipse salvabit
+            nos propter misericordiam suam</p>
+          <p xml:id="tob13_6" n="6">aspicite ergo quae fecit vobiscum et cum timore et tremore
+            confitemini illi regemque saeculorum exaltate in operibus vestris</p>
+          <p xml:id="tob13_7" n="7">ego autem in terra captivitatis meae confitebor illi quoniam
+            ostendit maiestatem suam in gentem peccatricem</p>
+          <p xml:id="tob13_8" n="8">convertimini itaque peccatores et facite iustitiam coram Deo
+            credentes quod faciat vobiscum misericordiam suam</p>
+          <p xml:id="tob13_9" n="9">ego autem et anima mea in eo laetabimur</p>
+          <p xml:id="tob13_10" n="10">benedicite Dominum omnes electi eius agite dies laetitiae et
+            confitemini illi</p>
+          <p xml:id="tob13_11" n="11">Hierusalem civitas Dei castigavit te Dominus in operibus
+            manuum tuarum</p>
+          <p xml:id="tob13_12" n="12">confitere Domino in bonis et benedic Deum saeculorum ut
+            reaedificet in te tabernaculum suum et revocet ad te omnes captivos et gaudeas in omnia
+            saecula saeculorum</p>
+          <p xml:id="tob13_13" n="13">luce splendida fulgebis et omnes fines terrae adorabunt te</p>
+          <p xml:id="tob13_14" n="14">nationes ex longinquo ad te venient et munera deferentes
+            adorabunt Dominum in te et terram tuam in sanctificatione habebunt</p>
+          <p xml:id="tob13_15" n="15">nomen magnum invocabunt in te</p>
+          <p xml:id="tob13_16" n="16">maledicti erunt qui contempserint te et condemnati erunt omnes
+            qui blasphemaverint te benedictique erunt qui aedificaverint te</p>
+          <p xml:id="tob13_17" n="17">tu autem laetaberis in filiis tuis quoniam omnes benedicentur
+            et congregabuntur ad Dominum</p>
+          <p xml:id="tob13_18" n="18">beati omnes qui diligunt te et qui gaudent super pace tua</p>
+          <p xml:id="tob13_19" n="19">anima mea benedic Dominum quoniam liberavit Hierusalem
+            civitatem suam</p>
+          <p xml:id="tob13_20" n="20">beatus ero si fuerint reliquiae seminis mei ad videndam
+            claritatem Hierusalem</p>
+          <p xml:id="tob13_21" n="21">portae Hierusalem ex sapphyro et zmaragdo aedificabuntur et ex
+            lapide pretioso omnis circuitus murorum eius</p>
+          <p xml:id="tob13_22" n="22">ex lapide candido et mundo omnes plateae eius sternentur et
+            per vicos eius alleluia cantabitur</p>
+          <p xml:id="tob13_23" n="23">benedictus Dominus qui excitavit eam ut sit regnum eius in
+            saecula saeculorum super eam amen</p>
+        </div>
+        <div xml:id="bible-tob14" n="14">
+          <head>Caput 14</head>
+          <p xml:id="tob14_1" n="1">et consummati sunt sermones Tobi et posteaquam inluminatus est
+            vixit annis quadraginta duobus et vidit filios nepotum suorum</p>
+          <p xml:id="tob14_2" n="2">conpletis itaque annis centum duobus sepultus est honorifice in
+            Nineven</p>
+          <p xml:id="tob14_3" n="3">quinquaginta namque et sex annorum oculorum lumen amisit
+            sexagenarius vero recepit</p>
+          <p xml:id="tob14_4" n="4">reliquum vero vitae suae in gaudio fuit et cum bono profectu
+            timoris Dei perrexit in pace</p>
+          <p xml:id="tob14_5" n="5">in hora autem mortis suae vocavit ad se Tobiam filium suum et
+            septem iuvenes filios eius nepotes suos dixitque eis</p>
+          <p xml:id="tob14_6" n="6">prope erit interitus Nineven non enim excidit verbum Dei et
+            fratres nostri qui dispersi sunt a terra Israhel revertentur ad eam</p>
+          <p xml:id="tob14_7" n="7">omnis autem deserta terra eius replebitur et domus Dei quae in
+            ea incensa est iterum reaedificabitur ibique revertentur omnes timentes Deum</p>
+          <p xml:id="tob14_8" n="8">et relinquent gentes idola sua et venient in Hierusalem et
+            inhabitabunt in ea</p>
+          <p xml:id="tob14_9" n="9">et gaudebunt in ea omnes adorantes regem Israhel</p>
+          <p xml:id="tob14_10" n="10">audite ergo filii mei patrem vestrum servite Domino in
+            veritate et inquirite ut faciatis quae sunt placita illi</p>
+          <p xml:id="tob14_11" n="11">et filiis vestris mandate ut faciant iustitias et elemosynas
+            ut sint memores Dei et benedicant eum in omni tempore in veritate et in tota virtute
+            sua</p>
+          <p xml:id="tob14_12" n="12">nunc ergo filii audite me et nolite manere hic sed quacumque
+            die sepelieritis matrem vestram circa me in uno sepulchro ex eo dirigite gressus vestros
+            ut exeatis hinc</p>
+          <p xml:id="tob14_13" n="13">video enim quoniam iniquitas eius finem dabit ei</p>
+          <p xml:id="tob14_14" n="14">factum est autem post obitum matris suae Tobias abscessit ex
+            Nineven cum uxore sua et filiis et reversus est ad soceros suos</p>
+          <p xml:id="tob14_15" n="15">invenitque eos incolomes in senectute bona et curam eorum
+            gessit et ipse clausit oculos eorum et omnem hereditatem domus Raguhel ipse percepit
+            viditque quintam generationem filios filiorum suorum</p>
+          <p xml:id="tob14_16" n="16">et conpletis annis nonaginta et novem in timore Domini cum
+            gaudio sepelierunt eum</p>
+          <p xml:id="tob14_17" n="17">omnis cognatio eius et omnis generatio eius in bona vita et
+            sancta conversatione permansit ita ut accepti essent tam Deo quam hominibus et cunctis
+            habitatoribus terrae</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Zephanja</title>
+        <author/>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"><date when="2011-10-04">October 04, 2011</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
+              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl>
+          <bibl>Biblia Sacra Vulgata - The Free Bible Group</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2011-10-04" status="draft" n="0.0.0"><p>File Started for the first
+          time.</p></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="bible-soph">
+        <div xml:id="bible-soph1" n="1">
+          <head>Caput 1</head>
+          <p xml:id="soph1_1" n="1">verbum Domini quod factum est ad Sofoniam filium Chusi filium
+            Godoliae filii Amariae filii Ezechiae in diebus Iosiae filii Amon regis Iuda</p>
+          <p xml:id="soph1_2" n="2">congregans congregabo omnia a facie terrae dicit Dominus</p>
+          <p xml:id="soph1_3" n="3">congregans hominem et pecus congregans volatile caeli et pisces
+            maris et ruinae impiorum erunt et disperdam homines a facie terrae dicit Dominus</p>
+          <p xml:id="soph1_4" n="4">et extendam manum meam super Iudam et super omnes habitantes
+            Hierusalem et disperdam de loco hoc reliquias Baal et nomina aedituorum cum
+            sacerdotibus</p>
+          <p xml:id="soph1_5" n="5">et eos qui adorant super tecta militiam caeli et adorant et
+            iurant in Domino et iurant in Melchom</p>
+          <p xml:id="soph1_6" n="6">et qui avertuntur de post tergum Domini et qui non quaesierunt
+            Dominum nec investigaverunt eum</p>
+          <p xml:id="soph1_7" n="7">silete a facie Domini Dei quia iuxta est dies Domini quia
+            praeparavit Dominus hostiam sanctificavit vocatos suos</p>
+          <p xml:id="soph1_8" n="8">et erit in die hostiae Domini visitabo super principes et super
+            filios regis et super omnes qui induti sunt veste peregrina</p>
+          <p xml:id="soph1_9" n="9">et visitabo omnem qui arroganter ingreditur super limen in die
+            illa qui conplent domum Domini Dei sui iniquitate et dolo</p>
+          <p xml:id="soph1_10" n="10">et erit in die illa dicit Dominus vox clamoris a porta Piscium
+            et ululatus a secunda et contritio magna a collibus</p>
+          <p xml:id="soph1_11" n="11">ululate habitatores pilae conticuit omnis populus Chanaan
+            disperierunt omnes involuti argento</p>
+          <p xml:id="soph1_12" n="12">et erit in tempore illo scrutabor Hierusalem in lucernis et
+            visitabo super viros defixos in fecibus suis qui dicunt in cordibus suis non faciet bene
+            Dominus et non faciet male</p>
+          <p xml:id="soph1_13" n="13">et erit fortitudo eorum in direptionem et domus eorum in
+            desertum et aedificabunt domos et non habitabunt et plantabunt vineas et non bibent
+            vinum earum</p>
+          <p xml:id="soph1_14" n="14">iuxta est dies Domini magnus iuxta et velox nimis vox diei
+            Domini amara tribulabitur ibi fortis</p>
+          <p xml:id="soph1_15" n="15">dies irae dies illa dies tribulationis et angustiae dies
+            calamitatis et miseriae dies tenebrarum et caliginis dies nebulae et turbinis</p>
+          <p xml:id="soph1_16" n="16">dies tubae et clangoris super civitates munitas et super
+            angulos excelsos</p>
+          <p xml:id="soph1_17" n="17">et tribulabo homines et ambulabunt ut caeci quia Domino
+            peccaverunt et effundetur sanguis eorum sicut humus et corpus eorum sicut stercora</p>
+          <p xml:id="soph1_18" n="18">sed et argentum eorum et aurum eorum non poterit liberare eos
+            in die irae Domini in igne zeli eius devorabitur omnis terra quia consummationem cum
+            festinatione faciet cunctis habitantibus terram</p>
+        </div>
+        <div xml:id="bible-soph2" n="2">
+          <head>Caput 2</head>
+          <p xml:id="soph2_1" n="1">convenite congregamini gens non amabilis</p>
+          <p xml:id="soph2_2" n="2">priusquam pariat iussio quasi pulverem transeuntem diem antequam
+            veniat super vos ira furoris Domini antequam veniat super vos dies furoris Domini</p>
+          <p xml:id="soph2_3" n="3">quaerite Dominum omnes mansueti terrae qui iudicium eius estis
+            operati quaerite iustum quaerite mansuetum si quo modo abscondamini in die furoris
+            Domini</p>
+          <p xml:id="soph2_4" n="4">quia Gaza destructa erit et Ascalon in desertum Azotum in
+            meridie eicient et Accaron eradicabitur</p>
+          <p xml:id="soph2_5" n="5">vae qui habitatis funiculum maris gens perditorum verbum Domini
+            super vos Chanaan terra Philisthinorum et disperdam te ita ut non sit inhabitator</p>
+          <p xml:id="soph2_6" n="6">et erit funiculus maris requies pastorum et caulae pecorum</p>
+          <p xml:id="soph2_7" n="7">et erit funiculus eius qui remanserit de domo Iuda ibi pascentur
+            in domibus Ascalonis ad vesperam requiescent quia visitabit eos Dominus Deus eorum et
+            avertet captivitatem eorum</p>
+          <p xml:id="soph2_8" n="8">audivi obprobrium Moab et blasphemias filiorum Ammon quae
+            exprobraverunt populo meo et magnificati sunt super terminos eorum</p>
+          <p xml:id="soph2_9" n="9">propterea vivo ego dicit Dominus exercituum Deus Israhel quia
+            Moab ut Sodoma erit et filii Ammon quasi Gomorra siccitas spinarum et acervi salis et
+            desertum usque in aeternum reliquiae populi mei diripient illos residui gentis meae
+            possidebunt eos</p>
+          <p xml:id="soph2_10" n="10">hoc eis eveniet pro superbia sua quia blasphemaverunt et
+            magnificati sunt super populum Domini exercituum</p>
+          <p xml:id="soph2_11" n="11">horribilis Dominus super eos et adtenuabit omnes deos terrae
+            et adorabunt eum vir de loco suo omnes insulae gentium</p>
+          <p xml:id="soph2_12" n="12">sed et vos Aethiopes interfecti gladio meo eritis</p>
+          <p xml:id="soph2_13" n="13">et extendet manum suam super aquilonem et perdet Assur et
+            ponet speciosam in solitudinem et in invium et quasi desertum</p>
+          <p xml:id="soph2_14" n="14">et accubabunt in medio eius greges omnes bestiae gentium et
+            onocrotalus et ericius in liminibus eius morabuntur vox cantantis in fenestra corvus in
+            superliminari quoniam adtenuabo robur eius</p>
+          <p xml:id="soph2_15" n="15">haec est civitas gloriosa habitans in confidentia quae dicebat
+            in corde suo ego sum et extra me non est alia amplius quomodo facta est in desertum
+            cubile bestiae omnis qui transit per eam sibilabit et movebit manum suam</p>
+        </div>
+        <div xml:id="bible-soph3" n="3">
+          <head>Caput 3</head>
+          <p xml:id="soph3_1" n="1">vae provocatrix et redempta civitas columba</p>
+          <p xml:id="soph3_2" n="2">non audivit vocem et non suscepit disciplinam in Domino non est
+            confisa ad Deum suum non adpropiavit</p>
+          <p xml:id="soph3_3" n="3">principes eius in medio eius quasi leones rugientes iudices eius
+            lupi vespere non relinquebant in mane</p>
+          <p xml:id="soph3_4" n="4">prophetae eius vesani viri infideles sacerdotes eius polluerunt
+            sanctum iniuste egerunt contra legem</p>
+          <p xml:id="soph3_5" n="5">Dominus iustus in medio eius non faciet iniquitatem mane mane
+            iudicium suum dabit in luce et non abscondetur nescivit autem iniquus confusionem</p>
+          <p xml:id="soph3_6" n="6">disperdi gentes et dissipati sunt anguli earum desertas feci
+            vias eorum dum non est qui transeat desolatae sunt civitates eorum non remanente viro
+            nec ullo habitatore</p>
+          <p xml:id="soph3_7" n="7">dixi attamen timebis me suscipies disciplinam et non peribit
+            habitaculum eius propter omnia in quibus visitavi eam verumtamen diluculo surgentes
+            corruperunt omnes cogitationes suas</p>
+          <p xml:id="soph3_8" n="8">quapropter expecta me dicit Dominus in die resurrectionis meae
+            in futurum quia iudicium meum ut congregem gentes et colligam regna ut effundam super
+            eas indignationem meam omnem iram furoris mei in igne enim zeli mei devorabitur omnis
+            terra</p>
+          <p xml:id="soph3_9" n="9">quia tunc reddam populis labium electum ut vocent omnes in
+            nomine Domini et serviant ei umero uno</p>
+          <p xml:id="soph3_10" n="10">ultra flumina Aethiopiae inde supplices mei filii dispersorum
+            meorum deferent munus mihi</p>
+          <p xml:id="soph3_11" n="11">in die illa non confunderis super cunctis adinventionibus tuis
+            quibus praevaricata es in me quia tunc auferam de medio tui magniloquos superbiae tuae
+            et non adicies exaltari amplius in monte sancto meo</p>
+          <p xml:id="soph3_12" n="12">et derelinquam in medio tui populum pauperem et egenum et
+            sperabunt in nomine Domini</p>
+          <p xml:id="soph3_13" n="13">reliquiae Israhel non facient iniquitatem nec loquentur
+            mendacium et non invenietur in ore eorum lingua dolosa quoniam ipsi pascentur et
+            accubabunt et non erit qui exterreat</p>
+          <p xml:id="soph3_14" n="14">lauda filia Sion iubilate Israhel laetare et exulta in omni
+            corde filia Hierusalem</p>
+          <p xml:id="soph3_15" n="15">abstulit Dominus iudicium tuum avertit inimicos tuos rex
+            Israhel Dominus in medio tui non timebis malum ultra</p>
+          <p xml:id="soph3_16" n="16">in die illa dicetur Hierusalem noli timere Sion non
+            dissolvantur manus tuae</p>
+          <p xml:id="soph3_17" n="17">Dominus Deus tuus in medio tui Fortis ipse salvabit gaudebit
+            super te in laetitia silebit in dilectione tua exultabit super te in laude</p>
+          <p xml:id="soph3_18" n="18">nugas qui a lege recesserant congregabo quia ex te erant ut
+            non ultra habeas super eis obprobrium</p>
+          <p xml:id="soph3_19" n="19">ecce ego interficiam omnes qui adflixerunt te in tempore illo
+            et salvabo claudicantem et eam quae eiecta fuerat congregabo et ponam eos in laudem et
+            in nomen in omni terra confusionis eorum</p>
+          <p xml:id="soph3_20" n="20">in tempore illo quo adducam vos et in tempore quo congregabo
+            vos dabo enim vos in nomen et in laudem omnibus populis terrae cum convertero
+            captivitatem vestram coram oculis vestris dicit Dominus</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
