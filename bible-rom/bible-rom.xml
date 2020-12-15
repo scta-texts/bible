@@ -42,6 +42,7 @@
     </front>
     <body>
       <div xml:id="bible-rom">
+        <head>Ad Romanos</head>
         <div xml:id="bible-rom1" n="1">
           <head>Caput 1</head>
           <p xml:id="rom1_1" n="1">Paulus servus Christi Iesu vocatus apostolus segregatus in
