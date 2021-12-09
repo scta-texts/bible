@@ -42,6 +42,7 @@
     </front>
     <body>
       <div xml:id="bible-lc">
+        <head>Lucas</head>
         <div xml:id="bible-lc1" n="1">
           <head>Caput 1</head>
           <p xml:id="lc1_1" n="1">quoniam quidem multi conati sunt ordinare narrationem quae in
