@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Galater</title>
+        <title>ad Galatas</title>
         <author/>
       </titleStmt>
       <editionStmt>
@@ -42,6 +42,7 @@
     </front>
     <body>
       <div xml:id="bible-gal">
+        <head>ad Galatas</head>
         <div xml:id="bible-gal1" n="1">
           <head>Caput 1</head>
           <p xml:id="gal1_1" n="1">Paulus apostolus non ab hominibus neque per hominem sed per Iesum

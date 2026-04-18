@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Titus</title>
+        <title>ad Titum</title>
         <author/>
       </titleStmt>
       <editionStmt>
@@ -42,6 +42,7 @@
     </front>
     <body>
       <div xml:id="bible-tit">
+        <head>ad Titum</head>
         <div xml:id="bible-tit1" n="1">
           <head>Caput 1</head>
           <p xml:id="tit1_1" n="1">Paulus servus Dei apostolus autem Iesu Christi secundum fidem

@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Jeremia</title>
+        <title>Ieremias</title>
         <author/>
       </titleStmt>
       <editionStmt>
@@ -42,6 +42,7 @@
     </front>
     <body>
       <div xml:id="bible-ier">
+        <head>Ieremias</head>
         <div xml:id="bible-ier1" n="1">
           <head>Caput 1</head>
           <p xml:id="ier1_1" n="1">verba Hieremiae filii Helciae de sacerdotibus qui fuerunt in

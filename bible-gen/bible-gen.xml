@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1 Mose</title>
+        <title>Genesis</title>
         <author/>
       </titleStmt>
       <editionStmt>
@@ -42,6 +42,7 @@
     </front>
     <body>
       <div xml:id="bible-gen">
+        <head>Genesis</head>
         <div xml:id="bible-gen1" n="1">
           <head>Caput 1</head>
           <p xml:id="gen1_1" n="1">in principio creavit Deus caelum et terram</p>

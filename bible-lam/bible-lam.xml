@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Klagelieder</title>
+        <title>Lamentationes</title>
         <author/>
       </titleStmt>
       <editionStmt>
@@ -42,6 +42,7 @@
     </front>
     <body>
       <div xml:id="bible-lam">
+        <head>Lamentationes</head>
         <div xml:id="bible-lam1" n="1">
           <head>Caput 1</head>
           <p xml:id="lam1_1" n="1">ALEPH quomodo sedit sola civitas plena populo facta est quasi

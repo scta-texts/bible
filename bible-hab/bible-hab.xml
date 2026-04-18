@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Habakuk</title>
+        <title>Habacuc</title>
         <author/>
       </titleStmt>
       <editionStmt>
@@ -42,6 +42,7 @@
     </front>
     <body>
       <div xml:id="bible-hab">
+        <head>Habacuc</head>
         <div xml:id="bible-hab1" n="1">
           <head>Caput 1</head>
           <p xml:id="hab1_1" n="1">onus quod vidit Abacuc propheta</p>

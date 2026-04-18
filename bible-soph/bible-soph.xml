@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Zephanja</title>
+        <title>Sophonias</title>
         <author/>
       </titleStmt>
       <editionStmt>
@@ -42,6 +42,7 @@
     </front>
     <body>
       <div xml:id="bible-soph">
+        <head>Sophonias</head>
         <div xml:id="bible-soph1" n="1">
           <head>Caput 1</head>
           <p xml:id="soph1_1" n="1">verbum Domini quod factum est ad Sofoniam filium Chusi filium

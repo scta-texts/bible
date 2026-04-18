@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1 Johannes</title>
+        <title>Ioannis I</title>
         <author/>
       </titleStmt>
       <editionStmt>
@@ -42,6 +42,7 @@
     </front>
     <body>
       <div xml:id="bible-Iio">
+        <head>Ioannis I</head>
         <div xml:id="bible-Iio1" n="1">
           <head>Caput 1</head>
           <p xml:id="Iio1_1" n="1">quod fuit ab initio quod audivimus quod vidimus oculis nostris

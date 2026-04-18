@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Offenbarung</title>
+        <title>Apocalypsis</title>
         <author/>
       </titleStmt>
       <editionStmt>
@@ -42,6 +42,7 @@
     </front>
     <body>
       <div xml:id="bible-ap">
+        <head>Apocalypsis</head>
         <div xml:id="bible-ap1" n="1">
           <head>Caput 1</head>
           <p xml:id="ap1_1" n="1">apocalypsis Iesu Christi quam dedit illi Deus palam facere servis

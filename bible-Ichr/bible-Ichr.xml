@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1 Chronik</title>
+        <title>Paralipomenon I</title>
         <author/>
       </titleStmt>
       <editionStmt>
@@ -43,7 +43,7 @@
     <body>
       <div xml:id="bible-Ichr">
         <div xml:id="bible-Ichr1" n="1">
-          <head>Caput 1</head>
+          <head>Paralipomenon I</head>
           <p xml:id="Ichr1_1" n="1">Adam Seth Enos</p>
           <p xml:id="Ichr1_2" n="2">Cainan Malelehel Iared</p>
           <p xml:id="Ichr1_3" n="3">Enoch Matusale Lamech</p>

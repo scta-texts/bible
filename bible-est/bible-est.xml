@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Ester</title>
+        <title>Esther</title>
         <author/>
       </titleStmt>
       <editionStmt>
@@ -42,6 +42,7 @@
     </front>
     <body>
       <div xml:id="bible-est">
+        <head>Esther</head>
         <div xml:id="bible-est1" n="1">
           <head>Caput 1</head>
           <p xml:id="est1_1" n="1">in diebus Asueri qui regnavit ab India usque Aethiopiam super

@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Jakobus</title>
+        <title>Iacobi</title>
         <author/>
       </titleStmt>
       <editionStmt>
@@ -42,6 +42,7 @@
     </front>
     <body>
       <div xml:id="bible-iac">
+        <head>Iacobi</head>
         <div xml:id="bible-iac1" n="1">
           <head>Caput 1</head>
           <p xml:id="iac1_1" n="1">Iacobus Dei et Domini nostri Iesu Christi servus duodecim

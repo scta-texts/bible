@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Joel</title>
+        <title>Ioel</title>
         <author/>
       </titleStmt>
       <editionStmt>
@@ -42,6 +42,7 @@
     </front>
     <body>
       <div xml:id="bible-ioel">
+        <head>Ioel</head>
         <div xml:id="bible-ioel1" n="1">
           <head>Caput 1</head>
           <p xml:id="ioel1_1" n="1">verbum Domini quod factum est ad Iohel filium Fatuhel</p>

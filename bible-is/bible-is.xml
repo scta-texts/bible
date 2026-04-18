@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Jesaja</title>
+        <title>Isaias</title>
         <author/>
       </titleStmt>
       <editionStmt>
@@ -42,6 +42,7 @@
     </front>
     <body>
       <div xml:id="bible-is">
+        <head>Isaias</head>
         <div xml:id="bible-is1" n="1">
           <head>Caput 1</head>
           <p xml:id="is1_1" n="1">visio Isaiae filii Amos quam vidit super Iudam et Hierusalem in

@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Kolosser</title>
+        <title>ad Colossenses</title>
         <author/>
       </titleStmt>
       <editionStmt>
@@ -42,6 +42,7 @@
     </front>
     <body>
       <div xml:id="bible-col">
+        <head>ad Colossenses</head>
         <div xml:id="bible-col1" n="1">
           <head>Caput 1</head>
           <p xml:id="col1_1" n="1">Paulus apostolus Christi Iesu per voluntatem Dei et Timotheus

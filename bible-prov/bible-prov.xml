@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Sprüche</title>
+        <title>Proverbia</title>
         <author/>
       </titleStmt>
       <editionStmt>
@@ -42,6 +42,7 @@
     </front>
     <body>
       <div xml:id="bible-prov">
+        <head>Proverbia</head>
         <div xml:id="bible-prov1" n="1">
           <head>Caput 1</head>
           <p xml:id="prov1_1" n="1">parabolae Salomonis filii David regis Israhel</p>

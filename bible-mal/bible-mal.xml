@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Maleachi</title>
+        <title>Malachias</title>
         <author/>
       </titleStmt>
       <editionStmt>
@@ -42,6 +42,7 @@
     </front>
     <body>
       <div xml:id="bible-mal">
+        <head>Malachias</head>
         <div xml:id="bible-mal1" n="1">
           <head>Caput 1</head>
           <p xml:id="mal1_1" n="1">onus verbi Domini ad Israhel in manu Malachi</p>

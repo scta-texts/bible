@@ -46,6 +46,7 @@
     </front>
     <body>
       <div xml:id="bible-dan">
+        <head>Daniel</head>
         <div xml:id="bible-dan1" n="1">
           <head>Caput 1</head>
           <p xml:id="dan1_1" n="1">anno tertio regni Ioachim regis Iuda venit Nabuchodonosor rex

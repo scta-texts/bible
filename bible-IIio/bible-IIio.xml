@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>2 Johannes</title>
+        <title>Ioannis II</title>
         <author/>
       </titleStmt>
       <editionStmt>
@@ -42,6 +42,7 @@
     </front>
     <body>
       <div xml:id="bible-IIio">
+        <head>Ioannis II</head>
         <div xml:id="bible-IIio1" n="1">
           <head>Caput 1</head>
           <p xml:id="IIio1_1" n="1">senior electae dominae et natis eius quos ego diligo in veritate

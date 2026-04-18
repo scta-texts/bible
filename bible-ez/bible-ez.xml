@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Hesekiel</title>
+        <title>Ezechiel</title>
         <author/>
       </titleStmt>
       <editionStmt>
@@ -42,6 +42,7 @@
     </front>
     <body>
       <div xml:id="bible-ez">
+        <head>Ezechiel</head>
         <div xml:id="bible-ez1" n="1">
           <head>Caput 1</head>
           <p xml:id="ez1_1" n="1">et factum est in tricesimo anno in quarto mense in quinta mensis

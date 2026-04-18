@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>2 Mose</title>
+        <title>Exodus</title>
         <author/>
       </titleStmt>
       <editionStmt>
@@ -42,6 +42,7 @@
     </front>
     <body>
       <div xml:id="bible-ex">
+        <head>Exodus</head>
         <div xml:id="bible-ex1" n="1">
           <head>Caput 1</head>
           <p xml:id="ex1_1" n="1">haec sunt nomina filiorum Israhel qui ingressi sunt Aegyptum cum

@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Hosea</title>
+        <title>Osee</title>
         <author/>
       </titleStmt>
       <editionStmt>
@@ -42,6 +42,7 @@
     </front>
     <body>
       <div xml:id="bible-os">
+        <head>Osee</head>
         <div xml:id="bible-os1" n="1">
           <head>Caput 1</head>
           <p xml:id="os1_1" n="1">verbum Domini quod factum est ad Osee filium Beeri in diebus Oziae

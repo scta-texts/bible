@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Epheser</title>
+        <title>ad Ephesios</title>
         <author/>
       </titleStmt>
       <editionStmt>
@@ -42,6 +42,7 @@
     </front>
     <body>
       <div xml:id="bible-eph">
+        <head>ad Ephesios</head>
         <div xml:id="bible-eph1" n="1">
           <head>Caput 1</head>
           <p xml:id="eph1_1" n="1">Paulus apostolus Christi Iesu per voluntatem Dei sanctis omnibus

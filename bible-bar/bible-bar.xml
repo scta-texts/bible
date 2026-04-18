@@ -42,6 +42,7 @@
     </front>
     <body>
       <div xml:id="bible-bar">
+        <head>Baruch</head>
         <div xml:id="bible-bar1" n="1">
           <head>Caput 1</head>
           <p xml:id="bar1_1" n="1">et haec verba libri quae scripsit Baruch filius Neeri filius

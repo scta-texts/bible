@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Hebräer</title>
+        <title>ad Hebraeos</title>
         <author/>
       </titleStmt>
       <editionStmt>
@@ -42,6 +42,7 @@
     </front>
     <body>
       <div xml:id="bible-hebr">
+        <head>ad Hebraeos</head>
         <div xml:id="bible-hebr1" n="1">
           <head>Caput 1</head>
           <p xml:id="hebr1_1" n="1">multifariam et multis modis olim Deus loquens patribus in

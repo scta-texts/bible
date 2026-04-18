@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Nehemia</title>
+        <title>Nehemiae</title>
         <author/>
       </titleStmt>
       <editionStmt>
@@ -42,6 +42,7 @@
     </front>
     <body>
       <div xml:id="bible-neh">
+        <head>Nehemiae</head>
         <div xml:id="bible-neh1" n="1">
           <head>Caput 1</head>
           <p xml:id="neh1_1" n="1">verba Neemiae filii Echliae et factum est in mense casleu anno

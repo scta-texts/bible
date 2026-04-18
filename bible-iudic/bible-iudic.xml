@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Richter</title>
+        <title>Iudicium</title>
         <author/>
       </titleStmt>
       <editionStmt>
@@ -42,6 +42,7 @@
     </front>
     <body>
       <div xml:id="bible-iudic">
+        <head>Iudicium</head>
         <div xml:id="bible-iudic1" n="1">
           <head>Caput 1</head>
           <p xml:id="iudic1_1" n="1">post mortem Iosue consuluerunt filii Israhel Dominum dicentes

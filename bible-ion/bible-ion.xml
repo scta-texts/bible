@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Jona</title>
+        <title>Ionas</title>
         <author/>
       </titleStmt>
       <editionStmt>
@@ -42,6 +42,7 @@
     </front>
     <body>
       <div xml:id="bible-ion">
+        <head>Ionas</head>
         <div xml:id="bible-ion1" n="1">
           <head>Caput 1</head>
           <p xml:id="ion1_1" n="1">et factum est verbum Domini ad Ionam filium Amathi dicens</p>

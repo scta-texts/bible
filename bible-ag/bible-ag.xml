@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Haggai</title>
+        <title>Aggaeus</title>
         <author/>
       </titleStmt>
       <editionStmt>
@@ -42,6 +42,7 @@
     </front>
     <body>
       <div xml:id="bible-ag">
+        <head>Aggaeus</head>
         <div xml:id="bible-ag1" n="1">
           <head>Caput 1</head>
           <p xml:id="ag1_1" n="1">in anno secundo Darii regis in mense sexto in die una mensis

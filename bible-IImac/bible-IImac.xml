@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>2 Makkabäer</title>
+        <title>Machabaeorum II</title>
         <author/>
       </titleStmt>
       <editionStmt>
@@ -42,6 +42,7 @@
     </front>
     <body>
       <div xml:id="bible-IImac">
+        <head>Machabaeorum II</head>
         <div xml:id="bible-IImac1" n="1">
           <head>Caput 1</head>
           <p xml:id="IImac1_1" n="1">fratribus qui sunt per Aegyptum Iudaeis salutem dicunt fratres

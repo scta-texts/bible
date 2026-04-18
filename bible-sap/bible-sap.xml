@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Weisheit</title>
+        <title>Sapientia</title>
         <author/>
       </titleStmt>
       <editionStmt>
@@ -42,6 +42,7 @@
     </front>
     <body>
       <div xml:id="bible-sap">
+        <head>Sapientia</head>
         <div xml:id="bible-sap1" n="1">
           <head>Caput 1</head>
           <p xml:id="sap1_1" n="1">diligite iustitiam qui iudicatis terram sentite de Domino in

@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Josua</title>
+        <title>Iosiah</title>
         <author/>
       </titleStmt>
       <editionStmt>
@@ -42,6 +42,7 @@
     </front>
     <body>
       <div xml:id="bible-ios">
+        <head>Iosiah</head>
         <div xml:id="bible-ios1" n="1">
           <head>Caput 1</head>
           <p xml:id="ios1_1" n="1">et factum est ut post mortem Mosi servi Domini loqueretur Dominus

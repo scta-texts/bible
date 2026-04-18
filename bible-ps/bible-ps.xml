@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Psalm</title>
+        <title>Psalmi</title>
         <author/>
       </titleStmt>
       <editionStmt>
@@ -42,6 +42,7 @@
     </front>
     <body>
       <div xml:id="bible-ps">
+        <head>Psalmi</head>
         <div xml:id="bible-ps1" n="1">
           <head>Caput 1</head>
           <p xml:id="ps1_1" n="1">[Beatus vir qui non abiit in consilio impiorum, et in via

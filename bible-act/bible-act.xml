@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Apostelgeschichte</title>
+        <title>Actus Apostolorum </title>
         <author/>
       </titleStmt>
       <editionStmt>
@@ -42,6 +42,7 @@
     </front>
     <body>
       <div xml:id="bible-act">
+        <head>Actus Apostolorum </head>
         <div xml:id="bible-act1" n="1">
           <head>Caput 1</head>
           <p xml:id="act1_1" n="1">primum quidem sermonem feci de omnibus o Theophile quae coepit

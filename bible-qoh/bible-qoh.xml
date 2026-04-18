@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Prediger</title>
+        <title>Ecclesiastes</title>
         <author/>
       </titleStmt>
       <editionStmt>
@@ -42,6 +42,7 @@
     </front>
     <body>
       <div xml:id="bible-qoh">
+        <head>Ecclesiastes</head>
         <div xml:id="bible-qoh1" n="1">
           <head>Caput 1</head>
           <p xml:id="qoh1_1" n="1">verba Ecclesiastes filii David regis Hierusalem</p>

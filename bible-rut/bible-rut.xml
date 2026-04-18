@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Rut</title>
+        <title>Ruth</title>
         <author/>
       </titleStmt>
       <editionStmt>
@@ -42,6 +42,7 @@
     </front>
     <body>
       <div xml:id="bible-rut">
+        <head>Ruth</head>
         <div xml:id="bible-rut1" n="1">
           <head>Caput 1</head>
           <p xml:id="rut1_1" n="1">in diebus unius iudicis quando iudices praeerant facta est fames

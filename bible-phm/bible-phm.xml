@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Philemon</title>
+        <title>ad Philemonem</title>
         <author/>
       </titleStmt>
       <editionStmt>
@@ -42,6 +42,7 @@
     </front>
     <body>
       <div xml:id="bible-phm">
+        <head>ad Philemonem</head>
         <div xml:id="bible-phm1" n="1">
           <head>Caput 1</head>
           <p xml:id="phm1_1" n="1">Paulus vinctus Iesu Christi et Timotheus frater Philemoni dilecto

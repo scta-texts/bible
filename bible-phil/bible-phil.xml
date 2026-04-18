@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Philipper</title>
+        <title>ad Philippenses</title>
         <author/>
       </titleStmt>
       <editionStmt>
@@ -42,6 +42,7 @@
     </front>
     <body>
       <div xml:id="bible-phil">
+        <head>ad Philippenses</head>
         <div xml:id="bible-phil1" n="1">
           <head>Caput 1</head>
           <p xml:id="phil1_1" n="1">Paulus et Timotheus servi Iesu Christi omnibus sanctis in

@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Johannes</title>
+        <title>Ioannes</title>
         <author/>
       </titleStmt>
       <editionStmt>
@@ -42,6 +42,7 @@
     </front>
     <body>
       <div xml:id="bible-io">
+        <head>Ioannes</head>
         <div xml:id="bible-io1" n="1">
           <head>Caput 1</head>
           <p xml:id="io1_1" n="1">in principio erat Verbum et Verbum erat apud Deum et Deus erat

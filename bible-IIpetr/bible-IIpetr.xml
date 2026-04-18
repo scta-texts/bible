@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>2 Petrus</title>
+        <title>Petri II</title>
         <author/>
       </titleStmt>
       <editionStmt>
@@ -42,6 +42,7 @@
     </front>
     <body>
       <div xml:id="bible-IIpetr">
+        <head>Petri II</head>
         <div xml:id="bible-IIpetr1" n="1">
           <head>Caput 1</head>
           <p xml:id="IIpetr1_1" n="1">Simon Petrus servus et apostolus Iesu Christi his qui

@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Hohelied</title>
+        <title>Canticum Canticorum</title>
         <author/>
       </titleStmt>
       <editionStmt>
@@ -42,6 +42,7 @@
     </front>
     <body>
       <div xml:id="bible-cant">
+        <head>Canticum Canticorum</head>
         <div xml:id="bible-cant1" n="1">
           <head>Caput 1</head>
           <p xml:id="cant1_1" n="1">osculetur me osculo oris sui quia meliora sunt ubera tua

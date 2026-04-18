@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>2 Chronik</title>
+        <title>Paralipomenon II</title>
         <author/>
       </titleStmt>
       <editionStmt>
@@ -42,6 +42,7 @@
     </front>
     <body>
       <div xml:id="bible-IIchr">
+        <head>Paralipomenon II</head>
         <div xml:id="bible-IIchr1" n="1">
           <head>Caput 1</head>
           <p xml:id="IIchr1_1" n="1">confortatus est ergo Salomon filius David in regno suo et

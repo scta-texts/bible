@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Matthäus</title>
+        <title>Matthaeus</title>
         <author/>
       </titleStmt>
       <editionStmt>
@@ -42,6 +42,7 @@
     </front>
     <body>
       <div xml:id="bible-mt">
+        <head>Matthaeus</head>
         <div xml:id="bible-mt1" n="1">
           <head>Caput 1</head>
           <p xml:id="mt1_1" n="1">liber generationis Iesu Christi filii David filii Abraham</p>

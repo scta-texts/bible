@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Markus</title>
+        <title>Marcus</title>
         <author/>
       </titleStmt>
       <editionStmt>
@@ -42,6 +42,7 @@
     </front>
     <body>
       <div xml:id="bible-mc">
+        <head>Marcus</head>
         <div xml:id="bible-mc1" n="1">
           <head>Caput 1</head>
           <p xml:id="mc1_1" n="1">initium evangelii Iesu Christi Filii Dei</p>

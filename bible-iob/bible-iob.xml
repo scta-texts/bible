@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Hiob</title>
+        <title>Iob</title>
         <author/>
       </titleStmt>
       <editionStmt>
@@ -42,6 +42,7 @@
     </front>
     <body>
       <div xml:id="bible-iob">
+        <head>Iob</head>
         <div xml:id="bible-iob1" n="1">
           <head>Caput 1</head>
           <p xml:id="iob1_1" n="1">vir erat in terra Hus nomine Iob et erat vir ille simplex et

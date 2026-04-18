@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Esra</title>
+        <title>Esdrae</title>
         <author/>
       </titleStmt>
       <editionStmt>
@@ -42,6 +42,7 @@
     </front>
     <body>
       <div xml:id="bible-esd">
+        <head>Esdrae</head>
         <div xml:id="bible-esd1" n="1">
           <head>Caput 1</head>
           <p xml:id="esd1_1" n="1">in anno primo Cyri regis Persarum ut conpleretur verbum Domini ex

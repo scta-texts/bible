@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Sirach</title>
+        <title>Ecclesiasticus</title>
         <author/>
       </titleStmt>
       <editionStmt>
@@ -42,6 +42,7 @@
     </front>
     <body>
       <div xml:id="bible-sir">
+        <head>Ecclesiasticus</head>
         <div xml:id="bible-sir1" n="1">
           <head>Caput 1</head>
           <p xml:id="sir1_1" n="1">omnis sapientia a Deo Domino est et cum illo fuit semper et est

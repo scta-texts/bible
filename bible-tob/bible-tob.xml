@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Tobia</title>
+        <title>Tobiae</title>
         <author/>
       </titleStmt>
       <editionStmt>
@@ -42,6 +42,7 @@
     </front>
     <body>
       <div xml:id="bible-tob">
+        <head>Tobiae</head>
         <div xml:id="bible-tob1" n="1">
           <head>Caput 1</head>
           <p xml:id="tob1_1" n="1">Tobias ex tribu et civitate Nepthalim quae est in superioribus

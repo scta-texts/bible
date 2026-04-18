@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Obadja</title>
+        <title>Abdias </title>
         <author/>
       </titleStmt>
       <editionStmt>
@@ -42,6 +42,7 @@
     </front>
     <body>
       <div xml:id="bible-abd">
+        <head>Abdias</head>
         <div xml:id="bible-abd1" n="1">
           <head>Caput 1</head>
           <p xml:id="abd1_1" n="1">visio Abdiae haec dicit Dominus Deus ad Edom auditum audivimus a

@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Sacharja</title>
+        <title>Zacharias</title>
         <author/>
       </titleStmt>
       <editionStmt>
@@ -42,6 +42,7 @@
     </front>
     <body>
       <div xml:id="bible-zac">
+        <head>Zacharias</head>
         <div xml:id="bible-zac1" n="1">
           <head>Caput 1</head>
           <p xml:id="zac1_1" n="1">in mense octavo in anno secundo Darii factum est verbum Domini ad

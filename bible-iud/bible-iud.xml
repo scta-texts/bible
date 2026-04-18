@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Judas</title>
+        <title>Iudae</title>
         <author/>
       </titleStmt>
       <editionStmt>
@@ -42,6 +42,7 @@
     </front>
     <body>
       <div xml:id="bible-iud">
+        <head>Iudae</head>
         <div xml:id="bible-iud1" n="1">
           <head>Caput 1</head>
           <p xml:id="iud1_1" n="1">Iudas Iesu Christi servus frater autem Iacobi his qui in Deo
