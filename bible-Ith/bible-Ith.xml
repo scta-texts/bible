@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-Ith">
-        <head>ad Thessalonicenses I</head>
+        <head xml:id="bible-Ith-Hd1e76">ad Thessalonicenses I</head>
         <div xml:id="bible-Ith1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-Ith-Hd1e80">Caput 1</head>
           <p xml:id="Ith1_1" n="1">Paulus et Silvanus et Timotheus ecclesiae Thessalonicensium in
             Deo Patre et Domino Iesu Christo gratia vobis et pax</p>
           <p xml:id="Ith1_2" n="2">gratias agimus Deo semper pro omnibus vobis memoriam facientes in
@@ -68,7 +66,7 @@
             Iesum qui eripuit nos ab ira ventura</p>
         </div>
         <div xml:id="bible-Ith2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-Ith-Hd1e116">Caput 2</head>
           <p xml:id="Ith2_1" n="1">nam ipsi scitis fratres introitum nostrum ad vos quia non inanis
             fuit</p>
           <p xml:id="Ith2_2" n="2">sed ante passi et contumeliis affecti sicut scitis in Philippis
@@ -112,7 +110,7 @@
           <p xml:id="Ith2_20" n="20">vos enim estis gloria nostra et gaudium</p>
         </div>
         <div xml:id="bible-Ith3" n="3">
-          <head>Caput 3</head>
+          <head xml:id="bible-Ith-Hd1e184">Caput 3</head>
           <p xml:id="Ith3_1" n="1">propter quod non sustinentes amplius placuit nobis remanere
             Athenis solis</p>
           <p xml:id="Ith3_2" n="2">et misimus Timotheum fratrem nostrum et ministrum Dei in
@@ -141,7 +139,7 @@
             Deum et Patrem nostrum in adventu Domini nostri Iesu cum omnibus sanctis eius amen</p>
         </div>
         <div xml:id="bible-Ith4" n="4">
-          <head>Caput 4</head>
+          <head xml:id="bible-Ith-Hd1e230">Caput 4</head>
           <p xml:id="Ith4_1" n="1">de cetero ergo fratres rogamus vos et obsecramus in Domino Iesu
             ut quemadmodum accepistis a nobis quomodo vos oporteat ambulare et placere Deo sicut et
             ambulatis ut abundetis magis</p>
@@ -178,7 +176,7 @@
           <p xml:id="Ith4_18" n="18">itaque consolamini invicem in verbis istis</p>
         </div>
         <div xml:id="bible-Ith5" n="5">
-          <head>Caput 5</head>
+          <head xml:id="bible-Ith-Hd1e293">Caput 5</head>
           <p xml:id="Ith5_1" n="1">de temporibus autem et momentis fratres non indigetis ut
             scribamus vobis</p>
           <p xml:id="Ith5_2" n="2">ipsi enim diligenter scitis quia dies Domini sicut fur in nocte

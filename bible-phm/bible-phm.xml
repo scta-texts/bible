@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-phm">
-        <head>ad Philemonem</head>
+        <head xml:id="bible-phm-Hd1e76">ad Philemonem</head>
         <div xml:id="bible-phm1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-phm-Hd1e80">Caput 1</head>
           <p xml:id="phm1_1" n="1">Paulus vinctus Iesu Christi et Timotheus frater Philemoni dilecto
             et adiutori nostro</p>
           <p xml:id="phm1_2" n="2">et Appiae sorori et Archippo commilitoni nostro et ecclesiae quae

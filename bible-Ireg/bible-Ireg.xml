@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-Ireg">
-        <head>Regum I</head>
+        <head xml:id="bible-Ireg-Hd1e76">Regum I</head>
         <div xml:id="bible-Ireg1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-Ireg-Hd1e80">Caput 1</head>
           <p xml:id="Ireg1_1" n="1">et rex David senuerat habebatque aetatis plurimos dies cumque
             operiretur vestibus non calefiebat</p>
           <p xml:id="Ireg1_2" n="2">dixerunt ergo ei servi sui quaeramus domino nostro regi
@@ -161,7 +159,7 @@
             adoravit regem Salomonem dixitque ei Salomon vade in domum tuam</p>
         </div>
         <div xml:id="bible-Ireg2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-Ireg-Hd1e253">Caput 2</head>
           <p xml:id="Ireg2_1" n="1">adpropinquaverant autem dies David ut moreretur praecepitque
             Salomoni filio suo dicens</p>
           <p xml:id="Ireg2_2" n="2">ego ingredior viam universae terrae confortare et esto vir</p>
@@ -275,7 +273,7 @@
             eum et mortuus est</p>
         </div>
         <div xml:id="bible-Ireg3" n="3">
-          <head>Caput 3</head>
+          <head xml:id="bible-Ireg-Hd1e403">Caput 3</head>
           <p xml:id="Ireg3_1" n="1">confirmatum est igitur regnum in manu Salomonis et adfinitate
             coniunctus est Pharaoni regi Aegypti accepit namque filiam eius et adduxit in civitatem
             David donec conpleret aedificans domum suam et domum Domini et murum Hierusalem per
@@ -346,7 +344,7 @@
             timuerunt regem videntes sapientiam Dei esse in eo ad faciendum iudicium</p>
         </div>
         <div xml:id="bible-Ireg4" n="4">
-          <head>Caput 4</head>
+          <head xml:id="bible-Ireg-Hd1e496">Caput 4</head>
           <p xml:id="Ireg4_1" n="1">erat autem rex Salomon regnans super omnem Israhel</p>
           <p xml:id="Ireg4_2" n="2">et hii principes quos habebat Azarias filius Sadoc sacerdos</p>
           <p xml:id="Ireg4_3" n="3">Helioreph et Ahia filii Sesa scribae Iosaphat filius Ahilud a
@@ -416,7 +414,7 @@
             Salomonis et ab universis regibus terrae qui audiebant sapientiam eius</p>
         </div>
         <div xml:id="bible-Ireg5" n="5">
-          <head>Caput 5</head>
+          <head xml:id="bible-Ireg-Hd1e609">Caput 5</head>
           <p xml:id="Ireg5_1" n="1">misit quoque Hiram rex Tyri servos suos ad Salomonem audivit
             enim quod ipsum unxissent regem pro patre eius quia amicus fuerat Hiram David omni
             tempore</p>
@@ -462,7 +460,7 @@
             Biblii praeparaverunt ligna et lapides ad aedificandam domum</p>
         </div>
         <div xml:id="bible-Ireg6" n="6">
-          <head>Caput 6</head>
+          <head xml:id="bible-Ireg-Hd1e671">Caput 6</head>
           <p xml:id="Ireg6_1" n="1">factum est igitur quadringentesimo et octogesimo anno
             egressionis filiorum Israhel de terra Aegypti in anno quarto mense zio ipse est mensis
             secundus regis Salomonis super Israhel aedificare coepit domum Domino</p>
@@ -552,7 +550,7 @@
             septem</p>
         </div>
         <div xml:id="bible-Ireg7" n="7">
-          <head>Caput 7</head>
+          <head xml:id="bible-Ireg-Hd1e796">Caput 7</head>
           <p xml:id="Ireg7_1" n="1">domum autem suam aedificavit Salomon tredecim annis et ad
             perfectum usque perduxit</p>
           <p xml:id="Ireg7_2" n="2">aedificavit quoque domum saltus Libani centum cubitorum
@@ -679,7 +677,7 @@
             thesauris domus Domini</p>
         </div>
         <div xml:id="bible-Ireg8" n="8">
-          <head>Caput 8</head>
+          <head xml:id="bible-Ireg-Hd1e962">Caput 8</head>
           <p xml:id="Ireg8_1" n="1">tunc congregavit omnes maiores natu Israhel cum principibus
             tribuum et duces familiarum filiorum Israhel ad regem Salomonem in Hierusalem ut
             deferrent arcam foederis Domini de civitate David id est de Sion</p>
@@ -851,7 +849,7 @@
             fecerat Dominus David servo suo et Israhel populo suo</p>
         </div>
         <div xml:id="bible-Ireg9" n="9">
-          <head>Caput 9</head>
+          <head xml:id="bible-Ireg-Hd1e1176">Caput 9</head>
           <p xml:id="Ireg9_1" n="1">factum est autem cum perfecisset Salomon aedificium domus Domini
             et aedificium regis et omne quod optaverat et voluerat facere</p>
           <p xml:id="Ireg9_2" n="2">apparuit Dominus ei secundo sicut apparuerat ei in Gabaon</p>
@@ -918,7 +916,7 @@
             viginti talentorum detulerunt ad regem Salomonem</p>
         </div>
         <div xml:id="bible-Ireg10" n="10">
-          <head>Caput 10</head>
+          <head xml:id="bible-Ireg-Hd1e1269">Caput 10</head>
           <p xml:id="Ireg10_1" n="1">sed et regina Saba audita fama Salomonis in nomine Domini venit
             temptare eum in enigmatibus</p>
           <p xml:id="Ireg10_2" n="2">et ingressa Hierusalem multo comitatu et divitiis camelis
@@ -991,7 +989,7 @@
             Syriae equos venundabant</p>
         </div>
         <div xml:id="bible-Ireg11" n="11">
-          <head>Caput 11</head>
+          <head xml:id="bible-Ireg-Hd1e1367">Caput 11</head>
           <p xml:id="Ireg11_1" n="1">rex autem Salomon amavit mulieres alienigenas multas filiam
             quoque Pharaonis et Moabitidas et Ammanitidas Idumeas et Sidonias et Chettheas</p>
           <p xml:id="Ireg11_2" n="2">de gentibus super quibus dixit Dominus filiis Israhel non
@@ -1098,7 +1096,7 @@
             civitate David patris sui regnavitque Roboam filius eius pro eo</p>
         </div>
         <div xml:id="bible-Ireg12" n="12">
-          <head>Caput 12</head>
+          <head xml:id="bible-Ireg-Hd1e1508">Caput 12</head>
           <p xml:id="Ireg12_1" n="1">venit autem Roboam in Sychem illuc enim congregatus erat omnis
             Israhel ad constituendum eum regem</p>
           <p xml:id="Ireg12_2" n="2">at Hieroboam filius Nabath cum adhuc esset in Aegypto profugus
@@ -1182,7 +1180,7 @@
             Israhel et ascendit super altare ut adoleret incensum</p>
         </div>
         <div xml:id="bible-Ireg13" n="13">
-          <head>Caput 13</head>
+          <head xml:id="bible-Ireg-Hd1e1617">Caput 13</head>
           <p xml:id="Ireg13_1" n="1">et ecce vir Dei venit de Iuda in sermone Domini in Bethel
             Hieroboam stante super altare et tus iaciente</p>
           <p xml:id="Ireg13_2" n="2">et exclamavit contra altare in sermone Domini et ait altare
@@ -1265,7 +1263,7 @@
             et deleta de superficie terrae</p>
         </div>
         <div xml:id="bible-Ireg14" n="14">
-          <head>Caput 14</head>
+          <head xml:id="bible-Ireg-Hd1e1729">Caput 14</head>
           <p xml:id="Ireg14_1" n="1">in tempore illo aegrotavit Abia filius Hieroboam</p>
           <p xml:id="Ireg14_2" n="2">dixitque Hieroboam uxori suae surge et commuta habitum ne
             cognoscaris quod sis uxor Hieroboam et vade in Silo ubi est Ahia propheta qui locutus
@@ -1341,7 +1339,7 @@
             eius pro eo</p>
         </div>
         <div xml:id="bible-Ireg15" n="15">
-          <head>Caput 15</head>
+          <head xml:id="bible-Ireg-Hd1e1832">Caput 15</head>
           <p xml:id="Ireg15_1" n="1">igitur in octavodecimo anno regni Hieroboam filii Nabath
             regnavit Abiam super Iudam</p>
           <p xml:id="Ireg15_2" n="2">tribus annis regnavit in Hierusalem nomen matris eius Maacha
@@ -1423,7 +1421,7 @@
             in peccatis eius quibus peccare fecit Israhel</p>
         </div>
         <div xml:id="bible-Ireg16" n="16">
-          <head>Caput 16</head>
+          <head xml:id="bible-Ireg-Hd1e1944">Caput 16</head>
           <p xml:id="Ireg16_1" n="1">factus est autem sermo Domini ad Hieu filium Anani contra Baasa
             dicens</p>
           <p xml:id="Ireg16_2" n="2">pro eo quod exaltavi te de pulvere et posui ducem super populum
@@ -1505,7 +1503,7 @@
             Domini quod locutus fuerat in manu Iosue filii Nun</p>
         </div>
         <div xml:id="bible-Ireg17" n="17">
-          <head>Caput 17</head>
+          <head xml:id="bible-Ireg-Hd1e2057">Caput 17</head>
           <p xml:id="Ireg17_1" n="1">et dixit Helias Thesbites de habitatoribus Galaad ad Ahab vivit
             Dominus Deus Israhel in cuius conspectu sto si erit annis his ros et pluvia nisi iuxta
             oris mei verba</p>
@@ -1561,7 +1559,7 @@
             Dei es tu et verbum Domini in ore tuo verum est</p>
         </div>
         <div xml:id="bible-Ireg18" n="18">
-          <head>Caput 18</head>
+          <head xml:id="bible-Ireg-Hd1e2138">Caput 18</head>
           <p xml:id="Ireg18_1" n="1">post dies multos verbum Domini factum est ad Heliam in anno
             tertio dicens vade et ostende te Ahab ut dem pluviam super faciem terrae</p>
           <p xml:id="Ireg18_2" n="2">ivit ergo Helias ut ostenderet se Ahab erat autem fames
@@ -1673,7 +1671,7 @@
             currebat ante Ahab donec veniret in Hiezrahel</p>
         </div>
         <div xml:id="bible-Ireg19" n="19">
-          <head>Caput 19</head>
+          <head xml:id="bible-Ireg-Hd1e2288">Caput 19</head>
           <p xml:id="Ireg19_1" n="1">nuntiavit autem Ahab Hiezabel omnia quae fecerat Helias et
             quomodo occidisset universos prophetas gladio</p>
           <p xml:id="Ireg19_2" n="2">misitque Hiezabel nuntium ad Heliam dicens haec mihi faciant
@@ -1729,7 +1727,7 @@
             est Heliam et ministrabat ei</p>
         </div>
         <div xml:id="bible-Ireg20" n="20">
-          <head>Caput 20</head>
+          <head xml:id="bible-Ireg-Hd1e2359">Caput 20</head>
           <p xml:id="Ireg20_1" n="1">porro Benadad rex Syriae congregavit omnem exercitum suum et
             triginta et duos reges secum et equos et currus et ascendens pugnabat contra Samariam et
             obsidebat eam</p>
@@ -1841,7 +1839,7 @@
             contemnens et furibundus venit Samariam</p>
         </div>
         <div xml:id="bible-Ireg21" n="21">
-          <head>Caput 21</head>
+          <head xml:id="bible-Ireg-Hd1e2500">Caput 21</head>
           <p xml:id="Ireg21_1" n="1">post verba autem haec vinea erat Naboth Hiezrahelitae qui erat
             in Hiezrahel iuxta palatium Ahab regis Samariae</p>
           <p xml:id="Ireg21_2" n="2">locutus est ergo Ahab ad Naboth dicens da mihi vineam tuam ut
@@ -1915,7 +1913,7 @@
             domui eius</p>
         </div>
         <div xml:id="bible-Ireg22" n="22">
-          <head>Caput 22</head>
+          <head xml:id="bible-Ireg-Hd1e2597">Caput 22</head>
           <p xml:id="Ireg22_1" n="1">transierunt igitur tres anni absque bello inter Syriam et
             Israhel</p>
           <p xml:id="Ireg22_2" n="2">in anno autem tertio descendit Iosaphat rex Iuda ad regem

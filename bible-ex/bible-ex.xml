@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-ex">
-        <head>Exodus</head>
+        <head xml:id="bible-ex-Hd1e76">Exodus</head>
         <div xml:id="bible-ex1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-ex-Hd1e80">Caput 1</head>
           <p xml:id="ex1_1" n="1">haec sunt nomina filiorum Israhel qui ingressi sunt Aegyptum cum
             Iacob singuli cum domibus suis introierunt</p>
           <p xml:id="ex1_2" n="2">Ruben Symeon Levi Iuda</p>
@@ -86,7 +84,7 @@
             sexus natum fuerit in flumen proicite quicquid feminei reservate</p>
         </div>
         <div xml:id="bible-ex2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-ex-Hd1e154">Caput 2</head>
           <p xml:id="ex2_1" n="1">egressus est post haec vir de domo Levi accepta uxore stirpis
             suae</p>
           <p xml:id="ex2_2" n="2">quae concepit et peperit filium et videns eum elegantem abscondit
@@ -142,7 +140,7 @@
           <p xml:id="ex2_25" n="25">respexit filios Israhel et cognovit eos</p>
         </div>
         <div xml:id="bible-ex3" n="3">
-          <head>Caput 3</head>
+          <head xml:id="bible-ex-Hd1e238">Caput 3</head>
           <p xml:id="ex3_1" n="1">Moses autem pascebat oves Iethro cognati sui sacerdotis Madian
             cumque minasset gregem ad interiora deserti venit ad montem Dei Horeb</p>
           <p xml:id="ex3_2" n="2">apparuitque ei Dominus in flamma ignis de medio rubi et videbat
@@ -195,7 +193,7 @@
             Aegyptum</p>
         </div>
         <div xml:id="bible-ex4" n="4">
-          <head>Caput 4</head>
+          <head xml:id="bible-ex-Hd1e312">Caput 4</head>
           <p xml:id="ex4_1" n="1">respondens Moses ait non credent mihi neque audient vocem meam sed
             dicent non apparuit tibi Dominus</p>
           <p xml:id="ex4_2" n="2">dixit ergo ad eum quid est hoc quod tenes in manu tua respondit
@@ -261,7 +259,7 @@
             Israhel et quod respexisset adflictionem eorum et proni adoraverunt</p>
         </div>
         <div xml:id="bible-ex5" n="5">
-          <head>Caput 5</head>
+          <head xml:id="bible-ex-Hd1e416">Caput 5</head>
           <p xml:id="ex5_1" n="1">post haec ingressi sunt Moses et Aaron et dixerunt Pharaoni haec
             dicit Dominus Deus Israhel dimitte populum meum ut sacrificet mihi in deserto</p>
           <p xml:id="ex5_2" n="2">at ille respondit quis est Dominus ut audiam vocem eius et
@@ -314,7 +312,7 @@
             adflixit populum tuum et non liberasti eos</p>
         </div>
         <div xml:id="bible-ex6" n="6">
-          <head>Caput 6</head>
+          <head xml:id="bible-ex-Hd1e494">Caput 6</head>
           <p xml:id="ex6_1" n="1">dixit Dominus ad Mosen nunc videbis quae facturus sum Pharaoni per
             manum enim fortem dimittet eos et in manu robusta eiciet illos de terra sua</p>
           <p xml:id="ex6_2" n="2">locutusque est Dominus ad Mosen dicens ego Dominus</p>
@@ -373,7 +371,7 @@
             audiet me Pharao</p>
         </div>
         <div xml:id="bible-ex7" n="7">
-          <head>Caput 7</head>
+          <head xml:id="bible-ex-Hd1e594">Caput 7</head>
           <p xml:id="ex7_1" n="1">dixitque Dominus ad Mosen ecce constitui te Deum Pharaonis Aaron
             frater tuus erit propheta tuus</p>
           <p xml:id="ex7_2" n="2">tu loqueris omnia quae mando tibi ille loquetur ad Pharaonem ut
@@ -430,7 +428,7 @@
             fluvium</p>
         </div>
         <div xml:id="bible-ex8" n="8">
-          <head>Caput 8</head>
+          <head xml:id="bible-ex-Hd1e678">Caput 8</head>
           <p xml:id="ex8_1" n="1">dixitque Dominus ad Mosen ingredere ad Pharao et dices ad eum haec
             dicit Dominus dimitte populum meum ut sacrificet mihi</p>
           <p xml:id="ex8_2" n="2">sin autem nolueris dimittere ecce ego percutiam omnes terminos
@@ -504,7 +502,7 @@
             dimitteret populum</p>
         </div>
         <div xml:id="bible-ex9" n="9">
-          <head>Caput 9</head>
+          <head xml:id="bible-ex-Hd1e784">Caput 9</head>
           <p xml:id="ex9_1" n="1">dixit autem Dominus ad Mosen ingredere ad Pharaonem et loquere ad
             eum haec dicit Dominus Deus Hebraeorum dimitte populum meum ut sacrificet mihi</p>
           <p xml:id="ex9_2" n="2">quod si adhuc rennuis et retines eos</p>
@@ -582,7 +580,7 @@
             nec dimisit filios Israhel sicut praeceperat Dominus per manum Mosi</p>
         </div>
         <div xml:id="bible-ex10" n="10">
-          <head>Caput 10</head>
+          <head xml:id="bible-ex-Hd1e900">Caput 10</head>
           <p xml:id="ex10_1" n="1">et dixit Dominus ad Mosen ingredere ad Pharao ego enim induravi
             cor eius et servorum illius ut faciam signa mea haec in eo</p>
           <p xml:id="ex10_2" n="2">et narres in auribus filii tui et nepotum tuorum quotiens
@@ -652,7 +650,7 @@
             tuam</p>
         </div>
         <div xml:id="bible-ex11" n="11">
-          <head>Caput 11</head>
+          <head xml:id="bible-ex-Hd1e998">Caput 11</head>
           <p xml:id="ex11_1" n="1">et dixit Dominus ad Mosen adhuc una plaga tangam Pharaonem et
             Aegyptum et post haec dimittet vos et exire conpellet</p>
           <p xml:id="ex11_2" n="2">dices ergo omni plebi ut postulet vir ab amico suo et mulier a
@@ -676,7 +674,7 @@
             sua</p>
         </div>
         <div xml:id="bible-ex12" n="12">
-          <head>Caput 12</head>
+          <head xml:id="bible-ex-Hd1e1034">Caput 12</head>
           <p xml:id="ex12_1" n="1">dixit quoque Dominus ad Mosen et Aaron in terra Aegypti</p>
           <p xml:id="ex12_2" n="2">mensis iste vobis principium mensuum primus erit in mensibus
             anni</p>
@@ -793,7 +791,7 @@
             per turmas suas</p>
         </div>
         <div xml:id="bible-ex13" n="13">
-          <head>Caput 13</head>
+          <head xml:id="bible-ex-Hd1e1200">Caput 13</head>
           <p xml:id="ex13_1" n="1">locutusque est Dominus ad Mosen dicens</p>
           <p xml:id="ex13_2" n="2">sanctifica mihi omne primogenitum quod aperit vulvam in filiis
             Israhel tam de hominibus quam de iumentis mea sunt enim omnia</p>
@@ -845,7 +843,7 @@
             noctem coram populo</p>
         </div>
         <div xml:id="bible-ex14" n="14">
-          <head>Caput 14</head>
+          <head xml:id="bible-ex-Hd1e1274">Caput 14</head>
           <p xml:id="ex14_1" n="1">locutus est autem Dominus ad Mosen dicens</p>
           <p xml:id="ex14_2" n="2">loquere filiis Israhel reversi castrametentur e regione
             Phiahiroth quae est inter Magdolum et mare contra Beelsephon in conspectu eius castra
@@ -918,7 +916,7 @@
             Mosi servo eius</p>
         </div>
         <div xml:id="bible-ex15" n="15">
-          <head>Caput 15</head>
+          <head xml:id="bible-ex-Hd1e1377">Caput 15</head>
           <p xml:id="ex15_1" n="1">tunc cecinit Moses et filii Israhel carmen hoc Domino et dixerunt
             cantemus Domino gloriose enim magnificatus est equum et ascensorem deiecit in mare</p>
           <p xml:id="ex15_2" n="2">fortitudo mea et laus mea Dominus et factus est mihi in salutem
@@ -977,7 +975,7 @@
             septuaginta palmae et castrametati sunt iuxta aquas</p>
         </div>
         <div xml:id="bible-ex16" n="16">
-          <head>Caput 16</head>
+          <head xml:id="bible-ex-Hd1e1467">Caput 16</head>
           <p xml:id="ex16_1" n="1">profectique sunt de Helim et venit omnis multitudo filiorum
             Israhel in desertum Sin quod est inter Helim et Sinai quintodecimo die mensis secundi
             postquam egressi sunt de terra Aegypti</p>
@@ -1061,7 +1059,7 @@
           <p xml:id="ex16_36" n="36">gomor autem decima pars est oephi</p>
         </div>
         <div xml:id="bible-ex17" n="17">
-          <head>Caput 17</head>
+          <head xml:id="bible-ex-Hd1e1587">Caput 17</head>
           <p xml:id="ex17_1" n="1">igitur profecta omnis multitudo filiorum Israhel de deserto Sin
             per mansiones suas iuxta sermonem Domini castrametata est in Raphidim ubi non erat aqua
             ad bibendum populo</p>
@@ -1097,7 +1095,7 @@
             generatione in generationem</p>
         </div>
         <div xml:id="bible-ex18" n="18">
-          <head>Caput 18</head>
+          <head xml:id="bible-ex-Hd1e1642">Caput 18</head>
           <p xml:id="ex18_1" n="1">cumque audisset Iethro sacerdos Madian cognatus Mosi omnia quae
             fecerat Deus Mosi et Israhel populo suo eo quod eduxisset Dominus Israhel de Aegypto</p>
           <p xml:id="ex18_2" n="2">tulit Sefforam uxorem Mosi quam remiserat</p>
@@ -1154,7 +1152,7 @@
           <p xml:id="ex18_27" n="27">dimisitque cognatum qui reversus abiit in terram suam</p>
         </div>
         <div xml:id="bible-ex19" n="19">
-          <head>Caput 19</head>
+          <head xml:id="bible-ex-Hd1e1732">Caput 19</head>
           <p xml:id="ex19_1" n="1">mense tertio egressionis Israhel de terra Aegypti in die hac
             venerunt in solitudinem Sinai</p>
           <p xml:id="ex19_2" n="2">nam profecti de Raphidim et pervenientes usque in desertum Sinai
@@ -1213,7 +1211,7 @@
           <p xml:id="ex19_25" n="25">descendit Moses ad populum et omnia narravit eis</p>
         </div>
         <div xml:id="bible-ex20" n="20">
-          <head>Caput 20</head>
+          <head xml:id="bible-ex-Hd1e1816">Caput 20</head>
           <p xml:id="ex20_1" n="1">locutus quoque est Dominus cunctos sermones hos</p>
           <p xml:id="ex20_2" n="2">ego sum Dominus Deus tuus qui eduxi te de terra Aegypti de domo
             servitutis</p>
@@ -1264,7 +1262,7 @@
             tua</p>
         </div>
         <div xml:id="bible-ex21" n="21">
-          <head>Caput 21</head>
+          <head xml:id="bible-ex-Hd1e1903">Caput 21</head>
           <p xml:id="ex21_1" n="1">haec sunt iudicia quae propones eis</p>
           <p xml:id="ex21_2" n="2">si emeris servum hebraeum sex annis serviet tibi in septimo
             egredietur liber gratis</p>
@@ -1337,7 +1335,7 @@
             accipiet</p>
         </div>
         <div xml:id="bible-ex22" n="22">
-          <head>Caput 22</head>
+          <head xml:id="bible-ex-Hd1e2022">Caput 22</head>
           <p xml:id="ex22_1" n="1">si quis furatus fuerit bovem aut ovem et occiderit vel vendiderit
             quinque boves pro uno bove restituet et quattuor oves pro una ove</p>
           <p xml:id="ex22_2" n="2">si effringens fur domum sive suffodiens fuerit inventus et
@@ -1399,7 +1397,7 @@
             praegustata non comedetis sed proicietis canibus</p>
         </div>
         <div xml:id="bible-ex23" n="23">
-          <head>Caput 23</head>
+          <head xml:id="bible-ex-Hd1e2126">Caput 23</head>
           <p xml:id="ex23_1" n="1">non suscipies vocem mendacii nec iunges manum tuam ut pro impio
             dicas falsum testimonium</p>
           <p xml:id="ex23_2" n="2">non sequeris turbam ad faciendum malum nec in iudicio plurimorum
@@ -1465,7 +1463,7 @@
             servieris diis eorum quod tibi certo erit in scandalum</p>
         </div>
         <div xml:id="bible-ex24" n="24">
-          <head>Caput 24</head>
+          <head xml:id="bible-ex-Hd1e2235">Caput 24</head>
           <p xml:id="ex24_1" n="1">Mosi quoque dixit ascende ad Dominum tu et Aaron Nadab et Abiu et
             septuaginta senes ex Israhel et adorabitis procul</p>
           <p xml:id="ex24_2" n="2">solusque Moses ascendet ad Dominum et illi non adpropinquabunt
@@ -1504,7 +1502,7 @@
             ibi quadraginta diebus et quadraginta noctibus</p>
         </div>
         <div xml:id="bible-ex25" n="25">
-          <head>Caput 25</head>
+          <head xml:id="bible-ex-Hd1e2297">Caput 25</head>
           <p xml:id="ex25_1" n="1">locutusque est Dominus ad Mosen dicens</p>
           <p xml:id="ex25_2" n="2">loquere filiis Israhel ut tollant mihi primitias ab omni homine
             qui offert ultroneus accipietis eas</p>
@@ -1582,7 +1580,7 @@
             est</p>
         </div>
         <div xml:id="bible-ex26" n="26">
-          <head>Caput 26</head>
+          <head xml:id="bible-ex-Hd1e2428">Caput 26</head>
           <p xml:id="ex26_1" n="1">tabernaculum vero ita fiet decem cortinas de bysso retorta et
             hyacintho ac purpura coccoque bis tincto variatas opere plumario facies</p>
           <p xml:id="ex26_2" n="2">longitudo cortinae unius habebit viginti octo cubitos latitudo
@@ -1657,7 +1655,7 @@
             ducetur tentorium quarum erunt capita aurea et bases aeneae</p>
         </div>
         <div xml:id="bible-ex27" n="27">
-          <head>Caput 27</head>
+          <head xml:id="bible-ex-Hd1e2550">Caput 27</head>
           <p xml:id="ex27_1" n="1">facies et altare de lignis setthim quod habebit quinque cubitos
             in longitudine et totidem in latitudine id est quadrum et tres cubitos in altitudine</p>
           <p xml:id="ex27_2" n="2">cornua autem per quattuor angulos ex ipso erunt et operies illud
@@ -1707,7 +1705,7 @@
             perpetuus erit cultus per successiones eorum a filiis Israhel</p>
         </div>
         <div xml:id="bible-ex28" n="28">
-          <head>Caput 28</head>
+          <head xml:id="bible-ex-Hd1e2621">Caput 28</head>
           <p xml:id="ex28_1" n="1">adplica quoque ad te Aaron fratrem tuum cum filiis suis de medio
             filiorum Israhel ut sacerdotio fungantur mihi Aaron Nadab et Abiu Eleazar et Ithamar</p>
           <p xml:id="ex28_2" n="2">faciesque vestem sanctam fratri tuo in gloriam et decorem</p>
@@ -1798,7 +1796,7 @@
             eum</p>
         </div>
         <div xml:id="bible-ex29" n="29">
-          <head>Caput 29</head>
+          <head xml:id="bible-ex-Hd1e2763">Caput 29</head>
           <p xml:id="ex29_1" n="1">sed et hoc facies ut mihi in sacerdotio consecrentur tolle
             vitulum de armento et arietes duos inmaculatos</p>
           <p xml:id="ex29_2" n="2">panesque azymos et crustula absque fermento quae conspersa sint
@@ -1896,7 +1894,7 @@
             Aegypti ut manerem inter illos ego Dominus Deus ipsorum</p>
         </div>
         <div xml:id="bible-ex30" n="30">
-          <head>Caput 30</head>
+          <head xml:id="bible-ex-Hd1e2913">Caput 30</head>
           <p xml:id="ex30_1" n="1">facies quoque altare in adolendum thymiama de lignis setthim</p>
           <p xml:id="ex30_2" n="2">habens cubitum longitudinis et alterum latitudinis id est
             quadrangulum et duos cubitos in altitudine cornua ex ipso procedent</p>
@@ -1972,7 +1970,7 @@
             peribit de populis suis</p>
         </div>
         <div xml:id="bible-ex31" n="31">
-          <head>Caput 31</head>
+          <head xml:id="bible-ex-Hd1e3038">Caput 31</head>
           <p xml:id="ex31_1" n="1">locutusque est Dominus ad Mosen dicens</p>
           <p xml:id="ex31_2" n="2">ecce vocavi ex nomine Beselehel filium Uri filii Hur de tribu
             Iuda</p>
@@ -2008,7 +2006,7 @@
             Sinai duas tabulas testimonii lapideas scriptas digito Dei</p>
         </div>
         <div xml:id="bible-ex32" n="32">
-          <head>Caput 32</head>
+          <head xml:id="bible-ex-Hd1e3100">Caput 32</head>
           <p xml:id="ex32_1" n="1">videns autem populus quod moram faceret descendendi de monte
             Moses congregatus adversus Aaron ait surge fac nobis deos qui nos praecedant Mosi enim
             huic viro qui nos eduxit de terra Aegypti ignoramus quid acciderit</p>
@@ -2088,7 +2086,7 @@
             Aaron</p>
         </div>
         <div xml:id="bible-ex33" n="33">
-          <head>Caput 33</head>
+          <head xml:id="bible-ex-Hd1e3216">Caput 33</head>
           <p xml:id="ex33_1" n="1">locutusque est Dominus ad Mosen vade ascende de loco isto tu et
             populus tuus quem eduxisti de terra Aegypti in terram quam iuravi Abraham Isaac et Iacob
             dicens semini tuo dabo eam</p>
@@ -2141,7 +2139,7 @@
             meam videre non poteris</p>
         </div>
         <div xml:id="bible-ex34" n="34">
-          <head>Caput 34</head>
+          <head xml:id="bible-ex-Hd1e3294">Caput 34</head>
           <p xml:id="ex34_1" n="1">ac deinceps praecide ait tibi duas tabulas lapideas instar
             priorum et scribam super eas verba quae habuerunt tabulae quas fregisti</p>
           <p xml:id="ex34_2" n="2">esto paratus mane ut ascendas statim in montem Sinai stabisque
@@ -2218,7 +2216,7 @@
             operiebat rursus ille faciem suam si quando loquebatur ad eos</p>
         </div>
         <div xml:id="bible-ex35" n="35">
-          <head>Caput 35</head>
+          <head xml:id="bible-ex-Hd1e3411">Caput 35</head>
           <p xml:id="ex35_1" n="1">igitur congregata omni turba filiorum Israhel dixit ad eos haec
             sunt quae iussit Dominus fieri</p>
           <p xml:id="ex35_2" n="2">sex diebus facietis opus septimus dies erit vobis sanctus
@@ -2289,7 +2287,7 @@
             quaeque repperiant</p>
         </div>
         <div xml:id="bible-ex36" n="36">
-          <head>Caput 36</head>
+          <head xml:id="bible-ex-Hd1e3527">Caput 36</head>
           <p xml:id="ex36_1" n="1">fecit ergo Beselehel et Hooliab et omnis vir sapiens quibus dedit
             Dominus sapientiam et intellectum ut scirent fabre operari quae in usus sanctuarii
             necessaria sunt et quae praecepit Dominus</p>
@@ -2364,7 +2362,7 @@
             basesque earum fudit aeneas</p>
         </div>
         <div xml:id="bible-ex37" n="37">
-          <head>Caput 37</head>
+          <head xml:id="bible-ex-Hd1e3652">Caput 37</head>
           <p xml:id="ex37_1" n="1">fecit autem Beselehel et arcam de lignis setthim habentem duos
             semis cubitos in longitudinem et cubitum ac semissem in latitudinem altitudo quoque uno
             cubito fuit et dimidio vestivitque eam auro purissimo intus ac foris</p>
@@ -2425,7 +2423,7 @@
             aromatibus mundissimis opere pigmentarii</p>
         </div>
         <div xml:id="bible-ex38" n="38">
-          <head>Caput 38</head>
+          <head xml:id="bible-ex-Hd1e3749">Caput 38</head>
           <p xml:id="ex38_1" n="1">fecit et altare holocausti de lignis setthim quinque cubitorum
             per quadrum et trium in altitudine</p>
           <p xml:id="ex38_2" n="2">cuius cornua de angulis procedebant operuitque illud aeneis
@@ -2493,7 +2491,7 @@
             tabernaculi atque atrii per gyrum</p>
         </div>
         <div xml:id="bible-ex39" n="39">
-          <head>Caput 39</head>
+          <head xml:id="bible-ex-Hd1e3852">Caput 39</head>
           <p xml:id="ex39_1" n="1">de hyacintho vero et purpura vermiculo ac bysso fecit vestes
             quibus indueretur Aaron quando ministrabat in sanctis sicut praecepit Dominus Mosi</p>
           <p xml:id="ex39_2" n="2">fecit igitur superumerale de auro hyacintho et purpura coccoque
@@ -2570,7 +2568,7 @@
           <p xml:id="ex39_43" n="43">quae postquam Moses cuncta vidit expleta benedixit eis</p>
         </div>
         <div xml:id="bible-ex40" n="40">
-          <head>Caput 40</head>
+          <head xml:id="bible-ex-Hd1e3993">Caput 40</head>
           <p xml:id="ex40_1" n="1">locutusque est Dominus ad Mosen dicens</p>
           <p xml:id="ex40_2" n="2">mense primo die prima mensis eriges tabernaculum testimonii</p>
           <p xml:id="ex40_3" n="3">et pones in eo arcam dimittesque ante illam velum</p>

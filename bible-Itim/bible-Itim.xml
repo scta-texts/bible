@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-Itim">
-        <head>ad Timotheum I</head>
+        <head xml:id="bible-Itim-Hd1e76">ad Timotheum I</head>
         <div xml:id="bible-Itim1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-Itim-Hd1e80">Caput 1</head>
           <p xml:id="Itim1_1" n="1">Paulus apostolus Christi Iesu secundum imperium Dei salvatoris
             nostri et Christi Iesu spei nostrae</p>
           <p xml:id="Itim1_2" n="2">Timotheo dilecto filio in fide gratia misericordia pax a Deo
@@ -87,7 +85,7 @@
             discant non blasphemare</p>
         </div>
         <div xml:id="bible-Itim2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-Itim-Hd1e148">Caput 2</head>
           <p xml:id="Itim2_1" n="1">obsecro igitur primo omnium fieri obsecrationes orationes
             postulationes gratiarum actiones pro omnibus hominibus</p>
           <p xml:id="Itim2_2" n="2">pro regibus et omnibus qui in sublimitate sunt ut quietam et
@@ -118,7 +116,7 @@
             fide et dilectione et sanctificatione cum sobrietate</p>
         </div>
         <div xml:id="bible-Itim3" n="3">
-          <head>Caput 3</head>
+          <head xml:id="bible-Itim-Hd1e200">Caput 3</head>
           <p xml:id="Itim3_1" n="1">fidelis sermo si quis episcopatum desiderat bonum opus
             desiderat</p>
           <p xml:id="Itim3_2" n="2">oportet ergo episcopum inreprehensibilem esse unius uxoris virum
@@ -152,7 +150,7 @@
             creditum est in mundo adsumptum est in gloria</p>
         </div>
         <div xml:id="bible-Itim4" n="4">
-          <head>Caput 4</head>
+          <head xml:id="bible-Itim-Hd1e255">Caput 4</head>
           <p xml:id="Itim4_1" n="1">Spiritus autem manifeste dicit quia in novissimis temporibus
             discedent quidam a fide adtendentes spiritibus erroris et doctrinis daemoniorum</p>
           <p xml:id="Itim4_2" n="2">in hypocrisi loquentium mendacium et cauteriatam habentium suam
@@ -183,7 +181,7 @@
             te ipsum salvum facies et qui te audiunt</p>
         </div>
         <div xml:id="bible-Itim5" n="5">
-          <head>Caput 5</head>
+          <head xml:id="bible-Itim-Hd1e311">Caput 5</head>
           <p xml:id="Itim5_1" n="1">seniorem ne increpaveris sed obsecra ut patrem iuvenes ut
             fratres</p>
           <p xml:id="Itim5_2" n="2">anus ut matres iuvenculas ut sorores in omni castitate</p>
@@ -230,7 +228,7 @@
             habent abscondi non possunt</p>
         </div>
         <div xml:id="bible-Itim6" n="6">
-          <head>Caput 6</head>
+          <head xml:id="bible-Itim-Hd1e395">Caput 6</head>
           <p xml:id="Itim6_1" n="1">quicumque sunt sub iugo servi dominos suos omni honore dignos
             arbitrentur ne nomen Domini et doctrina blasphemetur</p>
           <p xml:id="Itim6_2" n="2">qui autem fideles habent dominos non contemnant quia fratres

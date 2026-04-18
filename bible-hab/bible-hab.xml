@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-hab">
-        <head>Habacuc</head>
+        <head xml:id="bible-hab-Hd1e76">Habacuc</head>
         <div xml:id="bible-hab1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-hab-Hd1e80">Caput 1</head>
           <p xml:id="hab1_1" n="1">onus quod vidit Abacuc propheta</p>
           <p xml:id="hab1_2" n="2">usquequo Domine clamabo et non exaudies vociferabor ad te vim
             patiens et non salvabis</p>
@@ -83,7 +81,7 @@
             gentes non parcet</p>
         </div>
         <div xml:id="bible-hab2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-hab-Hd1e139">Caput 2</head>
           <p xml:id="hab2_1" n="1">super custodiam meam stabo et figam gradum super munitionem et
             contemplabor ut videam quid dicatur mihi et quid respondeam ad arguentem me</p>
           <p xml:id="hab2_2" n="2">et respondit mihi Dominus et dixit scribe visum et explana eum
@@ -132,7 +130,7 @@
             terra</p>
         </div>
         <div xml:id="bible-hab3" n="3">
-          <head>Caput 3</head>
+          <head xml:id="bible-hab-Hd1e207">Caput 3</head>
           <p xml:id="hab3_1" n="1">oratio Abacuc prophetae pro ignorationibus</p>
           <p xml:id="hab3_2" n="2">Domine audivi auditionem tuam et timui Domine opus tuum in medio
             annorum vivifica illud in medio annorum notum facies cum iratus fueris misericordiae

@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-zac">
-        <head>Zacharias</head>
+        <head xml:id="bible-zac-Hd1e76">Zacharias</head>
         <div xml:id="bible-zac1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-zac-Hd1e80">Caput 1</head>
           <p xml:id="zac1_1" n="1">in mense octavo in anno secundo Darii factum est verbum Domini ad
             Zacchariam filium Barachiae filium Addo prophetam dicens</p>
           <p xml:id="zac1_2" n="2">iratus est Dominus super patres vestros iracundia</p>
@@ -95,7 +93,7 @@
             Iuda ut dispergerent eam</p>
         </div>
         <div xml:id="bible-zac2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-zac-Hd1e151">Caput 2</head>
           <p xml:id="zac2_1" n="1">et levavi oculos meos et vidi et ecce vir et in manu eius
             funiculus mensorum</p>
           <p xml:id="zac2_2" n="2">et dixi quo tu vadis et dixit ad me ut metiar Hierusalem et
@@ -124,7 +122,7 @@
             sancto suo</p>
         </div>
         <div xml:id="bible-zac3" n="3">
-          <head>Caput 3</head>
+          <head xml:id="bible-zac-Hd1e197">Caput 3</head>
           <p xml:id="zac3_1" n="1">et ostendit mihi Iesum sacerdotem magnum stantem coram angelo
             Domini et Satan stabat a dextris eius ut adversaretur ei</p>
           <p xml:id="zac3_2" n="2">et dixit Dominus ad Satan increpet Dominus in te Satan et
@@ -150,7 +148,7 @@
             subter vineam et subter ficum</p>
         </div>
         <div xml:id="bible-zac4" n="4">
-          <head>Caput 4</head>
+          <head xml:id="bible-zac-Hd1e233">Caput 4</head>
           <p xml:id="zac4_1" n="1">et reversus est angelus qui loquebatur in me et suscitavit me
             quasi virum qui suscitatur de somno suo</p>
           <p xml:id="zac4_2" n="2">et dixit ad me quid tu vides et dixi vidi et ecce candelabrum
@@ -183,7 +181,7 @@
             terrae</p>
         </div>
         <div xml:id="bible-zac5" n="5">
-          <head>Caput 5</head>
+          <head xml:id="bible-zac-Hd1e283">Caput 5</head>
           <p xml:id="zac5_1" n="1">et conversus sum et levavi oculos meos et vidi et ecce volumen
             volans</p>
           <p xml:id="zac5_2" n="2">et dixit ad me quid tu vides et dixi ego video volumen volans
@@ -211,7 +209,7 @@
             stabiliatur et ponatur ibi super basem suam</p>
         </div>
         <div xml:id="bible-zac6" n="6">
-          <head>Caput 6</head>
+          <head xml:id="bible-zac-Hd1e323">Caput 6</head>
           <p xml:id="zac6_1" n="1">et conversus sum et levavi oculos meos et vidi et ecce quattuor
             quadrigae egredientes de medio duorum montium et montes montes aerei</p>
           <p xml:id="zac6_2" n="2">in quadriga prima equi rufi et in quadriga secunda equi nigri</p>
@@ -246,7 +244,7 @@
             vocem Domini Dei vestri</p>
         </div>
         <div xml:id="bible-zac7" n="7">
-          <head>Caput 7</head>
+          <head xml:id="bible-zac-Hd1e375">Caput 7</head>
           <p xml:id="zac7_1" n="1">et factum est in anno quarto Darii regis factum est verbum Domini
             ad Zacchariam in quarta mensis noni qui est casleu</p>
           <p xml:id="zac7_2" n="2">et miserunt ad domum Dei Sarasar et Rogomelech et viri qui erant
@@ -280,7 +278,7 @@
             desertum</p>
         </div>
         <div xml:id="bible-zac8" n="8">
-          <head>Caput 8</head>
+          <head xml:id="bible-zac-Hd1e424">Caput 8</head>
           <p xml:id="zac8_1" n="1">et factum est verbum Domini exercituum dicens</p>
           <p xml:id="zac8_2" n="2">haec dicit Dominus exercituum zelatus sum Sion zelo magno et
             indignatione magna zelatus sum eam</p>
@@ -336,7 +334,7 @@
             iudaei dicentes ibimus vobiscum audivimus enim quoniam Deus vobiscum est</p>
         </div>
         <div xml:id="bible-zac9" n="9">
-          <head>Caput 9</head>
+          <head xml:id="bible-zac-Hd1e502">Caput 9</head>
           <p xml:id="zac9_1" n="1">onus verbi Domini in terra Adrach et Damasci requiei eius quia
             Domini est oculus hominis et omnium tribuum Israhel</p>
           <p xml:id="zac9_2" n="2">Emath quoque in terminis eius et Tyrus et Sidon adsumpserunt
@@ -378,7 +376,7 @@
             electorum et vinum germinans virgines</p>
         </div>
         <div xml:id="bible-zac10" n="10">
-          <head>Caput 10</head>
+          <head xml:id="bible-zac-Hd1e561">Caput 10</head>
           <p xml:id="zac10_1" n="1">petite a Domino pluviam in tempore serotino et Dominus faciet
             nives et pluviam imbris dabit eis singulis herbam in agro</p>
           <p xml:id="zac10_2" n="2">quia simulacra locuta sunt inutile et divini viderunt mendacium
@@ -409,7 +407,7 @@
             Dominus</p>
         </div>
         <div xml:id="bible-zac11" n="11">
-          <head>Caput 11</head>
+          <head xml:id="bible-zac-Hd1e605">Caput 11</head>
           <p xml:id="zac11_1" n="1">aperi Libane portas tuas et comedat ignis cedros tuas</p>
           <p xml:id="zac11_2" n="2">ulula abies quia cecidit cedrus quoniam magnifici vastati sunt
             ululate quercus Basan quoniam succisus est saltus munitus</p>
@@ -449,7 +447,7 @@
             eius tenebrescens obscurabitur</p>
         </div>
         <div xml:id="bible-zac12" n="12">
-          <head>Caput 12</head>
+          <head xml:id="bible-zac-Hd1e664">Caput 12</head>
           <p xml:id="zac12_1" n="1">onus verbi Domini super Israhel dixit Dominus extendens caelum
             et fundans terram et fingens spiritum hominis in eo</p>
           <p xml:id="zac12_2" n="2">ecce ego ponam Hierusalem superliminare crapulae omnibus populis
@@ -486,7 +484,7 @@
             mulieres eorum seorsum</p>
         </div>
         <div xml:id="bible-zac13" n="13">
-          <head>Caput 13</head>
+          <head xml:id="bible-zac-Hd1e713">Caput 13</head>
           <p xml:id="zac13_1" n="1">in die illa erit fons patens domus David et habitantibus
             Hierusalem in ablutionem peccatoris et menstruatae</p>
           <p xml:id="zac13_2" n="2">et erit in die illa dicit Dominus exercituum disperdam nomina
@@ -511,7 +509,7 @@
             dicam populus meus es et ipse dicet Dominus Deus meus</p>
         </div>
         <div xml:id="bible-zac14" n="14">
-          <head>Caput 14</head>
+          <head xml:id="bible-zac-Hd1e746">Caput 14</head>
           <p xml:id="zac14_1" n="1">ecce dies veniunt Domini et dividentur spolia tua in medio
             tui</p>
           <p xml:id="zac14_2" n="2">et congregabo omnes gentes ad Hierusalem in proelium et capietur

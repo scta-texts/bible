@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-IItim">
-        <head>ad Timotheum II</head>
+        <head xml:id="bible-IItim-Hd1e76">ad Timotheum II</head>
         <div xml:id="bible-IItim1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-IItim-Hd1e80">Caput 1</head>
           <p xml:id="IItim1_1" n="1">Paulus apostolus Christi Iesu per voluntatem Dei secundum
             promissionem vitae quae est in Christo Iesu</p>
           <p xml:id="IItim1_2" n="2">Timotheo carissimo filio gratia misericordia pax a Deo Patre et
@@ -85,7 +83,7 @@
             et quanta Ephesi ministravit melius tu nosti</p>
         </div>
         <div xml:id="bible-IItim2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-IItim-Hd1e142">Caput 2</head>
           <p xml:id="IItim2_1" n="1">tu ergo fili mi confortare in gratia quae est in Christo
             Iesu</p>
           <p xml:id="IItim2_2" n="2">et quae audisti a me per multos testes haec commenda fidelibus
@@ -138,7 +136,7 @@
             ipsius voluntatem</p>
         </div>
         <div xml:id="bible-IItim3" n="3">
-          <head>Caput 3</head>
+          <head xml:id="bible-IItim-Hd1e229">Caput 3</head>
           <p xml:id="IItim3_1" n="1">hoc autem scito quod in novissimis diebus instabunt tempora
             periculosa</p>
           <p xml:id="IItim3_2" n="2">et erunt homines se ipsos amantes cupidi elati superbi
@@ -174,7 +172,7 @@
           <p xml:id="IItim3_17" n="17">ut perfectus sit homo Dei ad omne opus bonum instructus</p>
         </div>
         <div xml:id="bible-IItim4" n="4">
-          <head>Caput 4</head>
+          <head xml:id="bible-IItim-Hd1e288">Caput 4</head>
           <p xml:id="IItim4_1" n="1">testificor coram Deo et Christo Iesu qui iudicaturus est vivos
             ac mortuos et adventum ipsius et regnum eius</p>
           <p xml:id="IItim4_2" n="2">praedica verbum insta oportune inportune argue obsecra increpa

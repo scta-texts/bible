@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-iudic">
-        <head>Iudicium</head>
+        <head xml:id="bible-iudic-Hd1e76">Iudicium</head>
         <div xml:id="bible-iudic1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-iudic-Hd1e80">Caput 1</head>
           <p xml:id="iudic1_1" n="1">post mortem Iosue consuluerunt filii Israhel Dominum dicentes
             quis ascendet ante nos contra Chananeum et erit dux belli</p>
           <p xml:id="iudic1_2" n="2">dixitque Dominus Iudas ascendet ecce tradidi terram in manus
@@ -125,7 +123,7 @@
             superiora loca</p>
         </div>
         <div xml:id="bible-iudic2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-iudic-Hd1e199">Caput 2</head>
           <p xml:id="iudic2_1" n="1">ascenditque angelus Domini de Galgal ad locum Flentium et ait
             eduxi vos de Aegypto et introduxi in terram pro qua iuravi patribus vestris et
             pollicitus sum ut non facerem irritum pactum meum vobiscum in sempiternum</p>
@@ -180,7 +178,7 @@
             noluit nec tradidit in manibus Iosue</p>
         </div>
         <div xml:id="bible-iudic3" n="3">
-          <head>Caput 3</head>
+          <head xml:id="bible-iudic-Hd1e277">Caput 3</head>
           <p xml:id="iudic3_1" n="1">hae sunt gentes quas Dominus dereliquit ut erudiret in eis
             Israhelem et omnes qui non noverant bella Chananeorum</p>
           <p xml:id="iudic3_2" n="2">et postea discerent filii eorum certare cum hostibus et habere
@@ -253,7 +251,7 @@
             Philisthim sescentos viros vomere et ipse quoque defendit Israhel</p>
         </div>
         <div xml:id="bible-iudic4" n="4">
-          <head>Caput 4</head>
+          <head xml:id="bible-iudic-Hd1e380">Caput 4</head>
           <p xml:id="iudic4_1" n="1">addideruntque filii Israhel facere malum in conspectu Domini
             post mortem Ahoth</p>
           <p xml:id="iudic4_2" n="2">et tradidit illos Dominus in manu Iabin regis Chanaan qui
@@ -316,7 +314,7 @@
             Chanaan donec delerent eum</p>
         </div>
         <div xml:id="bible-iudic5" n="5">
-          <head>Caput 5</head>
+          <head xml:id="bible-iudic-Hd1e462">Caput 5</head>
           <p xml:id="iudic5_1" n="1">cecineruntque Debbora et Barac filius Abinoem in die illo
             dicentes</p>
           <p xml:id="iudic5_2" n="2">qui sponte obtulistis de Israhel animas vestras ad periculum
@@ -389,7 +387,7 @@
           <p xml:id="iudic5_32" n="32">quievitque terra per quadraginta annos</p>
         </div>
         <div xml:id="bible-iudic6" n="6">
-          <head>Caput 6</head>
+          <head xml:id="bible-iudic-Hd1e568">Caput 6</head>
           <p xml:id="iudic6_1" n="1">fecerunt autem filii Israhel malum in conspectu Domini qui
             tradidit eos in manu Madian septem annis</p>
           <p xml:id="iudic6_2" n="2">et oppressi sunt valde ab eis feceruntque sibi antra et
@@ -482,7 +480,7 @@
             in solo vellere et ros in omni terra</p>
         </div>
         <div xml:id="bible-iudic7" n="7">
-          <head>Caput 7</head>
+          <head xml:id="bible-iudic-Hd1e699">Caput 7</head>
           <p xml:id="iudic7_1" n="1">igitur Hierobbaal qui est et Gedeon de nocte consurgens et
             omnis populus cum eo venit ad fontem qui vocatur Arad erant autem castra Madian in valle
             ad septentrionalem plagam collis Excelsi</p>
@@ -553,7 +551,7 @@
             portantes ad Gedeon trans fluenta Iordanis</p>
         </div>
         <div xml:id="bible-iudic8" n="8">
-          <head>Caput 8</head>
+          <head xml:id="bible-iudic-Hd1e783">Caput 8</head>
           <p xml:id="iudic8_1" n="1">dixeruntque ad eum viri Ephraim quid est hoc quod facere
             voluisti ut non nos vocares cum ad pugnam pergeres contra Madian iurgantes fortiter et
             prope vim inferentes</p>
@@ -634,7 +632,7 @@
             omnia bona quae fecerat Israheli</p>
         </div>
         <div xml:id="bible-iudic9" n="9">
-          <head>Caput 9</head>
+          <head xml:id="bible-iudic-Hd1e899">Caput 9</head>
           <p xml:id="iudic9_1" n="1">abiit autem Abimelech filius Hierobbaal in Sychem ad fratres
             matris suae et locutus est ad eos et ad omnem cognationem domus patris matris suae
             dicens</p>
@@ -771,7 +769,7 @@
             super eos maledictio Ioatham filii Hierobbaal</p>
         </div>
         <div xml:id="bible-iudic10" n="10">
-          <head>Caput 10</head>
+          <head xml:id="bible-iudic-Hd1e1084">Caput 10</head>
           <p xml:id="iudic10_1" n="1">post Abimelech surrexit dux in Israhel Thola filius Phoa
             patrui Abimelech vir de Isachar qui habitavit in Sanir montis Ephraim</p>
           <p xml:id="iudic10_2" n="2">et iudicavit Israhel viginti et tribus annis mortuusque ac
@@ -813,7 +811,7 @@
             primus e nobis contra filios Ammon coeperit dimicare erit dux populi Galaad</p>
         </div>
         <div xml:id="bible-iudic11" n="11">
-          <head>Caput 11</head>
+          <head xml:id="bible-iudic-Hd1e1147">Caput 11</head>
           <p xml:id="iudic11_1" n="1">fuit illo tempore Iepthae Galaadites vir fortissimus atque
             pugnator filius meretricis mulieris qui natus est de Galaad</p>
           <p xml:id="iudic11_2" n="2">habuit autem Galaad uxorem de qua suscepit filios qui postquam
@@ -911,7 +909,7 @@
             plangant filiam Iepthae Galaaditae diebus quattuor</p>
         </div>
         <div xml:id="bible-iudic12" n="12">
-          <head>Caput 12</head>
+          <head xml:id="bible-iudic-Hd1e1278">Caput 12</head>
           <p xml:id="iudic12_1" n="1">ecce autem in Ephraim orta seditio est nam transeuntes contra
             aquilonem dixerunt ad Iepthae quare vadens ad pugnam contra filios Ammon vocare nos
             noluisti ut pergeremus tecum igitur incendimus domum tuam</p>
@@ -950,7 +948,7 @@
             monte Amalech</p>
         </div>
         <div xml:id="bible-iudic13" n="13">
-          <head>Caput 13</head>
+          <head xml:id="bible-iudic-Hd1e1330">Caput 13</head>
           <p xml:id="iudic13_1" n="1">rursumque filii Israhel fecerunt malum in conspectu Domini qui
             tradidit eos in manus Philisthinorum quadraginta annis</p>
           <p xml:id="iudic13_2" n="2">erat autem vir quidam de Saraa et de stirpe Dan nomine Manue
@@ -1009,7 +1007,7 @@
             Saraa et Esthaol</p>
         </div>
         <div xml:id="bible-iudic14" n="14">
-          <head>Caput 14</head>
+          <head xml:id="bible-iudic-Hd1e1414">Caput 14</head>
           <p xml:id="iudic14_1" n="1">descendit igitur Samson in Thamnatha vidensque ibi mulierem de
             filiabus Philisthim</p>
           <p xml:id="iudic14_2" n="2">ascendit et nuntiavit patri suo et matri dicens vidi mulierem
@@ -1065,7 +1063,7 @@
             pronubis</p>
         </div>
         <div xml:id="bible-iudic15" n="15">
-          <head>Caput 15</head>
+          <head xml:id="bible-iudic-Hd1e1482">Caput 15</head>
           <p xml:id="iudic15_1" n="1">post aliquantum autem temporis cum dies triticeae messis
             instarent venit Samson invisere volens uxorem suam et adtulit ei hedum de capris cumque
             cubiculum eius solito vellet intrare prohibuit eum pater illius dicens</p>
@@ -1116,7 +1114,7 @@
           <p xml:id="iudic15_20" n="20">iudicavitque Israhel in diebus Philisthim viginti annis</p>
         </div>
         <div xml:id="bible-iudic16" n="16">
-          <head>Caput 16</head>
+          <head xml:id="bible-iudic-Hd1e1550">Caput 16</head>
           <p xml:id="iudic16_1" n="1">abiit quoque in Gazam et vidit ibi meretricem mulierem
             ingressusque est ad eam</p>
           <p xml:id="iudic16_2" n="2">quod cum audissent Philisthim et percrebruisset apud eos
@@ -1200,7 +1198,7 @@
             iudicavitque Israhel viginti annis</p>
         </div>
         <div xml:id="bible-iudic17" n="17">
-          <head>Caput 17</head>
+          <head xml:id="bible-iudic-Hd1e1654">Caput 17</head>
           <p xml:id="iudic17_1" n="1">fuit eo tempore vir quidam de monte Ephraim nomine Michas</p>
           <p xml:id="iudic17_2" n="2">qui dixit matri suae mille centum argenteos quos separaveras
             tibi et super quibus me audiente iuraveras ecce ego habeo et apud me sunt cui illa
@@ -1234,7 +1232,7 @@
             generis sacerdotem</p>
         </div>
         <div xml:id="bible-iudic18" n="18">
-          <head>Caput 18</head>
+          <head xml:id="bible-iudic-Hd1e1700">Caput 18</head>
           <p xml:id="iudic18_1" n="1">in diebus illis non erat rex in Israhel et tribus Dan
             quaerebat possessionem sibi ut habitaret in ea usque ad illum enim diem inter ceteras
             tribus sortem non acceperat</p>
@@ -1311,7 +1309,7 @@
             Dei in Silo in diebus illis non erat rex in Israhel</p>
         </div>
         <div xml:id="bible-iudic19" n="19">
-          <head>Caput 19</head>
+          <head xml:id="bible-iudic-Hd1e1803">Caput 19</head>
           <p xml:id="iudic19_1" n="1">fuit quidam vir Levites habitans in latere montis Ephraim qui
             accepit uxorem de Bethleem Iuda</p>
           <p xml:id="iudic19_2" n="2">quae reliquit eum et reversa est in domum patris sui Bethleem
@@ -1392,7 +1390,7 @@
             praesens tempus ferte sententiam et in commune decernite quid facto opus sit</p>
         </div>
         <div xml:id="bible-iudic20" n="20">
-          <head>Caput 20</head>
+          <head xml:id="bible-iudic-Hd1e1903">Caput 20</head>
           <p xml:id="iudic20_1" n="1">egressi sunt itaque omnes filii Israhel et pariter congregati
             quasi vir unus de Dan usque Bersabee et terra Galaad ad Dominum in Maspha</p>
           <p xml:id="iudic20_2" n="2">omnesque anguli populorum et cunctae tribus Israhel in
@@ -1518,7 +1516,7 @@
             flamma consumpsit</p>
         </div>
         <div xml:id="bible-iudic21" n="21">
-          <head>Caput 21</head>
+          <head xml:id="bible-iudic-Hd1e2060">Caput 21</head>
           <p xml:id="iudic21_1" n="1">iuraverunt quoque filii Israhel in Maspha et dixerunt nullus
             nostrum dabit filiis Beniamin de filiabus suis uxorem</p>
           <p xml:id="iudic21_2" n="2">veneruntque omnes ad domum Dei in Silo et in conspectu eius

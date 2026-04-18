@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-prov">
-        <head>Proverbia</head>
+        <head xml:id="bible-prov-Hd1e76">Proverbia</head>
         <div xml:id="bible-prov1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-prov-Hd1e80">Caput 1</head>
           <p xml:id="prov1_1" n="1">parabolae Salomonis filii David regis Israhel</p>
           <p xml:id="prov1_2" n="2">ad sciendam sapientiam et disciplinam</p>
           <p xml:id="prov1_3" n="3">ad intellegenda verba prudentiae et suscipiendam eruditionem
@@ -105,7 +103,7 @@
             perfruetur malorum timore sublato</p>
         </div>
         <div xml:id="bible-prov2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-prov-Hd1e189">Caput 2</head>
           <p xml:id="prov2_1" n="1">fili mi si susceperis sermones meos et mandata mea absconderis
             penes te</p>
           <p xml:id="prov2_2" n="2">ut audiat sapientiam auris tua inclina cor tuum ad noscendam
@@ -144,7 +142,7 @@
             ex ea</p>
         </div>
         <div xml:id="bible-prov3" n="3">
-          <head>Caput 3</head>
+          <head xml:id="bible-prov-Hd1e263">Caput 3</head>
           <p xml:id="prov3_1" n="1">fili mi ne obliviscaris legis meae et praecepta mea custodiat
             cor tuum</p>
           <p xml:id="prov3_2" n="2">longitudinem enim dierum et annos vitae et pacem adponent
@@ -211,7 +209,7 @@
             ignominia</p>
         </div>
         <div xml:id="bible-prov4" n="4">
-          <head>Caput 4</head>
+          <head xml:id="bible-prov-Hd1e379">Caput 4</head>
           <p xml:id="prov4_1" n="1">audite filii disciplinam patris et adtendite ut sciatis
             prudentiam</p>
           <p xml:id="prov4_2" n="2">donum bonum tribuam vobis legem meam ne derelinquatis</p>
@@ -260,7 +258,7 @@
             malo</p>
         </div>
         <div xml:id="bible-prov5" n="5">
-          <head>Caput 5</head>
+          <head xml:id="bible-prov-Hd1e470">Caput 5</head>
           <p xml:id="prov5_1" n="1">fili mi adtende sapientiam meam et prudentiae meae inclina aurem
             tuam</p>
           <p xml:id="prov5_2" n="2">ut custodias cogitationes et disciplinam labia tua
@@ -303,7 +301,7 @@
             stultitiae suae decipietur</p>
         </div>
         <div xml:id="bible-prov6" n="6">
-          <head>Caput 6</head>
+          <head xml:id="bible-prov-Hd1e548">Caput 6</head>
           <p xml:id="prov6_1" n="1">fili mi si spoponderis pro amico tuo defixisti apud extraneum
             manum tuam</p>
           <p xml:id="prov6_2" n="2">inlaqueatus es verbis oris tui et captus propriis sermonibus</p>
@@ -366,7 +364,7 @@
             redemptione dona plurima</p>
         </div>
         <div xml:id="bible-prov7" n="7">
-          <head>Caput 7</head>
+          <head xml:id="bible-prov-Hd1e664">Caput 7</head>
           <p xml:id="prov7_1" n="1">fili mi custodi sermones meos et praecepta mea reconde tibi</p>
           <p xml:id="prov7_2" n="2">serva mandata mea et vives et legem meam quasi pupillam oculi
             tui</p>
@@ -412,7 +410,7 @@
           <p xml:id="prov7_27" n="27">viae inferi domus eius penetrantes interiora mortis</p>
         </div>
         <div xml:id="bible-prov8" n="8">
-          <head>Caput 8</head>
+          <head xml:id="bible-prov-Hd1e754">Caput 8</head>
           <p xml:id="prov8_1" n="1">numquid non sapientia clamitat et prudentia dat vocem suam</p>
           <p xml:id="prov8_2" n="2">in summis excelsisque verticibus super viam in mediis semitis
             stans</p>
@@ -474,7 +472,7 @@
             oderunt diligunt mortem</p>
         </div>
         <div xml:id="bible-prov9" n="9">
-          <head>Caput 9</head>
+          <head xml:id="bible-prov-Hd1e873">Caput 9</head>
           <p xml:id="prov9_1" n="1">sapientia aedificavit sibi domum excidit columnas septem</p>
           <p xml:id="prov9_2" n="2">immolavit victimas suas miscuit vinum et proposuit mensam
             suam</p>
@@ -508,7 +506,7 @@
             convivae eius</p>
         </div>
         <div xml:id="bible-prov10" n="10">
-          <head>Caput 10</head>
+          <head xml:id="bible-prov-Hd1e935">Caput 10</head>
           <p xml:id="prov10_1" n="1">parabolae Salomonis filius sapiens laetificat patrem filius
             vero stultus maestitia est matris suae</p>
           <p xml:id="prov10_2" n="2">non proderunt thesauri impietatis iustitia vero liberabit a
@@ -565,7 +563,7 @@
           <p xml:id="prov10_32" n="32">labia iusti considerant placita et os impiorum perversa</p>
         </div>
         <div xml:id="bible-prov11" n="11">
-          <head>Caput 11</head>
+          <head xml:id="bible-prov-Hd1e1042">Caput 11</head>
           <p xml:id="prov11_1" n="1">statera dolosa abominatio apud Dominum et pondus aequum
             voluntas eius</p>
           <p xml:id="prov11_2" n="2">ubi fuerit superbia ibi erit et contumelia ubi autem humilitas
@@ -627,7 +625,7 @@
             peccator</p>
         </div>
         <div xml:id="bible-prov12" n="12">
-          <head>Caput 12</head>
+          <head xml:id="bible-prov-Hd1e1145">Caput 12</head>
           <p xml:id="prov12_1" n="1">qui diligit disciplinam diligit scientiam qui autem odit
             increpationes insipiens est</p>
           <p xml:id="prov12_2" n="2">qui bonus est hauriet a Domino gratiam qui autem confidit
@@ -685,7 +683,7 @@
             mortem</p>
         </div>
         <div xml:id="bible-prov13" n="13">
-          <head>Caput 13</head>
+          <head xml:id="bible-prov-Hd1e1238">Caput 13</head>
           <p xml:id="prov13_1" n="1">filius sapiens doctrina patris qui autem inlusor est non audit
             cum arguitur</p>
           <p xml:id="prov13_2" n="2">de fructu oris homo saturabitur bonis anima autem
@@ -733,7 +731,7 @@
             insaturabilis</p>
         </div>
         <div xml:id="bible-prov14" n="14">
-          <head>Caput 14</head>
+          <head xml:id="bible-prov-Hd1e1322">Caput 14</head>
           <p xml:id="prov14_1" n="1">sapiens mulier aedificavit domum suam insipiens instructam
             quoque destruet manibus</p>
           <p xml:id="prov14_2" n="2">ambulans recto itinere et timens Deum despicitur ab eo qui
@@ -797,7 +795,7 @@
             inutilis sustinebit</p>
         </div>
         <div xml:id="bible-prov15" n="15">
-          <head>Caput 15</head>
+          <head xml:id="bible-prov-Hd1e1438">Caput 15</head>
           <p xml:id="prov15_1" n="1">responsio mollis frangit iram sermo durus suscitat furorem</p>
           <p xml:id="prov15_2" n="2">lingua sapientium ornat scientiam os fatuorum ebullit
             stultitiam</p>
@@ -862,7 +860,7 @@
             humilitas</p>
         </div>
         <div xml:id="bible-prov16" n="16">
-          <head>Caput 16</head>
+          <head xml:id="bible-prov-Hd1e1547">Caput 16</head>
           <p xml:id="prov16_1" n="1">hominis est animum praeparare et Dei gubernare linguam</p>
           <p xml:id="prov16_2" n="2">omnes viae hominum patent oculis eius spirituum ponderator est
             Dominus</p>
@@ -923,7 +921,7 @@
           <p xml:id="prov16_33" n="33">sortes mittuntur in sinu sed a Domino temperantur</p>
         </div>
         <div xml:id="bible-prov17" n="17">
-          <head>Caput 17</head>
+          <head xml:id="bible-prov-Hd1e1657">Caput 17</head>
           <p xml:id="prov17_1" n="1">melior est buccella sicca cum gaudio quam domus plena victimis
             cum iurgio</p>
           <p xml:id="prov17_2" n="2">servus sapiens dominabitur filiis stultis et inter fratres
@@ -979,7 +977,7 @@
             conpresserit labia sua intellegens</p>
         </div>
         <div xml:id="bible-prov18" n="18">
-          <head>Caput 18</head>
+          <head xml:id="bible-prov-Hd1e1750">Caput 18</head>
           <p xml:id="prov18_1" n="1">occasiones quaerit qui vult recedere ab amico omni tempore erit
             exprobrabilis</p>
           <p xml:id="prov18_2" n="2">non recipit stultus verba prudentiae nisi ea dixeris quae
@@ -1027,7 +1025,7 @@
           <p xml:id="prov18_24" n="24">vir amicalis ad societatem magis amicus erit quam frater</p>
         </div>
         <div xml:id="bible-prov19" n="19">
-          <head>Caput 19</head>
+          <head xml:id="bible-prov-Hd1e1831">Caput 19</head>
           <p xml:id="prov19_1" n="1">melior est pauper qui ambulat in simplicitate sua quam torquens
             labia insipiens</p>
           <p xml:id="prov19_2" n="2">ubi non est scientia animae non est bonum et qui festinus est
@@ -1086,7 +1084,7 @@
             stultorum corporibus</p>
         </div>
         <div xml:id="bible-prov20" n="20">
-          <head>Caput 20</head>
+          <head xml:id="bible-prov-Hd1e1928">Caput 20</head>
           <p xml:id="prov20_1" n="1">luxuriosa res vinum et tumultuosa ebrietas quicumque his
             delectatur non erit sapiens</p>
           <p xml:id="prov20_2" n="2">sicut rugitus leonis ita terror regis qui provocat eum peccat
@@ -1144,7 +1142,7 @@
             ventris</p>
         </div>
         <div xml:id="bible-prov21" n="21">
-          <head>Caput 21</head>
+          <head xml:id="bible-prov-Hd1e2028">Caput 21</head>
           <p xml:id="prov21_1" n="1">sicut divisiones aquarum ita cor regis in manu Domini quocumque
             voluerit inclinabit illud</p>
           <p xml:id="prov21_2" n="2">omnis via viri recta sibi videtur adpendit autem corda
@@ -1204,7 +1202,7 @@
           <p xml:id="prov21_31" n="31">equus paratur ad diem belli Dominus autem salutem tribuet</p>
         </div>
         <div xml:id="bible-prov22" n="22">
-          <head>Caput 22</head>
+          <head xml:id="bible-prov-Hd1e2131">Caput 22</head>
           <p xml:id="prov22_1" n="1">melius est nomen bonum quam divitiae multae super argentum et
             aurum gratia bona</p>
           <p xml:id="prov22_2" n="2">dives et pauper obviaverunt sibi utriusque operator est
@@ -1263,7 +1261,7 @@
             erit ante ignobiles</p>
         </div>
         <div xml:id="bible-prov23" n="23">
-          <head>Caput 23</head>
+          <head xml:id="bible-prov-Hd1e2229">Caput 23</head>
           <p xml:id="prov23_1" n="1">quando sederis ut comedas cum principe diligenter adtende quae
             posita sunt ante faciem tuam</p>
           <p xml:id="prov23_2" n="2">et statue cultrum in gutture tuo si tamen habes in potestate
@@ -1331,7 +1329,7 @@
             non sensi quando evigilabo et rursum vina repperiam</p>
         </div>
         <div xml:id="bible-prov24" n="24">
-          <head>Caput 24</head>
+          <head xml:id="bible-prov-Hd1e2345">Caput 24</head>
           <p xml:id="prov24_1" n="1">ne aemuleris viros malos nec desideres esse cum eis</p>
           <p xml:id="prov24_2" n="2">quia rapinas meditatur mens eorum et fraudes labia eorum
             loquuntur</p>
@@ -1394,7 +1392,7 @@
             armatus</p>
         </div>
         <div xml:id="bible-prov25" n="25">
-          <head>Caput 25</head>
+          <head xml:id="bible-prov-Hd1e2457">Caput 25</head>
           <p xml:id="prov25_1" n="1">haec quoque parabolae Salomonis quas transtulerunt viri
             Ezechiae regis Iuda</p>
           <p xml:id="prov25_2" n="2">gloria Dei celare verbum et gloria regum investigare
@@ -1451,7 +1449,7 @@
             potest in loquendo cohibere spiritum suum</p>
         </div>
         <div xml:id="bible-prov26" n="26">
-          <head>Caput 26</head>
+          <head xml:id="bible-prov-Hd1e2550">Caput 26</head>
           <p xml:id="prov26_1" n="1">quomodo nix aestate et pluvia in messe sic indecens est stulto
             gloria</p>
           <p xml:id="prov26_2" n="2">sicut avis ad alia transvolans et passer quolibet vadens sic
@@ -1507,7 +1505,7 @@
             ruinas</p>
         </div>
         <div xml:id="bible-prov27" n="27">
-          <head>Caput 27</head>
+          <head xml:id="bible-prov-Hd1e2643">Caput 27</head>
           <p xml:id="prov27_1" n="1">ne glorieris in crastinum ignorans quid superventura pariat
             dies</p>
           <p xml:id="prov27_2" n="2">laudet te alienus et non os tuum extraneus et non labia tua</p>
@@ -1561,7 +1559,7 @@
             tuae et ad victum ancillis tuis</p>
         </div>
         <div xml:id="bible-prov28" n="28">
-          <head>Caput 28</head>
+          <head xml:id="bible-prov-Hd1e2733">Caput 28</head>
           <p xml:id="prov28_1" n="1">fugit impius nemine persequente iustus autem quasi leo
             confidens absque terrore erit</p>
           <p xml:id="prov28_2" n="2">propter peccata terrae multi principes eius et propter hominis
@@ -1620,7 +1618,7 @@
             multiplicabuntur iusti</p>
         </div>
         <div xml:id="bible-prov29" n="29">
-          <head>Caput 29</head>
+          <head xml:id="bible-prov-Hd1e2827">Caput 29</head>
           <p xml:id="prov29_1" n="1">viro qui corripientem dura cervice contemnit repentinus
             superveniet interitus et eum sanitas non sequitur</p>
           <p xml:id="prov29_2" n="2">in multiplicatione iustorum laetabitur vulgus cum impii
@@ -1675,7 +1673,7 @@
             in recta sunt via</p>
         </div>
         <div xml:id="bible-prov30" n="30">
-          <head>Caput 30</head>
+          <head xml:id="bible-prov-Hd1e2917">Caput 30</head>
           <p xml:id="prov30_1" n="1">verba Congregantis filii Vomentis visio quam locutus est vir
             cum quo est Deus et qui Deo secum morante confortatus ait</p>
           <p xml:id="prov30_2" n="2">stultissimus sum virorum et sapientia hominum non est mecum</p>
@@ -1737,7 +1735,7 @@
             discordias</p>
         </div>
         <div xml:id="bible-prov31" n="31">
-          <head>Caput 31</head>
+          <head xml:id="bible-prov-Hd1e3026">Caput 31</head>
           <p xml:id="prov31_1" n="1">verba Lamuhel regis visio qua erudivit eum mater sua</p>
           <p xml:id="prov31_2" n="2">quid dilecte mi quid dilecte uteri mei quid dilecte votorum
             meorum</p>

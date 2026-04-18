@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-tob">
-        <head>Tobiae</head>
+        <head xml:id="bible-tob-Hd1e76">Tobiae</head>
         <div xml:id="bible-tob1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-tob-Hd1e80">Caput 1</head>
           <p xml:id="tob1_1" n="1">Tobias ex tribu et civitate Nepthalim quae est in superioribus
             Galileae supra Naasson post viam quae ducit ad occidentem in sinistro habens civitatem
             Sephet</p>
@@ -97,7 +95,7 @@
             restituta est ei</p>
         </div>
         <div xml:id="bible-tob2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-tob-Hd1e164">Caput 2</head>
           <p xml:id="tob2_1" n="1">post haec vero cum esset dies festus Domini et factum esset
             prandium bonum in domo Tobis</p>
           <p xml:id="tob2_2" n="2">dixit filio suo vade et adduc aliquos ex tribu nostra timentes
@@ -143,7 +141,7 @@
           <p xml:id="tob2_23" n="23">atque his et aliis huiusmodi verbis exprobrabat ei</p>
         </div>
         <div xml:id="bible-tob3" n="3">
-          <head>Caput 3</head>
+          <head xml:id="bible-tob-Hd1e242">Caput 3</head>
           <p xml:id="tob3_1" n="1">tunc Tobias ingemuit et coepit orare cum lacrimis</p>
           <p xml:id="tob3_2" n="2">dicens iustus es Domine et omnia iudicia tua iusta sunt et omnes
             viae tuae misericordia et veritas et iudicium</p>
@@ -198,7 +196,7 @@
             quorum uno tempore fuerat oratio in conspectu Domini recitata</p>
         </div>
         <div xml:id="bible-tob4" n="4">
-          <head>Caput 4</head>
+          <head xml:id="bible-tob-Hd1e326">Caput 4</head>
           <p xml:id="tob4_1" n="1">igitur cum Tobias putaret orationem suam exaudiri ut mori
             potuisset vocavit ad se Tobiam filium suum</p>
           <p xml:id="tob4_2" n="2">dixitque ei audi fili mi verba oris mei et ea in corde tuo quasi
@@ -244,7 +242,7 @@
             bona habemus si timuerimus Deum et recesserimus ab omni peccato et fecerimus bene</p>
         </div>
         <div xml:id="bible-tob5" n="5">
-          <head>Caput 5</head>
+          <head xml:id="bible-tob-Hd1e405">Caput 5</head>
           <p xml:id="tob5_1" n="1">tunc Tobias respondit patri suo et dixit omnia quaecumque
             praecepisti mihi faciam pater</p>
           <p xml:id="tob5_2" n="2">quomodo autem hanc pecuniam inquiram ignoro ille me nescit neque
@@ -301,7 +299,7 @@
           <p xml:id="tob5_28" n="28">ad hanc vocem cessavit mater eius flere et tacuit</p>
         </div>
         <div xml:id="bible-tob6" n="6">
-          <head>Caput 6</head>
+          <head xml:id="bible-tob-Hd1e498">Caput 6</head>
           <p xml:id="tob6_1" n="1">profectusque est Tobias et canis secutus est eum et mansit prima
             mansione iuxta fluvium Tigris</p>
           <p xml:id="tob6_2" n="2">et exivit ut lavaret pedes suos et ecce piscis inmanis exivit ad
@@ -347,7 +345,7 @@
             filiis consequaris</p>
         </div>
         <div xml:id="bible-tob7" n="7">
-          <head>Caput 7</head>
+          <head xml:id="bible-tob-Hd1e569">Caput 7</head>
           <p xml:id="tob7_1" n="1">ingressi sunt autem ad Raguhelem et suscepit eos Raguhel cum
             gaudio</p>
           <p xml:id="tob7_2" n="2">intuensque Tobiam Raguhel dixit Annae uxori suae quam similis est
@@ -389,7 +387,7 @@
             gaudium pro taedio quo perpessa es</p>
         </div>
         <div xml:id="bible-tob8" n="8">
-          <head>Caput 8</head>
+          <head xml:id="bible-tob-Hd1e637">Caput 8</head>
           <p xml:id="tob8_1" n="1">postquam vero cenaverunt introduxerunt iuvenem ad eam</p>
           <p xml:id="tob8_2" n="2">recordatus itaque Tobias sermonem angeli protulit de cassidile
             suo partem iecoris posuitque eam super carbones vivos</p>
@@ -442,7 +440,7 @@
             dominio deveniret</p>
         </div>
         <div xml:id="bible-tob9" n="9">
-          <head>Caput 9</head>
+          <head xml:id="bible-tob-Hd1e718">Caput 9</head>
           <p xml:id="tob9_1" n="1">tunc vocavit ad se Tobias angelum quem quidem hominem aestimabat
             et dixit ei Azarias frater peto ut auscultes verba mea</p>
           <p xml:id="tob9_2" n="2">si me ipsum tradam tibi servum non ero condignus providentiae
@@ -473,7 +471,7 @@
             timore Domini nuptiarum convivium exercebant</p>
         </div>
         <div xml:id="bible-tob10" n="10">
-          <head>Caput 10</head>
+          <head xml:id="bible-tob-Hd1e761">Caput 10</head>
           <p xml:id="tob10_1" n="1">cum vero moras faceret Tobias causa nuptiarum sollicitus erat
             pater eius Tobias dicens putas quare moratur filius meus aut quare detentus est ibi</p>
           <p xml:id="tob10_2" n="2">putasne Gabelus mortuus est et nemo illi reddet pecuniam</p>
@@ -507,7 +505,7 @@
             gubernare domum et se ipsam inreprehensibilem exhibere</p>
         </div>
         <div xml:id="bible-tob11" n="11">
-          <head>Caput 11</head>
+          <head xml:id="bible-tob-Hd1e808">Caput 11</head>
           <p xml:id="tob11_1" n="1">cumque reverterentur pervenerunt ad Charram quae est in medio
             itinere contra Nineven undecimo die</p>
           <p xml:id="tob11_2" n="2">dixit angelus Tobias frater scis quemadmodum reliquisti patrem
@@ -555,7 +553,7 @@
             sunt</p>
         </div>
         <div xml:id="bible-tob12" n="12">
-          <head>Caput 12</head>
+          <head xml:id="bible-tob-Hd1e879">Caput 12</head>
           <p xml:id="tob12_1" n="1">tunc vocavit ad se Tobias filium suum dixitque ei quid possumus
             dare viro isti sancto qui venit tecum</p>
           <p xml:id="tob12_2" n="2">respondens Tobias dixit pater quam mercedem dabimus ei aut quid
@@ -605,7 +603,7 @@
             exsurgentes narraverunt omnia mirabilia eius</p>
         </div>
         <div xml:id="bible-tob13" n="13">
-          <head>Caput 13</head>
+          <head xml:id="bible-tob-Hd1e953">Caput 13</head>
           <p xml:id="tob13_1" n="1">aperiens autem Tobias senior os suum benedixit Dominum et dixit
             magnus es Domine in aeternum et in omnia saecula regnum tuum</p>
           <p xml:id="tob13_2" n="2">quoniam tu flagellas et salvas deducis ad infernum et reducis et
@@ -652,7 +650,7 @@
             saecula saeculorum super eam amen</p>
         </div>
         <div xml:id="bible-tob14" n="14">
-          <head>Caput 14</head>
+          <head xml:id="bible-tob-Hd1e1031">Caput 14</head>
           <p xml:id="tob14_1" n="1">et consummati sunt sermones Tobi et posteaquam inluminatus est
             vixit annis quadraginta duobus et vidit filios nepotum suorum</p>
           <p xml:id="tob14_2" n="2">conpletis itaque annis centum duobus sepultus est honorifice in

@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-cant">
-        <head>Canticum Canticorum</head>
+        <head xml:id="bible-cant-Hd1e76">Canticum Canticorum</head>
         <div xml:id="bible-cant1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-cant-Hd1e80">Caput 1</head>
           <p xml:id="cant1_1" n="1">osculetur me osculo oris sui quia meliora sunt ubera tua
             vino</p>
           <p xml:id="cant1_2" n="2">fraglantia unguentis optimis oleum effusum nomen tuum ideo
@@ -76,7 +74,7 @@
             cypressina</p>
         </div>
         <div xml:id="bible-cant2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-cant-Hd1e135">Caput 2</head>
           <p xml:id="cant2_1" n="1">ego flos campi et lilium convallium</p>
           <p xml:id="cant2_2" n="2">sicut lilium inter spinas sic amica mea inter filias</p>
           <p xml:id="cant2_3" n="3">sicut malum inter ligna silvarum sic dilectus meus inter filios
@@ -107,7 +105,7 @@
             esto dilecte mi capreae aut hinulo cervorum super montes Bether</p>
         </div>
         <div xml:id="bible-cant3" n="3">
-          <head>Caput 3</head>
+          <head xml:id="bible-cant-Hd1e194">Caput 3</head>
           <p xml:id="cant3_1" n="1">in lectulo meo per noctes quaesivi quem diligit anima mea
             quaesivi illum et non inveni</p>
           <p xml:id="cant3_2" n="2">surgam et circuibo civitatem per vicos et plateas quaeram quem
@@ -133,7 +131,7 @@
             eius</p>
         </div>
         <div xml:id="bible-cant4" n="4">
-          <head>Caput 4</head>
+          <head xml:id="bible-cant-Hd1e234">Caput 4</head>
           <p xml:id="cant4_1" n="1">quam pulchra es amica mea quam pulchra es oculi tui columbarum
             absque eo quod intrinsecus latet capilli tui sicut greges caprarum quae ascenderunt de
             monte Galaad</p>
@@ -168,7 +166,7 @@
             aromata illius</p>
         </div>
         <div xml:id="bible-cant5" n="5">
-          <head>Caput 5</head>
+          <head xml:id="bible-cant-Hd1e290">Caput 5</head>
           <p xml:id="cant5_1" n="1">veniat dilectus meus in hortum suum et comedat fructum pomorum
             suorum veni in hortum meum soror mea sponsa messui murram meam cum aromatibus meis
             comedi favum cum melle meo bibi vinum meum cum lacte meo comedite amici bibite et
@@ -208,7 +206,7 @@
             dilectus tuus et quaeremus eum tecum</p>
         </div>
         <div xml:id="bible-cant6" n="6">
-          <head>Caput 6</head>
+          <head xml:id="bible-cant-Hd1e349">Caput 6</head>
           <p xml:id="cant6_1" n="1">dilectus meus descendit in hortum suum ad areolam aromatis ut
             pascatur in hortis et lilia colligat</p>
           <p xml:id="cant6_2" n="2">ego dilecto meo et dilectus meus mihi qui pascitur inter
@@ -235,7 +233,7 @@
             te</p>
         </div>
         <div xml:id="bible-cant7" n="7">
-          <head>Caput 7</head>
+          <head xml:id="bible-cant-Hd1e392">Caput 7</head>
           <p xml:id="cant7_1" n="1">quid videbis in Sulamiten nisi choros castrorum quam pulchri
             sunt gressus tui in calciamentis filia principis iunctura feminum tuorum sicut monilia
             quae fabricata sunt manu artificis</p>
@@ -261,7 +259,7 @@
             et vetera dilecte mi servavi tibi</p>
         </div>
         <div xml:id="bible-cant8" n="8">
-          <head>Caput 8</head>
+          <head xml:id="bible-cant-Hd1e438">Caput 8</head>
           <p xml:id="cant8_1" n="1">quis mihi det te fratrem meum sugentem ubera matris meae ut
             inveniam te foris et deosculer et iam me nemo despiciat</p>
           <p xml:id="cant8_2" n="2">adprehendam te et ducam in domum matris meae ibi me docebis et

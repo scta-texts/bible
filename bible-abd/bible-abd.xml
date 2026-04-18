@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Abdias </title>
+        <title>Abdias</title>
         <author/>
       </titleStmt>
       <editionStmt>
@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-abd">
-        <head>Abdias</head>
+        <head xml:id="bible-abd-Hd1e76">Abdias</head>
         <div xml:id="bible-abd1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-abd-Hd1e80">Caput 1</head>
           <p xml:id="abd1_1" n="1">visio Abdiae haec dicit Dominus Deus ad Edom auditum audivimus a
             Domino et legatum ad gentes misit surgite et consurgamus adversum eum in proelium</p>
           <p xml:id="abd1_2" n="2">ecce parvulum te dedi in gentibus contemptibilis tu es valde</p>

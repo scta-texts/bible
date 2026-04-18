@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-hebr">
-        <head>ad Hebraeos</head>
+        <head xml:id="bible-hebr-Hd1e76">ad Hebraeos</head>
         <div xml:id="bible-hebr1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-hebr-Hd1e80">Caput 1</head>
           <p xml:id="hebr1_1" n="1">multifariam et multis modis olim Deus loquens patribus in
             prophetis</p>
           <p xml:id="hebr1_2" n="2">novissime diebus istis locutus est nobis in Filio quem
@@ -76,7 +74,7 @@
             propter eos qui hereditatem capient salutis</p>
         </div>
         <div xml:id="bible-hebr2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-hebr-Hd1e129">Caput 2</head>
           <p xml:id="hebr2_1" n="1">propterea abundantius oportet observare nos ea quae audivimus ne
             forte pereffluamus</p>
           <p xml:id="hebr2_2" n="2">si enim qui per angelos dictus est sermo factus est firmus et
@@ -117,7 +115,7 @@
             temptantur auxiliari</p>
         </div>
         <div xml:id="bible-hebr3" n="3">
-          <head>Caput 3</head>
+          <head xml:id="bible-hebr-Hd1e191">Caput 3</head>
           <p xml:id="hebr3_1" n="1">unde fratres sancti vocationis caelestis participes considerate
             apostolum et pontificem confessionis nostrae Iesum</p>
           <p xml:id="hebr3_2" n="2">qui fidelis est ei qui fecit illum sicut et Moses in omni domo
@@ -157,7 +155,7 @@
             incredulitatem</p>
         </div>
         <div xml:id="bible-hebr4" n="4">
-          <head>Caput 4</head>
+          <head xml:id="bible-hebr-Hd1e256">Caput 4</head>
           <p xml:id="hebr4_1" n="1">timeamus ergo ne forte relicta pollicitatione introeundi in
             requiem eius existimetur aliqui ex vobis deesse</p>
           <p xml:id="hebr4_2" n="2">etenim et nobis nuntiatum est quemadmodum et illis sed non
@@ -193,7 +191,7 @@
             consequamur et gratiam inveniamus in auxilio oportuno</p>
         </div>
         <div xml:id="bible-hebr5" n="5">
-          <head>Caput 5</head>
+          <head xml:id="bible-hebr-Hd1e312">Caput 5</head>
           <p xml:id="hebr5_1" n="1">omnis namque pontifex ex hominibus adsumptus pro hominibus
             constituitur in his quae sunt ad Deum ut offerat dona et sacrificia pro peccatis</p>
           <p xml:id="hebr5_2" n="2">qui condolere possit his qui ignorant et errant quoniam et ipse
@@ -225,7 +223,7 @@
             exercitatos habent sensus ad discretionem boni ac mali</p>
         </div>
         <div xml:id="bible-hebr6" n="6">
-          <head>Caput 6</head>
+          <head xml:id="bible-hebr-Hd1e361">Caput 6</head>
           <p xml:id="hebr6_1" n="1">quapropter intermittentes inchoationis Christi sermonem ad
             perfectionem feramur non rursum iacientes fundamentum paenitentiae ab operibus mortuis
             et fidei ad Deum</p>
@@ -268,7 +266,7 @@
             Melchisedech pontifex factus in aeternum</p>
         </div>
         <div xml:id="bible-hebr7" n="7">
-          <head>Caput 7</head>
+          <head xml:id="bible-hebr-Hd1e429">Caput 7</head>
           <p xml:id="hebr7_1" n="1">hic enim Melchisedech rex Salem sacerdos Dei summi qui obviavit
             Abrahae regresso a caede regum et benedixit ei</p>
           <p xml:id="hebr7_2" n="2">cui decimas omnium divisit Abraham primum quidem qui
@@ -329,7 +327,7 @@
             sermo autem iurisiurandi qui post legem est Filium in aeternum perfectum</p>
         </div>
         <div xml:id="bible-hebr8" n="8">
-          <head>Caput 8</head>
+          <head xml:id="bible-hebr-Hd1e522">Caput 8</head>
           <p xml:id="hebr8_1" n="1">capitulum autem super ea quae dicuntur talem habemus pontificem
             qui consedit in dextera sedis Magnitudinis in caelis</p>
           <p xml:id="hebr8_2" n="2">sanctorum minister et tabernaculi veri quod fixit Dominus et non
@@ -362,7 +360,7 @@
             senescit prope interitum est</p>
         </div>
         <div xml:id="bible-hebr9" n="9">
-          <head>Caput 9</head>
+          <head xml:id="bible-hebr-Hd1e568">Caput 9</head>
           <p xml:id="hebr9_1" n="1">habuit quidem et prius iustificationes culturae et sanctum
             saeculare</p>
           <p xml:id="hebr9_2" n="2">tabernaculum enim factum est primum in quo inerant candelabra et
@@ -424,7 +422,7 @@
             secundo sine peccato apparebit expectantibus se in salutem</p>
         </div>
         <div xml:id="bible-hebr10" n="10">
-          <head>Caput 10</head>
+          <head xml:id="bible-hebr-Hd1e661">Caput 10</head>
           <p xml:id="hebr10_1" n="1">umbram enim habens lex bonorum futurorum non ipsam imaginem
             rerum per singulos annos hisdem ipsis hostiis quas offerunt indesinenter numquam potest
             accedentes perfectos facere</p>
@@ -502,7 +500,7 @@
             adquisitionem animae</p>
         </div>
         <div xml:id="bible-hebr11" n="11">
-          <head>Caput 11</head>
+          <head xml:id="bible-hebr-Hd1e790">Caput 11</head>
           <p xml:id="hebr11_1" n="1">est autem fides sperandorum substantia rerum argumentum non
             parentum</p>
           <p xml:id="hebr11_2" n="2">in hac enim testimonium consecuti sunt senes</p>
@@ -583,7 +581,7 @@
             consummarentur</p>
         </div>
         <div xml:id="bible-hebr12" n="12">
-          <head>Caput 12</head>
+          <head xml:id="bible-hebr-Hd1e921">Caput 12</head>
           <p xml:id="hebr12_1" n="1">ideoque et nos tantam habentes inpositam nubem testium
             deponentes omne pondus et circumstans nos peccatum per patientiam curramus propositum
             nobis certamen</p>
@@ -649,7 +647,7 @@
           <p xml:id="hebr12_29" n="29">etenim Deus noster ignis consumens est</p>
         </div>
         <div xml:id="bible-hebr13" n="13">
-          <head>Caput 13</head>
+          <head xml:id="bible-hebr-Hd1e1018">Caput 13</head>
           <p xml:id="hebr13_1" n="1">caritas fraternitatis maneat</p>
           <p xml:id="hebr13_2" n="2">hospitalitatem nolite oblivisci per hanc enim latuerunt quidam
             angelis hospitio receptis</p>

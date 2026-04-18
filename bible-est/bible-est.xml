@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-est">
-        <head>Esther</head>
+        <head xml:id="bible-est-Hd1e76">Esther</head>
         <div xml:id="bible-est1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-est-Hd1e80">Caput 1</head>
           <p xml:id="est1_1" n="1">in diebus Asueri qui regnavit ab India usque Aethiopiam super
             centum viginti septem provincias</p>
           <p xml:id="est1_2" n="2">quando sedit in solio regni sui Susa civitas regni eius exordium
@@ -104,7 +102,7 @@
             maiores in domibus suis et hoc per cunctos populos divulgari</p>
         </div>
         <div xml:id="bible-est2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-est-Hd1e154">Caput 2</head>
           <p xml:id="est2_1" n="1">his itaque gestis postquam regis Asueri deferbuerat indignatio
             recordatus est Vasthi et quae fecisset vel quae passa esset</p>
           <p xml:id="est2_2" n="2">dixeruntque pueri regis ac ministri eius quaerantur regi puellae
@@ -170,7 +168,7 @@
             mandatumque historiis et annalibus traditum coram rege</p>
         </div>
         <div xml:id="bible-est3" n="3">
-          <head>Caput 3</head>
+          <head xml:id="bible-est-Hd1e232">Caput 3</head>
           <p xml:id="est3_1" n="1">post haec rex Asuerus exaltavit Aman filium Amadathi qui erat de
             stirpe Agag et posuit solium eius super omnes principes quos habebat</p>
           <p xml:id="est3_2" n="2">cunctique servi regis qui in foribus palatii versabantur
@@ -213,7 +211,7 @@
             urbe erant flentibus</p>
         </div>
         <div xml:id="bible-est4" n="4">
-          <head>Caput 4</head>
+          <head xml:id="bible-est-Hd1e284">Caput 4</head>
           <p xml:id="est4_1" n="1">quae cum audisset Mardocheus scidit vestimenta sua et indutus est
             sacco spargens cinerem capiti et in platea mediae civitatis voce magna clamabat
             ostendens amaritudinem animi sui</p>
@@ -256,7 +254,7 @@
             praeceperat</p>
         </div>
         <div xml:id="bible-est5" n="5">
-          <head>Caput 5</head>
+          <head xml:id="bible-est-Hd1e344">Caput 5</head>
           <p xml:id="est5_1" n="1">die autem tertio induta est Hester regalibus vestimentis et
             stetit in atrio domus regiae quod erat interius contra basilicam regis at ille sedebat
             super solium in consistorio palatii contra ostium domus</p>
@@ -293,7 +291,7 @@
             iussit excelsam parari crucem</p>
         </div>
         <div xml:id="bible-est6" n="6">
-          <head>Caput 6</head>
+          <head xml:id="bible-est-Hd1e393">Caput 6</head>
           <p xml:id="est6_1" n="1">noctem illam rex duxit insomnem iussitque adferri sibi historias
             et annales priorum temporum qui cum illo praesente legerentur</p>
           <p xml:id="est6_2" n="2">ventum est ad eum locum ubi scriptum erat quomodo nuntiasset
@@ -331,7 +329,7 @@
             convivium quod regina paraverat pergere conpulerunt</p>
         </div>
         <div xml:id="bible-est7" n="7">
-          <head>Caput 7</head>
+          <head xml:id="bible-est-Hd1e442">Caput 7</head>
           <p xml:id="est7_1" n="1">intravit itaque rex et Aman ut biberent cum regina</p>
           <p xml:id="est7_2" n="2">dixitque ei rex etiam in secundo die postquam vino incaluerat
             quae est petitio tua Hester ut detur tibi et quid vis fieri etiam si dimidiam regni mei
@@ -359,7 +357,7 @@
             et regis ira quievit</p>
         </div>
         <div xml:id="bible-est8" n="8">
-          <head>Caput 8</head>
+          <head xml:id="bible-est-Hd1e478">Caput 8</head>
           <p xml:id="est8_1" n="1">die illo dedit rex Asuerus Hester reginae domum Aman adversarii
             Iudaeorum et Mardocheus ingressus est ante faciem regis confessa est enim ei Hester quod
             esset patruus suus</p>
@@ -413,7 +411,7 @@
             cunctos iudaici nominis terror invaserat</p>
         </div>
         <div xml:id="bible-est9" n="9">
-          <head>Caput 9</head>
+          <head xml:id="bible-est-Hd1e537">Caput 9</head>
           <p xml:id="est9_1" n="1">igitur duodecimi mensis quem adar vocari ante iam diximus
             tertiadecima die quando cunctis Iudaeis interfectio parabatur et hostes eorum inhiabant
             sanguini versa vice Iudaei superiores esse coeperunt et se de adversariis vindicare</p>
@@ -499,7 +497,7 @@
             continentur</p>
         </div>
         <div xml:id="bible-est10" n="10">
-          <head>Caput 10</head>
+          <head xml:id="bible-est-Hd1e643">Caput 10</head>
           <p xml:id="est10_1" n="1">rex vero Asuerus omnem terram et cunctas maris insulas fecit
             tributarias</p>
           <p xml:id="est10_2" n="2">cuius fortitudo et imperium et dignitas atque sublimitas qua

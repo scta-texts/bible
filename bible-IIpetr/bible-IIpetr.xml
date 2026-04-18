@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-IIpetr">
-        <head>Petri II</head>
+        <head xml:id="bible-IIpetr-Hd1e76">Petri II</head>
         <div xml:id="bible-IIpetr1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-IIpetr-Hd1e80">Caput 1</head>
           <p xml:id="IIpetr1_1" n="1">Simon Petrus servus et apostolus Iesu Christi his qui
             coaequalem nobis sortiti sunt fidem in iustitia Dei nostri et salvatoris Iesu
             Christi</p>
@@ -95,7 +93,7 @@
             Spiritu Sancto inspirati locuti sunt sancti Dei homines</p>
         </div>
         <div xml:id="bible-IIpetr2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-IIpetr-Hd1e151">Caput 2</head>
           <p xml:id="IIpetr2_1" n="1">fuerunt vero et pseudoprophetae in populo sicut et in vobis
             erunt magistri mendaces qui introducent sectas perditionis et eum qui emit eos Dominum
             negant superducentes sibi celerem perditionem</p>
@@ -147,7 +145,7 @@
             suum vomitum et sus lota in volutabro luti</p>
         </div>
         <div xml:id="bible-IIpetr3" n="3">
-          <head>Caput 3</head>
+          <head xml:id="bible-IIpetr-Hd1e225">Caput 3</head>
           <p xml:id="IIpetr3_1" n="1">hanc ecce vobis carissimi secundam scribo epistulam in quibus
             excito vestram in commonitione sinceram mentem</p>
           <p xml:id="IIpetr3_2" n="2">ut memores sitis eorum quae praedixi verborum a sanctis

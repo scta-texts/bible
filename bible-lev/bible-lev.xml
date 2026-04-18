@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-lev">
-        <head>Leviticus</head>
+        <head xml:id="bible-lev-Hd1e76">Leviticus</head>
         <div xml:id="bible-lev1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-lev-Hd1e80">Caput 1</head>
           <p xml:id="lev1_1" n="1">vocavit autem Mosen et locutus est ei Dominus de tabernaculo
             testimonii dicens</p>
           <p xml:id="lev1_2" n="2">loquere filiis Israhel et dices ad eos homo qui obtulerit ex
@@ -81,7 +79,7 @@
             odoris Domino</p>
         </div>
         <div xml:id="bible-lev2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-lev-Hd1e139">Caput 2</head>
           <p xml:id="lev2_1" n="1">anima cum obtulerit oblationem sacrificii Domino simila erit eius
             oblatio fundetque super eam oleum et ponet tus</p>
           <p xml:id="lev2_2" n="2">ac deferet ad filios Aaron sacerdotes quorum unus tollet pugillum
@@ -115,7 +113,7 @@
             fracti et olei ac totum tus</p>
         </div>
         <div xml:id="bible-lev3" n="3">
-          <head>Caput 3</head>
+          <head xml:id="bible-lev-Hd1e194">Caput 3</head>
           <p xml:id="lev3_1" n="1">quod si hostia pacificorum fuerit eius oblatio et de bubus
             voluerit offerre marem sive feminam inmaculata offeret coram Domino</p>
           <p xml:id="lev3_2" n="2">ponetque manum super caput victimae suae quae immolabitur in
@@ -153,7 +151,7 @@
             nec adipes nec sanguinem omnino comedetis</p>
         </div>
         <div xml:id="bible-lev4" n="4">
-          <head>Caput 4</head>
+          <head xml:id="bible-lev-Hd1e253">Caput 4</head>
           <p xml:id="lev4_1" n="1">locutusque est Dominus ad Mosen dicens</p>
           <p xml:id="lev4_2" n="2">loquere filiis Israhel anima cum peccaverit per ignorantiam et de
             universis mandatis Domini quae praecepit ut non fierent quippiam fecerit</p>
@@ -227,7 +225,7 @@
             eo et pro peccato eius et dimittetur illi</p>
         </div>
         <div xml:id="bible-lev5" n="5">
-          <head>Caput 5</head>
+          <head xml:id="bible-lev-Hd1e370">Caput 5</head>
           <p xml:id="lev5_1" n="1">si peccaverit anima et audierit vocem iurantis testisque fuerit
             quod aut ipse vidit aut conscius est nisi indicaverit portabit iniquitatem suam</p>
           <p xml:id="lev5_2" n="2">anima quae tetigerit aliquid inmundum sive quod occisum a bestia
@@ -270,7 +268,7 @@
           <p xml:id="lev5_19" n="19">quia per errorem deliquit in Dominum</p>
         </div>
         <div xml:id="bible-lev6" n="6">
-          <head>Caput 6</head>
+          <head xml:id="bible-lev-Hd1e435">Caput 6</head>
           <p xml:id="lev6_1" n="1">locutus est Dominus ad Mosen dicens</p>
           <p xml:id="lev6_2" n="2">anima quae peccaverit et contempto Domino negaverit depositum
             proximo suo quod fidei eius creditum fuerat vel vi aliquid extorserit aut calumniam
@@ -332,7 +330,7 @@
             tabernaculum testimonii ad expiandum in sanctuario non comedetur sed conburetur igni</p>
         </div>
         <div xml:id="bible-lev7" n="7">
-          <head>Caput 7</head>
+          <head xml:id="bible-lev-Hd1e535">Caput 7</head>
           <p xml:id="lev7_1" n="1">haec quoque est lex hostiae pro delicto sancta sanctorum est</p>
           <p xml:id="lev7_2" n="2">idcirco ubi immolatur holocaustum mactabitur et victima pro
             delicto sanguis eius per gyrum fundetur altaris</p>
@@ -407,7 +405,7 @@
             filiis Israhel ut offerrent oblationes suas Domino in deserto Sinai</p>
         </div>
         <div xml:id="bible-lev8" n="8">
-          <head>Caput 8</head>
+          <head xml:id="bible-lev-Hd1e660">Caput 8</head>
           <p xml:id="lev8_1" n="1">locutusque est Dominus ad Mosen dicens</p>
           <p xml:id="lev8_2" n="2">tolle Aaron cum filiis suis vestes eorum et unctionis oleum
             vitulum pro peccato duos arietes canistrum cum azymis</p>
@@ -485,7 +483,7 @@
             per manum Mosi</p>
         </div>
         <div xml:id="bible-lev9" n="9">
-          <head>Caput 9</head>
+          <head xml:id="bible-lev-Hd1e779">Caput 9</head>
           <p xml:id="lev9_1" n="1">facto autem octavo die vocavit Moses Aaron et filios eius ac
             maiores natu Israhel dixitque ad Aaron</p>
           <p xml:id="lev9_2" n="2">tolle de armento vitulum pro peccato et arietem in holocaustum
@@ -536,7 +534,7 @@
             suas</p>
         </div>
         <div xml:id="bible-lev10" n="10">
-          <head>Caput 10</head>
+          <head xml:id="bible-lev-Hd1e860">Caput 10</head>
           <p xml:id="lev10_1" n="1">arreptisque Nadab et Abiu filii Aaron turibulis posuerunt ignem
             et incensum desuper offerentes coram Domino ignem alienum quod eis praeceptum non
             erat</p>
@@ -590,7 +588,7 @@
           <p xml:id="lev10_20" n="20">quod cum audisset Moses recepit satisfactionem</p>
         </div>
         <div xml:id="bible-lev11" n="11">
-          <head>Caput 11</head>
+          <head xml:id="bible-lev-Hd1e929">Caput 11</head>
           <p xml:id="lev11_1" n="1">locutus est Dominus ad Mosen et Aaron dicens</p>
           <p xml:id="lev11_2" n="2">dicite filiis Israhel haec sunt animalia quae comedere debetis
             de cunctis animantibus terrae</p>
@@ -679,7 +677,7 @@
             comedere et quid respuere debeatis</p>
         </div>
         <div xml:id="bible-lev12" n="12">
-          <head>Caput 12</head>
+          <head xml:id="bible-lev-Hd1e1083">Caput 12</head>
           <p xml:id="lev12_1" n="1">locutus est Dominus ad Mosen dicens</p>
           <p xml:id="lev12_2" n="2">loquere filiis Israhel et dices ad eos mulier si suscepto semine
             pepererit masculum inmunda erit septem diebus iuxta dies separationis menstruae</p>
@@ -700,7 +698,7 @@
             orabitque pro ea sacerdos et sic mundabitur</p>
         </div>
         <div xml:id="bible-lev13" n="13">
-          <head>Caput 13</head>
+          <head xml:id="bible-lev-Hd1e1113">Caput 13</head>
           <p xml:id="lev13_1" n="1">locutus est Dominus ad Mosen et Aaron dicens</p>
           <p xml:id="lev13_2" n="2">homo in cuius carne et cute ortus fuerit diversus color sive
             pustula aut quasi lucens quippiam id est plaga leprae adducetur ad Aaron sacerdotem vel
@@ -811,7 +809,7 @@
             subteminis omnisque supellectilis pelliciae quomodo mundari debeat vel contaminari</p>
         </div>
         <div xml:id="bible-lev14" n="14">
-          <head>Caput 14</head>
+          <head xml:id="bible-lev-Hd1e1305">Caput 14</head>
           <p xml:id="lev14_1" n="1">locutusque est Dominus ad Mosen dicens</p>
           <p xml:id="lev14_2" n="2">hic est ritus leprosi quando mundandus est adducetur ad
             sacerdotem</p>
@@ -925,7 +923,7 @@
           <p xml:id="lev14_57" n="57">ut possit sciri quo tempore mundum quid vel inmundum sit</p>
         </div>
         <div xml:id="bible-lev15" n="15">
-          <head>Caput 15</head>
+          <head xml:id="bible-lev-Hd1e1490">Caput 15</head>
           <p xml:id="lev15_1" n="1">locutusque est Dominus ad Mosen et Aaron dicens</p>
           <p xml:id="lev15_2" n="2">loquimini filiis Israhel et dicite eis vir qui patitur fluxum
             seminis inmundus erit</p>
@@ -995,7 +993,7 @@
             sanguine et hominis qui dormierit cum ea</p>
         </div>
         <div xml:id="bible-lev16" n="16">
-          <head>Caput 16</head>
+          <head xml:id="bible-lev-Hd1e1599">Caput 16</head>
           <p xml:id="lev16_1" n="1">locutusque est Dominus ad Mosen post mortem duum filiorum Aaron
             quando offerentes ignem alienum interfecti sunt</p>
           <p xml:id="lev16_2" n="2">et praecepit ei dicens loquere ad Aaron fratrem tuum ne omni
@@ -1075,7 +1073,7 @@
             Dominus Mosi</p>
         </div>
         <div xml:id="bible-lev17" n="17">
-          <head>Caput 17</head>
+          <head xml:id="bible-lev-Hd1e1712">Caput 17</head>
           <p xml:id="lev17_1" n="1">et locutus est Dominus ad Mosen dicens</p>
           <p xml:id="lev17_2" n="2">loquere Aaron et filiis eius et cunctis filiis Israhel et dices
             ad eos iste est sermo quem mandavit Dominus dicens</p>
@@ -1114,7 +1112,7 @@
             iniquitatem suam</p>
         </div>
         <div xml:id="bible-lev18" n="18">
-          <head>Caput 18</head>
+          <head xml:id="bible-lev-Hd1e1767">Caput 18</head>
           <p xml:id="lev18_1" n="1">locutusque est Dominus ad Mosen dicens</p>
           <p xml:id="lev18_2" n="2">loquere filiis Israhel et dices ad eos ego Dominus Deus
             vester</p>
@@ -1178,7 +1176,7 @@
             fuerunt ante vos et ne polluamini in eis ego Dominus Deus vester</p>
         </div>
         <div xml:id="bible-lev19" n="19">
-          <head>Caput 19</head>
+          <head xml:id="bible-lev-Hd1e1867">Caput 19</head>
           <p xml:id="lev19_1" n="1">locutus est Dominus ad Mosen dicens</p>
           <p xml:id="lev19_2" n="2">loquere ad omnem coetum filiorum Israhel et dices ad eos sancti
             estote quia ego sanctus sum Dominus Deus vester</p>
@@ -1256,7 +1254,7 @@
             ego Dominus</p>
         </div>
         <div xml:id="bible-lev20" n="20">
-          <head>Caput 20</head>
+          <head xml:id="bible-lev-Hd1e1989">Caput 20</head>
           <p xml:id="lev20_1" n="1">locutusque est Dominus ad Mosen dicens</p>
           <p xml:id="lev20_2" n="2">haec loqueris filiis Israhel homo de filiis Israhel et de
             advenis qui habitant in Israhel si quis dederit de semine suo idolo Moloch morte
@@ -1319,7 +1317,7 @@
             spiritus morte moriantur lapidibus obruent eos sanguis eorum sit super illos</p>
         </div>
         <div xml:id="bible-lev21" n="21">
-          <head>Caput 21</head>
+          <head xml:id="bible-lev-Hd1e2079">Caput 21</head>
           <p xml:id="lev21_1" n="1">dixit quoque Dominus ad Mosen loquere ad sacerdotes filios Aaron
             et dices eis ne contaminetur sacerdos in mortibus civium suorum</p>
           <p xml:id="lev21_2" n="2">nisi tantum in consanguineis ac propinquis id est super matre et
@@ -1366,7 +1364,7 @@
             Israhel cuncta quae sibi fuerant imperata</p>
         </div>
         <div xml:id="bible-lev22" n="22">
-          <head>Caput 22</head>
+          <head xml:id="bible-lev-Hd1e2160">Caput 22</head>
           <p xml:id="lev22_1" n="1">locutus quoque est Dominus ad Mosen dicens</p>
           <p xml:id="lev22_2" n="2">loquere ad Aaron et ad filios eius ut caveant ab his quae
             consecrata sunt filiorum Israhel et non contaminent nomen sanctificatorum mihi quae ipsi
@@ -1439,7 +1437,7 @@
             Dominus</p>
         </div>
         <div xml:id="bible-lev23" n="23">
-          <head>Caput 23</head>
+          <head xml:id="bible-lev-Hd1e2270">Caput 23</head>
           <p xml:id="lev23_1" n="1">locutus est Dominus ad Mosen dicens</p>
           <p xml:id="lev23_2" n="2">loquere filiis Israhel et dices ad eos hae sunt feriae Domini
             quas vocabitis sanctas</p>
@@ -1536,7 +1534,7 @@
             Israhel</p>
         </div>
         <div xml:id="bible-lev24" n="24">
-          <head>Caput 24</head>
+          <head xml:id="bible-lev-Hd1e2414">Caput 24</head>
           <p xml:id="lev24_1" n="1">et locutus est Dominus ad Mosen dicens</p>
           <p xml:id="lev24_2" n="2">praecipe filiis Israhel ut adferant tibi oleum de olivis
             purissimum ac lucidum ad concinnandas lucernas iugiter</p>
@@ -1585,7 +1583,7 @@
             praeceperat Dominus Mosi</p>
         </div>
         <div xml:id="bible-lev25" n="25">
-          <head>Caput 25</head>
+          <head xml:id="bible-lev-Hd1e2492">Caput 25</head>
           <p xml:id="lev25_1" n="1">locutusque est Dominus ad Mosen in monte Sinai dicens</p>
           <p xml:id="lev25_2" n="2">loquere filiis Israhel et dices ad eos quando ingressi fueritis
             terram quam ego dabo vobis sabbatizet sabbatum Domini</p>
@@ -1696,7 +1694,7 @@
             Aegypti</p>
         </div>
         <div xml:id="bible-lev26" n="26">
-          <head>Caput 26</head>
+          <head xml:id="bible-lev-Hd1e2671">Caput 26</head>
           <p xml:id="lev26_1" n="1">ego Dominus Deus vester non facietis vobis idolum et sculptile
             nec titulos erigetis nec insignem lapidem ponetis in terra vestra ut adoretis eum ego
             enim sum Dominus Deus vester</p>
@@ -1796,7 +1794,7 @@
             Sinai per manum Mosi</p>
         </div>
         <div xml:id="bible-lev27" n="27">
-          <head>Caput 27</head>
+          <head xml:id="bible-lev-Hd1e2818">Caput 27</head>
           <p xml:id="lev27_1" n="1">locutusque est Dominus ad Mosen dicens</p>
           <p xml:id="lev27_2" n="2">loquere filiis Israhel et dices ad eos homo qui votum fecerit et
             spoponderit Deo animam suam sub aestimatione dabit pretium</p>

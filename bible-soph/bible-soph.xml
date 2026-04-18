@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-soph">
-        <head>Sophonias</head>
+        <head xml:id="bible-soph-Hd1e76">Sophonias</head>
         <div xml:id="bible-soph1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-soph-Hd1e80">Caput 1</head>
           <p xml:id="soph1_1" n="1">verbum Domini quod factum est ad Sofoniam filium Chusi filium
             Godoliae filii Amariae filii Ezechiae in diebus Iosiae filii Amon regis Iuda</p>
           <p xml:id="soph1_2" n="2">congregans congregabo omnia a facie terrae dicit Dominus</p>
@@ -86,7 +84,7 @@
             festinatione faciet cunctis habitantibus terram</p>
         </div>
         <div xml:id="bible-soph2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-soph-Hd1e142">Caput 2</head>
           <p xml:id="soph2_1" n="1">convenite congregamini gens non amabilis</p>
           <p xml:id="soph2_2" n="2">priusquam pariat iussio quasi pulverem transeuntem diem antequam
             veniat super vos ira furoris Domini antequam veniat super vos dies furoris Domini</p>
@@ -122,7 +120,7 @@
             cubile bestiae omnis qui transit per eam sibilabit et movebit manum suam</p>
         </div>
         <div xml:id="bible-soph3" n="3">
-          <head>Caput 3</head>
+          <head xml:id="bible-soph-Hd1e194">Caput 3</head>
           <p xml:id="soph3_1" n="1">vae provocatrix et redempta civitas columba</p>
           <p xml:id="soph3_2" n="2">non audivit vocem et non suscepit disciplinam in Domino non est
             confisa ad Deum suum non adpropiavit</p>

@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -43,7 +41,7 @@
     <body>
       <div xml:id="bible-Ichr">
         <div xml:id="bible-Ichr1" n="1">
-          <head>Paralipomenon I</head>
+          <head xml:id="bible-Ichr-Hd1e78">Paralipomenon I</head>
           <p xml:id="Ichr1_1" n="1">Adam Seth Enos</p>
           <p xml:id="Ichr1_2" n="2">Cainan Malelehel Iared</p>
           <p xml:id="Ichr1_3" n="3">Enoch Matusale Lamech</p>
@@ -117,7 +115,7 @@
           <p xml:id="Ichr1_54" n="54">dux Magdihel dux Iram hii duces Edom </p>
         </div>
         <div xml:id="bible-Ichr2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-Ichr-Hd1e254">Caput 2</head>
           <p xml:id="Ichr2_1" n="1">filii autem Israhel Ruben Symeon Levi Iuda Isachar et Zabulon </p>
           <p xml:id="Ichr2_2" n="2">Dan Ioseph Beniamin Nepthali Gad Aser </p>
           <p xml:id="Ichr2_3" n="3">filii Iuda Her Aunan Sela tres nati sunt ei de filia Sue
@@ -207,7 +205,7 @@
             patris domus Rechab </p>
         </div>
         <div xml:id="bible-Ichr3" n="3">
-          <head>Caput 3</head>
+          <head xml:id="bible-Ichr-Hd1e433">Caput 3</head>
           <p xml:id="Ichr3_1" n="1">David vero hos habuit filios qui ei nati sunt in Hebron
             primogenitum Amnon ex Achinaam Iezrahelitide secundum Danihel de Abigail Carmelitide </p>
           <p xml:id="Ichr3_2" n="2">tertium Absalom filium Maacha filiae Tholmei regis Gessur
@@ -246,7 +244,7 @@
             Iohanan et Dalaia et Anani septem </p>
         </div>
         <div xml:id="bible-Ichr4" n="4">
-          <head>Caput 4</head>
+          <head xml:id="bible-Ichr-Hd1e514">Caput 4</head>
           <p xml:id="Ichr4_1" n="1">filii Iuda Phares Esrom et Carmi et Ur et Subal </p>
           <p xml:id="Ichr4_2" n="2">Reaia vero filius Subal genuit Ieth de quo nati sunt Ahimai et
             Laed hae cognationes Sarathi </p>
@@ -327,7 +325,7 @@
             et habitaverunt ibi pro eis usque ad diem hanc </p>
         </div>
         <div xml:id="bible-Ichr5" n="5">
-          <head>Caput 5</head>
+          <head xml:id="bible-Ichr-Hd1e655">Caput 5</head>
           <p xml:id="Ichr5_1" n="1">filii quoque Ruben primogeniti Israhel ipse quippe fuit
             primogenitus eius sed cum violasset torum patris sui data sunt primogenita eius filiis
             Ioseph filii Israhel et non est ille reputatus in primogenitum </p>
@@ -386,7 +384,7 @@
             Manasse et adduxit eos in Alae et Abor et Ara et fluvium Gozan usque ad diem hanc </p>
         </div>
         <div xml:id="bible-Ichr6" n="6">
-          <head>Caput 6</head>
+          <head xml:id="bible-Ichr-Hd1e743">Caput 6</head>
           <p xml:id="Ichr6_1" n="1">filii Levi Gersom Caath Merari </p>
           <p xml:id="Ichr6_2" n="2">filii Caath Amram Isaar Hebron et Ozihel </p>
           <p xml:id="Ichr6_3" n="3">filii Amram Aaron Moses et Maria filii Aaron Nadab et Abiu
@@ -513,7 +511,7 @@
           </p>
         </div>
         <div xml:id="bible-Ichr7" n="7">
-          <head>Caput 7</head>
+          <head xml:id="bible-Ichr-Hd1e1004">Caput 7</head>
           <p xml:id="Ichr7_1" n="1">porro filii Isachar Thola et Phua Iasub et Samaron quattuor </p>
           <p xml:id="Ichr7_2" n="2">filii Thola Ozi et Raphaia et Ierihel et Iemai et Iebsem et
             Samuhel principes per domos cognationum suarum de stirpe Thola viri fortissimi numerati
@@ -588,7 +586,7 @@
             milia </p>
         </div>
         <div xml:id="bible-Ichr8" n="8">
-          <head>Caput 8</head>
+          <head xml:id="bible-Ichr-Hd1e1135">Caput 8</head>
           <p xml:id="Ichr8_1" n="1">Beniamin autem genuit Bale primogenitum suum Asbal secundum
             Ohora tertium </p>
           <p xml:id="Ichr8_2" n="2">Nuaha quartum et Rapha quintum </p>
@@ -649,7 +647,7 @@
             hii filii Beniamin </p>
         </div>
         <div xml:id="bible-Ichr9" n="9">
-          <head>Caput 9</head>
+          <head xml:id="bible-Ichr-Hd1e1266">Caput 9</head>
           <p xml:id="Ichr9_1" n="1">universus ergo Israhel dinumeratus est et summa eorum scripta
             est in libro regum Israhel et Iuda translatique sunt in Babylonem propter delictum suum </p>
           <p xml:id="Ichr9_2" n="2">qui autem habitaverunt primi in possessionibus et in urbibus
@@ -734,7 +732,7 @@
             Ismahel Saria Obdia Anan hii filii Esel </p>
         </div>
         <div xml:id="bible-Ichr10" n="10">
-          <head>Caput 10</head>
+          <head xml:id="bible-Ichr-Hd1e1410">Caput 10</head>
           <p xml:id="Ichr10_1" n="1">Philisthim autem pugnabant contra Israhel fugeruntque viri
             Israhel Palestinos et ceciderunt vulnerati in monte Gelboe </p>
           <p xml:id="Ichr10_2" n="2">cumque adpropinquassent Philisthei persequentes Saul et filios
@@ -769,7 +767,7 @@
             transtulit regnum eius ad David filium Isai </p>
         </div>
         <div xml:id="bible-Ichr11" n="11">
-          <head>Caput 11</head>
+          <head xml:id="bible-Ichr-Hd1e1459">Caput 11</head>
           <p xml:id="Ichr11_1" n="1">congregatus est igitur omnis Israhel ad David in Hebron dicens
             os tuum sumus et caro tua </p>
           <p xml:id="Ichr11_2" n="2">heri quoque et nudius tertius cum adhuc regnaret Saul tu eras
@@ -856,7 +854,7 @@
             Moabites Elihel et Obed et Iasihel de Masobia </p>
         </div>
         <div xml:id="bible-Ichr12" n="12">
-          <head>Caput 12</head>
+          <head xml:id="bible-Ichr-Hd1e1610">Caput 12</head>
           <p xml:id="Ichr12_1" n="1">hii quoque venerunt ad David in Siceleg cum adhuc fugeret Saul
             filium Cis qui erant fortissimi et egregii pugnatores </p>
           <p xml:id="Ichr12_2" n="2">tendentes arcum et utraque manu fundis saxa iacientes et
@@ -943,7 +941,7 @@
             Israhel </p>
         </div>
         <div xml:id="bible-Ichr13" n="13">
-          <head>Caput 13</head>
+          <head xml:id="bible-Ichr-Hd1e1741">Caput 13</head>
           <p xml:id="Ichr13_1" n="1">iniit autem consilium David cum tribunis et centurionibus et
             universis principibus </p>
           <p xml:id="Ichr13_2" n="2">et ait ad omnem coetum Israhel si placet vobis et a Domino Deo
@@ -977,7 +975,7 @@
             benedixit Dominus domui eius et omnibus quae habebat </p>
         </div>
         <div xml:id="bible-Ichr14" n="14">
-          <head>Caput 14</head>
+          <head xml:id="bible-Ichr-Hd1e1790">Caput 14</head>
           <p xml:id="Ichr14_1" n="1">misit quoque Hiram rex Tyri nuntios ad David et ligna cedrina
             et artifices parietum lignorumque ut aedificarent ei domum </p>
           <p xml:id="Ichr14_2" n="2">cognovitque David eo quod confirmasset eum Dominus in regem
@@ -1010,7 +1008,7 @@
             Dominus dedit pavorem eius super omnes gentes </p>
         </div>
         <div xml:id="bible-Ichr15" n="15">
-          <head>Caput 15</head>
+          <head xml:id="bible-Ichr-Hd1e1849">Caput 15</head>
           <p xml:id="Ichr15_1" n="1">fecit quoque sibi domos in civitate David et aedificavit locum
             arcae Dei tetenditque ei tabernaculum </p>
           <p xml:id="Ichr15_2" n="2">tunc dixit David inlicitum est ut a quocumque portetur arca Dei
@@ -1072,7 +1070,7 @@
             ludentem et despexit eum in corde suo </p>
         </div>
         <div xml:id="bible-Ichr16" n="16">
-          <head>Caput 16</head>
+          <head xml:id="bible-Ichr-Hd1e1946">Caput 16</head>
           <p xml:id="Ichr16_1" n="1">adtulerunt igitur arcam Dei et constituerunt eam in medio
             tabernaculi quod tetenderat ei David et obtulerunt holocausta et pacifica coram Deo </p>
           <p xml:id="Ichr16_2" n="2">cumque conplesset David offerens holocausta et pacifica
@@ -1154,7 +1152,7 @@
             benediceret etiam domui suae </p>
         </div>
         <div xml:id="bible-Ichr17" n="17">
-          <head>Caput 17</head>
+          <head xml:id="bible-Ichr-Hd1e2087">Caput 17</head>
           <p xml:id="Ichr17_1" n="1">cum autem habitaret David in domo sua dixit ad Nathan prophetam
             ecce ego habito in domo cedrina arca autem foederis Domini sub pellibus est </p>
           <p xml:id="Ichr17_2" n="2">et ait Nathan ad David omnia quae in corde tuo sunt fac Deus
@@ -1214,7 +1212,7 @@
             te enim Domine benedicente benedicta erit in perpetuum </p>
         </div>
         <div xml:id="bible-Ichr18" n="18">
-          <head>Caput 18</head>
+          <head xml:id="bible-Ichr-Hd1e2178">Caput 18</head>
           <p xml:id="Ichr18_1" n="1">factum est autem post haec ut percuteret David Philisthim et
             humiliaret eos et tolleret Geth et filias eius de manu Philisthim </p>
           <p xml:id="Ichr18_2" n="2">percuteretque Moab et fierent Moabitae servi David offerentes
@@ -1254,7 +1252,7 @@
             porro filii David primi ad manum regis </p>
         </div>
         <div xml:id="bible-Ichr19" n="19">
-          <head>Caput 19</head>
+          <head xml:id="bible-Ichr-Hd1e2237">Caput 19</head>
           <p xml:id="Ichr19_1" n="1">accidit autem ut moreretur Naas rex filiorum Ammon et regnaret
             filius eius pro eo </p>
           <p xml:id="Ichr19_2" n="2">dixitque David faciam misericordiam cum Hanon filio Naas
@@ -1304,7 +1302,7 @@
             Ammon </p>
         </div>
         <div xml:id="bible-Ichr20" n="20">
-          <head>Caput 20</head>
+          <head xml:id="bible-Ichr-Hd1e2302">Caput 20</head>
           <p xml:id="Ichr20_1" n="1">factum est autem post anni circulum eo tempore quo solent reges
             ad bella procedere congregavit Ioab exercitum et robur militiae et vastavit terram
             filiorum Ammon perrexitque et obsedit Rabba porro David manebat in Hierusalem quando
@@ -1328,7 +1326,7 @@
             servorum eius </p>
         </div>
         <div xml:id="bible-Ichr21" n="21">
-          <head>Caput 21</head>
+          <head xml:id="bible-Ichr-Hd1e2329">Caput 21</head>
           <p xml:id="Ichr21_1" n="1">consurrexit autem Satan contra Israhel et incitavit David ut
             numeraret Israhel </p>
           <p xml:id="Ichr21_2" n="2">dixitque David ad Ioab et ad principes populi ite et numerate
@@ -1400,7 +1398,7 @@
             nimio enim fuerat timore perterritus videns gladium angeli Domini </p>
         </div>
         <div xml:id="bible-Ichr22" n="22">
-          <head>Caput 22</head>
+          <head xml:id="bible-Ichr-Hd1e2429">Caput 22</head>
           <p xml:id="Ichr22_1" n="1">dixitque David haec est domus Dei et hoc altare in holocaustum
             Israhel </p>
           <p xml:id="Ichr22_2" n="2">et praecepit ut congregarentur omnes proselyti de terra Israhel
@@ -1452,7 +1450,7 @@
           </p>
         </div>
         <div xml:id="bible-Ichr23" n="23">
-          <head>Caput 23</head>
+          <head xml:id="bible-Ichr-Hd1e2494">Caput 23</head>
           <p xml:id="Ichr23_1" n="1">igitur David senex et plenus dierum regem constituit Salomonem
             filium suum super Israhel </p>
           <p xml:id="Ichr23_2" n="2">et congregavit omnes principes Israhel et sacerdotes atque
@@ -1515,7 +1513,7 @@
           </p>
         </div>
         <div xml:id="bible-Ichr24" n="24">
-          <head>Caput 24</head>
+          <head xml:id="bible-Ichr-Hd1e2601">Caput 24</head>
           <p xml:id="Ichr24_1" n="1">porro filiis Aaron hae partitiones erunt filii Aaron Nadab et
             Abiu et Eleazar et Ithamar </p>
           <p xml:id="Ichr24_2" n="2">mortui sunt autem Nadab et Abiu ante patrem suum absque liberis
@@ -1565,7 +1563,7 @@
             leviticarum tam maiores quam minores omnes sors aequaliter dividebat </p>
         </div>
         <div xml:id="bible-Ichr25" n="25">
-          <head>Caput 25</head>
+          <head xml:id="bible-Ichr-Hd1e2704">Caput 25</head>
           <p xml:id="Ichr25_1" n="1">igitur David et magistratus exercitus secreverunt in
             ministerium filios Asaph et Heman et Idithun qui prophetarent in citharis et psalteriis
             et cymbalis secundum numerum suum dedicato sibi officio servientes </p>
@@ -1613,7 +1611,7 @@
             duodecim </p>
         </div>
         <div xml:id="bible-Ichr26" n="26">
-          <head>Caput 26</head>
+          <head xml:id="bible-Ichr-Hd1e2807">Caput 26</head>
           <p xml:id="Ichr26_1" n="1">divisiones autem ianitorum de Coritis Mesellemia filius Core de
             filiis Asaph </p>
           <p xml:id="Ichr26_2" n="2">filii Mesellemiae Zaccharias primogenitus Iadihel secundus
@@ -1680,7 +1678,7 @@
             tribus Manasse in omne ministerium Dei et regis </p>
         </div>
         <div xml:id="bible-Ichr27" n="27">
-          <head>Caput 27</head>
+          <head xml:id="bible-Ichr-Hd1e2913">Caput 27</head>
           <p xml:id="Ichr27_1" n="1">filii autem Israhel secundum numerum suum principes familiarum
             tribuni et centuriones et praefecti qui ministrabant regi iuxta turmas suas ingredientes
             et egredientes per singulos menses in anno viginti quattuor milibus singuli praeerant </p>
@@ -1752,7 +1750,7 @@
             princeps autem exercitus regis erat Ioab </p>
         </div>
         <div xml:id="bible-Ichr28" n="28">
-          <head>Caput 28</head>
+          <head xml:id="bible-Ichr-Hd1e3025">Caput 28</head>
           <p xml:id="Ichr28_1" n="1">convocavit igitur David omnes principes Israhel duces tribuum
             et praepositos turmarum qui ministrabant regi tribunos quoque et centuriones et qui
             praeerant substantiae et possessionibus regis filiosque suos cum eunuchis et potentes et
@@ -1810,7 +1808,7 @@
             omnia praecepta tua </p>
         </div>
         <div xml:id="bible-Ichr29" n="29">
-          <head>Caput 29</head>
+          <head xml:id="bible-Ichr-Hd1e3096">Caput 29</head>
           <p xml:id="Ichr29_1" n="1">locutusque est David rex ad omnem ecclesiam Salomonem filium
             meum unum elegit Deus adhuc puerum et tenellum opus autem grande est neque enim homini
             praeparatur habitatio sed Deo </p>

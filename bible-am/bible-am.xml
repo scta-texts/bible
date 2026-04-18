@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-am">
-        <head>Amos</head>
+        <head xml:id="bible-am-Hd1e76">Amos</head>
         <div xml:id="bible-am1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-am-Hd1e80">Caput 1</head>
           <p xml:id="am1_1" n="1">verba Amos qui fuit in pastoralibus de Thecuae quae vidit super
             Israhel in diebus Oziae regis Iuda et in diebus Hieroboam filii Ioas regis Israhel ante
             duos annos terraemotus</p>
@@ -81,7 +79,7 @@
             dicit Dominus</p>
         </div>
         <div xml:id="bible-am2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-am-Hd1e132">Caput 2</head>
           <p xml:id="am2_1" n="1">haec dicit Dominus super tribus sceleribus Moab et super quattuor
             non convertam eum eo quod incenderit ossa regis Idumeae usque ad cinerem</p>
           <p xml:id="am2_2" n="2">et mittam ignem in Moab et devorabit aedes Carioth et morietur in
@@ -119,7 +117,7 @@
             Dominus</p>
         </div>
         <div xml:id="bible-am3" n="3">
-          <head>Caput 3</head>
+          <head xml:id="bible-am-Hd1e187">Caput 3</head>
           <p xml:id="am3_1" n="1">audite verbum quod locutus est Dominus super vos filii Israhel
             super omni cognatione quam eduxi de terra Aegypti dicens</p>
           <p xml:id="am3_2" n="2">tantummodo vos cognovi ex omnibus cognationibus terrae idcirco
@@ -154,7 +152,7 @@
             eburneae et dissipabuntur aedes multae dicit Dominus</p>
         </div>
         <div xml:id="bible-am4" n="4">
-          <head>Caput 4</head>
+          <head xml:id="bible-am-Hd1e239">Caput 4</head>
           <p xml:id="am4_1" n="1">audite verbum hoc vaccae pingues quae estis in monte Samariae quae
             calumniam facitis egenis et confringitis pauperes quae dicitis dominis vestris adferte
             et bibemus</p>
@@ -189,7 +187,7 @@
             exercituum nomen eius</p>
         </div>
         <div xml:id="bible-am5" n="5">
-          <head>Caput 5</head>
+          <head xml:id="bible-am-Hd1e286">Caput 5</head>
           <p xml:id="am5_1" n="1">audite verbum istud quod ego levo super vos planctum domus Israhel
             cecidit non adiciet ut resurgat</p>
           <p xml:id="am5_2" n="2">virgo Israhel proiecta est in terram suam non est qui suscitet
@@ -248,7 +246,7 @@
             exercituum nomen eius</p>
         </div>
         <div xml:id="bible-am6" n="6">
-          <head>Caput 6</head>
+          <head xml:id="bible-am-Hd1e376">Caput 6</head>
           <p xml:id="am6_1" n="1">vae qui opulenti estis in Sion et confiditis in monte Samariae
             optimates capita populorum ingredientes pompatice domum Israhel</p>
           <p xml:id="am6_2" n="2">transite in Chalanne et videte et ite inde in Emath magnam et
@@ -284,7 +282,7 @@
             exercituum gentem et conterent vos ab introitu Emath usque ad torrentem Deserti</p>
         </div>
         <div xml:id="bible-am7" n="7">
-          <head>Caput 7</head>
+          <head xml:id="bible-am-Hd1e428">Caput 7</head>
           <p xml:id="am7_1" n="1">haec ostendit mihi Dominus Deus et ecce fictor lucustae in
             principio germinantium serotini imbris et ecce serotinus post tonsorem regis</p>
           <p xml:id="am7_2" n="2">et factum est cum consummasset comedere herbam terrae et dixi
@@ -323,7 +321,7 @@
             terra polluta morieris et Israhel captivus migrabit de terra sua</p>
         </div>
         <div xml:id="bible-am8" n="8">
-          <head>Caput 8</head>
+          <head xml:id="bible-am-Hd1e487">Caput 8</head>
           <p xml:id="am8_1" n="1">haec ostendit mihi Dominus Deus et ecce uncinus pomorum</p>
           <p xml:id="am8_2" n="2">et dixit quid tu vides Amos et dixi uncinum pomorum et dixit
             Dominus ad me venit finis super populum meum Israhel non adiciam ultra ut pertranseam
@@ -357,7 +355,7 @@
             vivit via Bersabee et cadent et non resurgent ultra</p>
         </div>
         <div xml:id="bible-am9" n="9">
-          <head>Caput 9</head>
+          <head xml:id="bible-am-Hd1e536">Caput 9</head>
           <p xml:id="am9_1" n="1">vidi Dominum stantem super altare et dixit percute cardinem et
             commoveantur superliminaria avaritia enim in capite omnium et novissimum eorum in gladio
             interficiam non erit fuga eis fugiet et non salvabitur ex eis qui fugerit</p>

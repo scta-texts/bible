@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-IImac">
-        <head>Machabaeorum II</head>
+        <head xml:id="bible-IImac-Hd1e76">Machabaeorum II</head>
         <div xml:id="bible-IImac1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-IImac-Hd1e80">Caput 1</head>
           <p xml:id="IImac1_1" n="1">fratribus qui sunt per Aegyptum Iudaeis salutem dicunt fratres
             qui sunt in Hierosolymis Iudaei et qui in regione Iudaeae et pacem bonam</p>
           <p xml:id="IImac1_2" n="2">benefaciat vobis Deus et meminerit testamenti sui quod est ad
@@ -125,7 +123,7 @@
             purificatio vocatur autem apud plures Nephi</p>
         </div>
         <div xml:id="bible-IImac2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-IImac-Hd1e199">Caput 2</head>
           <p xml:id="IImac2_1" n="1">invenitur autem in descriptionibus Hieremiae prophetae quod
             iussit accipere ignem eos qui transmigrabantur ut significatum est et ut mandavit
             transmigratis</p>
@@ -200,7 +198,7 @@
             succingi</p>
         </div>
         <div xml:id="bible-IImac3" n="3">
-          <head>Caput 3</head>
+          <head xml:id="bible-IImac-Hd1e308">Caput 3</head>
           <p xml:id="IImac3_1" n="1">igitur cum sancta civitas habitaretur in omni pace leges etiam
             adhuc optime custodirentur propter Oniae pontificis pietatem et animos odio habentes
             mala</p>
@@ -298,7 +296,7 @@
           <p xml:id="IImac3_40" n="40">igitur de Heliodoro et aerarii custodia ita se res habet</p>
         </div>
         <div xml:id="bible-IImac4" n="4">
-          <head>Caput 4</head>
+          <head xml:id="bible-IImac-Hd1e439">Caput 4</head>
           <p xml:id="IImac4_1" n="1">Simon autem praedictus pecuniarum et patriae delator male
             loquebatur de Onia tamquam ipse Heliodorum instigasset ad haec et ipse fuisset incentor
             malorum</p>
@@ -421,7 +419,7 @@
             permanebat in potestate crescens in malitia et ad insidias civium</p>
         </div>
         <div xml:id="bible-IImac5" n="5">
-          <head>Caput 5</head>
+          <head xml:id="bible-IImac-Hd1e603">Caput 5</head>
           <p xml:id="IImac5_1" n="1">eodem tempore Antiochus secundam profectionem paravit in
             Aegyptum</p>
           <p xml:id="IImac5_2" n="2">contigit autem per universam Hierosolymorum civitatem videri
@@ -491,7 +489,7 @@
             vescentes demorabantur ne participes essent coinquinationis</p>
         </div>
         <div xml:id="bible-IImac6" n="6">
-          <head>Caput 6</head>
+          <head xml:id="bible-IImac-Hd1e693">Caput 6</head>
           <p xml:id="IImac6_1" n="1">sed non post multum temporis misit rex senem quendam
             antiochenum qui conpelleret Iudaeos ut se transferrent a patriis et Dei legibus</p>
           <p xml:id="IImac6_2" n="2">contaminare etiam quod in Hierosolymis erat templum et
@@ -570,7 +568,7 @@
             derelinquens</p>
         </div>
         <div xml:id="bible-IImac7" n="7">
-          <head>Caput 7</head>
+          <head xml:id="bible-IImac-Hd1e796">Caput 7</head>
           <p xml:id="IImac7_1" n="1">contigit autem et septem fratres cum matre adprehensos conpelli
             a rege contra fas ad carnes porcinas flagris et taureis cruciatos</p>
           <p xml:id="IImac7_2" n="2">unus autem ex illis qui erat primus sic ait quid quaeris et
@@ -667,7 +665,7 @@
             dictum</p>
         </div>
         <div xml:id="bible-IImac8" n="8">
-          <head>Caput 8</head>
+          <head xml:id="bible-IImac-Hd1e934">Caput 8</head>
           <p xml:id="IImac8_1" n="1">Iudas vero Macchabeus et qui cum illo erant introibant latenter
             in castella et convocantes cognatos et eos qui permanserant in iudaismo adsumentes
             eduxerunt ad sex milia viros</p>
@@ -759,7 +757,7 @@
             invulnerabiles esse eo quod sequerentur leges ab ipso constitutas</p>
         </div>
         <div xml:id="bible-IImac9" n="9">
-          <head>Caput 9</head>
+          <head xml:id="bible-IImac-Hd1e1053">Caput 9</head>
           <p xml:id="IImac9_1" n="1">eodem tempore Antiochus inhoneste revertebatur de Perside</p>
           <p xml:id="IImac9_2" n="2">intraverat enim ea quae dicitur Persipolis et temptavit
             expoliare templa et civitatem opprimere sed multitudine ad arma concurrente in fugam
@@ -833,7 +831,7 @@
             metuens filium Antiochi ad Ptolomeum Filometora in Aegyptum abiit</p>
         </div>
         <div xml:id="bible-IImac10" n="10">
-          <head>Caput 10</head>
+          <head xml:id="bible-IImac-Hd1e1150">Caput 10</head>
           <p xml:id="IImac10_1" n="1">Macchabeus autem et qui cum illo erant Domino se protegente
             templum quidem et civitatem recepit</p>
           <p xml:id="IImac10_2" n="2">aras autem quas alienigenae per plateas extruxerant itemque
@@ -925,7 +923,7 @@
             Dominum qui magna fecit cum Israhel et victoriam illi dedit</p>
         </div>
         <div xml:id="bible-IImac11" n="11">
-          <head>Caput 11</head>
+          <head xml:id="bible-IImac-Hd1e1276">Caput 11</head>
           <p xml:id="IImac11_1" n="1">sed parvo post tempore Lysias procurator regis et propinquus
             ac negotiorum praepositus graviter ferens de his quae acciderant</p>
           <p xml:id="IImac11_2" n="2">congregatis octoginta milibus et equitatu universo veniebat
@@ -1007,7 +1005,7 @@
             die mensis xandici</p>
         </div>
         <div xml:id="bible-IImac12" n="12">
-          <head>Caput 12</head>
+          <head xml:id="bible-IImac-Hd1e1401">Caput 12</head>
           <p xml:id="IImac12_1" n="1">his factis pactionibus Lysias pergebat ad regem Iudaei autem
             agriculturae operam dabant</p>
           <p xml:id="IImac12_2" n="2">sed hii qui resederant Timotheus et Apollonius gehennae filius
@@ -1122,7 +1120,7 @@
             peccato solverentur</p>
         </div>
         <div xml:id="bible-IImac13" n="13">
-          <head>Caput 13</head>
+          <head xml:id="bible-IImac-Hd1e1551">Caput 13</head>
           <p xml:id="IImac13_1" n="1">anno centesimo quadragesimo nono cognovit Iudas Antiochum
             Eupatoris venire cum multitudine adversus Iudaeam</p>
           <p xml:id="IImac13_2" n="2">et cum eo Lysiam procuratorem et praepositum negotiorum secum
@@ -1187,7 +1185,7 @@
             processit</p>
         </div>
         <div xml:id="bible-IImac14" n="14">
-          <head>Caput 14</head>
+          <head xml:id="bible-IImac-Hd1e1638">Caput 14</head>
           <p xml:id="IImac14_1" n="1">sed post triennii tempus cognovit Iudas et qui cum eo erant
             Demetrium Seleuci cum multitudine valida et navibus per portum Tripoli ascendisse ad
             loca oportuna</p>
@@ -1298,7 +1296,7 @@
             est</p>
         </div>
         <div xml:id="bible-IImac15" n="15">
-          <head>Caput 15</head>
+          <head xml:id="bible-IImac-Hd1e1788">Caput 15</head>
           <p xml:id="IImac15_1" n="1">Nicanor autem ut conperit Iudam esse in locis Samariae
             cogitavit die sabbati cum omni impetu committere</p>
           <p xml:id="IImac15_2" n="2">Iudaeis vero qui illum per necessitatem sequebantur dicentibus

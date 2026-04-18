@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-mal">
-        <head>Malachias</head>
+        <head xml:id="bible-mal-Hd1e76">Malachias</head>
         <div xml:id="bible-mal1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-mal-Hd1e80">Caput 1</head>
           <p xml:id="mal1_1" n="1">onus verbi Domini ad Israhel in manu Malachi</p>
           <p xml:id="mal1_2" n="2">dilexi vos dicit Dominus et dixistis in quo dilexisti nos nonne
             frater erat Esau Iacob dicit Dominus et dilexi Iacob</p>
@@ -83,7 +81,7 @@
             horribile in gentibus</p>
         </div>
         <div xml:id="bible-mal2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-mal-Hd1e129">Caput 2</head>
           <p xml:id="mal2_1" n="1">et nunc ad vos mandatum hoc o sacerdotes</p>
           <p xml:id="mal2_2" n="2">si nolueritis audire et si nolueritis ponere super cor ut detis
             gloriam nomini meo ait Dominus exercituum mittam in vos egestatem et maledicam
@@ -127,7 +125,7 @@
             conspectu Domini et tales ei placent aut certe ubi est Deus iudicii</p>
         </div>
         <div xml:id="bible-mal3" n="3">
-          <head>Caput 3</head>
+          <head xml:id="bible-mal-Hd1e188">Caput 3</head>
           <p xml:id="mal3_1" n="1">ecce ego mittam angelum meum et praeparabit viam ante faciem meam
             et statim veniet ad templum suum dominator quem vos quaeritis et angelus testamenti quem
             vos vultis ecce venit dicit Dominus exercituum</p>
@@ -172,7 +170,7 @@
             inter servientem Deo et non servientem ei</p>
         </div>
         <div xml:id="bible-mal4" n="4">
-          <head>Caput 4</head>
+          <head xml:id="bible-mal-Hd1e250">Caput 4</head>
           <p xml:id="mal4_1" n="1">ecce enim dies veniet succensa quasi caminus et erunt omnes
             superbi et omnes facientes impietatem stipula et inflammabit eos dies veniens dicit
             Dominus exercituum quae non relinquet eis radicem et germen</p>

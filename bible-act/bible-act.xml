@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Actus Apostolorum </title>
+        <title>Actus Apostolorum</title>
         <author/>
       </titleStmt>
       <editionStmt>
@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-act">
-        <head>Actus Apostolorum </head>
+        <head xml:id="bible-act-Hd1e76">Actus Apostolorum</head>
         <div xml:id="bible-act1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-act-Hd1e80">Caput 1</head>
           <p xml:id="act1_1" n="1">primum quidem sermonem feci de omnibus o Theophile quae coepit
             Iesus facere et docere</p>
           <p xml:id="act1_2" n="2">usque in diem qua praecipiens apostolis per Spiritum Sanctum quos
@@ -102,7 +100,7 @@
             adnumeratus est cum undecim apostolis</p>
         </div>
         <div xml:id="bible-act2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-act-Hd1e167">Caput 2</head>
           <p xml:id="act2_1" n="1">et cum conplerentur dies pentecostes erant omnes pariter in eodem
             loco</p>
           <p xml:id="act2_2" n="2">et factus est repente de caelo sonus tamquam advenientis spiritus
@@ -200,7 +198,7 @@
             autem augebat qui salvi fierent cotidie in id ipsum</p>
         </div>
         <div xml:id="bible-act3" n="3">
-          <head>Caput 3</head>
+          <head xml:id="bible-act-Hd1e321">Caput 3</head>
           <p xml:id="act3_1" n="1">Petrus autem et Iohannes ascendebant in templum ad horam
             orationis nonam</p>
           <p xml:id="act3_2" n="2">et quidam vir qui erat claudus ex utero matris suae baiulabatur
@@ -261,7 +259,7 @@
             vobis ut convertat se unusquisque a nequitia sua</p>
         </div>
         <div xml:id="bible-act4" n="4">
-          <head>Caput 4</head>
+          <head xml:id="bible-act-Hd1e408">Caput 4</head>
           <p xml:id="act4_1" n="1">loquentibus autem illis ad populum supervenerunt sacerdotes et
             magistratus templi et Sadducaei</p>
           <p xml:id="act4_2" n="2">dolentes quod docerent populum et adnuntiarent in Iesu
@@ -341,7 +339,7 @@
             ante pedes apostolorum</p>
         </div>
         <div xml:id="bible-act5" n="5">
-          <head>Caput 5</head>
+          <head xml:id="bible-act-Hd1e531">Caput 5</head>
           <p xml:id="act5_1" n="1">vir autem quidam nomine Ananias cum Saffira uxore sua vendidit
             agrum</p>
           <p xml:id="act5_2" n="2">et fraudavit de pretio agri conscia uxore sua et adferens partem
@@ -432,7 +430,7 @@
             et evangelizantes Christum Iesum</p>
         </div>
         <div xml:id="bible-act6" n="6">
-          <head>Caput 6</head>
+          <head xml:id="bible-act-Hd1e669">Caput 6</head>
           <p xml:id="act6_1" n="1">in diebus autem illis crescente numero discipulorum factus est
             murmur Graecorum adversus Hebraeos eo quod dispicerentur in ministerio cotidiano viduae
             eorum</p>
@@ -467,7 +465,7 @@
             eius tamquam faciem angeli</p>
         </div>
         <div xml:id="bible-act7" n="7">
-          <head>Caput 7</head>
+          <head xml:id="bible-act-Hd1e721">Caput 7</head>
           <p xml:id="act7_1" n="1">dixit autem princeps sacerdotum si haec ita se habent</p>
           <p xml:id="act7_2" n="2">qui ait viri fratres et patres audite Deus gloriae apparuit patri
             nostro Abraham cum esset in Mesopotamiam priusquam moraretur in Charram</p>
@@ -594,7 +592,7 @@
             eius</p>
         </div>
         <div xml:id="bible-act8" n="8">
-          <head>Caput 8</head>
+          <head xml:id="bible-act-Hd1e913">Caput 8</head>
           <p xml:id="act8_1" n="1">facta est autem in illa die persecutio magna in ecclesia quae
             erat Hierosolymis et omnes dispersi sunt per regiones Iudaeae et Samariae praeter
             apostolos</p>
@@ -679,7 +677,7 @@
             evangelizabat civitatibus cunctis donec veniret Caesaream</p>
         </div>
         <div xml:id="bible-act9" n="9">
-          <head>Caput 9</head>
+          <head xml:id="bible-act-Hd1e1044">Caput 9</head>
           <p xml:id="act9_1" n="1">Saulus autem adhuc inspirans minarum et caedis in discipulos
             Domini accessit ad principem sacerdotum</p>
           <p xml:id="act9_2" n="2">et petiit ab eo epistulas in Damascum ad synagogas ut si quos
@@ -775,7 +773,7 @@
             Simonem coriarium</p>
         </div>
         <div xml:id="bible-act10" n="10">
-          <head>Caput 10</head>
+          <head xml:id="bible-act-Hd1e1182">Caput 10</head>
           <p xml:id="act10_1" n="1">vir autem quidam erat in Caesarea nomine Cornelius centurio
             cohortis quae dicitur Italica</p>
           <p xml:id="act10_2" n="2">religiosus et timens Deum cum omni domo sua faciens elemosynas
@@ -877,7 +875,7 @@
             eum ut maneret aliquot diebus</p>
         </div>
         <div xml:id="bible-act11" n="11">
-          <head>Caput 11</head>
+          <head xml:id="bible-act-Hd1e1340">Caput 11</head>
           <p xml:id="act11_1" n="1">audierunt autem apostoli et fratres qui erant in Iudaea quoniam
             et gentes receperunt verbum Dei</p>
           <p xml:id="act11_2" n="2">cum ascendisset autem Petrus in Hierosolymam disceptabant
@@ -941,7 +939,7 @@
             Sauli</p>
         </div>
         <div xml:id="bible-act12" n="12">
-          <head>Caput 12</head>
+          <head xml:id="bible-act-Hd1e1440">Caput 12</head>
           <p xml:id="act12_1" n="1">eodem autem tempore misit Herodes rex manus ut adfligeret
             quosdam de ecclesia</p>
           <p xml:id="act12_2" n="2">occidit autem Iacobum fratrem Iohannis gladio</p>
@@ -998,7 +996,7 @@
             ministerio adsumpto Iohanne qui cognominatus est Marcus</p>
         </div>
         <div xml:id="bible-act13" n="13">
-          <head>Caput 13</head>
+          <head xml:id="bible-act-Hd1e1524">Caput 13</head>
           <p xml:id="act13_1" n="1">erant autem in ecclesia quae erat Antiochiae prophetae et
             doctores in quibus Barnabas et Symeon qui vocabatur Niger et Lucius Cyrenensis et Manaen
             qui erat Herodis tetrarchae conlactaneus et Saulus</p>
@@ -1109,7 +1107,7 @@
           <p xml:id="act13_52" n="52">discipuli quoque replebantur gaudio et Spiritu Sancto</p>
         </div>
         <div xml:id="bible-act14" n="14">
-          <head>Caput 14</head>
+          <head xml:id="bible-act-Hd1e1693">Caput 14</head>
           <p xml:id="act14_1" n="1">factum est autem Iconii ut simul introirent synagogam Iudaeorum
             et loquerentur ita ut crederet Iudaeorum et Graecorum copiosa multitudo</p>
           <p xml:id="act14_2" n="2">qui vero increduli fuerunt Iudaei suscitaverunt et ad iracundiam
@@ -1166,7 +1164,7 @@
           <p xml:id="act14_27" n="27">morati sunt autem tempus non modicum cum discipulis</p>
         </div>
         <div xml:id="bible-act15" n="15">
-          <head>Caput 15</head>
+          <head xml:id="bible-act-Hd1e1783">Caput 15</head>
           <p xml:id="act15_1" n="1">et quidam descendentes de Iudaea docebant fratres quia nisi
             circumcidamini secundum morem Mosi non potestis salvi fieri</p>
           <p xml:id="act15_2" n="2">facta ergo seditione non minima Paulo et Barnabae adversum illos
@@ -1249,7 +1247,7 @@
           <p xml:id="act15_41" n="41">perambulabat autem Syriam et Ciliciam confirmans ecclesias</p>
         </div>
         <div xml:id="bible-act16" n="16">
-          <head>Caput 16</head>
+          <head xml:id="bible-act-Hd1e1914">Caput 16</head>
           <p xml:id="act16_1" n="1">pervenit autem in Derben et Lystram et ecce discipulus quidam
             erat ibi nomine Timotheus filius mulieris iudaeae fidelis patre gentili</p>
           <p xml:id="act16_2" n="2">huic testimonium reddebant qui in Lystris erant et Iconii
@@ -1336,7 +1334,7 @@
             fratribus consolati sunt eos et profecti sunt</p>
         </div>
         <div xml:id="bible-act17" n="17">
-          <head>Caput 17</head>
+          <head xml:id="bible-act-Hd1e2046">Caput 17</head>
           <p xml:id="act17_1" n="1">cum autem perambulassent Amphipolim et Apolloniam venerunt
             Thessalonicam ubi erat synagoga Iudaeorum</p>
           <p xml:id="act17_2" n="2">secundum consuetudinem autem Paulus introivit ad eos et per
@@ -1410,7 +1408,7 @@
             Dionisius Ariopagita et mulier nomine Damaris et alii cum eis</p>
         </div>
         <div xml:id="bible-act18" n="18">
-          <head>Caput 18</head>
+          <head xml:id="bible-act-Hd1e2158">Caput 18</head>
           <p xml:id="act18_1" n="1">post haec egressus ab Athenis venit Corinthum</p>
           <p xml:id="act18_2" n="2">et inveniens quendam Iudaeum nomine Aquilam Ponticum genere qui
             nuper venerat ab Italia et Priscillam uxorem eius eo quod praecepisset Claudius
@@ -1468,7 +1466,7 @@
             scripturas esse Christum Iesum</p>
         </div>
         <div xml:id="bible-act19" n="19">
-          <head>Caput 19</head>
+          <head xml:id="bible-act-Hd1e2248">Caput 19</head>
           <p xml:id="act19_1" n="1">factum est autem cum Apollo esset Corinthi ut Paulus peragratis
             superioribus partibus veniret Ephesum et inveniret quosdam discipulos</p>
           <p xml:id="act19_2" n="2">dixitque ad eos si Spiritum Sanctum accepistis credentes at illi
@@ -1557,7 +1555,7 @@
             dimisit ecclesiam</p>
         </div>
         <div xml:id="bible-act20" n="20">
-          <head>Caput 20</head>
+          <head xml:id="bible-act-Hd1e2379">Caput 20</head>
           <p xml:id="act20_1" n="1">postquam autem cessavit tumultus vocatis Paulus discipulis et
             exhortatus eos valedixit et profectus est ut iret in Macedoniam</p>
           <p xml:id="act20_2" n="2">cum autem perambulasset partes illas et exhortatus eos fuisset
@@ -1640,7 +1638,7 @@
             eius non essent visuri et deducebant eum ad navem</p>
         </div>
         <div xml:id="bible-act21" n="21">
-          <head>Caput 21</head>
+          <head xml:id="bible-act-Hd1e2504">Caput 21</head>
           <p xml:id="act21_1" n="1">cum autem factum esset ut navigaremus abstracti ab eis recto
             cursu venimus Cho et sequenti die Rhodum et inde Patara</p>
           <p xml:id="act21_2" n="2">et cum invenissemus navem transfretantem in Foenicen ascendentes
@@ -1728,7 +1726,7 @@
             ad plebem et magno silentio facto adlocutus est hebraea lingua dicens</p>
         </div>
         <div xml:id="bible-act22" n="22">
-          <head>Caput 22</head>
+          <head xml:id="bible-act-Hd1e2635">Caput 22</head>
           <p xml:id="act22_1" n="1">viri fratres et patres audite quam ad vos nunc reddo
             rationem</p>
           <p xml:id="act22_2" n="2">cum audissent autem quia hebraea lingua loquitur ad illos magis
@@ -1795,7 +1793,7 @@
             producens Paulum statuit inter illos</p>
         </div>
         <div xml:id="bible-act23" n="23">
-          <head>Caput 23</head>
+          <head xml:id="bible-act-Hd1e2736">Caput 23</head>
           <p xml:id="act23_1" n="1">intendens autem concilium Paulus ait viri fratres ego omni
             conscientia bona conversatus sum ante Deum usque in hodiernum diem</p>
           <p xml:id="act23_2" n="2">princeps autem sacerdotum Ananias praecepit adstantibus sibi
@@ -1872,7 +1870,7 @@
             praetorio Herodis custodiri eum</p>
         </div>
         <div xml:id="bible-act24" n="24">
-          <head>Caput 24</head>
+          <head xml:id="bible-act-Hd1e2848">Caput 24</head>
           <p xml:id="act24_1" n="1">post quinque autem dies descendit princeps sacerdotum Ananias
             cum senioribus quibusdam et Tertullo quodam oratore qui adierunt praesidem adversus
             Paulum</p>
@@ -1927,7 +1925,7 @@
             volens autem gratiam praestare Iudaeis Felix reliquit Paulum vinctum</p>
         </div>
         <div xml:id="bible-act25" n="25">
-          <head>Caput 25</head>
+          <head xml:id="bible-act-Hd1e2935">Caput 25</head>
           <p xml:id="act25_1" n="1">Festus ergo cum venisset in provinciam post triduum ascendit
             Hierosolymam a Caesarea</p>
           <p xml:id="act25_2" n="2">adieruntque eum principes sacerdotum et primi Iudaeorum adversus
@@ -1989,7 +1987,7 @@
             non significare</p>
         </div>
         <div xml:id="bible-act26" n="26">
-          <head>Caput 26</head>
+          <head xml:id="bible-act-Hd1e3025">Caput 26</head>
           <p xml:id="act26_1" n="1">Agrippa vero ad Paulum ait permittitur tibi loqui pro temet ipso
             tunc Paulus extenta manu coepit rationem reddere</p>
           <p xml:id="act26_2" n="2">de omnibus quibus accusor a Iudaeis rex Agrippa aestimo me
@@ -2060,7 +2058,7 @@
             appellasset Caesarem</p>
         </div>
         <div xml:id="bible-act27" n="27">
-          <head>Caput 27</head>
+          <head xml:id="bible-act-Hd1e3131">Caput 27</head>
           <p xml:id="act27_1" n="1">ut autem iudicatum est eum navigare in Italiam et tradi Paulum
             cum reliquis custodiis centurioni nomine Iulio cohortis Augustae</p>
           <p xml:id="act27_2" n="2">ascendentes autem navem hadrumetinam incipientem navigare circa
@@ -2151,7 +2149,7 @@
             navi essent et sic factum est ut omnes animae evaderent ad terram</p>
         </div>
         <div xml:id="bible-act28" n="28">
-          <head>Caput 28</head>
+          <head xml:id="bible-act-Hd1e3275">Caput 28</head>
           <p xml:id="act28_1" n="1">et cum evasissemus tunc cognovimus quia Militene insula vocatur
             barbari vero praestabant non modicam humanitatem nobis</p>
           <p xml:id="act28_2" n="2">accensa enim pyra reficiebant nos omnes propter imbrem qui

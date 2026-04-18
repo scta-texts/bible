@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-io">
-        <head>Ioannes</head>
+        <head xml:id="bible-io-Hd1e76">Ioannes</head>
         <div xml:id="bible-io1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-io-Hd1e80">Caput 1</head>
           <p xml:id="io1_1" n="1">in principio erat Verbum et Verbum erat apud Deum et Deus erat
             Verbum</p>
           <p xml:id="io1_2" n="2">hoc erat in principio apud Deum</p>
@@ -138,7 +136,7 @@
             angelos Dei ascendentes et descendentes supra Filium hominis</p>
         </div>
         <div xml:id="bible-io2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-io-Hd1e246">Caput 2</head>
           <p xml:id="io2_1" n="1">et die tertio nuptiae factae sunt in Cana Galilaeae et erat mater
             Iesu ibi</p>
           <p xml:id="io2_2" n="2">vocatus est autem ibi et Iesus et discipuli eius ad nuptias</p>
@@ -186,7 +184,7 @@
             homine ipse enim sciebat quid esset in homine</p>
         </div>
         <div xml:id="bible-io3" n="3">
-          <head>Caput 3</head>
+          <head xml:id="bible-io-Hd1e330">Caput 3</head>
           <p xml:id="io3_1" n="1">erat autem homo ex Pharisaeis Nicodemus nomine princeps
             Iudaeorum</p>
           <p xml:id="io3_2" n="2">hic venit ad eum nocte et dixit ei rabbi scimus quia a Deo venisti
@@ -256,7 +254,7 @@
             est Filio non videbit vitam sed ira Dei manet super eum</p>
         </div>
         <div xml:id="bible-io4" n="4">
-          <head>Caput 4</head>
+          <head xml:id="bible-io-Hd1e449">Caput 4</head>
           <p xml:id="io4_1" n="1">ut ergo cognovit Iesus quia audierunt Pharisaei quia Iesus plures
             discipulos facit et baptizat quam Iohannes</p>
           <p xml:id="io4_2" n="2">quamquam Iesus non baptizaret sed discipuli eius</p>
@@ -360,7 +358,7 @@
             Galilaeam</p>
         </div>
         <div xml:id="bible-io5" n="5">
-          <head>Caput 5</head>
+          <head xml:id="bible-io-Hd1e626">Caput 5</head>
           <p xml:id="io5_1" n="1">post haec erat dies festus Iudaeorum et ascendit Iesus
             Hierosolymis</p>
           <p xml:id="io5_2" n="2">est autem Hierosolymis super Probatica piscina quae cognominatur
@@ -454,7 +452,7 @@
             credetis</p>
         </div>
         <div xml:id="bible-io6" n="6">
-          <head>Caput 6</head>
+          <head xml:id="bible-io-Hd1e776">Caput 6</head>
           <p xml:id="io6_1" n="1">post haec abiit Iesus trans mare Galilaeae quod est Tiberiadis</p>
           <p xml:id="io6_2" n="2">et sequebatur eum multitudo magna quia videbant signa quae
             faciebat super his qui infirmabantur</p>
@@ -584,7 +582,7 @@
             eum cum esset unus ex duodecim</p>
         </div>
         <div xml:id="bible-io7" n="7">
-          <head>Caput 7</head>
+          <head xml:id="bible-io-Hd1e1009">Caput 7</head>
           <p xml:id="io7_1" n="1">post haec ambulabat Iesus in Galilaeam non enim volebat in Iudaeam
             ambulare quia quaerebant eum Iudaei interficere</p>
           <p xml:id="io7_2" n="2">erat autem in proximo dies festus Iudaeorum scenopegia</p>
@@ -682,7 +680,7 @@
           <p xml:id="io7_53" n="53">et reversi sunt unusquisque in domum suam</p>
         </div>
         <div xml:id="bible-io8" n="8">
-          <head>Caput 8</head>
+          <head xml:id="bible-io-Hd1e1182">Caput 8</head>
           <p xml:id="io8_1" n="1">Iesus autem perrexit in montem Oliveti</p>
           <p xml:id="io8_2" n="2">et diluculo iterum venit in templum et omnis populus venit ad eum
             et sedens docebat eos</p>
@@ -799,7 +797,7 @@
             se et exivit de templo</p>
         </div>
         <div xml:id="bible-io9" n="9">
-          <head>Caput 9</head>
+          <head xml:id="bible-io-Hd1e1374">Caput 9</head>
           <p xml:id="io9_1" n="1">et praeteriens vidit hominem caecum a nativitate</p>
           <p xml:id="io9_2" n="2">et interrogaverunt eum discipuli sui rabbi quis peccavit hic aut
             parentes eius ut caecus nasceretur</p>
@@ -877,7 +875,7 @@
             vero dicitis quia videmus peccatum vestrum manet</p>
         </div>
         <div xml:id="bible-io10" n="10">
-          <head>Caput 10</head>
+          <head xml:id="bible-io-Hd1e1509">Caput 10</head>
           <p xml:id="io10_1" n="1">amen amen dico vobis qui non intrat per ostium in ovile ovium sed
             ascendit aliunde ille fur est et latro</p>
           <p xml:id="io10_2" n="2">qui autem intrat per ostium pastor est ovium</p>
@@ -956,7 +954,7 @@
             multi crediderunt in eum</p>
         </div>
         <div xml:id="bible-io11" n="11">
-          <head>Caput 11</head>
+          <head xml:id="bible-io-Hd1e1648">Caput 11</head>
           <p xml:id="io11_1" n="1">erat autem quidam languens Lazarus a Bethania de castello Mariae
             et Marthae sororis eius</p>
           <p xml:id="io11_2" n="2">Maria autem erat quae unxit Dominum unguento et extersit pedes
@@ -1066,7 +1064,7 @@
             cognoverit ubi sit indicet ut adprehendant eum</p>
         </div>
         <div xml:id="bible-io12" n="12">
-          <head>Caput 12</head>
+          <head xml:id="bible-io-Hd1e1833">Caput 12</head>
           <p xml:id="io12_1" n="1">Iesus ergo ante sex dies paschae venit Bethaniam ubi fuerat
             Lazarus mortuus quem suscitavit Iesus</p>
           <p xml:id="io12_2" n="2">fecerunt autem ei cenam ibi et Martha ministrabat Lazarus vero
@@ -1169,7 +1167,7 @@
             loquor sicut dixit mihi Pater sic loquor</p>
         </div>
         <div xml:id="bible-io13" n="13">
-          <head>Caput 13</head>
+          <head xml:id="bible-io-Hd1e1996">Caput 13</head>
           <p xml:id="io13_1" n="1">ante diem autem festum paschae sciens Iesus quia venit eius hora
             ut transeat ex hoc mundo ad Patrem cum dilexisset suos qui erant in mundo in finem
             dilexit eos</p>
@@ -1247,7 +1245,7 @@
             non cantabit gallus donec me ter neges</p>
         </div>
         <div xml:id="bible-io14" n="14">
-          <head>Caput 14</head>
+          <head xml:id="bible-io-Hd1e2121">Caput 14</head>
           <p xml:id="io14_1" n="1">non turbetur cor vestrum creditis in Deum et in me credite</p>
           <p xml:id="io14_2" n="2">in domo Patris mei mansiones multae sunt si quo minus dixissem
             vobis quia vado parare vobis locum</p>
@@ -1307,7 +1305,7 @@
             dedit mihi Pater sic facio surgite eamus hinc</p>
         </div>
         <div xml:id="bible-io15" n="15">
-          <head>Caput 15</head>
+          <head xml:id="bible-io-Hd1e2224">Caput 15</head>
           <p xml:id="io15_1" n="1">ego sum vitis vera et Pater meus agricola est</p>
           <p xml:id="io15_2" n="2">omnem palmitem in me non ferentem fructum tollet eum et omnem qui
             fert fructum purgabit eum ut fructum plus adferat</p>
@@ -1360,7 +1358,7 @@
           <p xml:id="io15_27" n="27">et vos testimonium perhibetis quia ab initio mecum estis</p>
         </div>
         <div xml:id="bible-io16" n="16">
-          <head>Caput 16</head>
+          <head xml:id="bible-io-Hd1e2314">Caput 16</head>
           <p xml:id="io16_1" n="1">haec locutus sum vobis ut non scandalizemini</p>
           <p xml:id="io16_2" n="2">absque synagogis facient vos sed venit hora ut omnis qui
             interficit vos arbitretur obsequium se praestare Deo</p>
@@ -1428,7 +1426,7 @@
             pressuram habetis sed confidite ego vici mundum</p>
         </div>
         <div xml:id="bible-io17" n="17">
-          <head>Caput 17</head>
+          <head xml:id="bible-io-Hd1e2424">Caput 17</head>
           <p xml:id="io17_1" n="1">haec locutus est Iesus et sublevatis oculis in caelum dixit Pater
             venit hora clarifica Filium tuum ut Filius tuus clarificet te</p>
           <p xml:id="io17_2" n="2">sicut dedisti ei potestatem omnis carnis ut omne quod dedisti ei
@@ -1479,7 +1477,7 @@
             dilexisti me in ipsis sit et ego in ipsis</p>
         </div>
         <div xml:id="bible-io18" n="18">
-          <head>Caput 18</head>
+          <head xml:id="bible-io-Hd1e2511">Caput 18</head>
           <p xml:id="io18_1" n="1">haec cum dixisset Iesus egressus est cum discipulis suis trans
             torrentem Cedron ubi erat hortus in quem introivit ipse et discipuli eius</p>
           <p xml:id="io18_2" n="2">sciebat autem et Iudas qui tradebat eum ipsum locum quia
@@ -1563,7 +1561,7 @@
             autem Barabbas latro</p>
         </div>
         <div xml:id="bible-io19" n="19">
-          <head>Caput 19</head>
+          <head xml:id="bible-io-Hd1e2642">Caput 19</head>
           <p xml:id="io19_1" n="1">tunc ergo adprehendit Pilatus Iesum et flagellavit</p>
           <p xml:id="io19_2" n="2">et milites plectentes coronam de spinis inposuerunt capiti eius
             et veste purpurea circumdederunt eum</p>
@@ -1654,7 +1652,7 @@
             monumentum posuerunt Iesum</p>
         </div>
         <div xml:id="bible-io20" n="20">
-          <head>Caput 20</head>
+          <head xml:id="bible-io-Hd1e2780">Caput 20</head>
           <p xml:id="io20_1" n="1">una autem sabbati Maria Magdalene venit mane cum adhuc tenebrae
             essent ad monumentum et videt lapidem sublatum a monumento</p>
           <p xml:id="io20_2" n="2">cucurrit ergo et venit ad Simonem Petrum et ad alium discipulum
@@ -1722,7 +1720,7 @@
             Filius Dei et ut credentes vitam habeatis in nomine eius</p>
         </div>
         <div xml:id="bible-io21" n="21">
-          <head>Caput 21</head>
+          <head xml:id="bible-io-Hd1e2883">Caput 21</head>
           <p xml:id="io21_1" n="1">postea manifestavit se iterum Iesus ad mare Tiberiadis
             manifestavit autem sic</p>
           <p xml:id="io21_2" n="2">erant simul Simon Petrus et Thomas qui dicitur Didymus et

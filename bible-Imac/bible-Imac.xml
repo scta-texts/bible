@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-Imac">
-        <head>Machabaeorum I</head>
+        <head xml:id="bible-Imac-Hd1e76">Machabaeorum I</head>
         <div xml:id="bible-Imac1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-Imac-Hd1e80">Caput 1</head>
           <p xml:id="Imac1_1" n="1">et factum est postquam percussit Alexander Philippi Macedo qui
             primus regnavit in Graecia egressus de terra Cetthim Darium regem Persarum et
             Medorum</p>
@@ -176,7 +174,7 @@
           <p xml:id="Imac1_67" n="67">et facta est ira magna super populum valde</p>
         </div>
         <div xml:id="bible-Imac2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-Imac-Hd1e297">Caput 2</head>
           <p xml:id="Imac2_1" n="1">in illis diebus surrexit Matthathias filius Iohannis filii
             Simeonis sacerdos ex filiis Ioarim ab Hierusalem et consedit in monte Modin</p>
           <p xml:id="Imac2_2" n="2">et habebat filios quinque Iohannan qui cognominabatur Gaddis</p>
@@ -316,7 +314,7 @@
             Israhel planctu magno</p>
         </div>
         <div xml:id="bible-Imac3" n="3">
-          <head>Caput 3</head>
+          <head xml:id="bible-Imac-Hd1e523">Caput 3</head>
           <p xml:id="Imac3_1" n="1">et surrexit Iudas qui vocabatur Macchabeus filius eius pro
             eo</p>
           <p xml:id="Imac3_2" n="2">et adiuvabant eum omnes fratres eius et universi qui se
@@ -445,7 +443,7 @@
           <p xml:id="Imac3_60" n="60">sicut autem fuerit voluntas in caelo sic fiat</p>
         </div>
         <div xml:id="bible-Imac4" n="4">
-          <head>Caput 4</head>
+          <head xml:id="bible-Imac-Hd1e718">Caput 4</head>
           <p xml:id="Imac4_1" n="1">et adsumpsit Gorgias quinque milia virorum et mille equites
             electos et moverunt castra nocte</p>
           <p xml:id="Imac4_2" n="2">ut adplicarent ad castra Iudaeorum et percuterent eos subito et
@@ -572,7 +570,7 @@
             ad custodiendam Bethsuram ut haberet populus munitionem contra faciem Idumeae</p>
         </div>
         <div xml:id="bible-Imac5" n="5">
-          <head>Caput 5</head>
+          <head xml:id="bible-Imac-Hd1e917">Caput 5</head>
           <p xml:id="Imac5_1" n="1">et factum est ut audierunt gentes in circuitu quia aedificatum
             est altare et sancta sicut prius et iratae sunt valde</p>
           <p xml:id="Imac5_2" n="2">et cogitabant tollere genus Iacob qui erant inter eos et
@@ -724,7 +722,7 @@
             regressus est in terram Iuda</p>
         </div>
         <div xml:id="bible-Imac6" n="6">
-          <head>Caput 6</head>
+          <head xml:id="bible-Imac-Hd1e1137">Caput 6</head>
           <p xml:id="Imac6_1" n="1">et rex Antiochus perambulavit superiores regiones et audivit
             esse civitatem Elymaidem in Perside nobilissimam et copiosam in argento et auro</p>
           <p xml:id="Imac6_2" n="2">templumque in ea locuples valde et illic velamina aurea et
@@ -867,7 +865,7 @@
             Philippum dominantem civitati et pugnavit adversus eum et occupavit civitatem</p>
         </div>
         <div xml:id="bible-Imac7" n="7">
-          <head>Caput 7</head>
+          <head xml:id="bible-Imac-Hd1e1341">Caput 7</head>
           <p xml:id="Imac7_1" n="1">anno centesimo quinquagesimo et primo exiit Demetrius Seleuci
             filius ab urbe Roma et ascendit cum paucis viris in civitatem maritimam et regnavit
             illic</p>
@@ -976,7 +974,7 @@
           <p xml:id="Imac7_50" n="50">et siluit terra Iuda dies paucos</p>
         </div>
         <div xml:id="bible-Imac8" n="8">
-          <head>Caput 8</head>
+          <head xml:id="bible-Imac-Hd1e1504">Caput 8</head>
           <p xml:id="Imac8_1" n="1">et audivit Iudas nomen Romanorum quia sunt potentes viribus et
             adquiescunt ad omnia quae postulantur ab eis et quicumque accesserunt ad eos statuerunt
             cum eis amicitias et quia sunt potentes viribus</p>
@@ -1052,7 +1050,7 @@
             iudicium et pugnabimus tecum mari terraque</p>
         </div>
         <div xml:id="bible-Imac9" n="9">
-          <head>Caput 9</head>
+          <head xml:id="bible-Imac-Hd1e1610">Caput 9</head>
           <p xml:id="Imac9_1" n="1">interea ubi audivit Demetrius quia cecidit Nicanor et exercitus
             eius in proelio adposuit Bacchidem et Alchimum rursum mittere in Iudaeam et dextrum
             cornu cum illis</p>
@@ -1211,7 +1209,7 @@
             Machemas et coepit Ionathas ibi iudicare populum et exterminavit impios ex Israhel</p>
         </div>
         <div xml:id="bible-Imac10" n="10">
-          <head>Caput 10</head>
+          <head xml:id="bible-Imac-Hd1e1846">Caput 10</head>
           <p xml:id="Imac10_1" n="1">et anno centesimo sexagesimo ascendit Alexander Antiochi filius
             qui cognominatus est Nobilis et occupavit Ptolomaidam et receperunt eum et regnavit
             illic</p>
@@ -1412,7 +1410,7 @@
             cognatis regum et dedit ei Accaron et omnes fines eius in possessionem</p>
         </div>
         <div xml:id="bible-Imac11" n="11">
-          <head>Caput 11</head>
+          <head xml:id="bible-Imac-Hd1e2134">Caput 11</head>
           <p xml:id="Imac11_1" n="1">et rex Aegypti congregavit exercitum sicut harena quae est
             circa ora maris et naves multas et quaerebat obtinere regnum Alexandri dolo et addere
             illud regno suo</p>
@@ -1573,7 +1571,7 @@
             et regressus est Ionatha in Hierusalem</p>
         </div>
         <div xml:id="bible-Imac12" n="12">
-          <head>Caput 12</head>
+          <head xml:id="bible-Imac-Hd1e2373">Caput 12</head>
           <p xml:id="Imac12_1" n="1">et vidit Ionathas quia tempus eum iuvat et elegit viros et
             misit Romam statuere et renovare cum eis amicitiam</p>
           <p xml:id="Imac12_2" n="2">et ad Spartas et ad alia loca misit epistulas secundum eandem
@@ -1689,7 +1687,7 @@
             et tollamus de hominibus memoriam eorum</p>
         </div>
         <div xml:id="bible-Imac13" n="13">
-          <head>Caput 13</head>
+          <head xml:id="bible-Imac-Hd1e2549">Caput 13</head>
           <p xml:id="Imac13_1" n="1">et audivit Simon quod congregavit Tryfon exercitum copiosum ut
             veniret in terram Iuda et adtereret eam</p>
           <p xml:id="Imac13_2" n="2">videns quia in tremore populus est et timore ascendit
@@ -1805,7 +1803,7 @@
             eum ducem virtutum universarum et habitavit Gazaris</p>
         </div>
         <div xml:id="bible-Imac14" n="14">
-          <head>Caput 14</head>
+          <head xml:id="bible-Imac-Hd1e2725">Caput 14</head>
           <p xml:id="Imac14_1" n="1">anno centesimo septuagesimo secundo et congregavit rex
             Demetrius exercitus suos et abiit Mediam ad contrahenda sibi auxilia et expugnare
             Tryfonem</p>
@@ -1920,7 +1918,7 @@
             filii eius</p>
         </div>
         <div xml:id="bible-Imac15" n="15">
-          <head>Caput 15</head>
+          <head xml:id="bible-Imac-Hd1e2885">Caput 15</head>
           <p xml:id="Imac15_1" n="1">et misit rex Antiochus filius Demetrii epistulas ab insulis
             maris Simoni sacerdoti et principi gentis Iudaeorum et universae genti</p>
           <p xml:id="Imac15_2" n="2">et erant continentes hunc modum rex Antiochus Simoni sacerdoti
@@ -2011,7 +2009,7 @@
             perambularent viam Iudaeae sicut constituit ei rex</p>
         </div>
         <div xml:id="bible-Imac16" n="16">
-          <head>Caput 16</head>
+          <head xml:id="bible-Imac-Hd1e3016">Caput 16</head>
           <p xml:id="Imac16_1" n="1">et ascendit Iohannis de Gazaris et nuntiavit Simoni patri suo
             quae fecit Cendebeus</p>
           <p xml:id="Imac16_2" n="2">et vocavit Simon duos filios suos seniores Iudam et Iohannem et

@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-rut">
-        <head>Ruth</head>
+        <head xml:id="bible-rut-Hd1e76">Ruth</head>
         <div xml:id="bible-rut1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-rut-Hd1e80">Caput 1</head>
           <p xml:id="rut1_1" n="1">in diebus unius iudicis quando iudices praeerant facta est fames
             in terra abiitque homo de Bethleem Iuda ut peregrinaretur in regione moabitide cum uxore
             sua ac duobus liberis</p>
@@ -97,7 +95,7 @@
             peregrinationis suae ac reversa est in Bethleem quando primum hordea metebantur</p>
         </div>
         <div xml:id="bible-rut2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-rut-Hd1e154">Caput 2</head>
           <p xml:id="rut2_1" n="1">erat autem vir Helimelech consanguineus homo potens et magnarum
             opum nomine Booz</p>
           <p xml:id="rut2_2" n="2">dixitque Ruth Moabitis ad socrum suam si iubes vadam in agrum et
@@ -155,7 +153,7 @@
             hordea et triticum in horreis conderentur</p>
         </div>
         <div xml:id="bible-rut3" n="3">
-          <head>Caput 3</head>
+          <head xml:id="bible-rut-Hd1e232">Caput 3</head>
           <p xml:id="rut3_1" n="1">postquam autem reversa est ad socrum suam audivit ab ea filia mi
             quaeram tibi requiem et providebo ut bene sit tibi</p>
           <p xml:id="rut3_2" n="2">Booz iste cuius puellis in agro iuncta es propinquus est noster
@@ -197,7 +195,7 @@
             habeat neque enim cessabit homo nisi conpleverit quod locutus est</p>
         </div>
         <div xml:id="bible-rut4" n="4">
-          <head>Caput 4</head>
+          <head xml:id="bible-rut-Hd1e294">Caput 4</head>
           <p xml:id="rut4_1" n="1">ascendit ergo Booz ad portam et sedit ibi cumque vidisset
             propinquum praeterire de quo prius sermo habitus est dixit ad eum declina paulisper et
             sede hic vocans eum nomine suo qui devertit et sedit</p>

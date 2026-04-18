@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-mt">
-        <head>Matthaeus</head>
+        <head xml:id="bible-mt-Hd1e76">Matthaeus</head>
         <div xml:id="bible-mt1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-mt-Hd1e80">Caput 1</head>
           <p xml:id="mt1_1" n="1">liber generationis Iesu Christi filii David filii Abraham</p>
           <p xml:id="mt1_2" n="2">Abraham genuit Isaac Isaac autem genuit Iacob Iacob autem genuit
             Iudam et fratres eius</p>
@@ -97,7 +95,7 @@
             vocavit nomen eius Iesum</p>
         </div>
         <div xml:id="bible-mt2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-mt-Hd1e164">Caput 2</head>
           <p xml:id="mt2_1" n="1">cum ergo natus esset Iesus in Bethleem Iudaeae in diebus Herodis
             regis ecce magi ab oriente venerunt Hierosolymam</p>
           <p xml:id="mt2_2" n="2">dicentes ubi est qui natus est rex Iudaeorum vidimus enim stellam
@@ -148,7 +146,7 @@
             adimpleretur quod dictum est per prophetas quoniam Nazareus vocabitur</p>
         </div>
         <div xml:id="bible-mt3" n="3">
-          <head>Caput 3</head>
+          <head xml:id="bible-mt-Hd1e242">Caput 3</head>
           <p xml:id="mt3_1" n="1">in diebus autem illis venit Iohannes Baptista praedicans in
             deserto Iudaeae</p>
           <p xml:id="mt3_2" n="2">et dicens paenitentiam agite adpropinquavit enim regnum
@@ -185,7 +183,7 @@
             mihi conplacui</p>
         </div>
         <div xml:id="bible-mt4" n="4">
-          <head>Caput 4</head>
+          <head xml:id="bible-mt-Hd1e301">Caput 4</head>
           <p xml:id="mt4_1" n="1">tunc Iesus ductus est in desertum ab Spiritu ut temptaretur a
             diabolo</p>
           <p xml:id="mt4_2" n="2">et cum ieiunasset quadraginta diebus et quadraginta noctibus
@@ -239,7 +237,7 @@
             Hierosolymis et Iudaea et de trans Iordanen</p>
         </div>
         <div xml:id="bible-mt5" n="5">
-          <head>Caput 5</head>
+          <head xml:id="bible-mt-Hd1e386">Caput 5</head>
           <p xml:id="mt5_1" n="1">videns autem turbas ascendit in montem et cum sedisset accesserunt
             ad eum discipuli eius</p>
           <p xml:id="mt5_2" n="2">et aperiens os suum docebat eos dicens</p>
@@ -334,7 +332,7 @@
             perfectus est</p>
         </div>
         <div xml:id="bible-mt6" n="6">
-          <head>Caput 6</head>
+          <head xml:id="bible-mt-Hd1e543">Caput 6</head>
           <p xml:id="mt6_1" n="1">adtendite ne iustitiam vestram faciatis coram hominibus ut
             videamini ab eis alioquin mercedem non habebitis apud Patrem vestrum qui in caelis
             est</p>
@@ -408,7 +406,7 @@
             sollicitus erit sibi ipse sufficit diei malitia sua</p>
         </div>
         <div xml:id="bible-mt7" n="7">
-          <head>Caput 7</head>
+          <head xml:id="bible-mt-Hd1e655">Caput 7</head>
           <p xml:id="mt7_1" n="1">nolite iudicare ut non iudicemini</p>
           <p xml:id="mt7_2" n="2">in quo enim iudicio iudicaveritis iudicabimini et in qua mensura
             mensi fueritis metietur vobis</p>
@@ -468,7 +466,7 @@
             eorum et Pharisaei</p>
         </div>
         <div xml:id="bible-mt8" n="8">
-          <head>Caput 8</head>
+          <head xml:id="bible-mt-Hd1e752">Caput 8</head>
           <p xml:id="mt8_1" n="1">cum autem descendisset de monte secutae sunt eum turbae multae</p>
           <p xml:id="mt8_2" n="2">et ecce leprosus veniens adorabat eum dicens Domine si vis potes
             me mundare</p>
@@ -536,7 +534,7 @@
             transiret a finibus eorum</p>
         </div>
         <div xml:id="bible-mt9" n="9">
-          <head>Caput 9</head>
+          <head xml:id="bible-mt-Hd1e864">Caput 9</head>
           <p xml:id="mt9_1" n="1">et ascendens in naviculam transfretavit et venit in civitatem
             suam</p>
           <p xml:id="mt9_2" n="2">et ecce offerebant ei paralyticum iacentem in lecto et videns
@@ -614,7 +612,7 @@
             suam</p>
         </div>
         <div xml:id="bible-mt10" n="10">
-          <head>Caput 10</head>
+          <head xml:id="bible-mt-Hd1e989">Caput 10</head>
           <p xml:id="mt10_1" n="1">et convocatis duodecim discipulis suis dedit illis potestatem
             spirituum inmundorum ut eicerent eos et curarent omnem languorem et omnem
             infirmitatem</p>
@@ -697,7 +695,7 @@
             frigidae tantum in nomine discipuli amen dico vobis non perdet mercedem suam</p>
         </div>
         <div xml:id="bible-mt11" n="11">
-          <head>Caput 11</head>
+          <head xml:id="bible-mt-Hd1e1128">Caput 11</head>
           <p xml:id="mt11_1" n="1">et factum est cum consummasset Iesus praecipiens duodecim
             discipulis suis transiit inde ut doceret et praedicaret in civitatibus eorum</p>
           <p xml:id="mt11_2" n="2">Iohannes autem cum audisset in vinculis opera Christi mittens
@@ -758,7 +756,7 @@
           <p xml:id="mt11_30" n="30">iugum enim meum suave est et onus meum leve est</p>
         </div>
         <div xml:id="bible-mt12" n="12">
-          <head>Caput 12</head>
+          <head xml:id="bible-mt-Hd1e1228">Caput 12</head>
           <p xml:id="mt12_1" n="1">in illo tempore abiit Iesus sabbato per sata discipuli autem eius
             esurientes coeperunt vellere spicas et manducare</p>
           <p xml:id="mt12_2" n="2">Pharisaei autem videntes dixerunt ei ecce discipuli tui faciunt
@@ -860,7 +858,7 @@
             ipse meus et frater et soror et mater est</p>
         </div>
         <div xml:id="bible-mt13" n="13">
-          <head>Caput 13</head>
+          <head xml:id="bible-mt-Hd1e1391">Caput 13</head>
           <p xml:id="mt13_1" n="1">in illo die exiens Iesus de domo sedebat secus mare</p>
           <p xml:id="mt13_2" n="2">et congregatae sunt ad eum turbae multae ita ut in naviculam
             ascendens sederet et omnis turba stabat in litore</p>
@@ -982,7 +980,7 @@
             illorum</p>
         </div>
         <div xml:id="bible-mt14" n="14">
-          <head>Caput 14</head>
+          <head xml:id="bible-mt-Hd1e1579">Caput 14</head>
           <p xml:id="mt14_1" n="1">in illo tempore audiit Herodes tetrarcha famam Iesu</p>
           <p xml:id="mt14_2" n="2">et ait pueris suis hic est Iohannes Baptista ipse surrexit a
             mortuis et ideo virtutes inoperantur in eo</p>
@@ -1053,7 +1051,7 @@
             quicumque tetigerunt salvi facti sunt</p>
         </div>
         <div xml:id="bible-mt15" n="15">
-          <head>Caput 15</head>
+          <head xml:id="bible-mt-Hd1e1698">Caput 15</head>
           <p xml:id="mt15_1" n="1">tunc accesserunt ad eum ab Hierosolymis scribae et Pharisaei
             dicentes</p>
           <p xml:id="mt15_2" n="2">quare discipuli tui transgrediuntur traditionem seniorum non enim
@@ -1127,7 +1125,7 @@
             Magedan</p>
         </div>
         <div xml:id="bible-mt16" n="16">
-          <head>Caput 16</head>
+          <head xml:id="bible-mt-Hd1e1826">Caput 16</head>
           <p xml:id="mt16_1" n="1">et accesserunt ad eum Pharisaei et Sadducaei temptantes et
             rogaverunt eum ut signum de caelo ostenderet eis</p>
           <p xml:id="mt16_2" n="2">at ille respondens ait eis facto vespere dicitis serenum erit
@@ -1186,7 +1184,7 @@
             mortem donec videant Filium hominis venientem in regno suo</p>
         </div>
         <div xml:id="bible-mt17" n="17">
-          <head>Caput 17</head>
+          <head xml:id="bible-mt-Hd1e1920">Caput 17</head>
           <p xml:id="mt17_1" n="1">et post dies sex adsumpsit Iesus Petrum et Iacobum et Iohannem
             fratrem eius et ducit illos in montem excelsum seorsum</p>
           <p xml:id="mt17_2" n="2">et transfiguratus est ante eos et resplenduit facies eius sicut
@@ -1241,7 +1239,7 @@
             da eis pro me et te</p>
         </div>
         <div xml:id="bible-mt18" n="18">
-          <head>Caput 18</head>
+          <head xml:id="bible-mt-Hd1e2007">Caput 18</head>
           <p xml:id="mt18_1" n="1">in illa hora accesserunt discipuli ad Iesum dicentes quis putas
             maior est in regno caelorum</p>
           <p xml:id="mt18_2" n="2">et advocans Iesus parvulum statuit eum in medio eorum</p>
@@ -1315,7 +1313,7 @@
             unusquisque fratri suo de cordibus vestris</p>
         </div>
         <div xml:id="bible-mt19" n="19">
-          <head>Caput 19</head>
+          <head xml:id="bible-mt-Hd1e2123">Caput 19</head>
           <p xml:id="mt19_1" n="1">et factum est cum consummasset Iesus sermones istos migravit a
             Galilaea et venit in fines Iudaeae trans Iordanen</p>
           <p xml:id="mt19_2" n="2">et secutae sunt eum turbae multae et curavit eos ibi</p>
@@ -1378,7 +1376,7 @@
           <p xml:id="mt19_30" n="30">multi autem erunt primi novissimi et novissimi primi</p>
         </div>
         <div xml:id="bible-mt20" n="20">
-          <head>Caput 20</head>
+          <head xml:id="bible-mt-Hd1e2223">Caput 20</head>
           <p xml:id="mt20_1" n="1">simile est enim regnum caelorum homini patri familias qui exiit
             primo mane conducere operarios in vineam suam</p>
           <p xml:id="mt20_2" n="2">conventione autem facta cum operariis ex denario diurno misit eos
@@ -1444,7 +1442,7 @@
             viderunt et secuti sunt eum</p>
         </div>
         <div xml:id="bible-mt21" n="21">
-          <head>Caput 21</head>
+          <head xml:id="bible-mt-Hd1e2335">Caput 21</head>
           <p xml:id="mt21_1" n="1">et cum adpropinquassent Hierosolymis et venissent Bethfage ad
             montem Oliveti tunc Iesus misit duos discipulos</p>
           <p xml:id="mt21_2" n="2">dicens eis ite in castellum quod contra vos est et statim
@@ -1543,7 +1541,7 @@
             prophetam eum habebant</p>
         </div>
         <div xml:id="bible-mt22" n="22">
-          <head>Caput 22</head>
+          <head xml:id="bible-mt-Hd1e2485">Caput 22</head>
           <p xml:id="mt22_1" n="1">et respondens Iesus dixit iterum in parabolis eis dicens</p>
           <p xml:id="mt22_2" n="2">simile factum est regnum caelorum homini regi qui fecit nuptias
             filio suo</p>
@@ -1626,7 +1624,7 @@
             ex illa die eum amplius interrogare</p>
         </div>
         <div xml:id="bible-mt23" n="23">
-          <head>Caput 23</head>
+          <head xml:id="bible-mt-Hd1e2636">Caput 23</head>
           <p xml:id="mt23_1" n="1">tunc Iesus locutus est ad turbas et discipulos suos</p>
           <p xml:id="mt23_2" n="2">dicens super cathedram Mosi sederunt scribae et Pharisaei</p>
           <p xml:id="mt23_3" n="3">omnia ergo quaecumque dixerint vobis servate et facite secundum
@@ -1703,7 +1701,7 @@
             qui venit in nomine Domini</p>
         </div>
         <div xml:id="bible-mt24" n="24">
-          <head>Caput 24</head>
+          <head xml:id="bible-mt-Hd1e2761">Caput 24</head>
           <p xml:id="mt24_1" n="1">et egressus Iesus de templo ibat et accesserunt discipuli eius ut
             ostenderent ei aedificationes templi</p>
           <p xml:id="mt24_2" n="2">ipse autem respondens dixit eis videtis haec omnia amen dico
@@ -1795,7 +1793,7 @@
             fletus et stridor dentium</p>
         </div>
         <div xml:id="bible-mt25" n="25">
-          <head>Caput 25</head>
+          <head xml:id="bible-mt-Hd1e2927">Caput 25</head>
           <p xml:id="mt25_1" n="1">tunc simile erit regnum caelorum decem virginibus quae
             accipientes lampadas suas exierunt obviam sponso et sponsae</p>
           <p xml:id="mt25_2" n="2">quinque autem ex eis erant fatuae et quinque prudentes</p>
@@ -1886,7 +1884,7 @@
             aeternam</p>
         </div>
         <div xml:id="bible-mt26" n="26">
-          <head>Caput 26</head>
+          <head xml:id="bible-mt-Hd1e3077">Caput 26</head>
           <p xml:id="mt26_1" n="1">et factum est cum consummasset Iesus sermones hos omnes dixit
             discipulis suis</p>
           <p xml:id="mt26_2" n="2">scitis quia post biduum pascha fiet et Filius hominis tradetur ut
@@ -2030,7 +2028,7 @@
             gallus cantet ter me negabis et egressus foras ploravit amare</p>
         </div>
         <div xml:id="bible-mt27" n="27">
-          <head>Caput 27</head>
+          <head xml:id="bible-mt-Hd1e3319">Caput 27</head>
           <p xml:id="mt27_1" n="1">mane autem facto consilium inierunt omnes principes sacerdotum et
             seniores populi adversus Iesum ut eum morti traderent</p>
           <p xml:id="mt27_2" n="2">et vinctum adduxerunt eum et tradiderunt Pontio Pilato
@@ -2162,7 +2160,7 @@
             custodibus</p>
         </div>
         <div xml:id="bible-mt28" n="28">
-          <head>Caput 28</head>
+          <head xml:id="bible-mt-Hd1e3533">Caput 28</head>
           <p xml:id="mt28_1" n="1">vespere autem sabbati quae lucescit in primam sabbati venit Maria
             Magdalene et altera Maria videre sepulchrum</p>
           <p xml:id="mt28_2" n="2">et ecce terraemotus factus est magnus angelus enim Domini

@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-Ipetr">
-        <head>Petri I</head>
+        <head xml:id="bible-Ipetr-Hd1e76">Petri I</head>
         <div xml:id="bible-Ipetr1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-Ipetr-Hd1e80">Caput 1</head>
           <p xml:id="Ipetr1_1" n="1">Petrus apostolus Iesu Christi electis advenis dispersionis
             Ponti Galatiae Cappadociae Asiae et Bithyniae</p>
           <p xml:id="Ipetr1_2" n="2">secundum praescientiam Dei Patris in sanctificatione Spiritus
@@ -100,7 +98,7 @@
             quod evangelizatum est in vos</p>
         </div>
         <div xml:id="bible-Ipetr2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-Ipetr-Hd1e164">Caput 2</head>
           <p xml:id="Ipetr2_1" n="1">deponentes igitur omnem malitiam et omnem dolum et simulationes
             et invidias et omnes detractiones</p>
           <p xml:id="Ipetr2_2" n="2">sicut modo geniti infantes rationale sine dolo lac concupiscite
@@ -154,7 +152,7 @@
             pastorem et episcopum animarum vestrarum</p>
         </div>
         <div xml:id="bible-Ipetr3" n="3">
-          <head>Caput 3</head>
+          <head xml:id="bible-Ipetr-Hd1e248">Caput 3</head>
           <p xml:id="Ipetr3_1" n="1">similiter mulieres subditae suis viris ut et si qui non credunt
             verbo per mulierum conversationem sine verbo lucri fiant</p>
           <p xml:id="Ipetr3_2" n="2">considerantes in timore castam conversationem vestram</p>
@@ -205,7 +203,7 @@
             angelis et potestatibus et virtutibus</p>
         </div>
         <div xml:id="bible-Ipetr4" n="4">
-          <head>Caput 4</head>
+          <head xml:id="bible-Ipetr-Hd1e322">Caput 4</head>
           <p xml:id="Ipetr4_1" n="1">Christo igitur passo in carne et vos eadem cogitatione armamini
             quia qui passus est carne desiit a peccatis</p>
           <p xml:id="Ipetr4_2" n="2">ut iam non hominum desideriis sed voluntate Dei quod reliquum
@@ -246,7 +244,7 @@
             creatori commendant animas suas in benefactis</p>
         </div>
         <div xml:id="bible-Ipetr5" n="5">
-          <head>Caput 5</head>
+          <head xml:id="bible-Ipetr-Hd1e388">Caput 5</head>
           <p xml:id="Ipetr5_1" n="1">seniores ergo qui in vobis sunt obsecro consenior et testis
             Christi passionum qui et eius quae in futuro revelanda est gloriae communicator</p>
           <p xml:id="Ipetr5_2" n="2">pascite qui est in vobis gregem Dei providentes non coacto sed

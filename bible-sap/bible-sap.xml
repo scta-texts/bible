@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-sap">
-        <head>Sapientia</head>
+        <head xml:id="bible-sap-Hd1e76">Sapientia</head>
         <div xml:id="bible-sap1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-sap-Hd1e80">Caput 1</head>
           <p xml:id="sap1_1" n="1">diligite iustitiam qui iudicatis terram sentite de Domino in
             bonitate et in simplicitate cordis quaerite illum</p>
           <p xml:id="sap1_2" n="2">quoniam invenitur ab his qui non temptant illum apparet autem eis
@@ -81,7 +79,7 @@
             parte illius</p>
         </div>
         <div xml:id="bible-sap2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-sap-Hd1e135">Caput 2</head>
           <p xml:id="sap2_1" n="1">dixerunt enim apud se cogitantes non recte exiguum et cum taedio
             est tempus vitae nostrae et non est refrigerium in fine hominis et non est qui agnitus
             sit reversus ab inferis</p>
@@ -135,7 +133,7 @@
           <p xml:id="sap2_25" n="25">imitantur autem illum qui sunt ex parte illius</p>
         </div>
         <div xml:id="bible-sap3" n="3">
-          <head>Caput 3</head>
+          <head xml:id="bible-sap-Hd1e219">Caput 3</head>
           <p xml:id="sap3_1" n="1">iustorum autem animae in manu Dei sunt et non tanget illos
             tormentum mortis</p>
           <p xml:id="sap3_2" n="2">visi sunt in oculis insipientium mori et aestimata est adflictio
@@ -173,7 +171,7 @@
           <p xml:id="sap3_19" n="19">nationis enim iniquae dirae sunt consummationes</p>
         </div>
         <div xml:id="bible-sap4" n="4">
-          <head>Caput 4</head>
+          <head xml:id="bible-sap-Hd1e284">Caput 4</head>
           <p xml:id="sap4_1" n="1">melior est generatio cum claritate inmortalitas est enim in
             memoria illius quoniam et apud Deum nota est et apud homines</p>
           <p xml:id="sap4_2" n="2">cum praesens est imitantur illam et desiderant eam cum se duxerit
@@ -215,7 +213,7 @@
             illos ex adverso iniquitates ipsorum</p>
         </div>
         <div xml:id="bible-sap5" n="5">
-          <head>Caput 5</head>
+          <head xml:id="bible-sap-Hd1e353">Caput 5</head>
           <p xml:id="sap5_1" n="1">tunc stabunt iusti in magna constantia adversus eos qui se
             angustaverunt et qui abstulerunt labores illorum</p>
           <p xml:id="sap5_2" n="2">videntes turbabuntur timore horribili et mirabuntur in
@@ -268,7 +266,7 @@
             sedes potentium</p>
         </div>
         <div xml:id="bible-sap6" n="6">
-          <head>Caput 6</head>
+          <head xml:id="bible-sap-Hd1e434">Caput 6</head>
           <p xml:id="sap6_1" n="1">melior est sapientia quam vires et vir prudens magis quam
             fortis</p>
           <p xml:id="sap6_2" n="2">audite ergo reges et intellegite discite iudices finium
@@ -322,7 +320,7 @@
             vobis</p>
         </div>
         <div xml:id="bible-sap7" n="7">
-          <head>Caput 7</head>
+          <head xml:id="bible-sap-Hd1e521">Caput 7</head>
           <p xml:id="sap7_1" n="1">sum quidem et ego mortalis homo similis omnibus et ex genere
             terreno illius qui prior finctus est et in ventre matris figuratus sum caro</p>
           <p xml:id="sap7_2" n="2">decem mensuum tempore coagulatus in sanguine ex semine hominis et
@@ -382,7 +380,7 @@
           <p xml:id="sap7_30" n="30">illi enim succedit nox sapientiam autem non vincit malitia</p>
         </div>
         <div xml:id="bible-sap8" n="8">
-          <head>Caput 8</head>
+          <head xml:id="bible-sap-Hd1e621">Caput 8</head>
           <p xml:id="sap8_1" n="1">adtingit enim a fine usque ad finem fortiter et disponit omnia
             suaviter</p>
           <p xml:id="sap8_2" n="2">hanc amavi et exquisivi a iuventute mea et quaesivi sponsam mihi
@@ -429,7 +427,7 @@
             sum illum et dixi ex totis praecordiis meis</p>
         </div>
         <div xml:id="bible-sap9" n="9">
-          <head>Caput 9</head>
+          <head xml:id="bible-sap-Hd1e692">Caput 9</head>
           <p xml:id="sap9_1" n="1">Deus parentum et Domine misericordiae tuae qui fecisti omnia
             verbo tuo</p>
           <p xml:id="sap9_2" n="2">et sapientia tua constituisti hominem ut dominetur creaturae quae
@@ -471,7 +469,7 @@
           <p xml:id="sap9_19" n="19">et per sapientiam sanati sunt</p>
         </div>
         <div xml:id="bible-sap10" n="10">
-          <head>Caput 10</head>
+          <head xml:id="bible-sap-Hd1e757">Caput 10</head>
           <p xml:id="sap10_1" n="1">haec illum qui primus finctus est patrem orbis terrarum cum
             solus esset creatus custodivit</p>
           <p xml:id="sap10_2" n="2">et eduxit illum a delicto suo et dedit illi virtutem continendi
@@ -521,7 +519,7 @@
             fecit dissertas</p>
         </div>
         <div xml:id="bible-sap11" n="11">
-          <head>Caput 11</head>
+          <head xml:id="bible-sap-Hd1e829">Caput 11</head>
           <p xml:id="sap11_1" n="1">direxit opera illorum in manibus prophetae sancti</p>
           <p xml:id="sap11_2" n="2">iter fecerunt per deserta quae non inhabitabantur et in locis
             secretis fixerunt casas</p>
@@ -576,7 +574,7 @@
             amas</p>
         </div>
         <div xml:id="bible-sap12" n="12">
-          <head>Caput 12</head>
+          <head xml:id="bible-sap-Hd1e919">Caput 12</head>
           <p xml:id="sap12_1" n="1">bonus enim spiritus tuus est in omnibus</p>
           <p xml:id="sap12_2" n="2">propter quod hos qui exerrant partibus corripis et de quibus
             peccant admonens adloqueris ut relicta malitia credant in te Domine</p>
@@ -639,7 +637,7 @@
             condemnationis illis veniet</p>
         </div>
         <div xml:id="bible-sap13" n="13">
-          <head>Caput 13</head>
+          <head xml:id="bible-sap-Hd1e1009">Caput 13</head>
           <p xml:id="sap13_1" n="1">vani sunt autem omnes homines quibus non subest scientia Dei et
             de his quae videntur bona non potuerunt intellegere eum qui est neque operibus
             adtendentes agnoverunt quis esset artifex</p>
@@ -684,7 +682,7 @@
             inutilis</p>
         </div>
         <div xml:id="bible-sap14" n="14">
-          <head>Caput 14</head>
+          <head xml:id="bible-sap-Hd1e1074">Caput 14</head>
           <p xml:id="sap14_1" n="1">iterum alius navigare cogitans et per feros fluctus incipiens
             iter facere ligno portante se fragilius lignum invocat</p>
           <p xml:id="sap14_2" n="2">illud enim cupiditas adquirendi excogitavit et artifex sapientia
@@ -749,7 +747,7 @@
             semper in iniustorum praevaricationem</p>
         </div>
         <div xml:id="bible-sap15" n="15">
-          <head>Caput 15</head>
+          <head xml:id="bible-sap-Hd1e1177">Caput 15</head>
           <p xml:id="sap15_1" n="1">tu autem Deus noster suavis et verus es patiens et misericordia
             disponens omnia</p>
           <p xml:id="sap15_2" n="2">etenim si peccaverimus tui sumus scientes magnitudinem tuam et
@@ -795,7 +793,7 @@
             conspicere effugit autem Dei laudem et benedictionem eius</p>
         </div>
         <div xml:id="bible-sap16" n="16">
-          <head>Caput 16</head>
+          <head xml:id="bible-sap-Hd1e1242">Caput 16</head>
           <p xml:id="sap16_1" n="1">propter hoc per his similia passi sunt digne tormenta et per
             multitudinem bestiarum exterminati sunt</p>
           <p xml:id="sap16_2" n="2">pro quibus tormentis bene disposuisti populum tuum quibus
@@ -862,7 +860,7 @@
             disperiet tamquam aqua supervacua</p>
         </div>
         <div xml:id="bible-sap17" n="17">
-          <head>Caput 17</head>
+          <head xml:id="bible-sap-Hd1e1340">Caput 17</head>
           <p xml:id="sap17_1" n="1">magna enim sunt iudicia tua et inenarrabilia verba tua propter
             hoc indisciplinatae animae erraverunt</p>
           <p xml:id="sap17_2" n="2">dum enim persuasum habent iniqui posse dominari nationi sanctae
@@ -910,7 +908,7 @@
             quae superventura illis erat ipsi ergo sibi erant graviores tenebris</p>
         </div>
         <div xml:id="bible-sap18" n="18">
-          <head>Caput 18</head>
+          <head xml:id="bible-sap-Hd1e1408">Caput 18</head>
           <p xml:id="sap18_1" n="1">sanctis autem tuis maxima erat lux et horum quidem vocem
             audiebant sed figuram non videbant et quia non et ipsi per eadem passi erant
             magnificabant</p>
@@ -970,7 +968,7 @@
             enim sola temptatio irae sufficiens</p>
         </div>
         <div xml:id="bible-sap19" n="19">
-          <head>Caput 19</head>
+          <head xml:id="bible-sap-Hd1e1492">Caput 19</head>
           <p xml:id="sap19_1" n="1">impiis autem usque in novissimum sine misericordia ira
             supervenit praesciebat enim et futura illorum</p>
           <p xml:id="sap19_2" n="2">quoniam ipsi cum reversi essent ut se ducerent et cum magna

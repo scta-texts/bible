@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-ez">
-        <head>Ezechiel</head>
+        <head xml:id="bible-ez-Hd1e76">Ezechiel</head>
         <div xml:id="bible-ez1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-ez-Hd1e80">Caput 1</head>
           <p xml:id="ez1_1" n="1">et factum est in tricesimo anno in quarto mense in quinta mensis
             cum essem in medio captivorum iuxta fluvium Chobar aperti sunt caeli et vidi visiones
             Dei</p>
@@ -109,7 +107,7 @@
             aspectus splendoris per gyrum</p>
         </div>
         <div xml:id="bible-ez2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-ez-Hd1e173">Caput 2</head>
           <p xml:id="ez2_1" n="1">haec visio similitudinis gloriae Domini et vidi et cecidi in
             faciem meam et audivi vocem loquentis et dixit ad me fili hominis sta supra pedes tuos
             et loquar tecum</p>
@@ -135,7 +133,7 @@
             lamentationes et carmen et vae</p>
         </div>
         <div xml:id="bible-ez3" n="3">
-          <head>Caput 3</head>
+          <head xml:id="bible-ez-Hd1e206">Caput 3</head>
           <p xml:id="ez3_1" n="1">et dixit ad me fili hominis quodcumque inveneris comede comede
             volumen istud et vadens loquere ad filios Israhel</p>
           <p xml:id="ez3_2" n="2">et aperui os meum et cibavit me volumine illo</p>
@@ -198,7 +196,7 @@
             est</p>
         </div>
         <div xml:id="bible-ez4" n="4">
-          <head>Caput 4</head>
+          <head xml:id="bible-ez-Hd1e296">Caput 4</head>
           <p xml:id="ez4_1" n="1">et tu fili hominis sume tibi laterem et pones eum coram te et
             describes in eo civitatem Hierusalem</p>
           <p xml:id="ez4_2" n="2">et ordinabis adversus eam obsidionem et aedificabis munitiones et
@@ -241,7 +239,7 @@
             suum et contabescant in iniquitatibus suis</p>
         </div>
         <div xml:id="bible-ez5" n="5">
-          <head>Caput 5</head>
+          <head xml:id="bible-ez-Hd1e356">Caput 5</head>
           <p xml:id="ez5_1" n="1">et tu fili hominis sume tibi gladium acutum radentem pilos adsumes
             eum et duces per caput tuum et per barbam tuam et adsumes tibi stateram ponderis et
             divides eos</p>
@@ -289,7 +287,7 @@
             ego Dominus locutus sum</p>
         </div>
         <div xml:id="bible-ez6" n="6">
-          <head>Caput 6</head>
+          <head xml:id="bible-ez-Hd1e415">Caput 6</head>
           <p xml:id="ez6_1" n="1">et factus est sermo Domini ad me dicens</p>
           <p xml:id="ez6_2" n="2">fili hominis pone faciem tuam ad montes Israhel et prophetabis ad
             eos</p>
@@ -327,7 +325,7 @@
             Dominus</p>
         </div>
         <div xml:id="bible-ez7" n="7">
-          <head>Caput 7</head>
+          <head xml:id="bible-ez-Hd1e464">Caput 7</head>
           <p xml:id="ez7_1" n="1">et factus est sermo Domini ad me dicens</p>
           <p xml:id="ez7_2" n="2">et tu fili hominis haec dicit Dominus Deus terrae Israhel finis
             venit finis super quattuor plagas terrae</p>
@@ -386,7 +384,7 @@
             scient quia ego Dominus</p>
         </div>
         <div xml:id="bible-ez8" n="8">
-          <head>Caput 8</head>
+          <head xml:id="bible-ez-Hd1e554">Caput 8</head>
           <p xml:id="ez8_1" n="1">et factum est in anno sexto in sexto mense in quinta mensis ego
             sedebam in domo mea et senes Iuda sedebant coram me et cecidit super me ibi manus Domini
             Dei</p>
@@ -436,7 +434,7 @@
             miserebor et cum clamaverint ad aures meas voce magna non exaudiam eos</p>
         </div>
         <div xml:id="bible-ez9" n="9">
-          <head>Caput 9</head>
+          <head xml:id="bible-ez-Hd1e616">Caput 9</head>
           <p xml:id="ez9_1" n="1">et clamavit in auribus meis voce magna dicens adpropinquaverunt
             visitationes urbis et unusquisque vas interfectionis habet in manu sua</p>
           <p xml:id="ez9_2" n="2">et ecce sex viri veniebant de via portae superioris quae respicit
@@ -469,7 +467,7 @@
             dorso suo respondit verbum dicens feci sicut praecepisti mihi</p>
         </div>
         <div xml:id="bible-ez10" n="10">
-          <head>Caput 10</head>
+          <head xml:id="bible-ez-Hd1e656">Caput 10</head>
           <p xml:id="ez10_1" n="1">et vidi et ecce in firmamento quod erat super caput cherubin
             quasi lapis sapphyrus quasi species similitudinis solii apparuit super ea</p>
           <p xml:id="ez10_2" n="2">et dixit ad virum qui indutus erat lineis et ait ingredere in
@@ -521,7 +519,7 @@
             fluvium Chobar et intuitus eorum et impetus singulorum ante faciem suam ingredi</p>
         </div>
         <div xml:id="bible-ez11" n="11">
-          <head>Caput 11</head>
+          <head xml:id="bible-ez-Hd1e731">Caput 11</head>
           <p xml:id="ez11_1" n="1">et elevavit me spiritus et introduxit me ad portam domus Domini
             orientalem quae respicit solis ortum et ecce in introitu portae viginti quinque viri et
             vidi in medio eorum Hiezoniam filium Azur et Pheltiam filium Banaiae principes
@@ -579,7 +577,7 @@
             ostenderat mihi</p>
         </div>
         <div xml:id="bible-ez12" n="12">
-          <head>Caput 12</head>
+          <head xml:id="bible-ez-Hd1e815">Caput 12</head>
           <p xml:id="ez12_1" n="1">et factus est sermo Domini ad me dicens</p>
           <p xml:id="ez12_2" n="2">fili hominis in medio domus exasperantis tu habitas qui oculos
             habent ad videndum et non vident et aures ad audiendum et non audiunt quia domus
@@ -641,7 +639,7 @@
             ultra omnis sermo meus verbum quod locutus fuero conplebitur dicit Dominus Deus</p>
         </div>
         <div xml:id="bible-ez13" n="13">
-          <head>Caput 13</head>
+          <head xml:id="bible-ez-Hd1e908">Caput 13</head>
           <p xml:id="ez13_1" n="1">et factus est sermo Domini ad me dicens</p>
           <p xml:id="ez13_2" n="2">fili hominis vaticinare ad prophetas Israhel qui prophetant et
             dices prophetantibus de corde suo audite verbum Domini</p>
@@ -697,7 +695,7 @@
             amplius et eruam populum meum de manu vestra et scietis quoniam ego Dominus</p>
         </div>
         <div xml:id="bible-ez14" n="14">
-          <head>Caput 14</head>
+          <head xml:id="bible-ez-Hd1e986">Caput 14</head>
           <p xml:id="ez14_1" n="1">et venerunt ad me viri seniorum Israhel et sederunt coram me</p>
           <p xml:id="ez14_2" n="2">et factus est sermo Domini ad me dicens</p>
           <p xml:id="ez14_3" n="3">fili hominis viri isti posuerunt inmunditias suas in cordibus
@@ -759,7 +757,7 @@
             eorum et cognoscetis quod non frustra fecerim omnia quae feci in ea ait Dominus Deus</p>
         </div>
         <div xml:id="bible-ez15" n="15">
-          <head>Caput 15</head>
+          <head xml:id="bible-ez-Hd1e1064">Caput 15</head>
           <p xml:id="ez15_1" n="1">et factus est sermo Domini ad me dicens</p>
           <p xml:id="ez15_2" n="2">fili hominis quid fiet ligno vitis ex omnibus lignis nemorum quae
             sunt inter ligna silvarum</p>
@@ -777,7 +775,7 @@
             extiterint dicit Dominus Deus</p>
         </div>
         <div xml:id="bible-ez16" n="16">
-          <head>Caput 16</head>
+          <head xml:id="bible-ez-Hd1e1094">Caput 16</head>
           <p xml:id="ez16_1" n="1">et factus est sermo Domini ad me dicens</p>
           <p xml:id="ez16_2" n="2">fili hominis notas fac Hierusalem abominationes suas</p>
           <p xml:id="ez16_3" n="3">et dices haec dicit Dominus Deus Hierusalem radix tua et
@@ -924,7 +922,7 @@
             prae confusione tua cum placatus fuero tibi in omnibus quae fecisti ait Dominus Deus</p>
         </div>
         <div xml:id="bible-ez17" n="17">
-          <head>Caput 17</head>
+          <head xml:id="bible-ez-Hd1e1299">Caput 17</head>
           <p xml:id="ez17_1" n="1">et factum est verbum Domini ad me dicens</p>
           <p xml:id="ez17_2" n="2">fili hominis propone enigma et narra parabolam ad domum
             Israhel</p>
@@ -984,7 +982,7 @@
             lignum aridum ego Dominus locutus sum et feci</p>
         </div>
         <div xml:id="bible-ez18" n="18">
-          <head>Caput 18</head>
+          <head xml:id="bible-ez-Hd1e1380">Caput 18</head>
           <p xml:id="ez18_1" n="1">et factus est sermo Domini ad me dicens</p>
           <p xml:id="ez18_2" n="2">quid est quod inter vos parabolam vertitis in proverbium istud in
             terra Israhel dicentes patres comederunt uvam acerbam et dentes filiorum
@@ -1059,7 +1057,7 @@
             vivite</p>
         </div>
         <div xml:id="bible-ez19" n="19">
-          <head>Caput 19</head>
+          <head xml:id="bible-ez-Hd1e1486">Caput 19</head>
           <p xml:id="ez19_1" n="1">et tu adsume planctum super principes Israhel</p>
           <p xml:id="ez19_2" n="2">et dices quare mater tua leaena inter leones cubavit in medio
             leunculorum enutrivit catulos suos</p>
@@ -1093,7 +1091,7 @@
             planctum</p>
         </div>
         <div xml:id="bible-ez20" n="20">
-          <head>Caput 20</head>
+          <head xml:id="bible-ez-Hd1e1535">Caput 20</head>
           <p xml:id="ez20_1" n="1">et factum est in anno septimo in quinto mense in decima mensis
             venerunt viri de senioribus Israhel ut interrogarent Dominum et sederunt coram me</p>
           <p xml:id="ez20_2" n="2">et factus est sermo Domini ad me dicens</p>
@@ -1214,7 +1212,7 @@
             parabolas loquitur iste</p>
         </div>
         <div xml:id="bible-ez21" n="21">
-          <head>Caput 21</head>
+          <head xml:id="bible-ez-Hd1e1695">Caput 21</head>
           <p xml:id="ez21_1" n="1">et factus est sermo Domini ad me dicens</p>
           <p xml:id="ez21_2" n="2">fili hominis pone faciem tuam ad Hierusalem et stilla ad
             sanctuaria et propheta contra humum Israhel</p>
@@ -1286,7 +1284,7 @@
             traderis quia ego Dominus locutus sum</p>
         </div>
         <div xml:id="bible-ez22" n="22">
-          <head>Caput 22</head>
+          <head xml:id="bible-ez-Hd1e1801">Caput 22</head>
           <p xml:id="ez22_1" n="1">et factum est verbum Domini ad me dicens</p>
           <p xml:id="ez22_2" n="2">et tu fili hominis num iudicas num iudicas civitatem
             sanguinum</p>
@@ -1356,7 +1354,7 @@
             consumpsi eos viam eorum in caput eorum reddidi ait Dominus Deus</p>
         </div>
         <div xml:id="bible-ez23" n="23">
-          <head>Caput 23</head>
+          <head xml:id="bible-ez-Hd1e1905">Caput 23</head>
           <p xml:id="ez23_1" n="1">et factus est sermo Domini ad me dicens</p>
           <p xml:id="ez23_2" n="2">fili hominis duae mulieres filiae matris unius fuerunt</p>
           <p xml:id="ez23_3" n="3">et fornicatae sunt in Aegypto in adulescentia sua fornicatae sunt
@@ -1468,7 +1466,7 @@
             vestrorum portabitis et scietis quia ego Dominus Deus</p>
         </div>
         <div xml:id="bible-ez24" n="24">
-          <head>Caput 24</head>
+          <head xml:id="bible-ez-Hd1e2065">Caput 24</head>
           <p xml:id="ez24_1" n="1">et factum est verbum Domini ad me in anno nono in mense decimo
             decima mensis dicens</p>
           <p xml:id="ez24_2" n="2">fili hominis scribe tibi nomen diei huius in qua confirmatus est
@@ -1528,7 +1526,7 @@
             loqueris et non silebis ultra erisque eis in portentum et scietis quia ego Dominus</p>
         </div>
         <div xml:id="bible-ez25" n="25">
-          <head>Caput 25</head>
+          <head xml:id="bible-ez-Hd1e2155">Caput 25</head>
           <p xml:id="ez25_1" n="1">et factus est sermo Domini ad me dicens</p>
           <p xml:id="ez25_2" n="2">fili hominis pone faciem tuam contra filios Ammon et prophetabis
             de eis</p>
@@ -1570,7 +1568,7 @@
             quia ego Dominus cum dedero vindictam meam super eos</p>
         </div>
         <div xml:id="bible-ez26" n="26">
-          <head>Caput 26</head>
+          <head xml:id="bible-ez-Hd1e2214">Caput 26</head>
           <p xml:id="ez26_1" n="1">et factum est in undecimo anno prima mensis factus est sermo
             Domini ad me dicens</p>
           <p xml:id="ez26_2" n="2">fili hominis pro eo quod dixit Tyrus de Hierusalem euge
@@ -1622,7 +1620,7 @@
             ultra in sempiternum dicit Dominus Deus</p>
         </div>
         <div xml:id="bible-ez27" n="27">
-          <head>Caput 27</head>
+          <head xml:id="bible-ez-Hd1e2285">Caput 27</head>
           <p xml:id="ez27_1" n="1">et factum est verbum Domini ad me dicens</p>
           <p xml:id="ez27_2" n="2">tu ergo fili hominis adsume super Tyrum lamentum</p>
           <p xml:id="ez27_3" n="3">et dices Tyro quae habitat in introitu maris negotiationi
@@ -1700,7 +1698,7 @@
             es et non eris usque in perpetuum</p>
         </div>
         <div xml:id="bible-ez28" n="28">
-          <head>Caput 28</head>
+          <head xml:id="bible-ez-Hd1e2404">Caput 28</head>
           <p xml:id="ez28_1" n="1">et factus est sermo Domini ad me dicens</p>
           <p xml:id="ez28_2" n="2">fili hominis dic principi Tyri haec dicit Dominus Deus eo quod
             elevatum est cor tuum et dixisti Deus ego sum et in cathedra Dei sedi in corde maris cum
@@ -1763,7 +1761,7 @@
             circuitum et scient quia ego Dominus Deus eorum</p>
         </div>
         <div xml:id="bible-ez29" n="29">
-          <head>Caput 29</head>
+          <head xml:id="bible-ez-Hd1e2492">Caput 29</head>
           <p xml:id="ez29_1" n="1">in anno decimo in decimo mense undecima mensis factum est verbum
             Domini ad me dicens</p>
           <p xml:id="ez29_2" n="2">fili hominis pone faciem tuam contra Pharaonem regem Aegypti et
@@ -1816,7 +1814,7 @@
             os in medio eorum et scient quoniam ego Dominus</p>
         </div>
         <div xml:id="bible-ez30" n="30">
-          <head>Caput 30</head>
+          <head xml:id="bible-ez-Hd1e2563">Caput 30</head>
           <p xml:id="ez30_1" n="1">et factum est verbum Domini ad me dicens</p>
           <p xml:id="ez30_2" n="2">fili hominis propheta et dic haec dicit Dominus Deus ululate vae
             vae diei</p>
@@ -1880,7 +1878,7 @@
             scient quia ego Dominus</p>
         </div>
         <div xml:id="bible-ez31" n="31">
-          <head>Caput 31</head>
+          <head xml:id="bible-ez-Hd1e2650">Caput 31</head>
           <p xml:id="ez31_1" n="1">et factum est in undecimo anno tertio una mensis factum est
             verbum Domini ad me dicens</p>
           <p xml:id="ez31_2" n="2">fili hominis dic Pharaoni regi Aegypti et populo eius cui similis
@@ -1931,7 +1929,7 @@
             multitudo eius dicit Dominus Deus</p>
         </div>
         <div xml:id="bible-ez32" n="32">
-          <head>Caput 32</head>
+          <head xml:id="bible-ez-Hd1e2712">Caput 32</head>
           <p xml:id="ez32_1" n="1">et factum est duodecimo anno in mense duodecimo in una mensis
             factum est verbum Domini ad me dicens</p>
           <p xml:id="ez32_2" n="2">fili hominis adsume lamentum super Pharao regem Aegypti et dices
@@ -2012,7 +2010,7 @@
             Deus</p>
         </div>
         <div xml:id="bible-ez33" n="33">
-          <head>Caput 33</head>
+          <head xml:id="bible-ez-Hd1e2818">Caput 33</head>
           <p xml:id="ez33_1" n="1">et factum est verbum Domini ad me dicens</p>
           <p xml:id="ez33_2" n="2">fili hominis loquere ad filios populi tui et dices ad eos terra
             cum induxero super eam gladium et tulerit populus terrae virum unum de novissimis suis
@@ -2097,7 +2095,7 @@
             quod prophetes fuerit inter eos</p>
         </div>
         <div xml:id="bible-ez34" n="34">
-          <head>Caput 34</head>
+          <head xml:id="bible-ez-Hd1e2927">Caput 34</head>
           <p xml:id="ez34_1" n="1">et factum est verbum Domini ad me dicens</p>
           <p xml:id="ez34_2" n="2">fili hominis propheta de pastoribus Israhel propheta et dices
             pastoribus haec dicit Dominus Deus vae pastoribus Israhel qui pascebant semet ipsos
@@ -2172,7 +2170,7 @@
             Dominus Deus vester dicit Dominus Deus</p>
         </div>
         <div xml:id="bible-ez35" n="35">
-          <head>Caput 35</head>
+          <head xml:id="bible-ez-Hd1e3031">Caput 35</head>
           <p xml:id="ez35_1" n="1">et factus est sermo Domini ad me dicens</p>
           <p xml:id="ez35_2" n="2">fili hominis pone faciem tuam adversum montem Seir et prophetabis
             de eo et dices illi</p>
@@ -2206,7 +2204,7 @@
             quia ego Dominus</p>
         </div>
         <div xml:id="bible-ez36" n="36">
-          <head>Caput 36</head>
+          <head xml:id="bible-ez-Hd1e3083">Caput 36</head>
           <p xml:id="ez36_1" n="1">tu autem fili hominis propheta super montes Israhel et dices
             montes Israhel audite verbum Domini</p>
           <p xml:id="ez36_2" n="2">haec dicit Dominus Deus eo quod dixerit inimicus de vobis euge
@@ -2296,7 +2294,7 @@
             sic erunt civitates desertae plenaeque gregibus hominum et scient quia ego Dominus</p>
         </div>
         <div xml:id="bible-ez37" n="37">
-          <head>Caput 37</head>
+          <head xml:id="bible-ez-Hd1e3208">Caput 37</head>
           <p xml:id="ez37_1" n="1">facta est super me manus Domini et eduxit me in spiritu Domini et
             dimisit me in medio campi qui erat plenus ossibus</p>
           <p xml:id="ez37_2" n="2">et circumduxit me per ea in gyro erant autem multa valde super
@@ -2366,7 +2364,7 @@
             fuerit sanctificatio mea in medio eorum in perpetuum</p>
         </div>
         <div xml:id="bible-ez38" n="38">
-          <head>Caput 38</head>
+          <head xml:id="bible-ez-Hd1e3301">Caput 38</head>
           <p xml:id="ez38_1" n="1">et factus est sermo Domini ad me dicens</p>
           <p xml:id="ez38_2" n="2">fili hominis pone faciem tuam contra Gog terram Magog principem
             capitis Mosoch et Thubal et vaticinare de eo</p>
@@ -2424,7 +2422,7 @@
             multarum et scient quia ego Dominus</p>
         </div>
         <div xml:id="bible-ez39" n="39">
-          <head>Caput 39</head>
+          <head xml:id="bible-ez-Hd1e3379">Caput 39</head>
           <p xml:id="ez39_1" n="1">tu autem fili hominis vaticinare adversum Gog et dices haec dicit
             Dominus Deus ecce ego super te Gog principem capitis Mosoch et Thubal</p>
           <p xml:id="ez39_2" n="2">et circumagam te et seducam te et ascendere faciam de lateribus
@@ -2494,7 +2492,7 @@
             spiritum meum super omnem domum Israhel ait Dominus Deus</p>
         </div>
         <div xml:id="bible-ez40" n="40">
-          <head>Caput 40</head>
+          <head xml:id="bible-ez-Hd1e3476">Caput 40</head>
           <p xml:id="ez40_1" n="1">in vicesimo et quinto anno transmigrationis nostrae in exordio
             anni decima mensis quartodecimo anno postquam percussa est civitas in ipsa hac die facta
             est super me manus Domini et adduxit me illuc</p>
@@ -2614,7 +2612,7 @@
             una hinc et altera inde</p>
         </div>
         <div xml:id="bible-ez41" n="41">
-          <head>Caput 41</head>
+          <head xml:id="bible-ez-Hd1e3637">Caput 41</head>
           <p xml:id="ez41_1" n="1">et introduxit me in templum et mensus est frontes sex cubitos
             latitudinis hinc et sex cubitos latitudinis inde latitudinem tabernaculi</p>
           <p xml:id="ez41_2" n="2">et latitudo portae decem cubitorum erat et latera portae quinque
@@ -2677,7 +2675,7 @@
             inde in umerulis vestibuli secundum latera domus latitudinemque parietum</p>
         </div>
         <div xml:id="bible-ez42" n="42">
-          <head>Caput 42</head>
+          <head xml:id="bible-ez-Hd1e3724">Caput 42</head>
           <p xml:id="ez42_1" n="1">et eduxit me in atrium exterius per viam ducentem ad aquilonem et
             eduxit me in gazofilacium quod erat contra separatum aedificium et contra aedem
             vergentem ad aquilonem</p>
@@ -2727,7 +2725,7 @@
             dividentem inter sanctuarium et vulgi locum</p>
         </div>
         <div xml:id="bible-ez43" n="43">
-          <head>Caput 43</head>
+          <head xml:id="bible-ez-Hd1e3792">Caput 43</head>
           <p xml:id="ez43_1" n="1">et duxit me ad portam quae respiciebat ad viam orientalem</p>
           <p xml:id="ez43_2" n="2">et ecce gloria Dei Israhel ingrediebatur per viam orientalem et
             vox erat ei quasi vox aquarum multarum et terra splendebat a maiestate eius</p>
@@ -2794,7 +2792,7 @@
             Dominus Deus</p>
         </div>
         <div xml:id="bible-ez44" n="44">
-          <head>Caput 44</head>
+          <head xml:id="bible-ez-Hd1e3882">Caput 44</head>
           <p xml:id="ez44_1" n="1">et convertit me ad viam portae sanctuarii exterioris quae
             respiciebat ad orientem et erat clausa</p>
           <p xml:id="ez44_2" n="2">et dixit Dominus ad me porta haec clausa erit non aperietur et
@@ -2873,7 +2871,7 @@
             non comedent sacerdotes</p>
         </div>
         <div xml:id="bible-ez45" n="45">
-          <head>Caput 45</head>
+          <head xml:id="bible-ez-Hd1e3985">Caput 45</head>
           <p xml:id="ez45_1" n="1">cumque coeperitis terram dividere sortito separate primitias
             Domino sanctificatum de terra longitudine viginti quinque milia et latitudine decem
             milia sanctificatum erit in omni termino eius per circuitum</p>
@@ -2939,7 +2937,7 @@
             sacrificio et in oleo</p>
         </div>
         <div xml:id="bible-ez46" n="46">
-          <head>Caput 46</head>
+          <head xml:id="bible-ez-Hd1e4069">Caput 46</head>
           <p xml:id="ez46_1" n="1">haec dicit Dominus Deus porta atrii interioris quae respicit ad
             orientem erit clausa sex diebus in quibus opus fit die autem sabbati aperietur sed et in
             die kalendarum aperietur</p>
@@ -3004,7 +3002,7 @@
             domus Domini victimas populi</p>
         </div>
         <div xml:id="bible-ez47" n="47">
-          <head>Caput 47</head>
+          <head xml:id="bible-ez-Hd1e4151">Caput 47</head>
           <p xml:id="ez47_1" n="1">et convertit me ad portam domus et ecce aquae egrediebantur
             subter limen domus ad orientem facies enim domus respiciebat ad orientem aquae autem
             descendebant in latus templi dextrum ad meridiem altaris</p>
@@ -3062,7 +3060,7 @@
             illi ait Dominus Deus</p>
         </div>
         <div xml:id="bible-ez48" n="48">
-          <head>Caput 48</head>
+          <head xml:id="bible-ez-Hd1e4229">Caput 48</head>
           <p xml:id="ez48_1" n="1">et haec nomina tribuum a finibus aquilonis iuxta viam Aethlon
             pergentibus Emath atrium Aenon terminus Damasci ad aquilonem iuxta Emath et erit ei
             plaga orientalis mare Dan una</p>

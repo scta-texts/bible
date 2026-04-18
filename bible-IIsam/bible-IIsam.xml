@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-IIsam">
-        <head>Samuelis II</head>
+        <head xml:id="bible-IIsam-Hd1e76">Samuelis II</head>
         <div xml:id="bible-IIsam1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-IIsam-Hd1e80">Caput 1</head>
           <p xml:id="IIsam1_1" n="1">factum est autem postquam mortuus est Saul ut David
             reverteretur a caede Amalech et maneret in Siceleg dies duos</p>
           <p xml:id="IIsam1_2" n="2">in die autem tertia apparuit homo veniens de castris Saul veste
@@ -104,7 +102,7 @@
           <p xml:id="IIsam1_27" n="27">quomodo ceciderunt robusti et perierunt arma bellica</p>
         </div>
         <div xml:id="bible-IIsam2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-IIsam-Hd1e170">Caput 2</head>
           <p xml:id="IIsam2_1" n="1">igitur post haec consuluit David Dominum dicens num ascendam in
             unam de civitatibus Iuda et ait Dominus ad eum ascende dixitque David quo ascendam et
             respondit ei in Hebron</p>
@@ -182,7 +180,7 @@
             crepusculo pervenerunt in Hebron</p>
         </div>
         <div xml:id="bible-IIsam3" n="3">
-          <head>Caput 3</head>
+          <head xml:id="bible-IIsam-Hd1e276">Caput 3</head>
           <p xml:id="IIsam3_1" n="1">facta est ergo longa concertatio inter domum Saul et inter
             domum David David proficiens et semper se ipso robustior domus autem Saul decrescens
             cotidie</p>
@@ -276,7 +274,7 @@
             Sarviae duri mihi sunt retribuat Dominus facienti malum iuxta malitiam suam</p>
         </div>
         <div xml:id="bible-IIsam4" n="4">
-          <head>Caput 4</head>
+          <head xml:id="bible-IIsam-Hd1e404">Caput 4</head>
           <p xml:id="IIsam4_1" n="1">audivit autem filius Saul quod cecidisset Abner in Hebron et
             dissolutae sunt manus eius omnisque Israhel perturbatus est</p>
           <p xml:id="IIsam4_2" n="2">duo autem viri principes latronum erant filio Saul nomen uni
@@ -311,7 +309,7 @@
             autem Hisboseth tulerunt et sepelierunt in sepulchro Abner in Hebron</p>
         </div>
         <div xml:id="bible-IIsam5" n="5">
-          <head>Caput 5</head>
+          <head xml:id="bible-IIsam-Hd1e448">Caput 5</head>
           <p xml:id="IIsam5_1" n="1">et venerunt universae tribus Israhel ad David in Hebron
             dicentes ecce nos os tuum et caro tua sumus</p>
           <p xml:id="IIsam5_2" n="2">sed et heri et nudius tertius cum esset Saul rex super nos tu
@@ -368,7 +366,7 @@
             Philisthim de Gabee usque dum venias Gezer</p>
         </div>
         <div xml:id="bible-IIsam6" n="6">
-          <head>Caput 6</head>
+          <head xml:id="bible-IIsam-Hd1e532">Caput 6</head>
           <p xml:id="IIsam6_1" n="1">congregavit autem rursum David omnes electos ex Israhel
             triginta milia</p>
           <p xml:id="IIsam6_2" n="2">surrexitque et abiit et universus populus qui erat cum eo de
@@ -426,7 +424,7 @@
             mortis suae</p>
         </div>
         <div xml:id="bible-IIsam7" n="7">
-          <head>Caput 7</head>
+          <head xml:id="bible-IIsam-Hd1e610">Caput 7</head>
           <p xml:id="IIsam7_1" n="1">factum est autem cum sedisset rex in domo sua et Dominus
             dedisset ei requiem undique ab universis inimicis suis</p>
           <p xml:id="IIsam7_2" n="2">dixit ad Nathan prophetam videsne quod ego habitem in domo
@@ -499,7 +497,7 @@
             domus servi tui in sempiternum</p>
         </div>
         <div xml:id="bible-IIsam8" n="8">
-          <head>Caput 8</head>
+          <head xml:id="bible-IIsam-Hd1e707">Caput 8</head>
           <p xml:id="IIsam8_1" n="1">factum est autem post haec percussit David Philisthim et
             humiliavit eos et tulit David frenum tributi de manu Philisthim</p>
           <p xml:id="IIsam8_2" n="2">et percussit Moab et mensus est eos funiculo coaequans terrae
@@ -544,7 +542,7 @@
             autem David sacerdotes erant</p>
         </div>
         <div xml:id="bible-IIsam9" n="9">
-          <head>Caput 9</head>
+          <head xml:id="bible-IIsam-Hd1e769">Caput 9</head>
           <p xml:id="IIsam9_1" n="1">et dixit David putasne est aliquis qui remanserit de domo Saul
             ut faciam cum eo misericordiam propter Ionathan</p>
           <p xml:id="IIsam9_2" n="2">erat autem de domo Saul servus nomine Siba quem cum vocasset
@@ -577,7 +575,7 @@
             iugiter vescebatur et erat claudus utroque pede</p>
         </div>
         <div xml:id="bible-IIsam10" n="10">
-          <head>Caput 10</head>
+          <head xml:id="bible-IIsam-Hd1e815">Caput 10</head>
           <p xml:id="IIsam10_1" n="1">factum est autem post haec ut moreretur rex filiorum Ammon et
             regnaret Anon filius eius pro eo</p>
           <p xml:id="IIsam10_2" n="2">dixitque David faciam misericordiam cum Anon filio Naas sicut
@@ -627,7 +625,7 @@
             Syri auxilium praebere filiis Ammon</p>
         </div>
         <div xml:id="bible-IIsam11" n="11">
-          <head>Caput 11</head>
+          <head xml:id="bible-IIsam-Hd1e881">Caput 11</head>
           <p xml:id="IIsam11_1" n="1">factum est ergo vertente anno eo tempore quo solent reges ad
             bella procedere misit David Ioab et servos suos cum eo et universum Israhel et
             vastaverunt filios Ammon et obsederunt Rabba David autem remansit in Hierusalem</p>
@@ -694,7 +692,7 @@
             coram Domino</p>
         </div>
         <div xml:id="bible-IIsam12" n="12">
-          <head>Caput 12</head>
+          <head xml:id="bible-IIsam-Hd1e971">Caput 12</head>
           <p xml:id="IIsam12_1" n="1">misit ergo Dominus Nathan ad David qui cum venisset ad eum
             dixit ei duo viri erant in civitate una unus dives et alter pauper</p>
           <p xml:id="IIsam12_2" n="2">dives habebat oves et boves plurimos valde</p>
@@ -773,7 +771,7 @@
             Hierusalem</p>
         </div>
         <div xml:id="bible-IIsam13" n="13">
-          <head>Caput 13</head>
+          <head xml:id="bible-IIsam-Hd1e1074">Caput 13</head>
           <p xml:id="IIsam13_1" n="1">factum est autem post haec ut Absalom filii David sororem
             speciosissimam vocabulo Thamar adamaret Amnon filius David</p>
           <p xml:id="IIsam13_2" n="2">et deperiret eam valde ita ut aegrotaret propter amorem eius
@@ -865,7 +863,7 @@
             esset super Amnon interitu</p>
         </div>
         <div xml:id="bible-IIsam14" n="14">
-          <head>Caput 14</head>
+          <head xml:id="bible-IIsam-Hd1e1202">Caput 14</head>
           <p xml:id="IIsam14_1" n="1">intellegens autem Ioab filius Sarviae quod cor regis versum
             esset ad Absalom</p>
           <p xml:id="IIsam14_2" n="2">misit Thecuam et tulit inde mulierem sapientem dixitque ad eam
@@ -951,7 +949,7 @@
             Absalom</p>
         </div>
         <div xml:id="bible-IIsam15" n="15">
-          <head>Caput 15</head>
+          <head xml:id="bible-IIsam-Hd1e1311">Caput 15</head>
           <p xml:id="IIsam15_1" n="1">igitur post haec fecit sibi Absalom currum et equites et
             quinquaginta viros qui praecederent eum</p>
           <p xml:id="IIsam15_2" n="2">et mane consurgens Absalom stabat iuxta introitum portae et
@@ -1040,7 +1038,7 @@
             ingressus est Hierusalem</p>
         </div>
         <div xml:id="bible-IIsam16" n="16">
-          <head>Caput 16</head>
+          <head xml:id="bible-IIsam-Hd1e1433">Caput 16</head>
           <p xml:id="IIsam16_1" n="1">cumque David transisset paululum montis verticem apparuit Siba
             puer Mifiboseth in occursum eius cum duobus asinis qui onerati erant ducentis panibus et
             centum alligaturis uvae passae et centum massis palatarum et utribus vini</p>
@@ -1099,7 +1097,7 @@
             esset cum Absalom</p>
         </div>
         <div xml:id="bible-IIsam17" n="17">
-          <head>Caput 17</head>
+          <head xml:id="bible-IIsam-Hd1e1512">Caput 17</head>
           <p xml:id="IIsam17_1" n="1">dixit igitur Ahitofel ad Absalom eligam mihi duodecim milia
             virorum et consurgens persequar David hac nocte</p>
           <p xml:id="IIsam17_2" n="2">et inruens super eum quippe qui lassus est et solutis manibus
@@ -1177,7 +1175,7 @@
             in deserto</p>
         </div>
         <div xml:id="bible-IIsam18" n="18">
-          <head>Caput 18</head>
+          <head xml:id="bible-IIsam-Hd1e1609">Caput 18</head>
           <p xml:id="IIsam18_1" n="1">igitur considerato David populo suo constituit super eum
             tribunos et centuriones</p>
           <p xml:id="IIsam18_2" n="2">et dedit populi tertiam partem sub manu Ioab et tertiam in
@@ -1260,7 +1258,7 @@
             pro te Absalom fili mi fili mi</p>
         </div>
         <div xml:id="bible-IIsam19" n="19">
-          <head>Caput 19</head>
+          <head xml:id="bible-IIsam-Hd1e1718">Caput 19</head>
           <p xml:id="IIsam19_1" n="1">nuntiatum est autem Ioab quod rex fleret et lugeret filium
             suum</p>
           <p xml:id="IIsam19_2" n="2">et versa est victoria in die illa in luctum omni populo
@@ -1371,7 +1369,7 @@
             responderunt viri Iuda viris Israhel</p>
         </div>
         <div xml:id="bible-IIsam20" n="20">
-          <head>Caput 20</head>
+          <head xml:id="bible-IIsam-Hd1e1859">Caput 20</head>
           <p xml:id="IIsam20_1" n="1">accidit quoque ut ibi esset vir Belial nomine Seba filius
             Bochri vir iemineus et cecinit bucina et ait non est nobis pars in David neque hereditas
             in filio Isai vir in tabernacula tua Israhel</p>
@@ -1437,7 +1435,7 @@
           <p xml:id="IIsam20_26" n="26">Hira autem Hiaiarites erat sacerdos David</p>
         </div>
         <div xml:id="bible-IIsam21" n="21">
-          <head>Caput 21</head>
+          <head xml:id="bible-IIsam-Hd1e1946">Caput 21</head>
           <p xml:id="IIsam21_1" n="1">facta est quoque fames in diebus David tribus annis iugiter et
             consuluit David oraculum Domini dixitque Dominus propter Saul et domum eius et sanguinem
             quia occidit Gabaonitas</p>
@@ -1497,7 +1495,7 @@
             manu David et servorum eius</p>
         </div>
         <div xml:id="bible-IIsam22" n="22">
-          <head>Caput 22</head>
+          <head xml:id="bible-IIsam-Hd1e2020">Caput 22</head>
           <p xml:id="IIsam22_1" n="1">locutus est autem David Domino verba carminis huius in die qua
             liberavit eum Dominus de manu omnium inimicorum suorum et de manu Saul</p>
           <p xml:id="IIsam22_2" n="2">et ait Dominus petra mea et robur meum et salvator meus</p>
@@ -1592,7 +1590,7 @@
             christo suo David et semini eius in sempiternum</p>
         </div>
         <div xml:id="bible-IIsam23" n="23">
-          <head>Caput 23</head>
+          <head xml:id="bible-IIsam-Hd1e2187">Caput 23</head>
           <p xml:id="IIsam23_1" n="1">haec autem sunt verba novissima quae dixit David filius Isai
             dixit vir cui constitutum est de christo Dei Iacob egregius psalta Israhel</p>
           <p xml:id="IIsam23_2" n="2">spiritus Domini locutus est per me et sermo eius per linguam
@@ -1673,7 +1671,7 @@
           <p xml:id="IIsam23_39" n="39">Urias Hettheus omnes triginta septem</p>
         </div>
         <div xml:id="bible-IIsam24" n="24">
-          <head>Caput 24</head>
+          <head xml:id="bible-IIsam-Hd1e2315">Caput 24</head>
           <p xml:id="IIsam24_1" n="1">et addidit furor Domini irasci contra Israhel commovitque
             David in eis dicentem vade numera Israhel et Iudam</p>
           <p xml:id="IIsam24_2" n="2">dixitque rex ad Ioab principem exercitus sui perambula omnes

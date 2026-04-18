@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-mic">
-        <head>Michaeas</head>
+        <head xml:id="bible-mic-Hd1e76">Michaeas</head>
         <div xml:id="bible-mic1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-mic-Hd1e80">Caput 1</head>
           <p xml:id="mic1_1" n="1">verbum Domini quod factum est ad Micham Morasthiten in diebus
             Ioatham Ahaz Ezechiae regum Iuda quod vidit super Samariam et Hierusalem</p>
           <p xml:id="mic1_2" n="2">audite populi omnes et adtendat terra et plenitudo eius et sit
@@ -81,7 +79,7 @@
             calvitium tuum sicut aquila quoniam captivi ducti sunt ex te</p>
         </div>
         <div xml:id="bible-mic2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-mic-Hd1e135">Caput 2</head>
           <p xml:id="mic2_1" n="1">vae qui cogitatis inutile et operamini malum in cubilibus vestris
             in luce matutina faciunt illud quoniam contra Deum est manus eorum</p>
           <p xml:id="mic2_2" n="2">et concupierunt agros et violenter tulerunt et domos rapuerunt et
@@ -115,7 +113,7 @@
             eorum</p>
         </div>
         <div xml:id="bible-mic3" n="3">
-          <head>Caput 3</head>
+          <head xml:id="bible-mic-Hd1e181">Caput 3</head>
           <p xml:id="mic3_1" n="1">et dixi audite principes Iacob et duces domus Israhel numquid non
             vestrum est scire iudicium</p>
           <p xml:id="mic3_2" n="2">qui odio habetis bonum et diligitis malum qui violenter tollitis
@@ -145,7 +143,7 @@
             quasi acervus lapidum erit et mons templi in excelsa silvarum</p>
         </div>
         <div xml:id="bible-mic4" n="4">
-          <head>Caput 4</head>
+          <head xml:id="bible-mic-Hd1e224">Caput 4</head>
           <p xml:id="mic4_1" n="1">et in novissimo dierum erit mons domus Domini praeparatus in
             vertice montium et sublimis super colles et fluent ad eum populi</p>
           <p xml:id="mic4_2" n="2">et properabunt gentes multae et dicent venite ascendamus ad
@@ -179,7 +177,7 @@
             eorum et fortitudinem eorum Domino universae terrae</p>
         </div>
         <div xml:id="bible-mic5" n="5">
-          <head>Caput 5</head>
+          <head xml:id="bible-mic-Hd1e271">Caput 5</head>
           <p xml:id="mic5_1" n="1">nunc vastaberis filia latronis obsidionem posuerunt super nos in
             virga percutient maxillam iudicis Israhel</p>
           <p xml:id="mic5_2" n="2">et tu Bethleem Ephrata parvulus es in milibus Iuda ex te mihi
@@ -215,7 +213,7 @@
             gentibus quae non audierunt</p>
         </div>
         <div xml:id="bible-mic6" n="6">
-          <head>Caput 6</head>
+          <head xml:id="bible-mic-Hd1e320">Caput 6</head>
           <p xml:id="mic6_1" n="1">audite quae Dominus loquitur surge contende iudicio adversum
             montes et audiant colles vocem tuam</p>
           <p xml:id="mic6_2" n="2">audiant montes iudicium Domini et fortia fundamenta terrae quia
@@ -253,7 +251,7 @@
             sibilum et obprobrium populi mei portabitis</p>
         </div>
         <div xml:id="bible-mic7" n="7">
-          <head>Caput 7</head>
+          <head xml:id="bible-mic-Hd1e375">Caput 7</head>
           <p xml:id="mic7_1" n="1">vae mihi quia factus sum sicut qui colligit in autumno racemos
             vindemiae non est botrus ad comedendum praecoquas ficus desideravit anima mea</p>
           <p xml:id="mic7_2" n="2">periit sanctus de terra et rectus in hominibus non est omnes in

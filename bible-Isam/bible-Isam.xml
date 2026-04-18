@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-Isam">
-        <head>Samuelis I</head>
+        <head xml:id="bible-Isam-Hd1e76">Samuelis I</head>
         <div xml:id="bible-Isam1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-Isam-Hd1e80">Caput 1</head>
           <p xml:id="Isam1_1" n="1">fuit vir unus de Ramathaimsophim de monte Ephraim et nomen eius
             Helcana filius Hieroam filii Heliu filii Thau filii Suph Ephratheus</p>
           <p xml:id="Isam1_2" n="2">et habuit duas uxores nomen uni Anna et nomen secundae Fenenna
@@ -112,7 +110,7 @@
             fuerit accommodatus Domino et adoraverunt ibi Dominum et oravit Anna et ait</p>
         </div>
         <div xml:id="bible-Isam2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-Isam-Hd1e173">Caput 2</head>
           <p xml:id="Isam2_1" n="1">exultavit cor meum in Domino exaltatum est cornu meum in Domino
             dilatatum est os meum super inimicos meos quia laetata sum in salutari tuo</p>
           <p xml:id="Isam2_2" n="2">non est sanctus ut est Dominus neque enim est alius extra te et
@@ -201,7 +199,7 @@
             ad unam partem sacerdotalem ut comedam buccellam panis</p>
         </div>
         <div xml:id="bible-Isam3" n="3">
-          <head>Caput 3</head>
+          <head xml:id="bible-Isam-Hd1e292">Caput 3</head>
           <p xml:id="Isam3_1" n="1">puer autem Samuhel ministrabat Domino coram Heli et sermo Domini
             erat pretiosus in diebus illis non erat visio manifesta</p>
           <p xml:id="Isam3_2" n="2">factum est ergo in die quadam Heli iacebat in loco suo et oculi
@@ -249,7 +247,7 @@
             Israheli</p>
         </div>
         <div xml:id="bible-Isam4" n="4">
-          <head>Caput 4</head>
+          <head xml:id="bible-Isam-Hd1e363">Caput 4</head>
           <p xml:id="Isam4_1" n="1">egressus est namque Israhel obviam Philisthim in proelium et
             castrametatus est iuxta lapidem Adiutorii porro Philisthim venerunt in Afec</p>
           <p xml:id="Isam4_2" n="2">et instruxerunt aciem contra Israhel inito autem certamine terga
@@ -307,7 +305,7 @@
             arca Dei</p>
         </div>
         <div xml:id="bible-Isam5" n="5">
-          <head>Caput 5</head>
+          <head xml:id="bible-Isam-Hd1e438">Caput 5</head>
           <p xml:id="Isam5_1" n="1">Philisthim autem tulerunt arcam Dei et asportaverunt eam a
             lapide Adiutorii in Azotum</p>
           <p xml:id="Isam5_2" n="2">tulerunt Philisthim arcam Dei et intulerunt eam in templum Dagon
@@ -343,7 +341,7 @@
             natium et ascendebat ululatus uniuscuiusque civitatis in caelum</p>
         </div>
         <div xml:id="bible-Isam6" n="6">
-          <head>Caput 6</head>
+          <head xml:id="bible-Isam-Hd1e481">Caput 6</head>
           <p xml:id="Isam6_1" n="1">fuit ergo arca Domini in regione Philisthinorum septem
             mensibus</p>
           <p xml:id="Isam6_2" n="2">et vocaverunt Philisthim sacerdotes et divinos dicentes quid
@@ -403,7 +401,7 @@
             reduxerunt Philisthim arcam Domini descendite et ducite eam ad vos</p>
         </div>
         <div xml:id="bible-Isam7" n="7">
-          <head>Caput 7</head>
+          <head xml:id="bible-Isam-Hd1e552">Caput 7</head>
           <p xml:id="Isam7_1" n="1">venerunt ergo viri Cariathiarim et duxerunt arcam Domini et
             intulerunt eam in domum Abinadab in Gabaa Eleazarum autem filium eius sanctificaverunt
             ut custodiret arcam Domini</p>
@@ -449,7 +447,7 @@
             iudicabat Israhelem aedificavit etiam ibi altare Domino</p>
         </div>
         <div xml:id="bible-Isam8" n="8">
-          <head>Caput 8</head>
+          <head xml:id="bible-Isam-Hd1e611">Caput 8</head>
           <p xml:id="Isam8_1" n="1">factum est autem cum senuisset Samuhel posuit filios suos
             iudices Israhel</p>
           <p xml:id="Isam8_2" n="2">fuitque nomen filii eius primogeniti Iohel et nomen secundi Abia
@@ -497,7 +495,7 @@
             super eos regem et ait Samuhel ad viros Israhel vadat unusquisque in civitatem suam</p>
         </div>
         <div xml:id="bible-Isam9" n="9">
-          <head>Caput 9</head>
+          <head xml:id="bible-Isam-Hd1e685">Caput 9</head>
           <p xml:id="Isam9_1" n="1">et erat vir de Beniamin nomine Cis filius Abihel filii Seror
             filii Bechoreth filii Afia filii viri Iemini fortis robore</p>
           <p xml:id="Isam9_2" n="2">et erat ei filius vocabulo Saul electus et bonus et non erat vir
@@ -568,7 +566,7 @@
             tibi verbum Domini</p>
         </div>
         <div xml:id="bible-Isam10" n="10">
-          <head>Caput 10</head>
+          <head xml:id="bible-Isam-Hd1e775">Caput 10</head>
           <p xml:id="Isam10_1" n="1">tulit autem Samuhel lenticulam olei et effudit super caput eius
             et deosculatus eum ait ecce unxit te Dominus super hereditatem suam in principem</p>
           <p xml:id="Isam10_2" n="2">cum abieris hodie a me invenies duos viros iuxta sepulchrum
@@ -636,7 +634,7 @@
             despexerunt eum et non adtulerunt ei munera ille vero dissimulabat se audire</p>
         </div>
         <div xml:id="bible-Isam11" n="11">
-          <head>Caput 11</head>
+          <head xml:id="bible-Isam-Hd1e866">Caput 11</head>
           <p xml:id="Isam11_1" n="1">ascendit autem Naas Ammonites et pugnare coepit adversus
             Iabesgalaad dixeruntque omnes viri Iabes ad Naas habeto nos foederatos et serviemus
             tibi</p>
@@ -678,7 +676,7 @@
             laetatus est ibi Saul et cuncti viri Israhel nimis</p>
         </div>
         <div xml:id="bible-Isam12" n="12">
-          <head>Caput 12</head>
+          <head xml:id="bible-Isam-Hd1e918">Caput 12</head>
           <p xml:id="Isam12_1" n="1">dixit autem Samuhel ad universum Israhel ecce audivi vocem
             vestram iuxta omnia quae locuti estis ad me et constitui super vos regem</p>
           <p xml:id="Isam12_2" n="2">et nunc rex graditur ante vos ego autem senui et incanui porro
@@ -741,7 +739,7 @@
             pariter peribitis</p>
         </div>
         <div xml:id="bible-Isam13" n="13">
-          <head>Caput 13</head>
+          <head xml:id="bible-Isam-Hd1e1002">Caput 13</head>
           <p xml:id="Isam13_1" n="1">filius unius anni Saul cum regnare coepisset duobus autem annis
             regnavit super Israhel</p>
           <p xml:id="Isam13_2" n="2">et elegit sibi Saul tria milia de Israhel et erant cum Saul duo
@@ -800,7 +798,7 @@
             Machmas</p>
         </div>
         <div xml:id="bible-Isam14" n="14">
-          <head>Caput 14</head>
+          <head xml:id="bible-Isam-Hd1e1080">Caput 14</head>
           <p xml:id="Isam14_1" n="1">et accidit quadam die ut diceret Ionathan filius Saul ad
             adulescentem armigerum suum veni et transeamus ad stationem Philisthim quae est trans
             locum illum patri autem suo hoc ipsum non indicavit</p>
@@ -931,7 +929,7 @@
             Saul nam quemcumque viderat Saul virum fortem et aptum ad proelium sociabat eum sibi</p>
         </div>
         <div xml:id="bible-Isam15" n="15">
-          <head>Caput 15</head>
+          <head xml:id="bible-Isam-Hd1e1249">Caput 15</head>
           <p xml:id="Isam15_1" n="1">et dixit Samuhel ad Saul me misit Dominus ut unguerem te in
             regem super populum eius Israhel nunc ergo audi vocem Domini</p>
           <p xml:id="Isam15_2" n="2">haec dicit Dominus exercituum recensui quaecumque fecit Amalech
@@ -1012,7 +1010,7 @@
             super Israhel</p>
         </div>
         <div xml:id="bible-Isam16" n="16">
-          <head>Caput 16</head>
+          <head xml:id="bible-Isam-Hd1e1365">Caput 16</head>
           <p xml:id="Isam16_1" n="1">dixitque Dominus ad Samuhel usquequo tu luges Saul cum ego
             proiecerim eum ne regnet super Israhel imple cornu tuum oleo et veni ut mittam te ad
             Isai Bethleemitem providi enim in filiis eius mihi regem</p>
@@ -1071,7 +1069,7 @@
             enim ab eo spiritus malus</p>
         </div>
         <div xml:id="bible-Isam17" n="17">
-          <head>Caput 17</head>
+          <head xml:id="bible-Isam-Hd1e1444">Caput 17</head>
           <p xml:id="Isam17_1" n="1">congregantes vero Philisthim agmina sua in proelium convenerunt
             in Soccho Iudae et castrametati sunt inter Soccho et Azeca in finibus Dommim</p>
           <p xml:id="Isam17_2" n="2">porro Saul et viri Israhel congregati venerunt in valle
@@ -1211,7 +1209,7 @@
             David filius servi tui Isai Bethleemitae ego sum</p>
         </div>
         <div xml:id="bible-Isam18" n="18">
-          <head>Caput 18</head>
+          <head xml:id="bible-Isam-Hd1e1632">Caput 18</head>
           <p xml:id="Isam18_1" n="1">et factum est cum conplesset loqui ad Saul anima Ionathan
             conligata est animae David et dilexit eum Ionathan quasi animam suam</p>
           <p xml:id="Isam18_2" n="2">tulitque eum Saul in die illa et non concessit ei ut
@@ -1285,7 +1283,7 @@
             est nomen eius nimis</p>
         </div>
         <div xml:id="bible-Isam19" n="19">
-          <head>Caput 19</head>
+          <head xml:id="bible-Isam-Hd1e1732">Caput 19</head>
           <p xml:id="Isam19_1" n="1">locutus est autem Saul ad Ionathan filium suum et ad omnes
             servos suos ut occiderent David porro Ionathan filius Saul diligebat David valde</p>
           <p xml:id="Isam19_2" n="2">et indicavit Ionathan David dicens quaerit Saul pater meus
@@ -1348,7 +1346,7 @@
             proverbium num et Saul inter prophetas</p>
         </div>
         <div xml:id="bible-Isam20" n="20">
-          <head>Caput 20</head>
+          <head xml:id="bible-Isam-Hd1e1813">Caput 20</head>
           <p xml:id="Isam20_1" n="1">fugit autem David de Nahioth quae erat in Rama veniensque
             locutus est coram Ionathan quid feci quae est iniquitas mea et quod peccatum meum in
             patrem tuum quia quaerit animam meam</p>
@@ -1455,7 +1453,7 @@
             civitatem</p>
         </div>
         <div xml:id="bible-Isam21" n="21">
-          <head>Caput 21</head>
+          <head xml:id="bible-Isam-Hd1e1954">Caput 21</head>
           <p xml:id="Isam21_1" n="1">venit autem David in Nobe ad Ahimelech sacerdotem et obstipuit
             Ahimelech eo quod venisset David et dixit ei quare tu solus et nullus est tecum</p>
           <p xml:id="Isam21_2" n="2">et ait David ad Ahimelech sacerdotem rex praecepit mihi
@@ -1494,7 +1492,7 @@
             me praesente hicine ingredietur domum meam</p>
         </div>
         <div xml:id="bible-Isam22" n="22">
-          <head>Caput 22</head>
+          <head xml:id="bible-Isam-Hd1e2006">Caput 22</head>
           <p xml:id="Isam22_1" n="1">abiit ergo inde David et fugit in speluncam Odollam quod cum
             audissent fratres eius et omnis domus patris eius descenderunt ad eum illuc</p>
           <p xml:id="Isam22_2" n="2">et convenerunt ad eum omnes qui erant in angustia constituti et
@@ -1556,7 +1554,7 @@
             et animam tuam mecumque servaberis</p>
         </div>
         <div xml:id="bible-Isam23" n="23">
-          <head>Caput 23</head>
+          <head xml:id="bible-Isam-Hd1e2085">Caput 23</head>
           <p xml:id="Isam23_1" n="1">et nuntiaverunt David dicentes ecce Philisthim obpugnant Ceila
             et diripiunt areas</p>
           <p xml:id="Isam23_2" n="2">consuluit igitur David Dominum dicens num vadam et percutiam
@@ -1628,7 +1626,7 @@
             in occursum Philisthinorum propter hoc vocaverunt locum illum petram Dividentem</p>
         </div>
         <div xml:id="bible-Isam24" n="24">
-          <head>Caput 24</head>
+          <head xml:id="bible-Isam-Hd1e2178">Caput 24</head>
           <p xml:id="Isam24_1" n="1">ascendit ergo David inde et habitavit in locis tutissimis
             Engaddi</p>
           <p xml:id="Isam24_2" n="2">cumque reversus esset Saul postquam persecutus est Philistheos
@@ -1686,7 +1684,7 @@
             et viri eius ascenderunt ad tutiora loca</p>
         </div>
         <div xml:id="bible-Isam25" n="25">
-          <head>Caput 25</head>
+          <head xml:id="bible-Isam-Hd1e2256">Caput 25</head>
           <p xml:id="Isam25_1" n="1">mortuus est autem Samuhel et congregatus est universus Israhel
             et planxerunt eum et sepelierunt in domo sua in Rama consurgensque David descendit in
             desertum Pharan</p>
@@ -1797,7 +1795,7 @@
             Lais qui erat de Gallim</p>
         </div>
         <div xml:id="bible-Isam26" n="26">
-          <head>Caput 26</head>
+          <head xml:id="bible-Isam-Hd1e2400">Caput 26</head>
           <p xml:id="Isam26_1" n="1">et venerunt Ziphei ad Saul in Gabaa dicentes ecce David
             absconditus est in colle Achilae quae est ex adverso solitudinis</p>
           <p xml:id="Isam26_2" n="2">et surrexit Saul et descendit in desertum Ziph et cum eo tria
@@ -1862,7 +1860,7 @@
             locum suum</p>
         </div>
         <div xml:id="bible-Isam27" n="27">
-          <head>Caput 27</head>
+          <head xml:id="bible-Isam-Hd1e2484">Caput 27</head>
           <p xml:id="Isam27_1" n="1">et ait David in corde suo aliquando incidam in uno die in manu
             Saul nonne melius est ut fugiam et salver in terra Philisthinorum ut desperet Saul
             cessetque me quaerere in cunctis finibus Israhel fugiam ergo manus eius</p>
@@ -1895,7 +1893,7 @@
             contra populum suum Israhel erit igitur mihi servus sempiternus</p>
         </div>
         <div xml:id="bible-Isam28" n="28">
-          <head>Caput 28</head>
+          <head xml:id="bible-Isam-Hd1e2527">Caput 28</head>
           <p xml:id="Isam28_1" n="1">factum est autem in diebus illis congregaverunt Philisthim
             agmina sua ut praepararentur ad bellum contra Israhel dixitque Achis ad David sciens
             nunc scito quoniam mecum egredieris in castris tu et viri tui</p>
@@ -1957,7 +1955,7 @@
             surrexerunt et ambulaverunt per totam noctem illam</p>
         </div>
         <div xml:id="bible-Isam29" n="29">
-          <head>Caput 29</head>
+          <head xml:id="bible-Isam-Hd1e2612">Caput 29</head>
           <p xml:id="Isam29_1" n="1">congregata sunt ergo Philisthim universa agmina in Afec sed et
             Israhel castrametatus est super fontem qui erat in Iezrahel</p>
           <p xml:id="Isam29_2" n="2">et satrapae quidem Philisthim incedebant in centuriis et
@@ -1991,7 +1989,7 @@
             in Iezrahel</p>
         </div>
         <div xml:id="bible-Isam30" n="30">
-          <head>Caput 30</head>
+          <head xml:id="bible-Isam-Hd1e2652">Caput 30</head>
           <p xml:id="Isam30_1" n="1">cumque venissent David et viri eius in Siceleg die tertia
             Amalechitae impetum fecerant ex parte australi in Siceleg et percusserant Siceleg et
             succenderant eam igni</p>
@@ -2067,7 +2065,7 @@
             commoratus fuerat David ipse et viri eius</p>
         </div>
         <div xml:id="bible-Isam31" n="31">
-          <head>Caput 31</head>
+          <head xml:id="bible-Isam-Hd1e2755">Caput 31</head>
           <p xml:id="Isam31_1" n="1">Philisthim autem pugnabant adversum Israhel et fugerunt viri
             Israhel ante faciem Philisthim et ceciderunt interfecti in monte Gelboe</p>
           <p xml:id="Isam31_2" n="2">inrueruntque Philisthim in Saul et filios eius et percusserunt

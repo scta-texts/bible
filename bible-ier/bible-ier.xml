@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-ier">
-        <head>Ieremias</head>
+        <head xml:id="bible-ier-Hd1e76">Ieremias</head>
         <div xml:id="bible-ier1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-ier-Hd1e80">Caput 1</head>
           <p xml:id="ier1_1" n="1">verba Hieremiae filii Helciae de sacerdotibus qui fuerunt in
             Anathoth in terra Beniamin</p>
           <p xml:id="ier1_2" n="2">quod factum est verbum Domini ad eum in diebus Iosiae filii Amon
@@ -87,7 +85,7 @@
             ait Dominus ut liberem te</p>
         </div>
         <div xml:id="bible-ier2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-ier-Hd1e145">Caput 2</head>
           <p xml:id="ier2_1" n="1">et factum est verbum Domini ad me dicens</p>
           <p xml:id="ier2_2" n="2">vade et clama in auribus Hierusalem dicens haec dicit Dominus
             recordatus sum tui miserans adulescentiam tuam et caritatem disponsationis tuae quando
@@ -175,7 +173,7 @@
             quoniam obtrivit Dominus confidentiam tuam et nihil habebis prosperum</p>
         </div>
         <div xml:id="bible-ier3" n="3">
-          <head>Caput 3</head>
+          <head xml:id="bible-ier-Hd1e267">Caput 3</head>
           <p xml:id="ier3_1" n="1">vulgo dicitur si dimiserit vir uxorem suam et recedens ab eo
             duxerit virum alterum numquid revertetur ad eam ultra numquid non polluta et contaminata
             erit mulier illa tu autem fornicata es cum amatoribus multis tamen revertere ad me dicit
@@ -240,7 +238,7 @@
             ad hanc diem et non audivimus vocem Domini Dei nostri</p>
         </div>
         <div xml:id="bible-ier4" n="4">
-          <head>Caput 4</head>
+          <head xml:id="bible-ier-Hd1e351">Caput 4</head>
           <p xml:id="ier4_1" n="1">si converteris Israhel ait Dominus ad me convertere si abstuleris
             offendicula tua a facie mea non commoveberis</p>
           <p xml:id="ier4_2" n="2">et iurabis vivit Dominus in veritate et in iudicio et in iustitia
@@ -311,7 +309,7 @@
             propter interfectos</p>
         </div>
         <div xml:id="bible-ier5" n="5">
-          <head>Caput 5</head>
+          <head xml:id="bible-ier-Hd1e455">Caput 5</head>
           <p xml:id="ier5_1" n="1">circuite vias Hierusalem et aspicite et considerate et quaerite
             in plateis eius an inveniatis virum facientem iudicium et quaerentem fidem et propitius
             ero eius</p>
@@ -384,7 +382,7 @@
             manibus suis et populus meus dilexit talia quid igitur fiet in novissimo eius</p>
         </div>
         <div xml:id="bible-ier6" n="6">
-          <head>Caput 6</head>
+          <head xml:id="bible-ier-Hd1e558">Caput 6</head>
           <p xml:id="ier6_1" n="1">confortamini filii Beniamin in medio Hierusalem et in Thecua
             clangite bucina et super Bethaccharem levate vexillum quia malum visum est ab aquilone
             et contritio magna</p>
@@ -452,7 +450,7 @@
           <p xml:id="ier6_30" n="30">argentum reprobum vocate eos quia Dominus proiecit illos</p>
         </div>
         <div xml:id="bible-ier7" n="7">
-          <head>Caput 7</head>
+          <head xml:id="bible-ier-Hd1e658">Caput 7</head>
           <p xml:id="ier7_1" n="1">verbum quod factum est ad Hieremiam a Domino dicens</p>
           <p xml:id="ier7_2" n="2">sta in porta domus Domini et praedica ibi verbum istud et dic
             audite verbum Domini omnis Iuda qui ingredimini per portas has ut adoretis Dominum</p>
@@ -532,7 +530,7 @@
             terra</p>
         </div>
         <div xml:id="bible-ier8" n="8">
-          <head>Caput 8</head>
+          <head xml:id="bible-ier-Hd1e770">Caput 8</head>
           <p xml:id="ier8_1" n="1">in tempore illo ait Dominus eicient ossa regis Iuda et ossa
             principum eius et ossa sacerdotum et ossa prophetarum et ossa eorum qui habitaverunt
             Hierusalem de sepulchris suis</p>
@@ -587,7 +585,7 @@
             igitur non est obducta cicatrix filiae populi mei</p>
         </div>
         <div xml:id="bible-ier9" n="9">
-          <head>Caput 9</head>
+          <head xml:id="bible-ier-Hd1e844">Caput 9</head>
           <p xml:id="ier9_1" n="1">quis dabit capiti meo aquam et oculis meis fontem lacrimarum et
             plorabo die et nocte interfectos filiae populi mei</p>
           <p xml:id="ier9_2" n="2">quis dabit me in solitudine diversorium viatorum et derelinquam
@@ -651,7 +649,7 @@
             omnes gentes habent praeputium omnis autem domus Israhel incircumcisi sunt corde</p>
         </div>
         <div xml:id="bible-ier10" n="10">
-          <head>Caput 10</head>
+          <head xml:id="bible-ier-Hd1e931">Caput 10</head>
           <p xml:id="ier10_1" n="1">audite verbum quod locutus est Dominus super vos domus
             Israhel</p>
           <p xml:id="ier10_2" n="2">haec dicit Dominus iuxta vias gentium nolite discere et a signis
@@ -710,7 +708,7 @@
             devoraverunt eum et consumpserunt illum et decus eius dissipaverunt</p>
         </div>
         <div xml:id="bible-ier11" n="11">
-          <head>Caput 11</head>
+          <head xml:id="bible-ier-Hd1e1016">Caput 11</head>
           <p xml:id="ier11_1" n="1">verbum quod factum est ad Hieremiam a Domino dicens</p>
           <p xml:id="ier11_2" n="2">audite verba pacti huius et loquimini ad viros Iuda et
             habitatores Hierusalem</p>
@@ -769,7 +767,7 @@
             Anathoth annum visitationis eorum</p>
         </div>
         <div xml:id="bible-ier12" n="12">
-          <head>Caput 12</head>
+          <head xml:id="bible-ier-Hd1e1094">Caput 12</head>
           <p xml:id="ier12_1" n="1">iustus quidem tu es Domine si disputem tecum verumtamen iusta
             loquar ad te quare via impiorum prosperatur bene est omnibus qui praevaricantur et
             inique agunt</p>
@@ -813,7 +811,7 @@
             perditione ait Dominus</p>
         </div>
         <div xml:id="bible-ier13" n="13">
-          <head>Caput 13</head>
+          <head xml:id="bible-ier-Hd1e1153">Caput 13</head>
           <p xml:id="ier13_1" n="1">haec dicit Dominus ad me vade et posside tibi lumbare lineum et
             pones illud super lumbos tuos et in aquam non inferes illud</p>
           <p xml:id="ier13_2" n="2">et possedi lumbare iuxta verbum Domini et posui circa lumbos
@@ -877,7 +875,7 @@
             usquequo adhuc</p>
         </div>
         <div xml:id="bible-ier14" n="14">
-          <head>Caput 14</head>
+          <head xml:id="bible-ier-Hd1e1243">Caput 14</head>
           <p xml:id="ier14_1" n="1">quod factum est verbum Domini ad Hieremiam de sermonibus
             siccitatis</p>
           <p xml:id="ier14_2" n="2">luxit Iudaea et portae eius corruerunt et obscuratae sunt in
@@ -933,7 +931,7 @@
             omnia haec</p>
         </div>
         <div xml:id="bible-ier15" n="15">
-          <head>Caput 15</head>
+          <head xml:id="bible-ier-Hd1e1317">Caput 15</head>
           <p xml:id="ier15_1" n="1">et dixit Dominus ad me si steterit Moses et Samuhel coram me non
             est anima mea ad populum istum eice illos a facie mea et egrediantur</p>
           <p xml:id="ier15_2" n="2">quod si dixerint ad te quo egrediemur dices ad eos haec dicit
@@ -986,7 +984,7 @@
             fortium</p>
         </div>
         <div xml:id="bible-ier16" n="16">
-          <head>Caput 16</head>
+          <head xml:id="bible-ier-Hd1e1388">Caput 16</head>
           <p xml:id="ier16_1" n="1">et factum est verbum Domini ad me dicens</p>
           <p xml:id="ier16_2" n="2">non accipies uxorem et non erunt tibi filii et filiae in loco
             isto</p>
@@ -1040,7 +1038,7 @@
             manum meam et virtutem meam et scient quia nomen mihi Dominus</p>
         </div>
         <div xml:id="bible-ier17" n="17">
-          <head>Caput 17</head>
+          <head xml:id="bible-ier-Hd1e1460">Caput 17</head>
           <p xml:id="ier17_1" n="1">peccatum Iuda scriptum est stilo ferreo in ungue adamantino
             exaratum super latitudinem cordis eorum et in cornibus ararum eorum</p>
           <p xml:id="ier17_2" n="2">cum recordati fuerint filii eorum ararum suarum et lucorum
@@ -1102,7 +1100,7 @@
             portis eius et devorabit domos Hierusalem et non extinguetur</p>
         </div>
         <div xml:id="bible-ier18" n="18">
-          <head>Caput 18</head>
+          <head xml:id="bible-ier-Hd1e1550">Caput 18</head>
           <p xml:id="ier18_1" n="1">verbum quod factum est ad Hieremiam a Domino dicens</p>
           <p xml:id="ier18_2" n="2">surge et descende in domum figuli et ibi audies verba mea</p>
           <p xml:id="ier18_3" n="3">et descendi in domum figuli et ecce ipse faciebat opus super
@@ -1154,7 +1152,7 @@
             corruentes in conspectu tuo in tempore furoris tui abutere eis</p>
         </div>
         <div xml:id="bible-ier19" n="19">
-          <head>Caput 19</head>
+          <head xml:id="bible-ier-Hd1e1628">Caput 19</head>
           <p xml:id="ier19_1" n="1">haec dicit Dominus vade et accipe lagunculam figuli testeam a
             senioribus populi et a senioribus sacerdotum</p>
           <p xml:id="ier19_2" n="2">et egredere ad vallem filii Ennom quae est iuxta introitum
@@ -1193,7 +1191,7 @@
             eam quoniam induraverunt cervicem suam ut non audirent sermones meos</p>
         </div>
         <div xml:id="bible-ier20" n="20">
-          <head>Caput 20</head>
+          <head xml:id="bible-ier-Hd1e1680">Caput 20</head>
           <p xml:id="ier20_1" n="1">et audivit Phassur filius Emmer sacerdos qui constitutus erat
             princeps in domo Domini Hieremiam prophetantem sermones istos</p>
           <p xml:id="ier20_2" n="2">et percussit Phassur Hieremiam prophetam et misit eum in nervum
@@ -1239,7 +1237,7 @@
             consumerentur in confusione dies mei</p>
         </div>
         <div xml:id="bible-ier21" n="21">
-          <head>Caput 21</head>
+          <head xml:id="bible-ier-Hd1e1742">Caput 21</head>
           <p xml:id="ier21_1" n="1">verbum quod factum est ad Hieremiam a Domino quando misit ad eum
             rex Sedecias Phassur filium Melchiae et Sophoniam filium Maasiae sacerdotem dicens</p>
           <p xml:id="ier21_2" n="2">interroga pro nobis Dominum quia Nabuchodonosor rex Babylonis
@@ -1274,7 +1272,7 @@
             Dominus et succendam ignem in saltu eius et devorabit omnia in circuitu eius</p>
         </div>
         <div xml:id="bible-ier22" n="22">
-          <head>Caput 22</head>
+          <head xml:id="bible-ier-Hd1e1791">Caput 22</head>
           <p xml:id="ier22_1" n="1">haec dicit Dominus descende in domum regis Iuda et loqueris ibi
             verbum hoc</p>
           <p xml:id="ier22_2" n="2">et dices audi verbum Domini rex Iuda qui sedes super solium
@@ -1342,7 +1340,7 @@
             David et potestatem habeat ultra in Iuda</p>
         </div>
         <div xml:id="bible-ier23" n="23">
-          <head>Caput 23</head>
+          <head xml:id="bible-ier-Hd1e1892">Caput 23</head>
           <p xml:id="ier23_1" n="1">vae pastoribus qui disperdunt et dilacerant gregem pascuae meae
             dicit Dominus</p>
           <p xml:id="ier23_2" n="2">ideo haec dicit Dominus Deus Israhel ad pastores qui pascunt
@@ -1438,7 +1436,7 @@
             aeternam quae numquam oblivione delebitur</p>
         </div>
         <div xml:id="bible-ier24" n="24">
-          <head>Caput 24</head>
+          <head xml:id="bible-ier-Hd1e2023">Caput 24</head>
           <p xml:id="ier24_1" n="1">ostendit mihi Dominus et ecce duo calathi pleni ficis positi
             ante templum Domini postquam transtulit Nabuchodonosor rex Babylonis Iechoniam filium
             Ioachim regem Iuda et principes eius et fabrum et inclusorem de Hierusalem et adduxit
@@ -1467,7 +1465,7 @@
             de terra quam dedi eis et patribus eorum</p>
         </div>
         <div xml:id="bible-ier25" n="25">
-          <head>Caput 25</head>
+          <head xml:id="bible-ier-Hd1e2059">Caput 25</head>
           <p xml:id="ier25_1" n="1">verbum quod factum est ad Hieremiam de omni populo Iudae in anno
             quarto Ioachim filii Iosiae regis Iuda ipse est annus primus Nabuchodonosor regis
             Babylonis</p>
@@ -1561,7 +1559,7 @@
             desolationem a facie irae columbae et a facie irae furoris Domini</p>
         </div>
         <div xml:id="bible-ier26" n="26">
-          <head>Caput 26</head>
+          <head xml:id="bible-ier-Hd1e2184">Caput 26</head>
           <p xml:id="ier26_1" n="1">in principio regis Ioachim filii Iosiae regis Iuda factum est
             verbum istud a Domino dicens</p>
           <p xml:id="ier26_2" n="2">haec dicit Dominus sta in atrio domus Domini et loqueris ad
@@ -1625,7 +1623,7 @@
             traderetur in manu populi et interficerent eum</p>
         </div>
         <div xml:id="bible-ier27" n="27">
-          <head>Caput 27</head>
+          <head xml:id="bible-ier-Hd1e2265">Caput 27</head>
           <p xml:id="ier27_1" n="1">in principio regni Ioachim filii Iosiae regis Iuda factum est
             verbum istud ad Hieremiam a Domino dicens</p>
           <p xml:id="ier27_2" n="2">haec dicit Dominus ad me fac tibi vincula et catenas et pones
@@ -1683,7 +1681,7 @@
             visitationis suae dicit Dominus et adferri faciam ea et restitui in loco isto</p>
         </div>
         <div xml:id="bible-ier28" n="28">
-          <head>Caput 28</head>
+          <head xml:id="bible-ier-Hd1e2339">Caput 28</head>
           <p xml:id="ier28_1" n="1">et factum est in anno illo in principio regni Sedeciae regis
             Iuda in anno quarto in mense quinto dixit ad me Ananias filius Azur propheta de Gabaon
             in domo Domini coram sacerdotibus et omni populo dicens</p>
@@ -1726,7 +1724,7 @@
           <p xml:id="ier28_17" n="17">et mortuus est Ananias propheta in anno illo mense septimo</p>
         </div>
         <div xml:id="bible-ier29" n="29">
-          <head>Caput 29</head>
+          <head xml:id="bible-ier-Hd1e2399">Caput 29</head>
           <p xml:id="ier29_1" n="1">et haec sunt verba libri quae misit Hieremias propheta de
             Hierusalem ad reliquias seniorum transmigrationis et ad sacerdotes et ad prophetas et ad
             omnem populum quem transduxerat Nabuchodonosor de Hierusalem in Babylonem</p>
@@ -1808,7 +1806,7 @@
             adversum Dominum</p>
         </div>
         <div xml:id="bible-ier30" n="30">
-          <head>Caput 30</head>
+          <head xml:id="bible-ier-Hd1e2505">Caput 30</head>
           <p xml:id="ier30_1" n="1">hoc verbum quod factum est ad Hieremiam a Domino dicens</p>
           <p xml:id="ier30_2" n="2">haec dicit Dominus Deus Israhel dicens scribe tibi omnia verba
             quae locutus sum ad te in libro</p>
@@ -1865,7 +1863,7 @@
             conpleat cogitationem cordis sui in novissimo dierum intellegetis ea</p>
         </div>
         <div xml:id="bible-ier31" n="31">
-          <head>Caput 31</head>
+          <head xml:id="bible-ier-Hd1e2586">Caput 31</head>
           <p xml:id="ier31_1" n="1">in tempore illo dicit Dominus ero Deus universis cognationibus
             Israhel et ipsi erunt mihi in populum</p>
           <p xml:id="ier31_2" n="2">haec dicit Dominus invenit gratiam in deserto populus qui
@@ -1966,7 +1964,7 @@
             Domini non evelletur et non destruetur ultra in perpetuum</p>
         </div>
         <div xml:id="bible-ier32" n="32">
-          <head>Caput 32</head>
+          <head xml:id="bible-ier-Hd1e2717">Caput 32</head>
           <p xml:id="ier32_1" n="1">verbum quod factum est ad Hieremiam a Domino in anno decimo
             Sedeciae regis Iuda ipse est annus octavusdecimus Nabuchodonosor</p>
           <p xml:id="ier32_2" n="2">tunc exercitus regis Babylonis obsidebat Hierusalem et Hieremias
@@ -2071,7 +2069,7 @@
             austrum sunt quia convertam captivitatem eorum ait Dominus</p>
         </div>
         <div xml:id="bible-ier33" n="33">
-          <head>Caput 33</head>
+          <head xml:id="bible-ier-Hd1e2861">Caput 33</head>
           <p xml:id="ier33_1" n="1">et factum est verbum Domini ad Hieremiam secundo cum adhuc
             clausus esset in atrio carceris dicens</p>
           <p xml:id="ier33_2" n="2">haec dicit Dominus qui facturus est Dominus et formaturus illud
@@ -2134,7 +2132,7 @@
             conversionem eorum et miserebor eis</p>
         </div>
         <div xml:id="bible-ier34" n="34">
-          <head>Caput 34</head>
+          <head xml:id="bible-ier-Hd1e2948">Caput 34</head>
           <p xml:id="ier34_1" n="1">verbum quod factum est ad Hieremiam a Domino quando
             Nabuchodonosor rex Babylonis et omnis exercitus eius universaque regna terrae quae erant
             sub potestate manus eius et omnes populi bellabant contra Hierusalem et contra omnes
@@ -2196,7 +2194,7 @@
             dabo in solitudinem eo quod non sit habitator</p>
         </div>
         <div xml:id="bible-ier35" n="35">
-          <head>Caput 35</head>
+          <head xml:id="bible-ier-Hd1e3023">Caput 35</head>
           <p xml:id="ier35_1" n="1">verbum quod factum est ad Hieremiam a Domino in diebus Ioachim
             filii Iosiae regis Iuda dicens</p>
           <p xml:id="ier35_2" n="2">vade ad domum Rechabitarum et loquere eis et introduces eos in
@@ -2249,7 +2247,7 @@
             deficiet vir de stirpe Ionadab filii Rechab stans in conspectu meo cunctis diebus</p>
         </div>
         <div xml:id="bible-ier36" n="36">
-          <head>Caput 36</head>
+          <head xml:id="bible-ier-Hd1e3088">Caput 36</head>
           <p xml:id="ier36_1" n="1">et factum est in anno quarto Ioachim filii Iosiae regis Iuda
             factum est verbum hoc ad Hieremiam a Domino dicens</p>
           <p xml:id="ier36_2" n="2">tolle volumen libri et scribes in eo omnia verba quae locutus
@@ -2334,7 +2332,7 @@
             fuerant</p>
         </div>
         <div xml:id="bible-ier37" n="37">
-          <head>Caput 37</head>
+          <head xml:id="bible-ier-Hd1e3194">Caput 37</head>
           <p xml:id="ier37_1" n="1">et regnavit rex Sedecias filius Iosiae pro Iechonia filio
             Ioachim quem constituit regem Nabuchodonosor rex Babylonis in terra Iuda</p>
           <p xml:id="ier37_2" n="2">et non oboedivit ipse et servi eius et populus terrae verbis
@@ -2384,7 +2382,7 @@
             consumerentur omnes panes de civitate et mansit Hieremias in vestibulo carceris</p>
         </div>
         <div xml:id="bible-ier38" n="38">
-          <head>Caput 38</head>
+          <head xml:id="bible-ier-Hd1e3262">Caput 38</head>
           <p xml:id="ier38_1" n="1">audivit autem Saphatias filius Matthan et Gedelias filius
             Phassur et Iuchal filius Selemiae et Phassur filius Melchiae sermones quos Hieremias
             loquebatur ad omnem populum dicens</p>
@@ -2461,7 +2459,7 @@
             capta est Hierusalem et factum est ut caperetur Hierusalem</p>
         </div>
         <div xml:id="bible-ier39" n="39">
-          <head>Caput 39</head>
+          <head xml:id="bible-ier-Hd1e3355">Caput 39</head>
           <p xml:id="ier39_1" n="1">anno nono Sedeciae regis Iuda mense decimo venit Nabuchodonosor
             rex Babylonis et omnis exercitus eius ad Hierusalem et obsidebant eam</p>
           <p xml:id="ier39_2" n="2">undecimo autem anno Sedeciae mense quarto quinta mensis aperta
@@ -2507,7 +2505,7 @@
             tua in salutem quia in me habuisti fiduciam ait Dominus</p>
         </div>
         <div xml:id="bible-ier40" n="40">
-          <head>Caput 40</head>
+          <head xml:id="bible-ier-Hd1e3417">Caput 40</head>
           <p xml:id="ier40_1" n="1">sermo qui factus est ad Hieremiam a Domino postquam dimissus est
             a Nabuzardan magistro militiae de Rama quando tulit eum vinctum catenis in medio omnium
             qui migrabant de Hierusalem et Iuda et ducebantur in Babylonem</p>
@@ -2557,7 +2555,7 @@
             facere verbum hoc falsum enim tu loqueris de Ismahel</p>
         </div>
         <div xml:id="bible-ier41" n="41">
-          <head>Caput 41</head>
+          <head xml:id="bible-ier-Hd1e3473">Caput 41</head>
           <p xml:id="ier41_1" n="1">et factum est in mense septimo venit Ismahel filius Nathaniae
             filii Elisama de semine regali et optimates regis et decem viri cum eo ad Godoliam
             filium Ahicam in Masphat et comederunt ibi panes simul in Masphat</p>
@@ -2608,7 +2606,7 @@
             Iuda</p>
         </div>
         <div xml:id="bible-ier42" n="42">
-          <head>Caput 42</head>
+          <head xml:id="bible-ier-Hd1e3535">Caput 42</head>
           <p xml:id="ier42_1" n="1">et accesserunt omnes principes bellatorum et Iohanan filius
             Caree et Iezonias filius Osaiae et reliquum vulgus a parvo usque ad magnum</p>
           <p xml:id="ier42_2" n="2">dixeruntque ad Hieremiam prophetam cadat oratio nostra in
@@ -2665,7 +2663,7 @@
             moriemini in loco ad quem voluistis intrare ut habitaretis ibi</p>
         </div>
         <div xml:id="bible-ier43" n="43">
-          <head>Caput 43</head>
+          <head xml:id="bible-ier-Hd1e3609">Caput 43</head>
           <p xml:id="ier43_1" n="1">factum est autem cum conplesset Hieremias loquens ad populum
             universos sermones Domini Dei eorum pro quibus miserat eum Dominus Deus eorum ad illos
             omnia verba haec</p>
@@ -2699,7 +2697,7 @@
             delubra deorum Aegypti conburet igni</p>
         </div>
         <div xml:id="bible-ier44" n="44">
-          <head>Caput 44</head>
+          <head xml:id="bible-ier-Hd1e3655">Caput 44</head>
           <p xml:id="ier44_1" n="1">verbum quod factum est ad Hieremiam ad omnes Iudaeos qui
             habitant in terra Aegypti habitantes in Magdolo et in Tafnis et in Memphis et in terra
             Fatures dicens</p>
@@ -2789,7 +2787,7 @@
             animam eius</p>
         </div>
         <div xml:id="bible-ier45" n="45">
-          <head>Caput 45</head>
+          <head xml:id="bible-ier-Hd1e3755">Caput 45</head>
           <p xml:id="ier45_1" n="1">verbum quod locutus est Hieremias propheta ad Baruch filium Neri
             cum scripsisset verba haec in libro de ore Hieremiae anno quarto Ioachim filii Iosiae
             regis Iuda dicens</p>
@@ -2803,7 +2801,7 @@
             locis ad quaecumque perrexeris</p>
         </div>
         <div xml:id="bible-ier46" n="46">
-          <head>Caput 46</head>
+          <head xml:id="bible-ier-Hd1e3776">Caput 46</head>
           <p xml:id="ier46_1" n="1">quod factum est verbum Domini ad Hieremiam prophetam contra
             gentes</p>
           <p xml:id="ier46_2" n="2">ad Aegyptum adversum exercitum Pharaonis Nechao regis Aegypti
@@ -2869,7 +2867,7 @@
             te in iudicio nec quasi innocenti parcam tibi</p>
         </div>
         <div xml:id="bible-ier47" n="47">
-          <head>Caput 47</head>
+          <head xml:id="bible-ier-Hd1e3870">Caput 47</head>
           <p xml:id="ier47_1" n="1">quod factum est verbum Domini ad Hieremiam prophetam contra
             Palestinos antequam percuteret Pharao Gazam</p>
           <p xml:id="ier47_2" n="2">haec dicit Dominus ecce aquae ascendunt ab aquilone et erunt
@@ -2889,7 +2887,7 @@
             et adversus maritimas eius regiones ibique condixerit illi</p>
         </div>
         <div xml:id="bible-ier48" n="48">
-          <head>Caput 48</head>
+          <head xml:id="bible-ier-Hd1e3897">Caput 48</head>
           <p xml:id="ier48_1" n="1">ad Moab haec dicit Dominus exercituum Deus Israhel vae super
             Nabo quoniam vastata est et confusa capta est Cariathaim confusa est fortis et
             tremuit</p>
@@ -2991,7 +2989,7 @@
             Dominus hucusque iudicia Moab</p>
         </div>
         <div xml:id="bible-ier49" n="49">
-          <head>Caput 49</head>
+          <head xml:id="bible-ier-Hd1e4051">Caput 49</head>
           <p xml:id="ier49_1" n="1">ad filios Ammon haec dicit Dominus numquid filii non sunt
             Israhel aut heres non est ei cur igitur hereditate possedit Melchom Gad et populus eius
             in urbibus eius habitavit</p>
@@ -3086,7 +3084,7 @@
             Dominus</p>
         </div>
         <div xml:id="bible-ier50" n="50">
-          <head>Caput 50</head>
+          <head xml:id="bible-ier-Hd1e4179">Caput 50</head>
           <p xml:id="ier50_1" n="1">verbum quod locutus est Dominus de Babylone et de terra
             Chaldeorum in manu Hieremiae prophetae</p>
           <p xml:id="ier50_2" n="2">adnuntiate in gentibus et auditum facite levate signum
@@ -3198,7 +3196,7 @@
             inter gentes auditus est</p>
         </div>
         <div xml:id="bible-ier51" n="51">
-          <head>Caput 51</head>
+          <head xml:id="bible-ier-Hd1e4329">Caput 51</head>
           <p xml:id="ier51_1" n="1">haec dicit Dominus ecce ego suscitabo super Babylonem et super
             habitatores eius qui cor suum levaverunt contra me quasi ventum pestilentem</p>
           <p xml:id="ier51_2" n="2">et mittam in Babylonem ventilatores et ventilabunt eam et
@@ -3343,7 +3341,7 @@
             adflictionis quam ego adduco super eam et dissolventur hucusque verba Hieremiae</p>
         </div>
         <div xml:id="bible-ier52" n="52">
-          <head>Caput 52</head>
+          <head xml:id="bible-ier-Hd1e4536">Caput 52</head>
           <p xml:id="ier52_1" n="1">filius viginti et unius anni Sedecias cum regnare coepisset et
             undecim annis regnavit in Hierusalem et nomen matris eius Amithal filia Hieremiae de
             Lobna</p>

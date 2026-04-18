@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-iac">
-        <head>Iacobi</head>
+        <head xml:id="bible-iac-Hd1e76">Iacobi</head>
         <div xml:id="bible-iac1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-iac-Hd1e80">Caput 1</head>
           <p xml:id="iac1_1" n="1">Iacobus Dei et Domini nostri Iesu Christi servus duodecim
             tribubus quae sunt in dispersione salutem</p>
           <p xml:id="iac1_2" n="2">omne gaudium existimate fratres mei cum in temptationibus variis
@@ -98,7 +96,7 @@
             saeculo</p>
         </div>
         <div xml:id="bible-iac2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-iac-Hd1e170">Caput 2</head>
           <p xml:id="iac2_1" n="1">fratres mei nolite in personarum acceptione habere fidem Domini
             nostri Iesu Christi gloriae</p>
           <p xml:id="iac2_2" n="2">etenim si introierit in conventu vestro vir aureum anulum habens
@@ -153,7 +151,7 @@
             operibus mortua est</p>
         </div>
         <div xml:id="bible-iac3" n="3">
-          <head>Caput 3</head>
+          <head xml:id="bible-iac-Hd1e257">Caput 3</head>
           <p xml:id="iac3_1" n="1">nolite plures magistri fieri fratres mei scientes quoniam maius
             iudicium sumitis</p>
           <p xml:id="iac3_2" n="2">in multis enim offendimus omnes si quis in verbo non offendit hic
@@ -193,7 +191,7 @@
           <p xml:id="iac3_18" n="18">fructus autem iustitiae in pace seminatur facientibus pacem</p>
         </div>
         <div xml:id="bible-iac4" n="4">
-          <head>Caput 4</head>
+          <head xml:id="bible-iac-Hd1e319">Caput 4</head>
           <p xml:id="iac4_1" n="1">unde bella et lites in vobis nonne hinc ex concupiscentiis
             vestris quae militant in membris vestris</p>
           <p xml:id="iac4_2" n="2">concupiscitis et non habetis occiditis et zelatis et non potestis
@@ -230,7 +228,7 @@
             illi</p>
         </div>
         <div xml:id="bible-iac5" n="5">
-          <head>Caput 5</head>
+          <head xml:id="bible-iac-Hd1e379">Caput 5</head>
           <p xml:id="iac5_1" n="1">age nunc divites plorate ululantes in miseriis quae advenient
             vobis</p>
           <p xml:id="iac5_2" n="2">divitiae vestrae putrefactae sunt et vestimenta vestra a tineis

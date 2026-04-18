@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-ag">
-        <head>Aggaeus</head>
+        <head xml:id="bible-ag-Hd1e76">Aggaeus</head>
         <div xml:id="bible-ag1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-ag-Hd1e80">Caput 1</head>
           <p xml:id="ag1_1" n="1">in anno secundo Darii regis in mense sexto in die una mensis
             factum est verbum Domini in manu Aggei prophetae ad Zorobabel filium Salathihel ducem
             Iuda et ad Iesum filium Iosedech sacerdotem magnum dicens</p>
@@ -80,7 +78,7 @@
             populo et ingressi sunt et faciebant opus in domo Domini exercituum Dei sui</p>
         </div>
         <div xml:id="bible-ag2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-ag-Hd1e129">Caput 2</head>
           <p xml:id="ag2_1" n="1">in die vicesima et quarta mensis in sexto mense in anno secundo
             Darii regis</p>
           <p xml:id="ag2_2" n="2">in septimo mense vicesima et prima mensis factum est verbum Domini

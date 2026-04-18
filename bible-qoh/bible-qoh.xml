@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-qoh">
-        <head>Ecclesiastes</head>
+        <head xml:id="bible-qoh-Hd1e76">Ecclesiastes</head>
         <div xml:id="bible-qoh1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-qoh-Hd1e80">Caput 1</head>
           <p xml:id="qoh1_1" n="1">verba Ecclesiastes filii David regis Hierusalem</p>
           <p xml:id="qoh1_2" n="2">vanitas vanitatum dixit Ecclesiastes vanitas vanitatum omnia
             vanitas</p>
@@ -84,7 +82,7 @@
             scientiam addat et laborem</p>
         </div>
         <div xml:id="bible-qoh2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-qoh-Hd1e142">Caput 2</head>
           <p xml:id="qoh2_1" n="1">dixi ego in corde meo vadam et affluam deliciis et fruar bonis et
             vidi quod hoc quoque esset vanitas</p>
           <p xml:id="qoh2_2" n="2">risum reputavi errorem et gaudio dixi quid frustra deciperis</p>
@@ -143,7 +141,7 @@
             mentis</p>
         </div>
         <div xml:id="bible-qoh3" n="3">
-          <head>Caput 3</head>
+          <head xml:id="bible-qoh-Hd1e229">Caput 3</head>
           <p xml:id="qoh3_1" n="1">omnia tempus habent et suis spatiis transeunt universa sub
             caelo</p>
           <p xml:id="qoh3_2" n="2">tempus nascendi et tempus moriendi tempus plantandi et tempus
@@ -191,7 +189,7 @@
             suo et hanc esse partem illius quis enim eum adducet ut post se futura cognoscat</p>
         </div>
         <div xml:id="bible-qoh4" n="4">
-          <head>Caput 4</head>
+          <head xml:id="bible-qoh-Hd1e303">Caput 4</head>
           <p xml:id="qoh4_1" n="1">verti me ad alia et vidi calumnias quae sub sole geruntur et
             lacrimas innocentum et consolatorem neminem nec posse resistere eorum violentiae
             cunctorum auxilio destitutos</p>
@@ -226,7 +224,7 @@
             oboedientia quam stultorum victimae qui nesciunt quid faciant mali</p>
         </div>
         <div xml:id="bible-qoh5" n="5">
-          <head>Caput 5</head>
+          <head xml:id="bible-qoh-Hd1e363">Caput 5</head>
           <p xml:id="qoh5_1" n="1">ne temere quid loquaris neque cor tuum sit velox ad proferendum
             sermonem coram Deo Deus enim in caelo et tu super terram idcirco sint pauci sermones
             tui</p>
@@ -271,7 +269,7 @@
             occupet deliciis cor eius</p>
         </div>
         <div xml:id="bible-qoh6" n="6">
-          <head>Caput 6</head>
+          <head xml:id="bible-qoh-Hd1e428">Caput 6</head>
           <p xml:id="qoh6_1" n="1">est et aliud malum quod vidi sub sole et quidem frequens apud
             homines</p>
           <p xml:id="qoh6_2" n="2">vir cui dedit Deus divitias et substantiam et honorem et nihil
@@ -295,7 +293,7 @@
           <p xml:id="qoh6_11" n="11">verba sunt plurima multa in disputando habentia vanitatem</p>
         </div>
         <div xml:id="bible-qoh7" n="7">
-          <head>Caput 7</head>
+          <head xml:id="bible-qoh-Hd1e468">Caput 7</head>
           <p xml:id="qoh7_1" n="1">quid necesse est homini maiora se quaerere cum ignoret quid
             conducat sibi in vita sua numero dierum peregrinationis suae et tempore quo velut umbra
             praeterit aut quis ei poterit indicare quid post eum futurum sub sole sit</p>
@@ -360,7 +358,7 @@
             solutionem verbi</p>
         </div>
         <div xml:id="bible-qoh8" n="8">
-          <head>Caput 8</head>
+          <head xml:id="bible-qoh-Hd1e568">Caput 8</head>
           <p xml:id="qoh8_1" n="1">sapientia hominis lucet in vultu eius et potentissimus faciem
             illius commutavit</p>
           <p xml:id="qoh8_2" n="2">ego os regis observo et praecepta iuramenti Dei</p>
@@ -401,7 +399,7 @@
             inveniat etiam si dixerit sapiens se nosse non poterit repperire</p>
         </div>
         <div xml:id="bible-qoh9" n="9">
-          <head>Caput 9</head>
+          <head xml:id="bible-qoh-Hd1e627">Caput 9</head>
           <p xml:id="qoh9_1" n="1">omnia haec tractavi in corde meo ut curiose intellegerem sunt
             iusti atque sapientes et opera eorum in manu Dei et tamen nescit homo utrum amore an
             odio dignus sit</p>
@@ -445,7 +443,7 @@
             multa bona perdet</p>
         </div>
         <div xml:id="bible-qoh10" n="10">
-          <head>Caput 10</head>
+          <head xml:id="bible-qoh-Hd1e689">Caput 10</head>
           <p xml:id="qoh10_1" n="1">muscae morientes perdunt suavitatem unguenti pretiosior est
             sapientia et gloria parva ad tempus stultitia</p>
           <p xml:id="qoh10_2" n="2">cor sapientis in dextera eius et cor stulti in sinistra
@@ -488,7 +486,7 @@
             adnuntiabit sententiam</p>
         </div>
         <div xml:id="bible-qoh11" n="11">
-          <head>Caput 11</head>
+          <head xml:id="bible-qoh-Hd1e758">Caput 11</head>
           <p xml:id="qoh11_1" n="1">mitte panem tuum super transeuntes aquas quia post multa tempora
             invenies illum</p>
           <p xml:id="qoh11_2" n="2">da partem septem necnon et octo quia ignoras quid futurum sit
@@ -513,7 +511,7 @@
             adulescentia enim et voluptas vana sunt</p>
         </div>
         <div xml:id="bible-qoh12" n="12">
-          <head>Caput 12</head>
+          <head xml:id="bible-qoh-Hd1e794">Caput 12</head>
           <p xml:id="qoh12_1" n="1">memento creatoris tui in diebus iuventutis tuae antequam veniat
             tempus adflictionis et adpropinquent anni de quibus dicas non mihi placent</p>
           <p xml:id="qoh12_2" n="2">antequam tenebrescat sol et lumen et luna et stellae et

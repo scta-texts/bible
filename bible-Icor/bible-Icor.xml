@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-Icor">
-        <head>ad Corinthios I</head>
+        <head xml:id="bible-Icor-Hd1e76">ad Corinthios I</head>
         <div xml:id="bible-Icor1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-Icor-Hd1e80">Caput 1</head>
           <p xml:id="Icor1_1" n="1">Paulus vocatus apostolus Christi Iesu per voluntatem Dei et
             Sosthenes frater</p>
           <p xml:id="Icor1_2" n="2">ecclesiae Dei quae est Corinthi sanctificatis in Christo Iesu
@@ -108,7 +106,7 @@
             glorietur</p>
         </div>
         <div xml:id="bible-Icor2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-Icor-Hd1e183">Caput 2</head>
           <p xml:id="Icor2_1" n="1">et ego cum venissem ad vos fratres veni non per sublimitatem
             sermonis aut sapientiae adnuntians vobis testimonium Christi</p>
           <p xml:id="Icor2_2" n="2">non enim iudicavi scire me aliquid inter vos nisi Iesum Christum
@@ -142,7 +140,7 @@
             sensum Christi habemus</p>
         </div>
         <div xml:id="bible-Icor3" n="3">
-          <head>Caput 3</head>
+          <head xml:id="bible-Icor-Hd1e238">Caput 3</head>
           <p xml:id="Icor3_1" n="1">et ego fratres non potui vobis loqui quasi spiritalibus sed
             quasi carnalibus tamquam parvulis in Christo</p>
           <p xml:id="Icor3_2" n="2">lac vobis potum dedi non escam nondum enim poteratis sed ne nunc
@@ -189,7 +187,7 @@
           <p xml:id="Icor3_23" n="23">vos autem Christi Christus autem Dei</p>
         </div>
         <div xml:id="bible-Icor4" n="4">
-          <head>Caput 4</head>
+          <head xml:id="bible-Icor-Hd1e316">Caput 4</head>
           <p xml:id="Icor4_1" n="1">sic nos existimet homo ut ministros Christi et dispensatores
             mysteriorum Dei</p>
           <p xml:id="Icor4_2" n="2">hic iam quaeritur inter dispensatores ut fidelis quis
@@ -233,7 +231,7 @@
             mansuetudinis</p>
         </div>
         <div xml:id="bible-Icor5" n="5">
-          <head>Caput 5</head>
+          <head xml:id="bible-Icor-Hd1e388">Caput 5</head>
           <p xml:id="Icor5_1" n="1">omnino auditur inter vos fornicatio et talis fornicatio qualis
             nec inter gentes ita ut uxorem patris aliquis habeat</p>
           <p xml:id="Icor5_2" n="2">et vos inflati estis et non magis luctum habuistis ut tollatur
@@ -262,7 +260,7 @@
             ipsis</p>
         </div>
         <div xml:id="bible-Icor6" n="6">
-          <head>Caput 6</head>
+          <head xml:id="bible-Icor-Hd1e434">Caput 6</head>
           <p xml:id="Icor6_1" n="1">audet aliquis vestrum habens negotium adversus alterum iudicari
             apud iniquos et non apud sanctos</p>
           <p xml:id="Icor6_2" n="2">an nescitis quoniam sancti de mundo iudicabunt et si in vobis
@@ -302,7 +300,7 @@
             corpore vestro</p>
         </div>
         <div xml:id="bible-Icor7" n="7">
-          <head>Caput 7</head>
+          <head xml:id="bible-Icor-Hd1e502">Caput 7</head>
           <p xml:id="Icor7_1" n="1">de quibus autem scripsistis bonum est homini mulierem non
             tangere</p>
           <p xml:id="Icor7_2" n="2">propter fornicationes autem unusquisque suam uxorem habeat et
@@ -386,7 +384,7 @@
             puto autem quod et ego Spiritum Dei habeo</p>
         </div>
         <div xml:id="bible-Icor8" n="8">
-          <head>Caput 8</head>
+          <head xml:id="bible-Icor-Hd1e633">Caput 8</head>
           <p xml:id="Icor8_1" n="1">de his autem quae idolis sacrificantur scimus quia omnes
             scientiam habemus scientia inflat caritas vero aedificat</p>
           <p xml:id="Icor8_2" n="2">si quis se existimat scire aliquid nondum cognovit quemadmodum
@@ -416,7 +414,7 @@
             carnem in aeternum ne fratrem meum scandalizem</p>
         </div>
         <div xml:id="bible-Icor9" n="9">
-          <head>Caput 9</head>
+          <head xml:id="bible-Icor-Hd1e679">Caput 9</head>
           <p xml:id="Icor9_1" n="1">non sum liber non sum apostolus nonne Iesum Dominum nostrum vidi
             non opus meum vos estis in Domino</p>
           <p xml:id="Icor9_2" n="2">si aliis non sum apostolus sed tamen vobis sum nam signaculum
@@ -472,7 +470,7 @@
             aliis praedicaverim ipse reprobus efficiar</p>
         </div>
         <div xml:id="bible-Icor10" n="10">
-          <head>Caput 10</head>
+          <head xml:id="bible-Icor-Hd1e769">Caput 10</head>
           <p xml:id="Icor10_1" n="1">nolo enim vos ignorare fratres quoniam patres nostri omnes sub
             nube fuerunt et omnes mare transierunt</p>
           <p xml:id="Icor10_2" n="2">et omnes in Mose baptizati sunt in nube et in mari</p>
@@ -535,7 +533,7 @@
             utile est sed quod multis ut salvi fiant</p>
         </div>
         <div xml:id="bible-Icor11" n="11">
-          <head>Caput 11</head>
+          <head xml:id="bible-Icor-Hd1e879">Caput 11</head>
           <p xml:id="Icor11_1" n="1">imitatores mei estote sicut et ego Christi</p>
           <p xml:id="Icor11_2" n="2">laudo autem vos fratres quod omnia mei memores estis et sicut
             tradidi vobis praecepta mea tenetis</p>
@@ -604,7 +602,7 @@
             cetera autem cum venero disponam</p>
         </div>
         <div xml:id="bible-Icor12" n="12">
-          <head>Caput 12</head>
+          <head xml:id="bible-Icor-Hd1e991">Caput 12</head>
           <p xml:id="Icor12_1" n="1">de spiritalibus autem nolo vos ignorare fratres</p>
           <p xml:id="Icor12_2" n="2">scitis quoniam cum gentes essetis ad simulacra muta prout
             ducebamini euntes</p>
@@ -664,7 +662,7 @@
             viam vobis demonstro</p>
         </div>
         <div xml:id="bible-Icor13" n="13">
-          <head>Caput 13</head>
+          <head xml:id="bible-Icor-Hd1e1094">Caput 13</head>
           <p xml:id="Icor13_1" n="1">si linguis hominum loquar et angelorum caritatem autem non
             habeam factus sum velut aes sonans aut cymbalum tinniens</p>
           <p xml:id="Icor13_2" n="2">et si habuero prophetiam et noverim mysteria omnia et omnem
@@ -691,7 +689,7 @@
             est caritas</p>
         </div>
         <div xml:id="bible-Icor14" n="14">
-          <head>Caput 14</head>
+          <head xml:id="bible-Icor-Hd1e1140">Caput 14</head>
           <p xml:id="Icor14_1" n="1">sectamini caritatem aemulamini spiritalia magis autem ut
             prophetetis</p>
           <p xml:id="Icor14_2" n="2">qui enim loquitur lingua non hominibus loquitur sed Deo nemo
@@ -768,7 +766,7 @@
           <p xml:id="Icor14_40" n="40">omnia autem honeste et secundum ordinem fiant</p>
         </div>
         <div xml:id="bible-Icor15" n="15">
-          <head>Caput 15</head>
+          <head xml:id="bible-Icor-Hd1e1271">Caput 15</head>
           <p xml:id="Icor15_1" n="1">notum autem vobis facio fratres evangelium quod praedicavi
             vobis quod et accepistis in quo et statis</p>
           <p xml:id="Icor15_2" n="2">per quod et salvamini qua ratione praedicaverim vobis si
@@ -881,7 +879,7 @@
             Domino</p>
         </div>
         <div xml:id="bible-Icor16" n="16">
-          <head>Caput 16</head>
+          <head xml:id="bible-Icor-Hd1e1459">Caput 16</head>
           <p xml:id="Icor16_1" n="1">de collectis autem quae fiunt in sanctos sicut ordinavi
             ecclesiis Galatiae ita et vos facite</p>
           <p xml:id="Icor16_2" n="2">per unam sabbati unusquisque vestrum apud se ponat recondens

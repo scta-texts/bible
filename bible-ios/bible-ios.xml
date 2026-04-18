@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-ios">
-        <head>Iosiah</head>
+        <head xml:id="bible-ios-Hd1e76">Iosiah</head>
         <div xml:id="bible-ios1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-ios-Hd1e80">Caput 1</head>
           <p xml:id="ios1_1" n="1">et factum est ut post mortem Mosi servi Domini loqueretur Dominus
             ad Iosue filium Nun ministrum Mosi et diceret ei</p>
           <p xml:id="ios1_2" n="2">Moses servus meus mortuus est surge et transi Iordanem istum tu
@@ -88,7 +86,7 @@
             quos praeceperis ei moriatur tu tantum confortare et viriliter age</p>
         </div>
         <div xml:id="bible-ios2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-ios-Hd1e142">Caput 2</head>
           <p xml:id="ios2_1" n="1">misit ergo Iosue filius Nun de Setthim duos viros exploratores
             abscondito et dixit eis ite et considerate terram urbemque Hiericho qui pergentes
             ingressi sunt domum mulieris meretricis nomine Raab et quieverunt apud eam</p>
@@ -148,7 +146,7 @@
             hanc et timore prostrati sunt cuncti habitatores eius</p>
         </div>
         <div xml:id="bible-ios3" n="3">
-          <head>Caput 3</head>
+          <head xml:id="bible-ios-Hd1e223">Caput 3</head>
           <p xml:id="ios3_1" n="1">igitur Iosue de nocte consurgens movit castra egredientesque de
             Setthim venerunt ad Iordanem ipse et omnes filii Israhel et morati sunt ibi per tres
             dies</p>
@@ -192,7 +190,7 @@
             omnisque populus per arentem alveum transiebat</p>
         </div>
         <div xml:id="bible-ios4" n="4">
-          <head>Caput 4</head>
+          <head xml:id="bible-ios-Hd1e282">Caput 4</head>
           <p xml:id="ios4_1" n="1">quibus transgressis dixit Dominus ad Iosue</p>
           <p xml:id="ios4_2" n="2">elige duodecim viros singulos per singulas tribus</p>
           <p xml:id="ios4_3" n="3">et praecipe eis ut tollant de medio Iordanis alveo ubi steterunt
@@ -247,7 +245,7 @@
             vos timeatis Dominum Deum vestrum omni tempore</p>
         </div>
         <div xml:id="bible-ios5" n="5">
-          <head>Caput 5</head>
+          <head xml:id="bible-ios-Hd1e367">Caput 5</head>
           <p xml:id="ios5_1" n="1">postquam ergo audierunt omnes reges Amorreorum qui habitabant
             trans Iordanem ad occidentalem plagam et cuncti reges Chanaan qui propinqua possidebant
             Magno mari loca quod siccasset Dominus fluenta Iordanis coram filiis Israhel donec
@@ -290,7 +288,7 @@
             stas sanctus est fecitque Iosue ut sibi fuerat imperatum</p>
         </div>
         <div xml:id="bible-ios6" n="6">
-          <head>Caput 6</head>
+          <head xml:id="bible-ios-Hd1e422">Caput 6</head>
           <p xml:id="ios6_1" n="1">Hiericho autem clausa erat atque munita timore filiorum Israhel
             et nullus egredi audebat aut ingredi</p>
           <p xml:id="ios6_2" n="2">dixitque Dominus ad Iosue ecce dedi in manus tuas Hiericho et
@@ -361,7 +359,7 @@
             vulgatum est</p>
         </div>
         <div xml:id="bible-ios7" n="7">
-          <head>Caput 7</head>
+          <head xml:id="bible-ios-Hd1e512">Caput 7</head>
           <p xml:id="ios7_1" n="1">filii autem Israhel praevaricati sunt mandatum et usurpaverunt de
             anathemate nam Achan filius Charmi filii Zabdi filii Zare de tribu Iuda tulit aliquid de
             anathemate iratusque est Dominus contra filios Israhel</p>
@@ -429,7 +427,7 @@
             nomen loci illius vallis Achor usque hodie</p>
         </div>
         <div xml:id="bible-ios8" n="8">
-          <head>Caput 8</head>
+          <head xml:id="bible-ios-Hd1e599">Caput 8</head>
           <p xml:id="ios8_1" n="1">dixit autem Dominus ad Iosue ne timeas neque formides tolle tecum
             omnem multitudinem pugnatorum et consurgens ascende in oppidum Ahi ecce tradidi in manu
             tua regem eius et populum urbemque et terram</p>
@@ -516,7 +514,7 @@
             eos morabantur</p>
         </div>
         <div xml:id="bible-ios9" n="9">
-          <head>Caput 9</head>
+          <head xml:id="bible-ios-Hd1e715">Caput 9</head>
           <p xml:id="ios9_1" n="1">quibus auditis cuncti reges trans Iordanem qui versabantur in
             montanis et in campestribus in maritimis ac litore maris Magni hii quoque qui habitabant
             iuxta Libanum Hettheus et Amorreus et Chananeus Ferezeus et Eveus et Iebuseus</p>
@@ -583,7 +581,7 @@
             quem Dominus elegisset</p>
         </div>
         <div xml:id="bible-ios10" n="10">
-          <head>Caput 10</head>
+          <head xml:id="bible-ios-Hd1e805">Caput 10</head>
           <p xml:id="ios10_1" n="1">quae cum audisset Adonisedec rex Hierusalem quod scilicet
             cepisset Iosue Ahi et subvertisset eam sicut enim fecerat Hiericho et regi eius sic
             fecit Ahi et regi illius et quod transfugissent Gabaonitae ad Israhel et essent
@@ -692,7 +690,7 @@
             Galgala</p>
         </div>
         <div xml:id="bible-ios11" n="11">
-          <head>Caput 11</head>
+          <head xml:id="bible-ios-Hd1e950">Caput 11</head>
           <p xml:id="ios11_1" n="1">quae cum audisset Iabin rex Asor misit ad Iobab regem Madon et
             ad regem Someron atque ad regem Acsaph</p>
           <p xml:id="ios11_2" n="2">ad reges quoque aquilonis qui habitabant in montanis et in
@@ -750,7 +748,7 @@
             quievitque terra a proeliis</p>
         </div>
         <div xml:id="bible-ios12" n="12">
-          <head>Caput 12</head>
+          <head xml:id="bible-ios-Hd1e1028">Caput 12</head>
           <p xml:id="ios12_1" n="1">hii sunt reges quos percusserunt filii Israhel et possederunt
             terram eorum trans Iordanem ad solis ortum a torrente Arnon usque ad montem Hermon et
             omnem orientalem plagam quae respicit solitudinem</p>
@@ -793,7 +791,7 @@
           <p xml:id="ios12_24" n="24">rex Thersa unus omnes reges triginta et unus</p>
         </div>
         <div xml:id="bible-ios13" n="13">
-          <head>Caput 13</head>
+          <head xml:id="bible-ios-Hd1e1109">Caput 13</head>
           <p xml:id="ios13_1" n="1">Iosue senex provectaeque aetatis erat et dixit Dominus ad eum
             senuisti et longevus es terraque latissima derelicta est quae necdum est sorte
             divisa</p>
@@ -865,7 +863,7 @@
             Israhel ipse est possessio eius ut locutus est illi</p>
         </div>
         <div xml:id="bible-ios14" n="14">
-          <head>Caput 14</head>
+          <head xml:id="bible-ios-Hd1e1218">Caput 14</head>
           <p xml:id="ios14_1" n="1">hoc est quod possederunt filii Israhel in terra Chanaan quam
             dederunt eis Eleazar sacerdos et Iosue filius Nun et principes familiarum per tribus
             Israhel</p>
@@ -905,7 +903,7 @@
             inter Enacim situs est et terra cessavit a proeliis</p>
         </div>
         <div xml:id="bible-ios15" n="15">
-          <head>Caput 15</head>
+          <head xml:id="bible-ios-Hd1e1270">Caput 15</head>
           <p xml:id="ios15_1" n="1">igitur sors filiorum Iudae per cognationes suas ista fuit a
             termino Edom desertum Sin contra meridiem et usque ad extremam partem australis
             plagae</p>
@@ -1012,7 +1010,7 @@
             delere habitavitque Iebuseus cum filiis Iuda in Hierusalem usque in praesentem diem</p>
         </div>
         <div xml:id="bible-ios16" n="16">
-          <head>Caput 16</head>
+          <head xml:id="bible-ios-Hd1e1474">Caput 16</head>
           <p xml:id="ios16_1" n="1">cecidit quoque sors filiorum Ioseph ab Iordane contra Hiericho
             et aquas eius ab oriente solitudo quae ascendit de Hiericho ad montana Bethel</p>
           <p xml:id="ios16_2" n="2">et egreditur de Bethel Luzam transitque terminum
@@ -1036,7 +1034,7 @@
             Gazer habitavitque Chananeus in medio Ephraim usque in diem hanc tributarius</p>
         </div>
         <div xml:id="bible-ios17" n="17">
-          <head>Caput 17</head>
+          <head xml:id="bible-ios-Hd1e1511">Caput 17</head>
           <p xml:id="ios17_1" n="1">cecidit autem sors tribui Manasse ipse est enim primogenitus
             Ioseph Machir primogenito Manasse patri Galaad qui fuit vir pugnator habuitque
             possessionem Galaad et Basan</p>
@@ -1088,7 +1086,7 @@
             ferreos habere currus et esse fortissimum</p>
         </div>
         <div xml:id="bible-ios18" n="18">
-          <head>Caput 18</head>
+          <head xml:id="bible-ios-Hd1e1573">Caput 18</head>
           <p xml:id="ios18_1" n="1">congregatique sunt omnes filii Israhel in Silo ibique fixerunt
             tabernaculum testimonii et fuit eis terra subiecta</p>
           <p xml:id="ios18_2" n="2">remanserant autem filiorum Israhel septem tribus quae necdum
@@ -1152,7 +1150,7 @@
             familias suas</p>
         </div>
         <div xml:id="bible-ios19" n="19">
-          <head>Caput 19</head>
+          <head xml:id="bible-ios-Hd1e1666">Caput 19</head>
           <p xml:id="ios19_1" n="1">et egressa est sors secunda filiorum Symeon per cognationes suas
             fuitque hereditas</p>
           <p xml:id="ios19_2" n="2">eorum in medio possessionis filiorum Iuda Bersabee et Sabee et
@@ -1243,7 +1241,7 @@
             Domino ad ostium tabernaculi testimonii partitique sunt terram</p>
         </div>
         <div xml:id="bible-ios20" n="20">
-          <head>Caput 20</head>
+          <head xml:id="bible-ios-Hd1e1832">Caput 20</head>
           <p xml:id="ios20_1" n="1">et locutus est Dominus ad Iosue dicens loquere filiis Israhel et
             dic eis</p>
           <p xml:id="ios20_2" n="2">separate urbes fugitivorum de quibus locutus sum ad vos per
@@ -1270,7 +1268,7 @@
             populum expositurus causam suam</p>
         </div>
         <div xml:id="bible-ios21" n="21">
-          <head>Caput 21</head>
+          <head xml:id="bible-ios-Hd1e1865">Caput 21</head>
           <p xml:id="ios21_1" n="1">accesseruntque principes familiarum Levi ad Eleazar sacerdotem
             et Iosue filium Nun et ad duces cognationum per singulas tribus filiorum Israhel</p>
           <p xml:id="ios21_2" n="2">locutique sunt ad eos in Silo terrae Chanaan atque dixerunt
@@ -1352,7 +1350,7 @@
             promiserat irritum fuit sed rebus expleta sunt omnia</p>
         </div>
         <div xml:id="bible-ios22" n="22">
-          <head>Caput 22</head>
+          <head xml:id="bible-ios-Hd1e2006">Caput 22</head>
           <p xml:id="ios22_1" n="1">eodem tempore vocavit Iosue Rubenitas et Gadditas et dimidiam
             tribum Manasse</p>
           <p xml:id="ios22_2" n="2">dixitque ad eos fecistis omnia quae vobis praecepit Moses
@@ -1445,7 +1443,7 @@
             Testimonium nostrum quod Dominus ipse sit Deus</p>
         </div>
         <div xml:id="bible-ios23" n="23">
-          <head>Caput 23</head>
+          <head xml:id="bible-ios-Hd1e2119">Caput 23</head>
           <p xml:id="ios23_1" n="1">evoluto autem multo tempore postquam pacem Dominus dederat
             Israheli subiectis in gyro nationibus universis et Iosue iam longevo et persenilis
             aetatis</p>
@@ -1487,7 +1485,7 @@
             in vos furor Domini et auferemini de terra hac optima quam tradidit vobis</p>
         </div>
         <div xml:id="bible-ios24" n="24">
-          <head>Caput 24</head>
+          <head xml:id="bible-ios-Hd1e2174">Caput 24</head>
           <p xml:id="ios24_1" n="1">congregavitque Iosue omnes tribus Israhel in Sychem et vocavit
             maiores natu ac principes et iudices et magistros steteruntque in conspectu Domini</p>
           <p xml:id="ios24_2" n="2">et ad populum sic locutus est haec dicit Dominus Deus Israhel

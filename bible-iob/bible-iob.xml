@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-iob">
-        <head>Iob</head>
+        <head xml:id="bible-iob-Hd1e76">Iob</head>
         <div xml:id="bible-iob1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-iob-Hd1e80">Caput 1</head>
           <p xml:id="iob1_1" n="1">vir erat in terra Hus nomine Iob et erat vir ille simplex et
             rectus ac timens Deum et recedens a malo</p>
           <p xml:id="iob1_2" n="2">natique sunt ei septem filii et tres filiae</p>
@@ -95,7 +93,7 @@
             locutus est</p>
         </div>
         <div xml:id="bible-iob2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-iob-Hd1e154">Caput 2</head>
           <p xml:id="iob2_1" n="1">factum est autem cum quadam die venissent filii Dei et starent
             coram Domino venisset quoque Satan inter eos et staret in conspectu eius</p>
           <p xml:id="iob2_2" n="2">ut diceret Dominus ad Satan unde venis qui respondens ait
@@ -128,7 +126,7 @@
             et nemo loquebatur ei verbum videbant enim dolorem esse vehementem</p>
         </div>
         <div xml:id="bible-iob3" n="3">
-          <head>Caput 3</head>
+          <head xml:id="bible-iob-Hd1e200">Caput 3</head>
           <p xml:id="iob3_1" n="1">post haec aperuit Iob os suum et maledixit diei suo</p>
           <p xml:id="iob3_2" n="2">et locutus est</p>
           <p xml:id="iob3_3" n="3">pereat dies in qua natus sum et nox in qua dictum est conceptus
@@ -175,7 +173,7 @@
             indignatio</p>
         </div>
         <div xml:id="bible-iob4" n="4">
-          <head>Caput 4</head>
+          <head xml:id="bible-iob-Hd1e287">Caput 4</head>
           <p xml:id="iob4_1" n="1">respondens autem Eliphaz Themanites dixit</p>
           <p xml:id="iob4_2" n="2">si coeperimus loqui tibi forsitan moleste accipias sed conceptum
             sermonem tenere quis possit</p>
@@ -216,7 +214,7 @@
             sapientia</p>
         </div>
         <div xml:id="bible-iob5" n="5">
-          <head>Caput 5</head>
+          <head xml:id="bible-iob-Hd1e359">Caput 5</head>
           <p xml:id="iob5_1" n="1">voca ergo si est qui tibi respondeat et ad aliquem sanctorum
             convertere</p>
           <p xml:id="iob5_2" n="2">vere stultum interficit iracundia et parvulum occidit invidia</p>
@@ -266,7 +264,7 @@
             pertracta</p>
         </div>
         <div xml:id="bible-iob6" n="6">
-          <head>Caput 6</head>
+          <head xml:id="bible-iob-Hd1e449">Caput 6</head>
           <p xml:id="iob6_1" n="1">respondens autem Iob dixit</p>
           <p xml:id="iob6_2" n="2">utinam adpenderentur peccata mea quibus iram merui et calamitas
             quam patior in statera</p>
@@ -325,7 +323,7 @@
             meis stultitia personabit</p>
         </div>
         <div xml:id="bible-iob7" n="7">
-          <head>Caput 7</head>
+          <head xml:id="bible-iob-Hd1e549">Caput 7</head>
           <p xml:id="iob7_1" n="1">militia est vita hominis super terram et sicut dies mercennarii
             dies eius</p>
           <p xml:id="iob7_2" n="2">sicut servus desiderat umbram et sicut mercennarius praestolatur
@@ -367,7 +365,7 @@
             meam ecce nunc in pulvere dormiam et si mane me quaesieris non subsistam</p>
         </div>
         <div xml:id="bible-iob8" n="8">
-          <head>Caput 8</head>
+          <head xml:id="bible-iob-Hd1e620">Caput 8</head>
           <p xml:id="iob8_1" n="1">respondens autem Baldad Suites dixit</p>
           <p xml:id="iob8_2" n="2">usquequo loqueris talia et spiritus multiplex sermones oris
             tui</p>
@@ -411,7 +409,7 @@
             non subsistet</p>
         </div>
         <div xml:id="bible-iob9" n="9">
-          <head>Caput 9</head>
+          <head xml:id="bible-iob-Hd1e694">Caput 9</head>
           <p xml:id="iob9_1" n="1">et respondens Iob ait</p>
           <p xml:id="iob9_2" n="2">vere scio quod ita sit et quod non iustificetur homo conpositus
             Deo</p>
@@ -477,7 +475,7 @@
             respondere</p>
         </div>
         <div xml:id="bible-iob10" n="10">
-          <head>Caput 10</head>
+          <head xml:id="bible-iob-Hd1e810">Caput 10</head>
           <p xml:id="iob10_1" n="1">taedet animam meam vitae meae dimittam adversum me eloquium meum
             loquar in amaritudine animae meae</p>
           <p xml:id="iob10_2" n="2">dicam Deo noli me condemnare indica mihi cur me ita iudices</p>
@@ -520,7 +518,7 @@
             et sempiternus horror inhabitans</p>
         </div>
         <div xml:id="bible-iob11" n="11">
-          <head>Caput 11</head>
+          <head xml:id="bible-iob-Hd1e885">Caput 11</head>
           <p xml:id="iob11_1" n="1">respondens autem Sophar Naamathites dixit</p>
           <p xml:id="iob11_2" n="2">numquid qui multa loquitur non et audiet aut vir verbosus
             iustificabitur</p>
@@ -560,7 +558,7 @@
             spes eorum abominatio animae</p>
         </div>
         <div xml:id="bible-iob12" n="12">
-          <head>Caput 12</head>
+          <head xml:id="bible-iob-Hd1e953">Caput 12</head>
           <p xml:id="iob12_1" n="1">respondens autem Iob dixit</p>
           <p xml:id="iob12_2" n="2">ergo vos estis soli homines et vobiscum morietur sapientia</p>
           <p xml:id="iob12_3" n="3">et mihi est cor sicut et vobis nec inferior vestri sum quis enim
@@ -604,7 +602,7 @@
             faciet quasi ebrios</p>
         </div>
         <div xml:id="bible-iob13" n="13">
-          <head>Caput 13</head>
+          <head xml:id="bible-iob-Hd1e1037">Caput 13</head>
           <p xml:id="iob13_1" n="1">ecce omnia et vidit oculus meus et audivit auris mea et
             intellexi singula</p>
           <p xml:id="iob13_2" n="2">secundum scientiam vestram et ego novi nec inferior vestri
@@ -655,7 +653,7 @@
             comeditur a tinea</p>
         </div>
         <div xml:id="bible-iob14" n="14">
-          <head>Caput 14</head>
+          <head xml:id="bible-iob-Hd1e1130">Caput 14</head>
           <p xml:id="iob14_1" n="1">homo natus de muliere brevi vivens tempore repletus multis
             miseriis</p>
           <p xml:id="iob14_2" n="2">quasi flos egreditur et conteritur et fugit velut umbra et
@@ -701,7 +699,7 @@
             semet ipso lugebit</p>
         </div>
         <div xml:id="bible-iob15" n="15">
-          <head>Caput 15</head>
+          <head xml:id="bible-iob-Hd1e1204">Caput 15</head>
           <p xml:id="iob15_1" n="1">respondens autem Eliphaz Themanites dixit</p>
           <p xml:id="iob15_2" n="2">numquid sapiens respondebit quasi in ventum loquens et implebit
             ardore stomachum suum</p>
@@ -769,7 +767,7 @@
             praeparat dolos</p>
         </div>
         <div xml:id="bible-iob16" n="16">
-          <head>Caput 16</head>
+          <head xml:id="bible-iob-Hd1e1320">Caput 16</head>
           <p xml:id="iob16_1" n="1">respondens autem Iob dixit</p>
           <p xml:id="iob16_2" n="2">audivi frequenter talia consolatores onerosi omnes vos estis</p>
           <p xml:id="iob16_3" n="3">numquid habebunt finem verba ventosa aut aliquid tibi molestum
@@ -811,7 +809,7 @@
             revertar ambulo</p>
         </div>
         <div xml:id="bible-iob17" n="17">
-          <head>Caput 17</head>
+          <head xml:id="bible-iob-Hd1e1399">Caput 17</head>
           <p xml:id="iob17_1" n="1">spiritus meus adtenuabitur dies mei breviabuntur et solum mihi
             superest sepulchrum</p>
           <p xml:id="iob17_2" n="2">non peccavi et in amaritudinibus moratur oculus meus</p>
@@ -844,7 +842,7 @@
             ibi erit requies mihi</p>
         </div>
         <div xml:id="bible-iob18" n="18">
-          <head>Caput 18</head>
+          <head xml:id="bible-iob-Hd1e1454">Caput 18</head>
           <p xml:id="iob18_1" n="1">respondens autem Baldad Suites dixit</p>
           <p xml:id="iob18_2" n="2">usque ad quem finem verba iactabitis intellegite prius et sic
             loquamur</p>
@@ -881,7 +879,7 @@
             ignorat Deum</p>
         </div>
         <div xml:id="bible-iob19" n="19">
-          <head>Caput 19</head>
+          <head xml:id="bible-iob-Hd1e1525">Caput 19</head>
           <p xml:id="iob19_1" n="1">respondens autem Iob dixit</p>
           <p xml:id="iob19_2" n="2">usquequo adfligitis animam meam et adteritis me sermonibus</p>
           <p xml:id="iob19_3" n="3">en decies confunditis me et non erubescitis opprimentes me</p>
@@ -935,7 +933,7 @@
             est et scitote esse iudicium</p>
         </div>
         <div xml:id="bible-iob20" n="20">
-          <head>Caput 20</head>
+          <head xml:id="bible-iob-Hd1e1622">Caput 20</head>
           <p xml:id="iob20_1" n="1">respondens autem Sophar Naamathites dixit</p>
           <p xml:id="iob20_2" n="2">idcirco cogitationes meae variae succedunt sibi et mens in
             diversa rapitur</p>
@@ -991,7 +989,7 @@
             Domino</p>
         </div>
         <div xml:id="bible-iob21" n="21">
-          <head>Caput 21</head>
+          <head xml:id="bible-iob-Hd1e1719">Caput 21</head>
           <p xml:id="iob21_1" n="1">respondens autem Iob dixit</p>
           <p xml:id="iob21_2" n="2">audite quaeso sermones meos et agetis paenitentiam</p>
           <p xml:id="iob21_3" n="3">sustinete me ut et ego loquar et post mea si videbitur verba
@@ -1057,7 +1055,7 @@
             repugnare ostensa sit veritati</p>
         </div>
         <div xml:id="bible-iob22" n="22">
-          <head>Caput 22</head>
+          <head xml:id="bible-iob-Hd1e1831">Caput 22</head>
           <p xml:id="iob22_1" n="1">respondens autem Eliphaz Themanites dixit</p>
           <p xml:id="iob22_2" n="2">numquid Deo conparari potest homo etiam cum perfectae fuerit
             scientiae</p>
@@ -1113,7 +1111,7 @@
             suarum</p>
         </div>
         <div xml:id="bible-iob23" n="23">
-          <head>Caput 23</head>
+          <head xml:id="bible-iob-Hd1e1932">Caput 23</head>
           <p xml:id="iob23_1" n="1">respondens autem Iob dixit</p>
           <p xml:id="iob23_2" n="2">nunc quoque in amaritudine est sermo meus et manus plagae meae
             adgravata est super gemitum meum</p>
@@ -1147,7 +1145,7 @@
             operuit caligo</p>
         </div>
         <div xml:id="bible-iob24" n="24">
-          <head>Caput 24</head>
+          <head xml:id="bible-iob-Hd1e1991">Caput 24</head>
           <p xml:id="iob24_1" n="1">ab Omnipotente non sunt abscondita tempora qui autem noverunt
             eum ignorant dies illius</p>
           <p xml:id="iob24_2" n="2">alii terminos transtulerunt diripuerunt greges et paverunt
@@ -1200,7 +1198,7 @@
             ponere ante Deum verba mea</p>
         </div>
         <div xml:id="bible-iob25" n="25">
-          <head>Caput 25</head>
+          <head xml:id="bible-iob-Hd1e2075">Caput 25</head>
           <p xml:id="iob25_1" n="1">respondens autem Baldad Suites dixit</p>
           <p xml:id="iob25_2" n="2">potestas et terror apud eum est qui facit concordiam in
             sublimibus suis</p>
@@ -1213,7 +1211,7 @@
           <p xml:id="iob25_6" n="6">quanto magis homo putredo et filius hominis vermis</p>
         </div>
         <div xml:id="bible-iob26" n="26">
-          <head>Caput 26</head>
+          <head xml:id="bible-iob-Hd1e2099">Caput 26</head>
           <p xml:id="iob26_1" n="1">respondens autem Iob dixit</p>
           <p xml:id="iob26_2" n="2">cuius adiutor es numquid inbecilli et sustentas brachium eius
             qui non est fortis</p>
@@ -1240,7 +1238,7 @@
             stillam sermonis eius audierimus quis poterit tonitruum magnitudinis illius intueri</p>
         </div>
         <div xml:id="bible-iob27" n="27">
-          <head>Caput 27</head>
+          <head xml:id="bible-iob-Hd1e2148">Caput 27</head>
           <p xml:id="iob27_1" n="1">addidit quoque Iob adsumens parabolam suam et dixit</p>
           <p xml:id="iob27_2" n="2">vivit Deus qui abstulit iudicium meum et Omnipotens qui ad
             amaritudinem adduxit animam meam</p>
@@ -1287,7 +1285,7 @@
             locum eius</p>
         </div>
         <div xml:id="bible-iob28" n="28">
-          <head>Caput 28</head>
+          <head xml:id="bible-iob-Hd1e2226">Caput 28</head>
           <p xml:id="iob28_1" n="1">habet argentum venarum suarum principia et auro locus est in quo
             conflatur</p>
           <p xml:id="iob28_2" n="2">ferrum de terra tollitur et lapis solutus calore in aes
@@ -1338,7 +1336,7 @@
             recedere a malo intellegentia</p>
         </div>
         <div xml:id="bible-iob29" n="29">
-          <head>Caput 29</head>
+          <head xml:id="bible-iob-Hd1e2320">Caput 29</head>
           <p xml:id="iob29_1" n="1">addidit quoque Iob adsumens parabolam suam et dixit</p>
           <p xml:id="iob29_2" n="2">quis mihi tribuat ut sim iuxta menses pristinos secundum dies
             quibus Deus custodiebat me</p>
@@ -1387,7 +1385,7 @@
             rex circumstante exercitu eram tamen maerentium consolator</p>
         </div>
         <div xml:id="bible-iob30" n="30">
-          <head>Caput 30</head>
+          <head xml:id="bible-iob-Hd1e2404">Caput 30</head>
           <p xml:id="iob30_1" n="1">nunc autem derident me iuniores tempore quorum non dignabar
             patres ponere cum canibus gregis mei</p>
           <p xml:id="iob30_2" n="2">quorum virtus manuum erat mihi pro nihilo et vita ipsa
@@ -1448,7 +1446,7 @@
             flentium</p>
         </div>
         <div xml:id="bible-iob31" n="31">
-          <head>Caput 31</head>
+          <head xml:id="bible-iob-Hd1e2507">Caput 31</head>
           <p xml:id="iob31_1" n="1">pepigi foedus cum oculis meis ut ne cogitarem quidem de
             virgine</p>
           <p xml:id="iob31_2" n="2">quam enim partem haberet Deus in me desuper et hereditatem
@@ -1525,7 +1523,7 @@
             sunt verba Iob</p>
         </div>
         <div xml:id="bible-iob32" n="32">
-          <head>Caput 32</head>
+          <head xml:id="bible-iob-Hd1e2638">Caput 32</head>
           <p xml:id="iob32_1" n="1">omiserunt autem tres viri isti respondere Iob eo quod iustus
             sibi videretur</p>
           <p xml:id="iob32_2" n="2">et iratus indignatusque Heliu filius Barachel Buzites de
@@ -1571,7 +1569,7 @@
             factor meus</p>
         </div>
         <div xml:id="bible-iob33" n="33">
-          <head>Caput 33</head>
+          <head xml:id="bible-iob-Hd1e2712">Caput 33</head>
           <p xml:id="iob33_1" n="1">audi igitur Iob eloquia mea et omnes sermones meos ausculta</p>
           <p xml:id="iob33_2" n="2">ecce aperui os meum loquatur lingua mea in faucibus meis</p>
           <p xml:id="iob33_3" n="3">simplici corde meo sermones mei et sententiam labia mea puram
@@ -1630,7 +1628,7 @@
           <p xml:id="iob33_33" n="33">quod si non habes audi me tace et docebo te sapientiam</p>
         </div>
         <div xml:id="bible-iob34" n="34">
-          <head>Caput 34</head>
+          <head xml:id="bible-iob-Hd1e2821">Caput 34</head>
           <p xml:id="iob34_1" n="1">pronuntians itaque Heliu etiam haec locutus est</p>
           <p xml:id="iob34_2" n="2">audite sapientes verba mea et eruditi auscultate me</p>
           <p xml:id="iob34_3" n="3">auris enim verba probat et guttur escas gustu diiudicat</p>
@@ -1697,7 +1695,7 @@
             constringatur et tunc ad iudicium provocet sermonibus suis Deum</p>
         </div>
         <div xml:id="bible-iob35" n="35">
-          <head>Caput 35</head>
+          <head xml:id="bible-iob-Hd1e2944">Caput 35</head>
           <p xml:id="iob35_1" n="1">igitur Heliu haec rursum locutus est</p>
           <p xml:id="iob35_2" n="2">numquid aequa tibi videtur tua cogitatio ut diceres iustior Deo
             sum</p>
@@ -1729,7 +1727,7 @@
             multiplicat</p>
         </div>
         <div xml:id="bible-iob36" n="36">
-          <head>Caput 36</head>
+          <head xml:id="bible-iob-Hd1e2999">Caput 36</head>
           <p xml:id="iob36_1" n="1">addens quoque Heliu haec locutus est</p>
           <p xml:id="iob36_2" n="2">sustine me paululum et indicabo tibi adhuc enim habeo quod pro
             Deo loquar</p>
@@ -1789,7 +1787,7 @@
             possit ascendere</p>
         </div>
         <div xml:id="bible-iob37" n="37">
-          <head>Caput 37</head>
+          <head xml:id="bible-iob-Hd1e3108">Caput 37</head>
           <p xml:id="iob37_1" n="1">super hoc expavit cor meum et emotum est de loco suo</p>
           <p xml:id="iob37_2" n="2">audite auditionem in terrore vocis eius et sonum de ore illius
             procedentem</p>
@@ -1833,7 +1831,7 @@
             sibi videntur esse sapientes</p>
         </div>
         <div xml:id="bible-iob38" n="38">
-          <head>Caput 38</head>
+          <head xml:id="bible-iob-Hd1e3189">Caput 38</head>
           <p xml:id="iob38_1" n="1">respondens autem Dominus Iob de turbine dixit</p>
           <p xml:id="iob38_2" n="2">quis est iste involvens sententias sermonibus inperitis</p>
           <p xml:id="iob38_3" n="3">accinge sicut vir lumbos tuos interrogabo te et responde
@@ -1910,7 +1908,7 @@
             clamant vagantes eo quod non habeant cibos</p>
         </div>
         <div xml:id="bible-iob39" n="39">
-          <head>Caput 39</head>
+          <head xml:id="bible-iob-Hd1e3324">Caput 39</head>
           <p xml:id="iob39_1" n="1">numquid nosti tempus partus hibicum in petris vel parturientes
             cervas observasti</p>
           <p xml:id="iob39_2" n="2">dinumerasti menses conceptus earum et scisti tempus partus
@@ -1975,7 +1973,7 @@
             ultra non addam</p>
         </div>
         <div xml:id="bible-iob40" n="40">
-          <head>Caput 40</head>
+          <head xml:id="bible-iob-Hd1e3440">Caput 40</head>
           <p xml:id="iob40_1" n="1">respondens autem Dominus Iob de turbine ait</p>
           <p xml:id="iob40_2" n="2">accinge sicut vir lumbos tuos interrogabo te et indica mihi</p>
           <p xml:id="iob40_3" n="3">numquid irritum facies iudicium meum et condemnabis me ut tu
@@ -2026,7 +2024,7 @@
             praecipitabitur</p>
         </div>
         <div xml:id="bible-iob41" n="41">
-          <head>Caput 41</head>
+          <head xml:id="bible-iob-Hd1e3534">Caput 41</head>
           <p xml:id="iob41_1" n="1">non quasi crudelis suscitabo eum quis enim resistere potest
             vultui meo</p>
           <p xml:id="iob41_2" n="2">quis ante dedit mihi ut reddam ei omnia quae sub caelo sunt mea
@@ -2074,7 +2072,7 @@
             superbiae</p>
         </div>
         <div xml:id="bible-iob42" n="42">
-          <head>Caput 42</head>
+          <head xml:id="bible-iob-Hd1e3618">Caput 42</head>
           <p xml:id="iob42_1" n="1">respondens autem Iob Domino dixit</p>
           <p xml:id="iob42_2" n="2">scio quia omnia potes et nulla te latet cogitatio</p>
           <p xml:id="iob42_3" n="3">quis est iste qui celat consilium absque scientia ideo

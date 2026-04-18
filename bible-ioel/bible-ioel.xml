@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-ioel">
-        <head>Ioel</head>
+        <head xml:id="bible-ioel-Hd1e76">Ioel</head>
         <div xml:id="bible-ioel1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-ioel-Hd1e80">Caput 1</head>
           <p xml:id="ioel1_1" n="1">verbum Domini quod factum est ad Iohel filium Fatuhel</p>
           <p xml:id="ioel1_2" n="2">audite hoc senes et auribus percipite omnes habitatores terrae
             si factum est istud in diebus vestris aut in diebus patrum vestrorum</p>
@@ -87,7 +85,7 @@
             te quoniam exsiccati sunt fontes aquarum et ignis devoravit speciosa deserti</p>
         </div>
         <div xml:id="bible-ioel2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-ioel-Hd1e148">Caput 2</head>
           <p xml:id="ioel2_1" n="1">canite tuba in Sion ululate in monte sancto meo conturbentur
             omnes habitatores terrae quia venit dies Domini quia prope est</p>
           <p xml:id="ioel2_2" n="2">dies tenebrarum et caliginis dies nubis et turbinis quasi mane
@@ -165,7 +163,7 @@
             Dominus vocaverit</p>
         </div>
         <div xml:id="bible-ioel3" n="3">
-          <head>Caput 3</head>
+          <head xml:id="bible-ioel-Hd1e254">Caput 3</head>
           <p xml:id="ioel3_1" n="1">quia ecce in diebus illis et in tempore illo cum convertero
             captivitatem Iuda et Hierusalem</p>
           <p xml:id="ioel3_2" n="2">congregabo omnes gentes et deducam eas in valle Iosaphat et

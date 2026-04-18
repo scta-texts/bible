@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-ap">
-        <head>Apocalypsis</head>
+        <head xml:id="bible-ap-Hd1e76">Apocalypsis</head>
         <div xml:id="bible-ap1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-ap-Hd1e80">Caput 1</head>
           <p xml:id="ap1_1" n="1">apocalypsis Iesu Christi quam dedit illi Deus palam facere servis
             suis quae oportet fieri cito et significavit mittens per angelum suum servo suo
             Iohanni</p>
@@ -92,7 +90,7 @@
             septem septem ecclesiae sunt</p>
         </div>
         <div xml:id="bible-ap2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-ap-Hd1e148">Caput 2</head>
           <p xml:id="ap2_1" n="1">angelo Ephesi ecclesiae scribe haec dicit qui tenet septem stellas
             in dextera sua qui ambulat in medio septem candelabrorum aureorum</p>
           <p xml:id="ap2_2" n="2">scio opera tua et laborem et patientiam tuam et quia non potes
@@ -154,7 +152,7 @@
           <p xml:id="ap2_29" n="29">qui habet aurem audiat quid Spiritus dicat ecclesiis</p>
         </div>
         <div xml:id="bible-ap3" n="3">
-          <head>Caput 3</head>
+          <head xml:id="bible-ap-Hd1e245">Caput 3</head>
           <p xml:id="ap3_1" n="1">et angelo ecclesiae Sardis scribe haec dicit qui habet septem
             spiritus Dei et septem stellas scio opera tua quia nomen habes quod vivas et mortuus
             es</p>
@@ -203,7 +201,7 @@
           <p xml:id="ap3_22" n="22">qui habet aurem audiat quid Spiritus dicat ecclesiis</p>
         </div>
         <div xml:id="bible-ap4" n="4">
-          <head>Caput 4</head>
+          <head xml:id="bible-ap-Hd1e319">Caput 4</head>
           <p xml:id="ap4_1" n="1">post haec vidi et ecce ostium apertum in caelo et vox prima quam
             audivi tamquam tubae loquentis mecum dicens ascende huc et ostendam tibi quae oportet
             fieri post haec</p>
@@ -232,7 +230,7 @@
             virtutem quia tu creasti omnia et propter voluntatem tuam erant et creata sunt</p>
         </div>
         <div xml:id="bible-ap5" n="5">
-          <head>Caput 5</head>
+          <head xml:id="bible-ap-Hd1e360">Caput 5</head>
           <p xml:id="ap5_1" n="1">et vidi in dextera sedentis super thronum librum scriptum intus et
             foris signatum sigillis septem</p>
           <p xml:id="ap5_2" n="2">et vidi angelum fortem praedicantem voce magna quis est dignus
@@ -267,7 +265,7 @@
             adoraverunt</p>
         </div>
         <div xml:id="bible-ap6" n="6">
-          <head>Caput 6</head>
+          <head xml:id="bible-ap-Hd1e409">Caput 6</head>
           <p xml:id="ap6_1" n="1">et vidi quod aperuisset agnus unum de septem signaculis et audivi
             unum de quattuor animalibus dicentem tamquam vocem tonitrui veni</p>
           <p xml:id="ap6_2" n="2">et vidi et ecce equus albus et qui sedebat super illum habebat
@@ -309,7 +307,7 @@
           <p xml:id="ap6_17" n="17">quoniam venit dies magnus irae ipsorum et quis poterit stare</p>
         </div>
         <div xml:id="bible-ap7" n="7">
-          <head>Caput 7</head>
+          <head xml:id="bible-ap-Hd1e468">Caput 7</head>
           <p xml:id="ap7_1" n="1">post haec vidi quattuor angelos stantes super quattuor angulos
             terrae tenentes quattuor ventos terrae ne flaret ventus super terram neque super mare
             neque in ullam arborem</p>
@@ -351,7 +349,7 @@
             ad vitae fontes aquarum et absterget Deus omnem lacrimam ex oculis eorum</p>
         </div>
         <div xml:id="bible-ap8" n="8">
-          <head>Caput 8</head>
+          <head xml:id="bible-ap-Hd1e527">Caput 8</head>
           <p xml:id="ap8_1" n="1">et cum aperuisset sigillum septimum factum est silentium in caelo
             quasi media hora</p>
           <p xml:id="ap8_2" n="2">et vidi septem angelos stantes in conspectu Dei et datae sunt
@@ -384,7 +382,7 @@
             angelorum qui erant tuba canituri</p>
         </div>
         <div xml:id="bible-ap9" n="9">
-          <head>Caput 9</head>
+          <head xml:id="bible-ap-Hd1e573">Caput 9</head>
           <p xml:id="ap9_1" n="1">et quintus angelus tuba cecinit et vidi stellam de caelo cecidisse
             in terram et data est illi clavis putei abyssi</p>
           <p xml:id="ap9_2" n="2">et aperuit puteum abyssi et ascendit fumus putei sicut fumus
@@ -432,7 +430,7 @@
             veneficiis suis neque a fornicatione sua neque a furtis suis</p>
         </div>
         <div xml:id="bible-ap10" n="10">
-          <head>Caput 10</head>
+          <head xml:id="bible-ap-Hd1e644">Caput 10</head>
           <p xml:id="ap10_1" n="1">et vidi alium angelum fortem descendentem de caelo amictum nube
             et iris in capite eius et facies eius erat ut sol et pedes eius tamquam columna
             ignis</p>
@@ -460,7 +458,7 @@
             et linguis et regibus multis</p>
         </div>
         <div xml:id="bible-ap11" n="11">
-          <head>Caput 11</head>
+          <head xml:id="bible-ap-Hd1e685">Caput 11</head>
           <p xml:id="ap11_1" n="1">et datus est mihi calamus similis virgae dicens surge et metire
             templum Dei et altare et adorantes in eo</p>
           <p xml:id="ap11_2" n="2">atrium autem quod est foris templum eice foras et ne metieris eum
@@ -506,7 +504,7 @@
             eius in templo eius et facta sunt fulgora et voces et terraemotus et grando magna</p>
         </div>
         <div xml:id="bible-ap12" n="12">
-          <head>Caput 12</head>
+          <head xml:id="bible-ap-Hd1e750">Caput 12</head>
           <p xml:id="ap12_1" n="1">et signum magnum paruit in caelo mulier amicta sole et luna sub
             pedibus eius et in capite eius corona stellarum duodecim</p>
           <p xml:id="ap12_2" n="2">et in utero habens et clamat parturiens et cruciatur ut
@@ -549,7 +547,7 @@
           <p xml:id="ap12_18" n="18">et stetit super harenam maris</p>
         </div>
         <div xml:id="bible-ap13" n="13">
-          <head>Caput 13</head>
+          <head xml:id="bible-ap-Hd1e812">Caput 13</head>
           <p xml:id="ap13_1" n="1">et vidi de mare bestiam ascendentem habentem capita septem et
             cornua decem et super cornua eius decem diademata et super capita eius nomina
             blasphemiae</p>
@@ -591,7 +589,7 @@
             bestiae numerus enim hominis est et numerus eius est sescenti sexaginta sex</p>
         </div>
         <div xml:id="bible-ap14" n="14">
-          <head>Caput 14</head>
+          <head xml:id="bible-ap-Hd1e874">Caput 14</head>
           <p xml:id="ap14_1" n="1">et vidi et ecce agnus stabat supra montem Sion et cum illo centum
             quadraginta quattuor milia habentes nomen eius et nomen Patris eius scriptum in
             frontibus suis</p>
@@ -645,7 +643,7 @@
             usque ad frenos equorum per stadia mille sescenta</p>
         </div>
         <div xml:id="bible-ap15" n="15">
-          <head>Caput 15</head>
+          <head xml:id="bible-ap-Hd1e942">Caput 15</head>
           <p xml:id="ap15_1" n="1">et vidi aliud signum in caelo magnum et mirabile angelos septem
             habentes plagas septem novissimas quoniam in illis consummata est ira Dei</p>
           <p xml:id="ap15_2" n="2">et vidi tamquam mare vitreum mixtum igne et eos qui vicerunt
@@ -668,7 +666,7 @@
             angelorum</p>
         </div>
         <div xml:id="bible-ap16" n="16">
-          <head>Caput 16</head>
+          <head xml:id="bible-ap-Hd1e972">Caput 16</head>
           <p xml:id="ap16_1" n="1">et audivi vocem magnam de templo dicentem septem angelis ite et
             effundite septem fialas irae Dei in terram</p>
           <p xml:id="ap16_2" n="2">et abiit primus et effudit fialam suam in terram et factum est
@@ -717,7 +715,7 @@
             vehementer</p>
         </div>
         <div xml:id="bible-ap17" n="17">
-          <head>Caput 17</head>
+          <head xml:id="bible-ap-Hd1e1044">Caput 17</head>
           <p xml:id="ap17_1" n="1">et venit unus de septem angelis qui habebant septem fialas et
             locutus est mecum dicens veni ostendam tibi damnationem meretricis magnae quae sedet
             super aquas multas</p>
@@ -761,7 +759,7 @@
             super reges terrae</p>
         </div>
         <div xml:id="bible-ap18" n="18">
-          <head>Caput 18</head>
+          <head xml:id="bible-ap-Hd1e1106">Caput 18</head>
           <p xml:id="ap18_1" n="1">et post haec vidi alium angelum descendentem de caelo habentem
             potestatem magnam et terra inluminata est a gloria eius</p>
           <p xml:id="ap18_2" n="2">et exclamavit in forti voce dicens cecidit cecidit Babylon magna
@@ -822,7 +820,7 @@
             omnium qui interfecti sunt in terra</p>
         </div>
         <div xml:id="bible-ap19" n="19">
-          <head>Caput 19</head>
+          <head xml:id="bible-ap-Hd1e1187">Caput 19</head>
           <p xml:id="ap19_1" n="1">post haec audivi quasi vocem magnam turbarum multarum in caelo
             dicentium alleluia salus et gloria et virtus Deo nostro est</p>
           <p xml:id="ap19_2" n="2">quia vera et iusta iudicia sunt eius quia iudicavit de meretrice
@@ -874,7 +872,7 @@
             procedit de ore ipsius et omnes aves saturatae sunt carnibus eorum</p>
         </div>
         <div xml:id="bible-ap20" n="20">
-          <head>Caput 20</head>
+          <head xml:id="bible-ap-Hd1e1258">Caput 20</head>
           <p xml:id="ap20_1" n="1">et vidi angelum descendentem de caelo habentem clavem abyssi et
             catenam magnam in manu sua</p>
           <p xml:id="ap20_2" n="2">et adprehendit draconem serpentem antiquum qui est diabolus et
@@ -914,7 +912,7 @@
             stagnum ignis</p>
         </div>
         <div xml:id="bible-ap21" n="21">
-          <head>Caput 21</head>
+          <head xml:id="bible-ap-Hd1e1310">Caput 21</head>
           <p xml:id="ap21_1" n="1">et vidi caelum novum et terram novam primum enim caelum et prima
             terra abiit et mare iam non est</p>
           <p xml:id="ap21_2" n="2">et civitatem sanctam Hierusalem novam vidi descendentem de caelo
@@ -976,7 +974,7 @@
             abominationem et mendacium nisi qui scripti sunt in libro vitae agni</p>
         </div>
         <div xml:id="bible-ap22" n="22">
-          <head>Caput 22</head>
+          <head xml:id="bible-ap-Hd1e1400">Caput 22</head>
           <p xml:id="ap22_1" n="1">et ostendit mihi fluvium aquae vitae splendidum tamquam
             cristallum procedentem de sede Dei et agni</p>
           <p xml:id="ap22_2" n="2">in medio plateae eius et ex utraque parte fluminis lignum vitae

@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-IIcor">
-        <head>ad Corinthios II</head>
+        <head xml:id="bible-IIcor-Hd1e76">ad Corinthios II</head>
         <div xml:id="bible-IIcor1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-IIcor-Hd1e80">Caput 1</head>
           <p xml:id="IIcor1_1" n="1">Paulus apostolus Iesu Christi per voluntatem Dei et Timotheus
             frater ecclesiae Dei quae est Corinthi cum sanctis omnibus qui sunt in universa
             Achaia</p>
@@ -101,7 +99,7 @@
             vestri nam fide stetistis</p>
         </div>
         <div xml:id="bible-IIcor2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-IIcor-Hd1e161">Caput 2</head>
           <p xml:id="IIcor2_1" n="1">statui autem hoc ipse apud me ne iterum in tristitia venirem ad
             vos</p>
           <p xml:id="IIcor2_2" n="2">si enim ego contristo vos et quis est qui me laetificet nisi
@@ -139,7 +137,7 @@
             sinceritate sed sicut ex Deo coram Deo in Christo loquimur</p>
         </div>
         <div xml:id="bible-IIcor3" n="3">
-          <head>Caput 3</head>
+          <head xml:id="bible-IIcor-Hd1e220">Caput 3</head>
           <p xml:id="IIcor3_1" n="1">incipimus iterum nosmet ipsos commendare aut numquid egemus
             sicut quidam commendaticiis epistulis ad vos aut ex vobis</p>
           <p xml:id="IIcor3_2" n="2">epistula nostra vos estis scripta in cordibus nostris quae
@@ -177,7 +175,7 @@
             eandem imaginem transformamur a claritate in claritatem tamquam a Domini Spiritu</p>
         </div>
         <div xml:id="bible-IIcor4" n="4">
-          <head>Caput 4</head>
+          <head xml:id="bible-IIcor-Hd1e282">Caput 4</head>
           <p xml:id="IIcor4_1" n="1">ideo habentes hanc ministrationem iuxta quod misericordiam
             consecuti sumus non deficimus</p>
           <p xml:id="IIcor4_2" n="2">sed abdicamus occulta dedecoris non ambulantes in astutia neque
@@ -218,7 +216,7 @@
             quae enim videntur temporalia sunt quae autem non videntur aeterna sunt</p>
         </div>
         <div xml:id="bible-IIcor5" n="5">
-          <head>Caput 5</head>
+          <head xml:id="bible-IIcor-Hd1e345">Caput 5</head>
           <p xml:id="IIcor5_1" n="1">scimus enim quoniam si terrestris domus nostra huius
             habitationis dissolvatur quod aedificationem ex Deo habeamus domum non manufactam
             aeternam in caelis</p>
@@ -261,7 +259,7 @@
             efficeremur iustitia Dei in ipso</p>
         </div>
         <div xml:id="bible-IIcor6" n="6">
-          <head>Caput 6</head>
+          <head xml:id="bible-IIcor-Hd1e416">Caput 6</head>
           <p xml:id="IIcor6_1" n="1">adiuvantes autem et exhortamur ne in vacuum gratiam Dei
             recipiatis</p>
           <p xml:id="IIcor6_2" n="2">ait enim tempore accepto exaudivi te et in die salutis adiuvavi
@@ -301,7 +299,7 @@
             in filios et filias dicit Dominus omnipotens</p>
         </div>
         <div xml:id="bible-IIcor7" n="7">
-          <head>Caput 7</head>
+          <head xml:id="bible-IIcor-Hd1e478">Caput 7</head>
           <p xml:id="IIcor7_1" n="1">has igitur habentes promissiones carissimi mundemus nos ab omni
             inquinamento carnis et spiritus perficientes sanctificationem in timore Dei</p>
           <p xml:id="IIcor7_2" n="2">capite nos neminem laesimus neminem corrupimus neminem
@@ -342,7 +340,7 @@
           <p xml:id="IIcor7_16" n="16">gaudeo quod in omnibus confido in vobis</p>
         </div>
         <div xml:id="bible-IIcor8" n="8">
-          <head>Caput 8</head>
+          <head xml:id="bible-IIcor-Hd1e533">Caput 8</head>
           <p xml:id="IIcor8_1" n="1">notam autem facimus vobis fratres gratiam Dei quae data est in
             ecclesiis Macedoniae</p>
           <p xml:id="IIcor8_2" n="2">quod in multo experimento tribulationis abundantia gaudii
@@ -394,7 +392,7 @@
             gloriae pro vobis in illos ostendite in faciem ecclesiarum</p>
         </div>
         <div xml:id="bible-IIcor9" n="9">
-          <head>Caput 9</head>
+          <head xml:id="bible-IIcor-Hd1e614">Caput 9</head>
           <p xml:id="IIcor9_1" n="1">nam de ministerio quod fit in sanctos ex abundanti est mihi
             scribere vobis</p>
           <p xml:id="IIcor9_2" n="2">scio enim promptum animum vestrum pro quo de vobis glorior apud
@@ -430,7 +428,7 @@
           <p xml:id="IIcor9_15" n="15">gratias Deo super inenarrabili dono eius</p>
         </div>
         <div xml:id="bible-IIcor10" n="10">
-          <head>Caput 10</head>
+          <head xml:id="bible-IIcor-Hd1e666">Caput 10</head>
           <p xml:id="IIcor10_1" n="1">ipse autem ego Paulus obsecro vos per mansuetudinem et
             modestiam Christi qui in facie quidem humilis inter vos absens autem confido in
             vobis</p>
@@ -469,7 +467,7 @@
             Dominus commendat</p>
         </div>
         <div xml:id="bible-IIcor11" n="11">
-          <head>Caput 11</head>
+          <head xml:id="bible-IIcor-Hd1e729">Caput 11</head>
           <p xml:id="IIcor11_1" n="1">utinam sustineretis modicum quid insipientiae meae sed et
             subportate me</p>
           <p xml:id="IIcor11_2" n="2">aemulor enim vos Dei aemulatione despondi enim vos uni viro
@@ -539,7 +537,7 @@
             manus eius</p>
         </div>
         <div xml:id="bible-IIcor12" n="12">
-          <head>Caput 12</head>
+          <head xml:id="bible-IIcor-Hd1e838">Caput 12</head>
           <p xml:id="IIcor12_1" n="1">si gloriari oportet non expedit quidem veniam autem ad
             visiones et revelationes Domini</p>
           <p xml:id="IIcor12_2" n="2">scio hominem in Christo ante annos quattuordecim sive in
@@ -591,7 +589,7 @@
             fornicatione et inpudicitia quam gesserunt</p>
         </div>
         <div xml:id="bible-IIcor13" n="13">
-          <head>Caput 13</head>
+          <head xml:id="bible-IIcor-Hd1e909">Caput 13</head>
           <p xml:id="IIcor13_1" n="1">ecce tertio hoc venio ad vos in ore duorum vel trium testium
             stabit omne verbum</p>
           <p xml:id="IIcor13_2" n="2">praedixi et praedico ut praesens bis et nunc absens his qui

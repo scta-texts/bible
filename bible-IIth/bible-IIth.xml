@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-IIth">
-        <head>ad Thessalonicenses II</head>
+        <head xml:id="bible-IIth-Hd1e76">ad Thessalonicenses II</head>
         <div xml:id="bible-IIth1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-IIth-Hd1e80">Caput 1</head>
           <p xml:id="IIth1_1" n="1">Paulus et Silvanus et Timotheus ecclesiae Thessalonicensium in
             Deo Patre nostro et Domino Iesu Christo</p>
           <p xml:id="IIth1_2" n="2">gratia vobis et pax a Deo Patre nostro et Domino Iesu
@@ -74,7 +72,7 @@
             vos in illo secundum gratiam Dei nostri et Domini Iesu Christi</p>
         </div>
         <div xml:id="bible-IIth2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-IIth-Hd1e123">Caput 2</head>
           <p xml:id="IIth2_1" n="1">rogamus autem vos fratres per adventum Domini nostri Iesu
             Christi et nostrae congregationis in ipsum</p>
           <p xml:id="IIth2_2" n="2">ut non cito moveamini a sensu neque terreamini neque per
@@ -112,7 +110,7 @@
             bono</p>
         </div>
         <div xml:id="bible-IIth3" n="3">
-          <head>Caput 3</head>
+          <head xml:id="bible-IIth-Hd1e182">Caput 3</head>
           <p xml:id="IIth3_1" n="1">de cetero fratres orate pro nobis ut sermo Domini currat et
             clarificetur sicut et apud vos</p>
           <p xml:id="IIth3_2" n="2">et ut liberemur ab inportunis et malis hominibus non enim omnium

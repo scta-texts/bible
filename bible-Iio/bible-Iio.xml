@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-Iio">
-        <head>Ioannis I</head>
+        <head xml:id="bible-Iio-Hd1e76">Ioannis I</head>
         <div xml:id="bible-Iio1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-Iio-Hd1e80">Caput 1</head>
           <p xml:id="Iio1_1" n="1">quod fuit ab initio quod audivimus quod vidimus oculis nostris
             quod perspeximus et manus nostrae temptaverunt de verbo vitae</p>
           <p xml:id="Iio1_2" n="2">et vita manifestata est et vidimus et testamur et adnuntiamus
@@ -67,7 +65,7 @@
             verbum eius non est in nobis</p>
         </div>
         <div xml:id="bible-Iio2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-Iio-Hd1e116">Caput 2</head>
           <p xml:id="Iio2_1" n="1">filioli mei haec scribo vobis ut non peccetis sed et si quis
             peccaverit advocatum habemus apud Patrem Iesum Christum iustum</p>
           <p xml:id="Iio2_2" n="2">et ipse est propitiatio pro peccatis nostris non pro nostris
@@ -129,7 +127,7 @@
             iustitiam ex ipso natus est</p>
         </div>
         <div xml:id="bible-Iio3" n="3">
-          <head>Caput 3</head>
+          <head xml:id="bible-Iio-Hd1e213">Caput 3</head>
           <p xml:id="Iio3_1" n="1">videte qualem caritatem dedit nobis Pater ut filii Dei nominemur
             et sumus propter hoc mundus non novit nos quia non novit eum</p>
           <p xml:id="Iio3_2" n="2">carissimi nunc filii Dei sumus et nondum apparuit quid erimus
@@ -179,7 +177,7 @@
             hoc scimus quoniam manet in nobis de Spiritu quem nobis dedit</p>
         </div>
         <div xml:id="bible-Iio4" n="4">
-          <head>Caput 4</head>
+          <head xml:id="bible-Iio-Hd1e294">Caput 4</head>
           <p xml:id="Iio4_1" n="1">carissimi nolite omni spiritui credere sed probate spiritus si ex
             Deo sint quoniam multi pseudoprophetae exierunt in mundum</p>
           <p xml:id="Iio4_2" n="2">in hoc cognoscitur Spiritus Dei omnis spiritus qui confitetur
@@ -223,7 +221,7 @@
             fratrem suum</p>
         </div>
         <div xml:id="bible-Iio5" n="5">
-          <head>Caput 5</head>
+          <head xml:id="bible-Iio-Hd1e366">Caput 5</head>
           <p xml:id="Iio5_1" n="1">omnis qui credit quoniam Iesus est Christus ex Deo natus est et
             omnis qui diligit eum qui genuit diligit eum qui natus est ex eo</p>
           <p xml:id="Iio5_2" n="2">in hoc cognoscimus quoniam diligimus natos Dei cum Deum diligamus

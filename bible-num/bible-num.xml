@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-num">
-        <head>Numeri</head>
+        <head xml:id="bible-num-Hd1e76">Numeri</head>
         <div xml:id="bible-num1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-num-Hd1e80">Caput 1</head>
           <p xml:id="num1_1" n="1">locutusque est Dominus ad Mosen in deserto Sinai in tabernaculo
             foederis prima die mensis secundi anno altero egressionis eorum ex Aegypto dicens</p>
           <p xml:id="num1_2" n="2">tollite summam universae congregationis filiorum Israhel per
@@ -145,7 +143,7 @@
             Dominus Mosi</p>
         </div>
         <div xml:id="bible-num2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-num-Hd1e256">Caput 2</head>
           <p xml:id="num2_1" n="1">locutusque est Dominus ad Mosen et Aaron dicens</p>
           <p xml:id="num2_2" n="2">singuli per turmas signa atque vexilla et domos cognationum
             suarum castrametabuntur filiorum Israhel per gyrum tabernaculi foederis</p>
@@ -215,7 +213,7 @@
             castrametati sunt per turmas suas et profecti per familias ac domos patrum suorum</p>
         </div>
         <div xml:id="bible-num3" n="3">
-          <head>Caput 3</head>
+          <head xml:id="bible-num-Hd1e368">Caput 3</head>
           <p xml:id="num3_1" n="1">haec sunt generationes Aaron et Mosi in die qua locutus est
             Dominus ad Mosen in monte Sinai</p>
           <p xml:id="num3_2" n="2">et haec nomina filiorum Aaron primogenitus eius Nadab dein Abiu
@@ -311,7 +309,7 @@
             praeceperat sibi Dominus</p>
         </div>
         <div xml:id="bible-num4" n="4">
-          <head>Caput 4</head>
+          <head xml:id="bible-num-Hd1e534">Caput 4</head>
           <p xml:id="num4_1" n="1">locutusque est Dominus ad Mosen et Aaron dicens</p>
           <p xml:id="num4_2" n="2">tolle summam filiorum Caath de medio Levitarum per domos et
             familias suas</p>
@@ -413,7 +411,7 @@
             officium et onera sua sicut praeceperat ei Dominus</p>
         </div>
         <div xml:id="bible-num5" n="5">
-          <head>Caput 5</head>
+          <head xml:id="bible-num-Hd1e695">Caput 5</head>
           <p xml:id="num5_1" n="1">locutusque est Dominus ad Mosen dicens</p>
           <p xml:id="num5_2" n="2">praecipe filiis Israhel ut eiciant de castris omnem leprosum et
             qui semine fluit pollutusque est super mortuo</p>
@@ -478,7 +476,7 @@
           <p xml:id="num5_31" n="31">maritus absque culpa erit et illa recipiet iniquitatem suam</p>
         </div>
         <div xml:id="bible-num6" n="6">
-          <head>Caput 6</head>
+          <head xml:id="bible-num-Hd1e798">Caput 6</head>
           <p xml:id="num6_1" n="1">locutus est Dominus ad Mosen dicens</p>
           <p xml:id="num6_2" n="2">loquere ad filios Israhel et dices ad eos vir sive mulier cum
             fecerit votum ut sanctificentur et se voluerint Domino consecrare</p>
@@ -539,7 +537,7 @@
             eis</p>
         </div>
         <div xml:id="bible-num7" n="7">
-          <head>Caput 7</head>
+          <head xml:id="bible-num-Hd1e888">Caput 7</head>
           <p xml:id="num7_1" n="1">factum est autem in die qua conplevit Moses tabernaculum et
             erexit illud unxitque et sanctificavit cum omnibus vasis suis altare similiter et vasa
             eius</p>
@@ -706,7 +704,7 @@
             testimonii inter duos cherubin unde et loquebatur ei</p>
         </div>
         <div xml:id="bible-num8" n="8">
-          <head>Caput 8</head>
+          <head xml:id="bible-num-Hd1e1175">Caput 8</head>
           <p xml:id="num8_1" n="1">locutus est Dominus ad Mosen dicens</p>
           <p xml:id="num8_2" n="2">loquere Aaroni et dices ad eum cum posueris septem lucernas
             contra eam partem quam candelabrum respicit lucere debebunt</p>
@@ -761,7 +759,7 @@
             Levitas in custodiis suis</p>
         </div>
         <div xml:id="bible-num9" n="9">
-          <head>Caput 9</head>
+          <head xml:id="bible-num-Hd1e1262">Caput 9</head>
           <p xml:id="num9_1" n="1">locutus est Dominus ad Mosen in deserto Sinai anno secundo
             postquam egressi sunt de terra Aegypti mense primo dicens</p>
           <p xml:id="num9_2" n="2">faciant filii Israhel phase in tempore suo</p>
@@ -812,7 +810,7 @@
             proficiscebantur erantque in excubiis Domini iuxta imperium eius per manum Mosi</p>
         </div>
         <div xml:id="bible-num10" n="10">
-          <head>Caput 10</head>
+          <head xml:id="bible-num-Hd1e1340">Caput 10</head>
           <p xml:id="num10_1" n="1">locutus est Dominus ad Mosen dicens</p>
           <p xml:id="num10_2" n="2">fac tibi duas tubas argenteas ductiles quibus convocare possis
             multitudinem quando movenda sunt castra</p>
@@ -886,7 +884,7 @@
             exercitus Israhel</p>
         </div>
         <div xml:id="bible-num11" n="11">
-          <head>Caput 11</head>
+          <head xml:id="bible-num-Hd1e1460">Caput 11</head>
           <p xml:id="num11_1" n="1">interea ortum est murmur populi quasi dolentium pro labore
             contra Dominum quod cum audisset iratus est et accensus in eos ignis Domini devoravit
             extremam castrorum partem</p>
@@ -967,7 +965,7 @@
             venerunt in Aseroth et manserunt ibi</p>
         </div>
         <div xml:id="bible-num12" n="12">
-          <head>Caput 12</head>
+          <head xml:id="bible-num-Hd1e1572">Caput 12</head>
           <p xml:id="num12_1" n="1">locutaque est Maria et Aaron contra Mosen propter uxorem eius
             aethiopissam</p>
           <p xml:id="num12_2" n="2">et dixerunt num per solum Mosen locutus est Dominus nonne et
@@ -1000,7 +998,7 @@
             non est motus de loco illo donec revocata est Maria</p>
         </div>
         <div xml:id="bible-num13" n="13">
-          <head>Caput 13</head>
+          <head xml:id="bible-num-Hd1e1624">Caput 13</head>
           <p xml:id="num13_1" n="1">profectus est de Aseroth fixis tentoriis in deserto Pharan</p>
           <p xml:id="num13_2" n="2">ibi locutus est Dominus ad Mosen dicens</p>
           <p xml:id="num13_3" n="3">mitte viros qui considerent terram Chanaan quam daturus sum
@@ -1062,7 +1060,7 @@
             quibus conparati quasi lucustae videbamur</p>
         </div>
         <div xml:id="bible-num14" n="14">
-          <head>Caput 14</head>
+          <head xml:id="bible-num-Hd1e1736">Caput 14</head>
           <p xml:id="num14_1" n="1">igitur vociferans omnis turba flevit nocte illa</p>
           <p xml:id="num14_2" n="2">et murmurati sunt contra Mosen et Aaron cuncti filii Israhel
             dicentes</p>
@@ -1156,7 +1154,7 @@
             et percutiens eos atque concidens persecutus est usque Horma</p>
         </div>
         <div xml:id="bible-num15" n="15">
-          <head>Caput 15</head>
+          <head xml:id="bible-num-Hd1e1883">Caput 15</head>
           <p xml:id="num15_1" n="1">locutus est Dominus ad Mosen dicens</p>
           <p xml:id="num15_2" n="2">loquere ad filios Israhel et dices ad eos cum ingressi fueritis
             terram habitationis vestrae quam ego dabo vobis</p>
@@ -1233,7 +1231,7 @@
             essem vester Deus</p>
         </div>
         <div xml:id="bible-num16" n="16">
-          <head>Caput 16</head>
+          <head xml:id="bible-num-Hd1e2018">Caput 16</head>
           <p xml:id="num16_1" n="1">ecce autem Core filius Isaar filii Caath filii Levi et Dathan
             atque Abiram filii Heliab Hon quoque filius Pheleth de filiis Ruben</p>
           <p xml:id="num16_2" n="2">surrexerunt contra Mosen aliique filiorum Israhel ducenti
@@ -1338,7 +1336,7 @@
             postquam quievit interitus</p>
         </div>
         <div xml:id="bible-num17" n="17">
-          <head>Caput 17</head>
+          <head xml:id="bible-num-Hd1e2182">Caput 17</head>
           <p xml:id="num17_1" n="1">et locutus est Dominus ad Mosen dicens</p>
           <p xml:id="num17_2" n="2">loquere ad filios Israhel et accipe ab eis virgas singulas per
             cognationes suas a cunctis principibus tribuum virgas duodecim et uniuscuiusque nomen
@@ -1368,7 +1366,7 @@
             internicionem cuncti delendi sumus</p>
         </div>
         <div xml:id="bible-num18" n="18">
-          <head>Caput 18</head>
+          <head xml:id="bible-num-Hd1e2228">Caput 18</head>
           <p xml:id="num18_1" n="1">dixitque Dominus ad Aaron tu et filii tui et domus patris tui
             tecum portabitis iniquitatem sanctuarii et tu et filii tui simul sustinebitis peccata
             sacerdotii vestri</p>
@@ -1446,7 +1444,7 @@
             reservantes ne polluatis oblationes filiorum Israhel et moriamini</p>
         </div>
         <div xml:id="bible-num19" n="19">
-          <head>Caput 19</head>
+          <head xml:id="bible-num-Hd1e2334">Caput 19</head>
           <p xml:id="num19_1" n="1">locutusque est Dominus ad Mosen et Aaron dicens</p>
           <p xml:id="num19_2" n="2">ista est religio victimae quam constituit Dominus praecipe
             filiis Israhel ut adducant ad te vaccam rufam aetatis integrae in qua nulla sit macula
@@ -1499,7 +1497,7 @@
             horum quippiam tetigerit inmunda erit usque ad vesperum</p>
         </div>
         <div xml:id="bible-num20" n="20">
-          <head>Caput 20</head>
+          <head xml:id="bible-num-Hd1e2408">Caput 20</head>
           <p xml:id="num20_1" n="1">veneruntque filii Israhel et omnis multitudo in desertum Sin
             mense primo et mansit populus in Cades mortuaque est ibi Maria et sepulta in eodem
             loco</p>
@@ -1566,7 +1564,7 @@
             triginta diebus per cunctas familias suas</p>
         </div>
         <div xml:id="bible-num21" n="21">
-          <head>Caput 21</head>
+          <head xml:id="bible-num-Hd1e2508">Caput 21</head>
           <p xml:id="num21_1" n="1">quod cum audisset Chananeus rex Arad qui habitabat ad meridiem
             venisse scilicet Israhel per exploratorum viam pugnavit contra illum et victor existens
             duxit ex eo praedam</p>
@@ -1643,7 +1641,7 @@
             populum eius usque ad internicionem et possederunt terram illius</p>
         </div>
         <div xml:id="bible-num22" n="22">
-          <head>Caput 22</head>
+          <head xml:id="bible-num-Hd1e2624">Caput 22</head>
           <p xml:id="num22_1" n="1">profectique castrametati sunt in campestribus Moab ubi trans
             Iordanem Hierichus sita est</p>
           <p xml:id="num22_2" n="2">videns autem Balac filius Sepphor omnia quae fecerat Israhel
@@ -1732,7 +1730,7 @@
             extremam partem populi</p>
         </div>
         <div xml:id="bible-num23" n="23">
-          <head>Caput 23</head>
+          <head xml:id="bible-num-Hd1e2760">Caput 23</head>
           <p xml:id="num23_1" n="1">dixitque Balaam ad Balac aedifica mihi hic septem aras et para
             totidem vitulos eiusdemque numeri arietes</p>
           <p xml:id="num23_2" n="2">cumque fecisset iuxta sermonem Balaam inposuerunt simul vitulum
@@ -1795,7 +1793,7 @@
             per singulas aras</p>
         </div>
         <div xml:id="bible-num24" n="24">
-          <head>Caput 24</head>
+          <head xml:id="bible-num-Hd1e2860">Caput 24</head>
           <p xml:id="num24_1" n="1">cumque vidisset Balaam quod placeret Domino ut benediceret
             Israheli nequaquam abiit ut ante perrexerat ut augurium quaereret sed dirigens contra
             desertum vultum suum</p>
@@ -1851,7 +1849,7 @@
             via qua venerat rediit</p>
         </div>
         <div xml:id="bible-num25" n="25">
-          <head>Caput 25</head>
+          <head xml:id="bible-num-Hd1e2944">Caput 25</head>
           <p xml:id="num25_1" n="1">morabatur autem eo tempore Israhel in Setthim et fornicatus est
             populus cum filiabus Moab</p>
           <p xml:id="num25_2" n="2">quae vocaverunt eos ad sacrificia sua at illi comederunt et
@@ -1888,7 +1886,7 @@
             in die plagae pro sacrilegio Phogor</p>
         </div>
         <div xml:id="bible-num26" n="26">
-          <head>Caput 26</head>
+          <head xml:id="bible-num-Hd1e3006">Caput 26</head>
           <p xml:id="num26_1" n="1">postquam noxiorum sanguis effusus est dixit Dominus ad Mosen et
             Eleazarum filium Aaron sacerdotem</p>
           <p xml:id="num26_2" n="2">numerate omnem summam filiorum Israhel a viginti annis et supra
@@ -2018,7 +2016,7 @@
             nullusque remansit ex eis nisi Chaleb filius Iepphonne et Iosue filius Nun</p>
         </div>
         <div xml:id="bible-num27" n="27">
-          <head>Caput 27</head>
+          <head xml:id="bible-num-Hd1e3217">Caput 27</head>
           <p xml:id="num27_1" n="1">accesserunt autem filiae Salphaad filii Epher filii Galaad filii
             Machir filii Manasse qui fuit filius Ioseph quarum sunt nomina Maala et Noa et Egla et
             Melcha et Thersa</p>
@@ -2067,7 +2065,7 @@
             mandaverat Dominus</p>
         </div>
         <div xml:id="bible-num28" n="28">
-          <head>Caput 28</head>
+          <head xml:id="bible-num-Hd1e3295">Caput 28</head>
           <p xml:id="num28_1" n="1">dixit quoque Dominus ad Mosen</p>
           <p xml:id="num28_2" n="2">praecipe filiis Israhel et dices ad eos oblationem meam et panes
             et incensum odoris suavissimi offerte per tempora sua</p>
@@ -2130,7 +2128,7 @@
           <p xml:id="num28_31" n="31">inmaculata offeretis omnia cum libationibus suis</p>
         </div>
         <div xml:id="bible-num29" n="29">
-          <head>Caput 29</head>
+          <head xml:id="bible-num-Hd1e3399">Caput 29</head>
           <p xml:id="num29_1" n="1">mensis etiam septimi prima dies venerabilis et sancta erit vobis
             omne opus servile non facietis in ea quia dies clangoris est et tubarum</p>
           <p xml:id="num29_2" n="2">offeretisque holocaustum in odorem suavissimum Domino vitulum de
@@ -2213,7 +2211,7 @@
             pacificis</p>
         </div>
         <div xml:id="bible-num30" n="30">
-          <head>Caput 30</head>
+          <head xml:id="bible-num-Hd1e3527">Caput 30</head>
           <p xml:id="num30_1" n="1">narravitque Moses filiis Israhel omnia quae ei Dominus
             imperarat</p>
           <p xml:id="num30_2" n="2">et locutus est ad principes tribuum filiorum Israhel iste est
@@ -2252,7 +2250,7 @@
             parentis domo</p>
         </div>
         <div xml:id="bible-num31" n="31">
-          <head>Caput 31</head>
+          <head xml:id="bible-num-Hd1e3586">Caput 31</head>
           <p xml:id="num31_1" n="1">locutusque est Dominus ad Mosen dicens</p>
           <p xml:id="num31_2" n="2">ulciscere prius filios Israhel de Madianitis et sic colligeris
             ad populum tuum</p>
@@ -2352,7 +2350,7 @@
             monumentum filiorum Israhel coram Domino</p>
         </div>
         <div xml:id="bible-num32" n="32">
-          <head>Caput 32</head>
+          <head xml:id="bible-num-Hd1e3762">Caput 32</head>
           <p xml:id="num32_1" n="1">filii autem Ruben et Gad habebant pecora multa et erat illis in
             iumentis infinita substantia cumque vidissent Iazer et Galaad aptas alendis
             animalibus</p>
@@ -2442,7 +2440,7 @@
             vocavitque eam ex nomine suo Nobe</p>
         </div>
         <div xml:id="bible-num33" n="33">
-          <head>Caput 33</head>
+          <head xml:id="bible-num-Hd1e3900">Caput 33</head>
           <p xml:id="num33_1" n="1">hae sunt mansiones filiorum Israhel qui egressi sunt de Aegypto
             per turmas suas in manu Mosi et Aaron</p>
           <p xml:id="num33_2" n="2">quas descripsit Moses iuxta castrorum loca quae Domini iussione
@@ -2529,7 +2527,7 @@
           <p xml:id="num33_56" n="56">et quicquid illis facere cogitaram vobis faciam</p>
         </div>
         <div xml:id="bible-num34" n="34">
-          <head>Caput 34</head>
+          <head xml:id="bible-num-Hd1e4082">Caput 34</head>
           <p xml:id="num34_1" n="1">locutus est Dominus ad Mosen</p>
           <p xml:id="num34_2" n="2">praecipe filiis Israhel et dices ad eos cum ingressi fueritis
             terram Chanaan et in possessionem vobis sorte ceciderit his finibus terminabitur</p>
@@ -2578,7 +2576,7 @@
             terram Chanaan</p>
         </div>
         <div xml:id="bible-num35" n="35">
-          <head>Caput 35</head>
+          <head xml:id="bible-num-Hd1e4180">Caput 35</head>
           <p xml:id="num35_1" n="1">haec quoque locutus est Dominus ad Mosen in campestribus Moab
             super Iordanem contra Hiericho</p>
           <p xml:id="num35_2" n="2">praecipe filiis Israhel ut dent Levitis de possessionibus
@@ -2649,7 +2647,7 @@
             ego enim sum Dominus qui habito inter filios Israhel</p>
         </div>
         <div xml:id="bible-num36" n="36">
-          <head>Caput 36</head>
+          <head xml:id="bible-num-Hd1e4292">Caput 36</head>
           <p xml:id="num36_1" n="1">accesserunt autem et principes familiarum Galaad filii Machir
             filii Manasse de stirpe filiorum Ioseph locutique sunt Mosi coram principibus Israhel
             atque dixerunt</p>

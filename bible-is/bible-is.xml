@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-is">
-        <head>Isaias</head>
+        <head xml:id="bible-is-Hd1e76">Isaias</head>
         <div xml:id="bible-is1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-is-Hd1e80">Caput 1</head>
           <p xml:id="is1_1" n="1">visio Isaiae filii Amos quam vidit super Iudam et Hierusalem in
             diebus Oziae Ioatham Ahaz Ezechiae regum Iuda</p>
           <p xml:id="is1_2" n="2">audite caeli et auribus percipe terra quoniam Dominus locutus est
@@ -110,7 +108,7 @@
             quasi scintilla et succendetur utrumque simul et non erit qui extinguat</p>
         </div>
         <div xml:id="bible-is2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-is-Hd1e183">Caput 2</head>
           <p xml:id="is2_1" n="1">verbum quod vidit Isaias filius Amos super Iudam et Hierusalem</p>
           <p xml:id="is2_2" n="2">et erit in novissimis diebus praeparatus mons domus Domini in
             vertice montium et elevabitur super colles et fluent ad eum omnes gentes</p>
@@ -156,7 +154,7 @@
             excelsus reputatus est ipse</p>
         </div>
         <div xml:id="bible-is3" n="3">
-          <head>Caput 3</head>
+          <head xml:id="bible-is-Hd1e257">Caput 3</head>
           <p xml:id="is3_1" n="1">ecce enim Dominator Deus exercituum auferet ab Hierusalem et ab
             Iuda validum et fortem omne robur panis et omne robur aquae</p>
           <p xml:id="is3_2" n="2">fortem et virum bellatorem iudicem et prophetam et ariolum et
@@ -206,7 +204,7 @@
             sedebit</p>
         </div>
         <div xml:id="bible-is4" n="4">
-          <head>Caput 4</head>
+          <head xml:id="bible-is-Hd1e344">Caput 4</head>
           <p xml:id="is4_1" n="1">et adprehendent septem mulieres virum unum in die illa dicentes
             panem nostrum comedemus et vestimentis nostris operiemur tantummodo vocetur nomen tuum
             super nos aufer obprobrium nostrum</p>
@@ -223,7 +221,7 @@
             et absconsionem a turbine et a pluvia</p>
         </div>
         <div xml:id="bible-is5" n="5">
-          <head>Caput 5</head>
+          <head xml:id="bible-is-Hd1e369">Caput 5</head>
           <p xml:id="is5_1" n="1">cantabo dilecto meo canticum patruelis mei vineae suae vinea facta
             est dilecto meo in cornu filio olei</p>
           <p xml:id="is5_2" n="2">et sepivit eam et lapides elegit ex illa et plantavit eam electam
@@ -292,7 +290,7 @@
             in terram et ecce tenebrae tribulationis et lux obtenebrata est in caligine eius</p>
         </div>
         <div xml:id="bible-is6" n="6">
-          <head>Caput 6</head>
+          <head xml:id="bible-is-Hd1e469">Caput 6</head>
           <p xml:id="is6_1" n="1">in anno quo mortuus est rex Ozias vidi Dominum sedentem super
             solium excelsum et elevatum et ea quae sub eo erant implebant templum</p>
           <p xml:id="is6_2" n="2">seraphin stabant super illud sex alae uni et sex alae alteri
@@ -324,7 +322,7 @@
             steterit in ea</p>
         </div>
         <div xml:id="bible-is7" n="7">
-          <head>Caput 7</head>
+          <head xml:id="bible-is-Hd1e515">Caput 7</head>
           <p xml:id="is7_1" n="1">et factum est in diebus Ahaz filii Ioatham filii Oziae regis Iuda
             ascendit Rasin rex Syriae et Phacee filius Romeliae rex Israhel in Hierusalem ad
             proeliandum contra eam et non potuerunt debellare eam</p>
@@ -378,7 +376,7 @@
             spinarum et veprium et erit in pascua bovis et in conculcationem pecoris</p>
         </div>
         <div xml:id="bible-is8" n="8">
-          <head>Caput 8</head>
+          <head xml:id="bible-is-Hd1e599">Caput 8</head>
           <p xml:id="is8_1" n="1">et dixit Dominus ad me sume tibi librum grandem et scribe in eo
             stilo hominis Velociter spolia detrahe Cito praedare</p>
           <p xml:id="is8_2" n="2">et adhibui mihi testes fideles Uriam sacerdotem et Zacchariam
@@ -426,7 +424,7 @@
             dissolutio angustia et caligo persequens et non poterit avolare de angustia sua</p>
         </div>
         <div xml:id="bible-is9" n="9">
-          <head>Caput 9</head>
+          <head xml:id="bible-is-Hd1e673">Caput 9</head>
           <p xml:id="is9_1" n="1">primo tempore adleviata est terra Zabulon et terra Nepthalim et
             novissimo adgravata est via maris trans Iordanem Galileae gentium</p>
           <p xml:id="is9_2" n="2">populus qui ambulabat in tenebris vidit lucem magnam habitantibus
@@ -476,7 +474,7 @@
             extenta</p>
         </div>
         <div xml:id="bible-is10" n="10">
-          <head>Caput 10</head>
+          <head xml:id="bible-is-Hd1e744">Caput 10</head>
           <p xml:id="is10_1" n="1">vae qui condunt leges iniquas et scribentes iniustitiam
             scripserunt</p>
           <p xml:id="is10_2" n="2">ut opprimerent in iudicio pauperes et vim facerent causae
@@ -552,7 +550,7 @@
             cadet</p>
         </div>
         <div xml:id="bible-is11" n="11">
-          <head>Caput 11</head>
+          <head xml:id="bible-is-Hd1e857">Caput 11</head>
           <p xml:id="is11_1" n="1">et egredietur virga de radice Iesse et flos de radice eius
             ascendet</p>
           <p xml:id="is11_2" n="2">et requiescet super eum spiritus Domini spiritus sapientiae et
@@ -591,7 +589,7 @@
             sicut fuit Israhel in die qua ascendit de terra Aegypti</p>
         </div>
         <div xml:id="bible-is12" n="12">
-          <head>Caput 12</head>
+          <head xml:id="bible-is-Hd1e912">Caput 12</head>
           <p xml:id="is12_1" n="1">et dices in illa die confitebor tibi Domine quoniam iratus es
             mihi conversus est furor tuus et consolatus es me</p>
           <p xml:id="is12_2" n="2">ecce Deus salvator meus fiducialiter agam et non timebo quia
@@ -605,7 +603,7 @@
             Israhel</p>
         </div>
         <div xml:id="bible-is13" n="13">
-          <head>Caput 13</head>
+          <head xml:id="bible-is-Hd1e936">Caput 13</head>
           <p xml:id="is13_1" n="1">onus Babylonis quod vidit Isaias filius Amos</p>
           <p xml:id="is13_2" n="2">super montem caligosum levate signum exaltate vocem levate manum
             et ingrediantur portas duces</p>
@@ -651,7 +649,7 @@
             delubris voluptatis</p>
         </div>
         <div xml:id="bible-is14" n="14">
-          <head>Caput 14</head>
+          <head xml:id="bible-is-Hd1e1010">Caput 14</head>
           <p xml:id="is14_1" n="1">prope est ut veniat tempus eius et dies eius non elongabuntur
             miserebitur enim Dominus Iacob et eliget adhuc de Israhel et requiescere eos faciet
             super humum suam adiungetur advena ad eos et adherebit domui Iacob</p>
@@ -719,7 +717,7 @@
             et in ipsa sperabunt pauperes populi eius</p>
         </div>
         <div xml:id="bible-is15" n="15">
-          <head>Caput 15</head>
+          <head xml:id="bible-is-Hd1e1116">Caput 15</head>
           <p xml:id="is15_1" n="1">onus Moab quia nocte vastata est Ar Moab conticuit quia nocte
             vastatus est murus Moab conticuit</p>
           <p xml:id="is15_2" n="2">ascendit domus et Dibon ad excelsa in planctum super Nabo et
@@ -741,7 +739,7 @@
             additamenta his qui fugerint de Moab leonem et reliquiis terrae</p>
         </div>
         <div xml:id="bible-is16" n="16">
-          <head>Caput 16</head>
+          <head xml:id="bible-is-Hd1e1149">Caput 16</head>
           <p xml:id="is16_1" n="1">emitte agnum dominatorem terrae de Petra deserti ad montem filiae
             Sion</p>
           <p xml:id="is16_2" n="2">et erit sicut avis fugiens et pulli de nido avolantes sic erunt
@@ -777,7 +775,7 @@
             modicus nequaquam multus</p>
         </div>
         <div xml:id="bible-is17" n="17">
-          <head>Caput 17</head>
+          <head xml:id="bible-is-Hd1e1199">Caput 17</head>
           <p xml:id="is17_1" n="1">onus Damasci ecce Damascus desinet esse civitas et erit sicut
             acervus lapidum in ruina</p>
           <p xml:id="is17_2" n="2">derelictae civitates Aroer gregibus erunt et requiescent ibi et
@@ -810,7 +808,7 @@
             subsistet haec est pars eorum qui vastaverunt nos et sors diripientium nos</p>
         </div>
         <div xml:id="bible-is18" n="18">
-          <head>Caput 18</head>
+          <head xml:id="bible-is-Hd1e1248">Caput 18</head>
           <p xml:id="is18_1" n="1">vae terrae cymbalo alarum quae est trans flumina Aethiopiae</p>
           <p xml:id="is18_2" n="2">qui mittit in mari legatos et in vasis papyri super aquas ite
             angeli veloces ad gentem convulsam et dilaceratam ad populum terribilem post quem non
@@ -831,7 +829,7 @@
             exercituum montem Sion</p>
         </div>
         <div xml:id="bible-is19" n="19">
-          <head>Caput 19</head>
+          <head xml:id="bible-is-Hd1e1275">Caput 19</head>
           <p xml:id="is19_1" n="1">onus Aegypti ecce Dominus ascendet super nubem levem et
             ingredietur Aegyptum et movebuntur simulacra Aegypti a facie eius et cor Aegypti
             tabescet in medio eius</p>
@@ -891,7 +889,7 @@
             Aegypti et opus manuum mearum Assyrio hereditas autem mea Israhel</p>
         </div>
         <div xml:id="bible-is20" n="20">
-          <head>Caput 20</head>
+          <head xml:id="bible-is-Hd1e1359">Caput 20</head>
           <p xml:id="is20_1" n="1">in anno quo ingressus est Tharthan in Azotum cum misisset eum
             Sargon rex Assyriorum et pugnasset contra Azotum et cepisset eam</p>
           <p xml:id="is20_2" n="2">in tempore illo locutus est Dominus in manu Isaiae filii Amos
@@ -910,7 +908,7 @@
             quomodo effugere poterimus nos</p>
         </div>
         <div xml:id="bible-is21" n="21">
-          <head>Caput 21</head>
+          <head xml:id="bible-is-Hd1e1383">Caput 21</head>
           <p xml:id="is21_1" n="1">onus deserti maris sicut turbines ab africo veniunt de deserto
             venit de terra horribili</p>
           <p xml:id="is21_2" n="2">visio dura nuntiata est mihi qui incredulus est infideliter agit
@@ -948,7 +946,7 @@
             inminuentur Dominus enim Deus Israhel locutus est</p>
         </div>
         <div xml:id="bible-is22" n="22">
-          <head>Caput 22</head>
+          <head xml:id="bible-is-Hd1e1442">Caput 22</head>
           <p xml:id="is22_1" n="1">onus vallis Visionis quidnam tibi quoque est quia ascendisti et
             tu omnis in tecta</p>
           <p xml:id="is22_2" n="2">clamoris plena urbs frequens civitas exultans interfecti tui non
@@ -1004,7 +1002,7 @@
             Dominus locutus est</p>
         </div>
         <div xml:id="bible-is23" n="23">
-          <head>Caput 23</head>
+          <head xml:id="bible-is-Hd1e1527">Caput 23</head>
           <p xml:id="is23_1" n="1">onus Tyri ululate naves maris quia vastata est domus unde venire
             consueverant de terra Cetthim revelatum est eis</p>
           <p xml:id="is23_2" n="2">tacete qui habitatis in insula negotiatio Sidonis transfretantes
@@ -1045,7 +1043,7 @@
             eius ut manducent in saturitatem et vestiantur usque ad vetustatem</p>
         </div>
         <div xml:id="bible-is24" n="24">
-          <head>Caput 24</head>
+          <head xml:id="bible-is-Hd1e1589">Caput 24</head>
           <p xml:id="is24_1" n="1">ecce Dominus dissipabit terram et nudabit eam et adfliget faciem
             eius et disperget habitatores eius</p>
           <p xml:id="is24_2" n="2">et erit sicut populus sic sacerdos et sicut servus sic dominus
@@ -1099,7 +1097,7 @@
             glorificatus</p>
         </div>
         <div xml:id="bible-is25" n="25">
-          <head>Caput 25</head>
+          <head xml:id="bible-is-Hd1e1667">Caput 25</head>
           <p xml:id="is25_1" n="1">Domine Deus meus es tu exaltabo te confitebor nomini tuo quoniam
             fecisti mirabilia cogitationes antiquas fideles amen</p>
           <p xml:id="is25_2" n="2">quia posuisti civitatem in tumulum urbem fortem in ruinam domum
@@ -1128,7 +1126,7 @@
             humiliabuntur et detrahentur in terram usque ad pulverem</p>
         </div>
         <div xml:id="bible-is26" n="26">
-          <head>Caput 26</head>
+          <head xml:id="bible-is-Hd1e1710">Caput 26</head>
           <p xml:id="is26_1" n="1">in die illa cantabitur canticum istud in terra Iuda urbs
             fortitudinis nostrae salvator ponetur in ea murus et antemurale</p>
           <p xml:id="is26_2" n="2">aperite portas et ingrediatur gens iusta custodiens veritatem</p>
@@ -1172,7 +1170,7 @@
             interfectos suos</p>
         </div>
         <div xml:id="bible-is27" n="27">
-          <head>Caput 27</head>
+          <head xml:id="bible-is-Hd1e1781">Caput 27</head>
           <p xml:id="is27_1" n="1">in die illo visitabit Dominus in gladio suo duro et grandi et
             forti super Leviathan serpentem vectem et super Leviathan serpentem tortuosum et occidet
             cetum qui in mari est</p>
@@ -1205,7 +1203,7 @@
             Dominum in monte sancto in Hierusalem</p>
         </div>
         <div xml:id="bible-is28" n="28">
-          <head>Caput 28</head>
+          <head xml:id="bible-is-Hd1e1827">Caput 28</head>
           <p xml:id="is28_1" n="1">vae coronae superbiae ebriis Ephraim et flori decidenti gloriae
             exultationis eius qui erant in vertice vallis pinguissimae errantes a vino</p>
           <p xml:id="is28_2" n="2">ecce validus et fortis Domini sicut impetus grandinis turbo
@@ -1272,7 +1270,7 @@
             consilium et magnificaret iustitiam</p>
         </div>
         <div xml:id="bible-is29" n="29">
-          <head>Caput 29</head>
+          <head xml:id="bible-is-Hd1e1925">Caput 29</head>
           <p xml:id="is29_1" n="1">vae Arihel Arihel civitas quam circumdedit David additus est
             annus ad annum sollemnitates evolutae sunt</p>
           <p xml:id="is29_2" n="2">et circumvallabo Arihel et erit tristis et maerens et erit mihi
@@ -1332,7 +1330,7 @@
             legem</p>
         </div>
         <div xml:id="bible-is30" n="30">
-          <head>Caput 30</head>
+          <head xml:id="bible-is-Hd1e2006">Caput 30</head>
           <p xml:id="is30_1" n="1">vae filii desertores dicit Dominus ut faceretis consilium et non
             ex me et ordiremini telam et non per spiritum meum ut adderetur peccatum super
             peccatum</p>
@@ -1414,7 +1412,7 @@
             succendens eam</p>
         </div>
         <div xml:id="bible-is31" n="31">
-          <head>Caput 31</head>
+          <head xml:id="bible-is-Hd1e2115">Caput 31</head>
           <p xml:id="is31_1" n="1">vae qui descendunt in Aegyptum ad auxilium in equis sperantes et
             habentes fiduciam super quadrigis quia multae sunt et super equitibus quia praevalidi
             nimis et non sunt confisi super Sanctum Israhel et Dominum non requisierunt</p>
@@ -1438,7 +1436,7 @@
             principes eius dixit Dominus cuius ignis est in Sion et caminus eius in Hierusalem</p>
         </div>
         <div xml:id="bible-is32" n="32">
-          <head>Caput 32</head>
+          <head xml:id="bible-is-Hd1e2148">Caput 32</head>
           <p xml:id="is32_1" n="1">ecce in iustitia regnabit rex et principes in iudicio
             praeerunt</p>
           <p xml:id="is32_2" n="2">et erit vir sicut qui absconditur a vento et celat se a
@@ -1483,7 +1481,7 @@
             et asini</p>
         </div>
         <div xml:id="bible-is33" n="33">
-          <head>Caput 33</head>
+          <head xml:id="bible-is-Hd1e2216">Caput 33</head>
           <p xml:id="is33_1" n="1">vae qui praedaris nonne et ipse praedaberis et qui spernis nonne
             et ipse sperneris cum consummaveris depraedationem depraedaberis cum fatigatus desiveris
             contemnere contemneris</p>
@@ -1538,7 +1536,7 @@
             ab eo iniquitas</p>
         </div>
         <div xml:id="bible-is34" n="34">
-          <head>Caput 34</head>
+          <head xml:id="bible-is-Hd1e2297">Caput 34</head>
           <p xml:id="is34_1" n="1">accedite gentes et audite et populi adtendite audiat terra et
             plenitudo eius orbis et omne germen eius</p>
           <p xml:id="is34_2" n="2">quia indignatio Domini super omnes gentes et furor super
@@ -1579,7 +1577,7 @@
             ea</p>
         </div>
         <div xml:id="bible-is35" n="35">
-          <head>Caput 35</head>
+          <head xml:id="bible-is-Hd1e2357">Caput 35</head>
           <p xml:id="is35_1" n="1">laetabitur deserta et invia et exultabit solitudo et florebit
             quasi lilium</p>
           <p xml:id="is35_2" n="2">germinans germinabit et exultabit laetabunda et laudans gloria
@@ -1602,7 +1600,7 @@
             et gemitus</p>
         </div>
         <div xml:id="bible-is36" n="36">
-          <head>Caput 36</head>
+          <head xml:id="bible-is-Hd1e2393">Caput 36</head>
           <p xml:id="is36_1" n="1">et factum est in quartodecimo anno regis Ezechiae ascendit
             Sennacherib rex Assyriorum super omnes civitates Iuda munitas et cepit eas</p>
           <p xml:id="is36_2" n="2">et misit rex Assyriorum Rabsacen de Lachis in Hierusalem ad regem
@@ -1656,7 +1654,7 @@
             nuntiaverunt ei verba Rabsacis</p>
         </div>
         <div xml:id="bible-is37" n="37">
-          <head>Caput 37</head>
+          <head xml:id="bible-is-Hd1e2467">Caput 37</head>
           <p xml:id="is37_1" n="1">et factum est cum audisset rex Ezechias scidit vestimenta sua et
             obvolutus est sacco et intravit in domum Domini</p>
           <p xml:id="is37_2" n="2">et misit Eliachim qui erat super domum et Sobnam scribam et
@@ -1745,7 +1743,7 @@
             regnavit Asoraddon filius eius pro eo</p>
         </div>
         <div xml:id="bible-is38" n="38">
-          <head>Caput 38</head>
+          <head xml:id="bible-is-Hd1e2592">Caput 38</head>
           <p xml:id="is38_1" n="1">in diebus illis aegrotavit Ezechias usque ad mortem et introivit
             ad eum Isaias filius Amos propheta et dixit ei haec dicit Dominus dispone domui tuae
             quia morieris tu et non vives</p>
@@ -1796,7 +1794,7 @@
             Domini</p>
         </div>
         <div xml:id="bible-is39" n="39">
-          <head>Caput 39</head>
+          <head xml:id="bible-is-Hd1e2666">Caput 39</head>
           <p xml:id="is39_1" n="1">in tempore illo misit Marodach Baladan filius Baladan rex
             Babylonis libros et munera ad Ezechiam audierat enim quod aegrotasset et
             convaluisset</p>
@@ -1819,7 +1817,7 @@
             et dixit fiat tantum pax et veritas in diebus meis</p>
         </div>
         <div xml:id="bible-is40" n="40">
-          <head>Caput 40</head>
+          <head xml:id="bible-is-Hd1e2696">Caput 40</head>
           <p xml:id="is40_1" n="1">consolamini consolamini populus meus dicit Deus vester</p>
           <p xml:id="is40_2" n="2">loquimini ad cor Hierusalem et avocate eam quoniam conpleta est
             malitia eius dimissa est iniquitas illius suscepit de manu Domini duplicia pro omnibus
@@ -1887,7 +1885,7 @@
             pinnas sicut aquilae current et non laborabunt ambulabunt et non deficient</p>
         </div>
         <div xml:id="bible-is41" n="41">
-          <head>Caput 41</head>
+          <head xml:id="bible-is-Hd1e2800">Caput 41</head>
           <p xml:id="is41_1" n="1">taceant ad me insulae et gentes mutent fortitudinem accedant et
             tunc loquantur simul ad iudicium propinquemus</p>
           <p xml:id="is41_2" n="2">quis suscitavit ab oriente iustum vocavit eum ut sequeretur se
@@ -1951,7 +1949,7 @@
             simulacra eorum</p>
         </div>
         <div xml:id="bible-is42" n="42">
-          <head>Caput 42</head>
+          <head xml:id="bible-is-Hd1e2897">Caput 42</head>
           <p xml:id="is42_1" n="1">ecce servus meus suscipiam eum electus meus conplacuit sibi in
             illo anima mea dedi spiritum meum super eum iudicium gentibus proferet</p>
           <p xml:id="is42_2" n="2">non clamabit neque accipiet personam nec audietur foris vox
@@ -2006,7 +2004,7 @@
             et conbusit eum in circuitu et non cognovit et succendit eum et non intellexit</p>
         </div>
         <div xml:id="bible-is43" n="43">
-          <head>Caput 43</head>
+          <head xml:id="bible-is-Hd1e2981">Caput 43</head>
           <p xml:id="is43_1" n="1">et nunc haec dicit Dominus creans te Iacob et formans te Israhel
             noli timere quia redemi te et vocavi nomine tuo meus es tu</p>
           <p xml:id="is43_2" n="2">cum transieris per aquas tecum ero et flumina non operient te cum
@@ -2063,7 +2061,7 @@
             Israhel in blasphemiam</p>
         </div>
         <div xml:id="bible-is44" n="44">
-          <head>Caput 44</head>
+          <head xml:id="bible-is-Hd1e3074">Caput 44</head>
           <p xml:id="is44_1" n="1">et nunc audi Iacob serve meus et Israhel quem elegi</p>
           <p xml:id="is44_2" n="2">haec dicit Dominus faciens et formans te ab utero auxiliator tuus
             noli timere serve meus Iacob et Rectissime quem elegi</p>
@@ -2126,7 +2124,7 @@
             qui dico Hierusalem aedificaberis et templo fundaberis</p>
         </div>
         <div xml:id="bible-is45" n="45">
-          <head>Caput 45</head>
+          <head xml:id="bible-is-Hd1e3167">Caput 45</head>
           <p xml:id="is45_1" n="1">haec dicit Dominus christo meo Cyro cuius adprehendi dexteram ut
             subiciam ante faciem eius gentes et dorsa regum vertam et aperiam coram eo ianuas et
             portae non cludentur</p>
@@ -2182,7 +2180,7 @@
           <p xml:id="is45_25" n="25">in Domino iustificabitur et laudabitur omne semen Israhel</p>
         </div>
         <div xml:id="bible-is46" n="46">
-          <head>Caput 46</head>
+          <head xml:id="bible-is-Hd1e3251">Caput 46</head>
           <p xml:id="is46_1" n="1">conflatus est Bel contritus est Nabo facta sunt simulacra eorum
             bestiis et iumentis onera vestra gravi pondere usque ad lassitudinem</p>
           <p xml:id="is46_2" n="2">contabuerunt et contrita sunt simul non potuerunt salvare
@@ -2210,7 +2208,7 @@
             morabitur dabo in Sion salutem et Israheli gloriam meam</p>
         </div>
         <div xml:id="bible-is47" n="47">
-          <head>Caput 47</head>
+          <head xml:id="bible-is-Hd1e3298">Caput 47</head>
           <p xml:id="is47_1" n="1">descende sede in pulverem virgo filia Babylon sede in terra non
             est solium filiae Chaldeorum quia ultra non vocaberis mollis et tenera</p>
           <p xml:id="is47_2" n="2">tolle molam et mole farinam denuda turpitudinem tuam discoperi
@@ -2250,7 +2248,7 @@
             tui ab adulescentia tua unusquisque in via sua erraverunt non est qui salvet te</p>
         </div>
         <div xml:id="bible-is48" n="48">
-          <head>Caput 48</head>
+          <head xml:id="bible-is-Hd1e3350">Caput 48</head>
           <p xml:id="is48_1" n="1">audite hoc domus Iacob qui vocamini nomine Israhel et de aquis
             Iuda existis qui iuratis in nomine Domini et Dei Israhel recordamini non in veritate
             neque in iustitia</p>
@@ -2299,7 +2297,7 @@
           <p xml:id="is48_22" n="22">non est pax dicit Dominus impiis</p>
         </div>
         <div xml:id="bible-is49" n="49">
-          <head>Caput 49</head>
+          <head xml:id="bible-is-Hd1e3424">Caput 49</head>
           <p xml:id="is49_1" n="1">audite insulae et adtendite populi de longe Dominus ab utero
             vocavit me de ventre matris meae recordatus est nominis mei</p>
           <p xml:id="is49_2" n="2">et posuit os meum quasi gladium acutum in umbra manus suae
@@ -2364,7 +2362,7 @@
             Iacob</p>
         </div>
         <div xml:id="bible-is50" n="50">
-          <head>Caput 50</head>
+          <head xml:id="bible-is-Hd1e3511">Caput 50</head>
           <p xml:id="is50_1" n="1">haec dicit Dominus quis est hic liber repudii matris vestrae quo
             dimisi eam aut quis est creditor meus cui vendidi vos ecce in iniquitatibus vestris
             venditi estis et in sceleribus vestris dimisi matrem vestram</p>
@@ -2393,7 +2391,7 @@
             doloribus dormietis</p>
         </div>
         <div xml:id="bible-is51" n="51">
-          <head>Caput 51</head>
+          <head xml:id="bible-is-Hd1e3551">Caput 51</head>
           <p xml:id="is51_1" n="1">audite me qui sequimini quod iustum est et quaeritis Dominum
             adtendite ad petram unde excisi estis et ad cavernam laci de qua praecisi estis</p>
           <p xml:id="is51_2" n="2">adtendite ad Abraham patrem vestrum et ad Sarram quae peperit vos
@@ -2450,7 +2448,7 @@
             transeuntibus</p>
         </div>
         <div xml:id="bible-is52" n="52">
-          <head>Caput 52</head>
+          <head xml:id="bible-is-Hd1e3629">Caput 52</head>
           <p xml:id="is52_1" n="1">consurge consurge induere fortitudine tua Sion induere
             vestimentis gloriae tuae Hierusalem civitas sancti quia non adiciet ultra ut pertranseat
             per te incircumcisus et inmundus</p>
@@ -2486,7 +2484,7 @@
             sunt</p>
         </div>
         <div xml:id="bible-is53" n="53">
-          <head>Caput 53</head>
+          <head xml:id="bible-is-Hd1e3682">Caput 53</head>
           <p xml:id="is53_1" n="1">quis credidit auditui nostro et brachium Domini cui revelatum
             est</p>
           <p xml:id="is53_2" n="2">et ascendet sicut virgultum coram eo et sicut radix de terra
@@ -2518,7 +2516,7 @@
             multorum tulit et pro transgressoribus rogavit</p>
         </div>
         <div xml:id="bible-is54" n="54">
-          <head>Caput 54</head>
+          <head xml:id="bible-is-Hd1e3725">Caput 54</head>
           <p xml:id="is54_1" n="1">lauda sterilis quae non paris decanta laudem et hinni quae non
             pariebas quoniam multi filii desertae magis quam eius quae habebat virum dicit
             Dominus</p>
@@ -2559,7 +2557,7 @@
             eorum apud me dicit Dominus</p>
         </div>
         <div xml:id="bible-is55" n="55">
-          <head>Caput 55</head>
+          <head xml:id="bible-is-Hd1e3784">Caput 55</head>
           <p xml:id="is55_1" n="1">o omnes sitientes venite ad aquas et qui non habetis argentum
             properate emite et comedite venite emite absque argento et absque ulla commutatione
             vinum et lac</p>
@@ -2591,7 +2589,7 @@
             erit Dominus nominatus in signum aeternum quod non auferetur</p>
         </div>
         <div xml:id="bible-is56" n="56">
-          <head>Caput 56</head>
+          <head xml:id="bible-is-Hd1e3830">Caput 56</head>
           <p xml:id="is56_1" n="1">haec dicit Dominus custodite iudicium et facite iustitiam quia
             iuxta est salus mea ut veniat et iustitia mea ut reveletur</p>
           <p xml:id="is56_2" n="2">beatus vir qui facit hoc et filius hominis qui adprehendit istud
@@ -2621,7 +2619,7 @@
             sic et cras et multo amplius</p>
         </div>
         <div xml:id="bible-is57" n="57">
-          <head>Caput 57</head>
+          <head xml:id="bible-is-Hd1e3873">Caput 57</head>
           <p xml:id="is57_1" n="1">iustus perit et nemo est qui recogitet in corde suo et viri
             misericordiae colliguntur quia non est qui intellegat a facie enim malitiae collectus
             est iustus</p>
@@ -2670,7 +2668,7 @@
           <p xml:id="is57_21" n="21">non est pax dixit Deus meus impiis</p>
         </div>
         <div xml:id="bible-is58" n="58">
-          <head>Caput 58</head>
+          <head xml:id="bible-is-Hd1e3944">Caput 58</head>
           <p xml:id="is58_1" n="1">clama ne cesses quasi tuba exalta vocem tuam et adnuntia populo
             meo scelera eorum et domui Iacob peccata eorum</p>
           <p xml:id="is58_2" n="2">me etenim de die in diem quaerunt et scire vias meas volunt quasi
@@ -2710,7 +2708,7 @@
             est</p>
         </div>
         <div xml:id="bible-is59" n="59">
-          <head>Caput 59</head>
+          <head xml:id="bible-is-Hd1e3994">Caput 59</head>
           <p xml:id="is59_1" n="1">ecce non est adbreviata manus Domini ut salvare nequeat neque
             adgravata est auris eius ut non exaudiat</p>
           <p xml:id="is59_2" n="2">sed iniquitates vestrae diviserunt inter vos et Deum vestrum et
@@ -2761,7 +2759,7 @@
             de ore seminis seminis tui dixit Dominus amodo et usque in sempiternum</p>
         </div>
         <div xml:id="bible-is60" n="60">
-          <head>Caput 60</head>
+          <head xml:id="bible-is-Hd1e4065">Caput 60</head>
           <p xml:id="is60_1" n="1">surge inluminare quia venit lumen tuum et gloria Domini super te
             orta est</p>
           <p xml:id="is60_2" n="2">quia ecce tenebrae operient terram et caligo populos super te
@@ -2814,7 +2812,7 @@
             Dominus in tempore eius subito faciam istud</p>
         </div>
         <div xml:id="bible-is61" n="61">
-          <head>Caput 61</head>
+          <head xml:id="bible-is-Hd1e4139">Caput 61</head>
           <p xml:id="is61_1" n="1">spiritus Domini super me eo quod unxerit Dominus me ad
             adnuntiandum mansuetis misit me ut mederer contritis corde et praedicarem captivis
             indulgentiam et clausis apertionem</p>
@@ -2843,7 +2841,7 @@
             germinat sic Dominus Deus germinabit iustitiam et laudem coram universis gentibus</p>
         </div>
         <div xml:id="bible-is62" n="62">
-          <head>Caput 62</head>
+          <head xml:id="bible-is-Hd1e4179">Caput 62</head>
           <p xml:id="is62_1" n="1">propter Sion non tacebo et propter Hierusalem non quiescam donec
             egrediatur ut splendor iustus eius et salvator eius ut lampas accendatur</p>
           <p xml:id="is62_2" n="2">et videbunt gentes iustum tuum et cuncti reges inclitum tuum et
@@ -2872,7 +2870,7 @@
             vocaberis Quaesita civitas et non Derelicta</p>
         </div>
         <div xml:id="bible-is63" n="63">
-          <head>Caput 63</head>
+          <head xml:id="bible-is-Hd1e4222">Caput 63</head>
           <p xml:id="is63_1" n="1">quis est iste qui venit de Edom tinctis vestibus de Bosra iste
             formonsus in stola sua gradiens in multitudine fortitudinis suae ego qui loquor
             iustitiam et propugnator sum ad salvandum</p>
@@ -2918,7 +2916,7 @@
             invocaretur nomen tuum super nos</p>
         </div>
         <div xml:id="bible-is64" n="64">
-          <head>Caput 64</head>
+          <head xml:id="bible-is-Hd1e4287">Caput 64</head>
           <p xml:id="is64_1" n="1">utinam disrumperes caelos et descenderes a facie tua montes
             defluerent</p>
           <p xml:id="is64_2" n="2">sicut exustio ignis tabescerent aquae arderent igni ut notum
@@ -2948,7 +2946,7 @@
             vehementer</p>
         </div>
         <div xml:id="bible-is65" n="65">
-          <head>Caput 65</head>
+          <head xml:id="bible-is-Hd1e4331">Caput 65</head>
           <p xml:id="is65_1" n="1">quaesierunt me qui ante non interrogabant invenerunt qui non
             quaesierunt me dixi ecce ego ecce ego ad gentem quae non vocabat nomen meum</p>
           <p xml:id="is65_2" n="2">expandi manus meas tota die ad populum incredulum qui graditur in
@@ -3009,7 +3007,7 @@
             Dominus</p>
         </div>
         <div xml:id="bible-is66" n="66">
-          <head>Caput 66</head>
+          <head xml:id="bible-is-Hd1e4415">Caput 66</head>
           <p xml:id="is66_1" n="1">haec dicit Dominus caelum sedis mea et terra scabillum pedum
             meorum quae ista domus quam aedificabitis mihi et quis iste locus quietis meae</p>
           <p xml:id="is66_2" n="2">omnia haec manus mea fecit et facta sunt universa ista dicit

@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-os">
-        <head>Osee</head>
+        <head xml:id="bible-os-Hd1e76">Osee</head>
         <div xml:id="bible-os1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-os-Hd1e80">Caput 1</head>
           <p xml:id="os1_1" n="1">verbum Domini quod factum est ad Osee filium Beeri in diebus Oziae
             Ioatham Ahaz Ezechiae regum Iuda et in diebus Hieroboam filii Ioas regis Israhel</p>
           <p xml:id="os1_2" n="2">principium loquendi Dominum in Osee et dixit Dominus ad Osee vade
@@ -72,7 +70,7 @@
             sibimet caput unum et ascendent de terra quia magnus dies Hiezrahel</p>
         </div>
         <div xml:id="bible-os2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-os-Hd1e120">Caput 2</head>
           <p xml:id="os2_1" n="1">dicite fratribus vestris Populus meus et sorori vestrae
             Misericordiam consecuta</p>
           <p xml:id="os2_2" n="2">iudicate matrem vestram iudicate quoniam ipsa non uxor mea et ego
@@ -131,7 +129,7 @@
             meus es tu</p>
         </div>
         <div xml:id="bible-os3" n="3">
-          <head>Caput 3</head>
+          <head xml:id="bible-os-Hd1e201">Caput 3</head>
           <p xml:id="os3_1" n="1">et dixit Dominus ad me adhuc vade dilige mulierem dilectam amico
             et adulteram sicut diligit Dominus filios Israhel et ipsi respectant ad deos alienos et
             diligunt vinacea uvarum</p>
@@ -145,7 +143,7 @@
             suum et David regem suum et pavebunt ad Dominum et ad bonum eius in novissimo dierum</p>
         </div>
         <div xml:id="bible-os4" n="4">
-          <head>Caput 4</head>
+          <head xml:id="bible-os-Hd1e222">Caput 4</head>
           <p xml:id="os4_1" n="1">audite verbum Domini filii Israhel quia iudicium Domino cum
             habitatoribus terrae non est enim veritas et non est misericordia et non est scientia
             Dei in terra</p>
@@ -188,7 +186,7 @@
             suis</p>
         </div>
         <div xml:id="bible-os5" n="5">
-          <head>Caput 5</head>
+          <head xml:id="bible-os-Hd1e288">Caput 5</head>
           <p xml:id="os5_1" n="1">audite hoc sacerdotes et adtendite domus Israhel et domus regis
             auscultate quia vobis iudicium est quoniam laqueus facti estis speculationi et rete
             expansum super Thabor</p>
@@ -222,7 +220,7 @@
             faciem meam</p>
         </div>
         <div xml:id="bible-os6" n="6">
-          <head>Caput 6</head>
+          <head xml:id="bible-os-Hd1e340">Caput 6</head>
           <p xml:id="os6_1" n="1">in tribulatione sua mane consurgunt ad me venite et revertamur ad
             Dominum</p>
           <p xml:id="os6_2" n="2">quia ipse cepit et sanabit nos percutiet et curabit nos</p>
@@ -247,7 +245,7 @@
             mei</p>
         </div>
         <div xml:id="bible-os7" n="7">
-          <head>Caput 7</head>
+          <head xml:id="bible-os-Hd1e380">Caput 7</head>
           <p xml:id="os7_1" n="1">cum sanare vellem Israhel revelata est iniquitas Ephraim et
             malitia Samariae quia operati sunt mendacium et fur ingressus est spolians latrunculus
             foris</p>
@@ -284,7 +282,7 @@
             terra Aegypti</p>
         </div>
         <div xml:id="bible-os8" n="8">
-          <head>Caput 8</head>
+          <head xml:id="bible-os-Hd1e435">Caput 8</head>
           <p xml:id="os8_1" n="1">in gutture tuo sit tuba quasi aquila super domum Domini pro eo
             quod transgressi sunt foedus meum et legem meam praevaricati sunt</p>
           <p xml:id="os8_2" n="2">me invocabunt Deus meus cognovimus te Israhel</p>
@@ -315,7 +313,7 @@
             illius</p>
         </div>
         <div xml:id="bible-os9" n="9">
-          <head>Caput 9</head>
+          <head xml:id="bible-os-Hd1e484">Caput 9</head>
           <p xml:id="os9_1" n="1">noli laetari Israhel noli exultare sicut populi quia fornicatus es
             a Deo tuo dilexisti mercedem super omnes areas tritici</p>
           <p xml:id="os9_2" n="2">area et torcular non pascet eos et vinum mentietur eis</p>
@@ -355,7 +353,7 @@
             nationibus</p>
         </div>
         <div xml:id="bible-os10" n="10">
-          <head>Caput 10</head>
+          <head xml:id="bible-os-Hd1e543">Caput 10</head>
           <p xml:id="os10_1" n="1">vitis frondosa Israhel fructus adaequatus est ei secundum
             multitudinem fructus sui multiplicavit altaria iuxta ubertatem terrae suae exuberavit
             simulacris</p>
@@ -393,7 +391,7 @@
             vestrarum</p>
         </div>
         <div xml:id="bible-os11" n="11">
-          <head>Caput 11</head>
+          <head xml:id="bible-os-Hd1e596">Caput 11</head>
           <p xml:id="os11_1" n="1">sicuti mane transit pertransiit rex Israhel quia puer Israhel et
             dilexi eum et ex Aegypto vocavi filium meum</p>
           <p xml:id="os11_2" n="2">vocaverunt eos sic abierunt a facie eorum Baalim immolabant et
@@ -421,7 +419,7 @@
             Iudas autem testis descendit cum Deo et cum sanctis fidelis</p>
         </div>
         <div xml:id="bible-os12" n="12">
-          <head>Caput 12</head>
+          <head xml:id="bible-os-Hd1e639">Caput 12</head>
           <p xml:id="os12_1" n="1">Ephraim pascit ventum et sequitur aestum tota die mendacium et
             vastitatem multiplicat et foedus cum Assyriis iniit et oleum in Aegyptum ferebat</p>
           <p xml:id="os12_2" n="2">iudicium ergo Domini cum Iuda et visitatio super Iacob iuxta vias
@@ -450,7 +448,7 @@
             sanguis eius super eum veniet et obprobrium eius restituet ei Dominus suus</p>
         </div>
         <div xml:id="bible-os13" n="13">
-          <head>Caput 13</head>
+          <head xml:id="bible-os-Hd1e688">Caput 13</head>
           <p xml:id="os13_1" n="1">loquente Ephraim horror invasit Israhel et deliquit in Baal et
             mortuus est</p>
           <p xml:id="os13_2" n="2">et nunc addiderunt ad peccandum feceruntque sibi conflatile de
@@ -481,7 +479,7 @@
             thesaurum omnis vasis desiderabilis</p>
         </div>
         <div xml:id="bible-os14" n="14">
-          <head>Caput 14</head>
+          <head xml:id="bible-os-Hd1e740">Caput 14</head>
           <p xml:id="os14_1" n="1">pereat Samaria quoniam ad amaritudinem concitavit Dominum suum in
             gladio pereat parvuli eorum elidantur et fetae eius discindantur</p>
           <p xml:id="os14_2" n="2">convertere Israhel ad Dominum Deum tuum quoniam corruisti in

@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-neh">
-        <head>Nehemiae</head>
+        <head xml:id="bible-neh-Hd1e76">Nehemiae</head>
         <div xml:id="bible-neh1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-neh-Hd1e80">Caput 1</head>
           <p xml:id="neh1_1" n="1">verba Neemiae filii Echliae et factum est in mense casleu anno
             vicesimo et ego eram in Susis castro</p>
           <p xml:id="neh1_2" n="2">et venit Anani unus de fratribus meis ipse et viri ex Iuda et
@@ -76,7 +74,7 @@
             et da ei misericordiam ante virum hunc ego enim eram pincerna regis </p>
         </div>
         <div xml:id="bible-neh2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-neh-Hd1e120">Caput 2</head>
           <p xml:id="neh2_1" n="1">factum est autem in mense nisan anno vicesimo Artarxersis regis
             et vinum erat ante eum et levavi vinum et dedi regi et non eram quasi languidus ante
             faciem eius </p>
@@ -131,7 +129,7 @@
             iustitia et memoria in Hierusalem </p>
         </div>
         <div xml:id="bible-neh3" n="3">
-          <head>Caput 3</head>
+          <head xml:id="bible-neh-Hd1e188">Caput 3</head>
           <p xml:id="neh3_1" n="1">et surrexit Eliasib sacerdos magnus et fratres eius sacerdotes et
             aedificaverunt portam Gregis ipsi sanctificaverunt eam et statuerunt valvas eius et
             usque ad turrem centum cubitorum sanctificaverunt eam usque ad turrem Ananehel </p>
@@ -206,7 +204,7 @@
             artifices et negotiatores </p>
         </div>
         <div xml:id="bible-neh4" n="4">
-          <head>Caput 4</head>
+          <head xml:id="bible-neh-Hd1e291">Caput 4</head>
           <p xml:id="neh4_1" n="1">factum est autem cum audisset Sanaballat quod aedificaremus murum
             iratus est valde et motus nimis subsannavit Iudaeos </p>
           <p xml:id="neh4_2" n="2">et dixit coram fratribus suis et frequentia Samaritanorum quid
@@ -261,7 +259,7 @@
             post me non deponebamus vestimenta nostra unusquisque tantum nudabatur ad baptismum </p>
         </div>
         <div xml:id="bible-neh5" n="5">
-          <head>Caput 5</head>
+          <head xml:id="bible-neh-Hd1e370">Caput 5</head>
           <p xml:id="neh5_1" n="1">et factus est clamor populi et uxorum eius magnus adversus
             fratres suos iudaeos </p>
           <p xml:id="neh5_2" n="2">et erant qui dicerent filii nostri et filiae nostrae multae sunt
@@ -313,7 +311,7 @@
             huic </p>
         </div>
         <div xml:id="bible-neh6" n="6">
-          <head>Caput 6</head>
+          <head xml:id="bible-neh-Hd1e435">Caput 6</head>
           <p xml:id="neh6_1" n="1">factum est autem cum audisset Sanaballat et Tobia et Gosem Arabs
             et ceteri inimici nostri quod aedificassem ego murum et non esset in ipso residua
             interruptio usque ad tempus autem illud valvas non posueram in portis </p>
@@ -360,7 +358,7 @@
             Tobias mittebat epistulas ut terreret me </p>
         </div>
         <div xml:id="bible-neh7" n="7">
-          <head>Caput 7</head>
+          <head xml:id="bible-neh-Hd1e500">Caput 7</head>
           <p xml:id="neh7_1" n="1">postquam autem aedificatus est murus et posui valvas et recensui
             ianitores et cantores et Levitas </p>
           <p xml:id="neh7_2" n="2">praecepi Aneni fratri meo et Ananiae principi domus de Hierusalem
@@ -465,7 +463,7 @@
             cantores et reliquum vulgus et Nathinnei et omnis Israhel in civitatibus suis </p>
         </div>
         <div xml:id="bible-neh8" n="8">
-          <head>Caput 8</head>
+          <head xml:id="bible-neh-Hd1e733">Caput 8</head>
           <p xml:id="neh8_1" n="1">et venerat mensis septimus filii autem Israhel erant in
             civitatibus suis congregatusque est omnis populus quasi vir unus ad plateam quae est
             ante portam Aquarum et dixerunt Ezrae scribae ut adferret librum legis Mosi quam
@@ -517,7 +515,7 @@
             collectum iuxta ritum </p>
         </div>
         <div xml:id="bible-neh9" n="9">
-          <head>Caput 9</head>
+          <head xml:id="bible-neh-Hd1e795">Caput 9</head>
           <p xml:id="neh9_1" n="1">in die autem vicesimo quarto mensis huius convenerunt filii
             Israhel in ieiunio et in saccis et humus super eos </p>
           <p xml:id="neh9_2" n="2">et separatum est semen filiorum Israhel ab omni filio alienigena
@@ -620,7 +618,7 @@
             et signant principes nostri Levitae nostri et sacerdotes nostri </p>
         </div>
         <div xml:id="bible-neh10" n="10">
-          <head>Caput 10</head>
+          <head xml:id="bible-neh-Hd1e920">Caput 10</head>
           <p xml:id="neh10_1" n="1">signatores autem fuerunt Neemias Athersatha filius Achelai et
             Sedecias </p>
           <p xml:id="neh10_2" n="2">Saraias Azarias Hieremias </p>
@@ -688,7 +686,7 @@
             et ianitores et ministri et non dimittemus domum Dei nostri </p>
         </div>
         <div xml:id="bible-neh11" n="11">
-          <head>Caput 11</head>
+          <head xml:id="bible-neh-Hd1e1049">Caput 11</head>
           <p xml:id="neh11_1" n="1">habitaverunt autem principes populi in Hierusalem reliqua vero
             plebs misit sortem ut tollerent unam partem de decem qui habitaturi essent in Hierusalem
             in civitate sancta novem vero partes in civitatibus </p>
@@ -757,7 +755,7 @@
           <p xml:id="neh11_36" n="36">et de Levitis partitiones Iuda et Beniamin </p>
         </div>
         <div xml:id="bible-neh12" n="12">
-          <head>Caput 12</head>
+          <head xml:id="bible-neh-Hd1e1168">Caput 12</head>
           <p xml:id="neh12_1" n="1">hii autem sacerdotes et Levitae qui ascenderunt cum Zorobabel
             filio Salathihel et Iosue Saraia Hieremias Ezra </p>
           <p xml:id="neh12_2" n="2">Amaria Melluch Attus </p>
@@ -844,7 +842,7 @@
             Levitae sanctificabant filios Aaron </p>
         </div>
         <div xml:id="bible-neh13" n="13">
-          <head>Caput 13</head>
+          <head xml:id="bible-neh-Hd1e1318">Caput 13</head>
           <p xml:id="neh13_1" n="1">in die autem illo lectum est in volumine Mosi audiente populo et
             inventum est scriptum in eo quod non debeat introire Ammanites et Moabites in ecclesiam
             Dei usque in aeternum </p>

@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-lam">
-        <head>Lamentationes</head>
+        <head xml:id="bible-lam-Hd1e76">Lamentationes</head>
         <div xml:id="bible-lam1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-lam-Hd1e80">Caput 1</head>
           <p xml:id="lam1_1" n="1">ALEPH quomodo sedit sola civitas plena populo facta est quasi
             vidua domina gentium princeps provinciarum facta est sub tributo</p>
           <p xml:id="lam1_2" n="2">BETH plorans ploravit in nocte et lacrimae eius in maxillis eius
@@ -113,7 +111,7 @@
             maerens</p>
         </div>
         <div xml:id="bible-lam2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-lam-Hd1e154">Caput 2</head>
           <p xml:id="lam2_1" n="1">ALEPH quomodo obtexit caligine in furore suo Dominus filiam Sion
             proiecit de caelo terram inclitam Israhel et non recordatus est scabilli pedum suorum in
             die furoris sui</p>
@@ -182,7 +180,7 @@
             et enutrivi inimicus meus consumpsit eos</p>
         </div>
         <div xml:id="bible-lam3" n="3">
-          <head>Caput 3</head>
+          <head xml:id="bible-lam-Hd1e228">Caput 3</head>
           <p xml:id="lam3_1" n="1">ALEPH ego vir videns paupertatem meam in virga indignationis
             eius</p>
           <p xml:id="lam3_2" n="2">ALEPH me minavit et adduxit in tenebris et non in lucem</p>
@@ -287,7 +285,7 @@
             Domine</p>
         </div>
         <div xml:id="bible-lam4" n="4">
-          <head>Caput 4</head>
+          <head xml:id="bible-lam-Hd1e442">Caput 4</head>
           <p xml:id="lam4_1" n="1">ALEPH quomodo obscuratum est aurum mutatus est color optimus
             dispersi sunt lapides sanctuarii in capite omnium platearum</p>
           <p xml:id="lam4_2" n="2">BETH filii Sion incliti et amicti auro primo quomodo reputati
@@ -336,7 +334,7 @@
             transmigret te visitavit iniquitatem tuam filia Edom discoperuit peccata tua</p>
         </div>
         <div xml:id="bible-lam5" n="5">
-          <head>Caput 5</head>
+          <head xml:id="bible-lam-Hd1e517">Caput 5</head>
           <p xml:id="lam5_1" n="1">recordare Domine quid acciderit nobis intuere et respice
             obprobrium nostrum</p>
           <p xml:id="lam5_2" n="2">hereditas nostra versa est ad alienos domus nostrae ad

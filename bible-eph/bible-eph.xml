@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-eph">
-        <head>ad Ephesios</head>
+        <head xml:id="bible-eph-Hd1e76">ad Ephesios</head>
         <div xml:id="bible-eph1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-eph-Hd1e80">Caput 1</head>
           <p xml:id="eph1_1" n="1">Paulus apostolus Christi Iesu per voluntatem Dei sanctis omnibus
             qui sunt Ephesi et fidelibus in Christo Iesu</p>
           <p xml:id="eph1_2" n="2">gratia vobis et pax a Deo Patre nostro et Domino Iesu Christo</p>
@@ -91,7 +89,7 @@
             adimpletur</p>
         </div>
         <div xml:id="bible-eph2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-eph-Hd1e158">Caput 2</head>
           <p xml:id="eph2_1" n="1">et vos cum essetis mortui delictis et peccatis vestris</p>
           <p xml:id="eph2_2" n="2">in quibus aliquando ambulastis secundum saeculum mundi huius
             secundum principem potestatis aeris huius spiritus qui nunc operatur in filios
@@ -138,7 +136,7 @@
           <p xml:id="eph2_22" n="22">in quo et vos coaedificamini in habitaculum Dei in Spiritu</p>
         </div>
         <div xml:id="bible-eph3" n="3">
-          <head>Caput 3</head>
+          <head xml:id="bible-eph-Hd1e232">Caput 3</head>
           <p xml:id="eph3_1" n="1">huius rei gratia ego Paulus vinctus Christi Iesu pro vobis
             gentibus</p>
           <p xml:id="eph3_2" n="2">si tamen audistis dispensationem gratiae Dei quae data est mihi
@@ -182,7 +180,7 @@
             generationes saeculi saeculorum amen</p>
         </div>
         <div xml:id="bible-eph4" n="4">
-          <head>Caput 4</head>
+          <head xml:id="bible-eph-Hd1e303">Caput 4</head>
           <p xml:id="eph4_1" n="1">obsecro itaque vos ego vinctus in Domino ut digne ambuletis
             vocatione qua vocati estis</p>
           <p xml:id="eph4_2" n="2">cum omni humilitate et mansuetudine cum patientia subportantes
@@ -245,7 +243,7 @@
             sicut et Deus in Christo donavit nobis</p>
         </div>
         <div xml:id="bible-eph5" n="5">
-          <head>Caput 5</head>
+          <head xml:id="bible-eph-Hd1e410">Caput 5</head>
           <p xml:id="eph5_1" n="1">estote ergo imitatores Dei sicut filii carissimi</p>
           <p xml:id="eph5_2" n="2">et ambulate in dilectione sicut et Christus dilexit nos et
             tradidit se ipsum pro nobis oblationem et hostiam Deo in odorem suavitatis</p>
@@ -306,7 +304,7 @@
             ipsum diligat uxor autem ut timeat virum</p>
         </div>
         <div xml:id="bible-eph6" n="6">
-          <head>Caput 6</head>
+          <head xml:id="bible-eph-Hd1e519">Caput 6</head>
           <p xml:id="eph6_1" n="1">filii oboedite parentibus vestris in Domino hoc enim est
             iustum</p>
           <p xml:id="eph6_2" n="2">honora patrem tuum et matrem quod est mandatum primum in

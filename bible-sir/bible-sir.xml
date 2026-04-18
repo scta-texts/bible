@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-sir">
-        <head>Ecclesiasticus</head>
+        <head xml:id="bible-sir-Hd1e76">Ecclesiasticus</head>
         <div xml:id="bible-sir1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-sir-Hd1e80">Caput 1</head>
           <p xml:id="sir1_1" n="1">omnis sapientia a Deo Domino est et cum illo fuit semper et est
             ante aevum</p>
           <p xml:id="sir1_2" n="2">harenam maris et pluviae guttas et dies saeculi quis dinumeravit
@@ -117,7 +115,7 @@
             dolo et fallacia</p>
         </div>
         <div xml:id="bible-sir2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-sir-Hd1e205">Caput 2</head>
           <p xml:id="sir2_1" n="1">fili accedens servituti Dei sta in iustitia et timore et praepara
             animam tuam ad temptationem</p>
           <p xml:id="sir2_2" n="2">deprime cor tuum et sustine declina aurem et excipe verba
@@ -165,7 +163,7 @@
             cum ipso</p>
         </div>
         <div xml:id="bible-sir3" n="3">
-          <head>Caput 3</head>
+          <head xml:id="bible-sir-Hd1e283">Caput 3</head>
           <p xml:id="sir3_1" n="1">filii sapientiae ecclesia iustorum et natio illorum obaudientia
             et dilectio</p>
           <p xml:id="sir3_2" n="2">iudicium patris audite filii dilecti et sic facite ut salvi
@@ -231,7 +229,7 @@
             tempore casus tui invenies firmamentum</p>
         </div>
         <div xml:id="bible-sir4" n="4">
-          <head>Caput 4</head>
+          <head xml:id="bible-sir-Hd1e395">Caput 4</head>
           <p xml:id="sir4_1" n="1">fili elemosynam pauperis ne fraudes et oculos tuos ne transvertas
             a paupere</p>
           <p xml:id="sir4_2" n="2">animam esurientem ne despexeris et non exasperes pauperem in
@@ -302,7 +300,7 @@
             collecta</p>
         </div>
         <div xml:id="bible-sir5" n="5">
-          <head>Caput 5</head>
+          <head xml:id="bible-sir-Hd1e515">Caput 5</head>
           <p xml:id="sir5_1" n="1">noli adtendere ad possessiones iniquas et ne dixeris est mihi
             sufficiens vita nihil enim proderit in tempore vindictae et obductionis</p>
           <p xml:id="sir5_2" n="2">non sequaris concupiscentiam cordis</p>
@@ -338,7 +336,7 @@
           <p xml:id="sir5_18" n="18">iustifica pusillo et magno similiter</p>
         </div>
         <div xml:id="bible-sir6" n="6">
-          <head>Caput 6</head>
+          <head xml:id="bible-sir-Hd1e577">Caput 6</head>
           <p xml:id="sir6_1" n="1">noli fieri pro amico inimicus proximo inproperium enim et
             contumeliam malus hereditabit et omnis peccator invidus et bilinguis</p>
           <p xml:id="sir6_2" n="2">non te extollas in cogitatione animae tuae velut taurus ne forte
@@ -415,7 +413,7 @@
             adsiduus esto et ipse dabit cor tibi et concupiscentia sapientiae dabitur tibi</p>
         </div>
         <div xml:id="bible-sir7" n="7">
-          <head>Caput 7</head>
+          <head xml:id="bible-sir-Hd1e699">Caput 7</head>
           <p xml:id="sir7_1" n="1">noli facere mala et non te adprehendent</p>
           <p xml:id="sir7_2" n="2">discede ab iniquo et deficient mala abs te</p>
           <p xml:id="sir7_3" n="3">non semines mala in sulcis iniuriae et non metes ea in
@@ -489,7 +487,7 @@
             non peccabis</p>
         </div>
         <div xml:id="bible-sir8" n="8">
-          <head>Caput 8</head>
+          <head xml:id="bible-sir-Hd1e830">Caput 8</head>
           <p xml:id="sir8_1" n="1">non litiges cum homine potente ne forte incidas in manus
             illius</p>
           <p xml:id="sir8_2" n="2">non contendas cum viro locuplete ne forte contra consistat litem
@@ -534,7 +532,7 @@
             gratiam et convicietur tibi</p>
         </div>
         <div xml:id="bible-sir9" n="9">
-          <head>Caput 9</head>
+          <head xml:id="bible-sir-Hd1e904">Caput 9</head>
           <p xml:id="sir9_1" n="1">non zeles mulierem sinus tui ne ostendas super te malitiam
             doctrinae nequam</p>
           <p xml:id="sir9_2" n="2">non des mulieri potestatem animae tuae ne ingrediatur in virtute
@@ -587,7 +585,7 @@
             verbo suo odibilis erit</p>
         </div>
         <div xml:id="bible-sir10" n="10">
-          <head>Caput 10</head>
+          <head xml:id="bible-sir-Hd1e988">Caput 10</head>
           <p xml:id="sir10_1" n="1">iudex sapiens vindicabit populum suum et principatus sensati
             stabilis erit</p>
           <p xml:id="sir10_2" n="2">secundum iudicem populi sic et ministri eius et qualis rector
@@ -656,7 +654,7 @@
             gloriatur in substantia paupertatem vereatur</p>
         </div>
         <div xml:id="bible-sir11" n="11">
-          <head>Caput 11</head>
+          <head xml:id="bible-sir-Hd1e1101">Caput 11</head>
           <p xml:id="sir11_1" n="1">sapientia humiliati exaltabit caput illius et in medio
             magnatorum consedere illum faciet</p>
           <p xml:id="sir11_2" n="2">non laudes virum in specie sua neque spernas hominem in visu
@@ -727,7 +725,7 @@
             abalienabit te a tuis propriis</p>
         </div>
         <div xml:id="bible-sir12" n="12">
-          <head>Caput 12</head>
+          <head xml:id="bible-sir-Hd1e1213">Caput 12</head>
           <p xml:id="sir12_1" n="1">si benefeceris scito cui feceris et erit gratia in bonis tuis
             multa</p>
           <p xml:id="sir12_2" n="2">benefac iusto et invenies retributionem magnam et si non ab ipso
@@ -768,7 +766,7 @@
             commutabit vultum suum</p>
         </div>
         <div xml:id="bible-sir13" n="13">
-          <head>Caput 13</head>
+          <head xml:id="bible-sir-Hd1e1278">Caput 13</head>
           <p xml:id="sir13_1" n="1">qui tetigerit picem inquinabitur ab illa et qui communicaverit
             superbo inducet superbiam</p>
           <p xml:id="sir13_2" n="2">pondus super se tollit qui honestiori communicat et ditiori te
@@ -829,7 +827,7 @@
             cum labore</p>
         </div>
         <div xml:id="bible-sir14" n="14">
-          <head>Caput 14</head>
+          <head xml:id="bible-sir-Hd1e1381">Caput 14</head>
           <p xml:id="sir14_1" n="1">beatus vir qui non est lapsus verbo ex ore suo et non est
             stimulatus in tristitia delicti</p>
           <p xml:id="sir14_2" n="2">felix qui non habuit animi sui tristitiam et non excidit ab spe
@@ -884,7 +882,7 @@
             requiescet</p>
         </div>
         <div xml:id="bible-sir15" n="15">
-          <head>Caput 15</head>
+          <head xml:id="bible-sir-Hd1e1471">Caput 15</head>
           <p xml:id="sir15_1" n="1">qui timet Deum faciet illud et qui continens est iustitiae
             adprehendet illam</p>
           <p xml:id="sir15_2" n="2">et obviabit illi quasi mater honorificata et quasi mulier a
@@ -928,7 +926,7 @@
             inutilium</p>
         </div>
         <div xml:id="bible-sir16" n="16">
-          <head>Caput 16</head>
+          <head xml:id="bible-sir-Hd1e1545">Caput 16</head>
           <p xml:id="sir16_1" n="1">et ne iucunderis in filiis impiis si multiplicentur non
             oblecteris super ipsos si non est timor Dei cum illis</p>
           <p xml:id="sir16_2" n="2">non credas vitae illorum et ne respexeris in labores illorum</p>
@@ -988,7 +986,7 @@
             iterum reversio illorum</p>
         </div>
         <div xml:id="bible-sir17" n="17">
-          <head>Caput 17</head>
+          <head xml:id="bible-sir-Hd1e1649">Caput 17</head>
           <p xml:id="sir17_1" n="1">Deus creavit de terra hominem et secundum imaginem suam fecit
             illum</p>
           <p xml:id="sir17_2" n="2">et iterum convertit illum in ipsam et secundum se vestivit illum
@@ -1048,7 +1046,7 @@
             terra et cinis</p>
         </div>
         <div xml:id="bible-sir18" n="18">
-          <head>Caput 18</head>
+          <head xml:id="bible-sir-Hd1e1752">Caput 18</head>
           <p xml:id="sir18_1" n="1">qui vivit in aeternum creavit omnia simul Deus solus
             iustificabitur et manet invictus rex in aeternum</p>
           <p xml:id="sir18_2" n="2">quis sufficit enarrare opera illius</p>
@@ -1114,7 +1112,7 @@
             nihil in sacculo eris enim invidus tuae vitae</p>
         </div>
         <div xml:id="bible-sir19" n="19">
-          <head>Caput 19</head>
+          <head xml:id="bible-sir-Hd1e1861">Caput 19</head>
           <p xml:id="sir19_1" n="1">operarius ebriacus non locupletabitur et qui spernit modica
             paulatim decidet</p>
           <p xml:id="sir19_2" n="2">vinum et mulieres apostatare faciunt sapientes et arguent
@@ -1169,7 +1167,7 @@
             non probatur esse bonum et est tacens et ipse est prudens</p>
         </div>
         <div xml:id="bible-sir20" n="20">
-          <head>Caput 20</head>
+          <head xml:id="bible-sir-Hd1e1954">Caput 20</head>
           <p xml:id="sir20_1" n="1">quam bonum est arguere quam irasci et confitentem in oratione
             non prohibere</p>
           <p xml:id="sir20_2" n="2">concupiscentia spadonis devirginavit iuvenem</p>
@@ -1234,7 +1232,7 @@
             abscondunt sapientiam suam</p>
         </div>
         <div xml:id="bible-sir21" n="21">
-          <head>Caput 21</head>
+          <head xml:id="bible-sir-Hd1e2063">Caput 21</head>
           <p xml:id="sir21_1" n="1">fili peccasti non adicias iterum sed et de pristinis deprecare
             ut tibi remittatur</p>
           <p xml:id="sir21_2" n="2">quasi a facie colubri fuge peccata et si accesseris ad illa
@@ -1294,7 +1292,7 @@
             manserit odiosus erit tacitus et sensatus honorabitur</p>
         </div>
         <div xml:id="bible-sir22" n="22">
-          <head>Caput 22</head>
+          <head xml:id="bible-sir-Hd1e2166">Caput 22</head>
           <p xml:id="sir22_1" n="1">in lapide luteo lapidatus est piger et omnes loquentur super
             aspernationem illius</p>
           <p xml:id="sir22_2" n="2">de stercore boum lapidatus est piger et omnis qui tetigerit eum
@@ -1357,7 +1355,7 @@
             certum uti ne cadam ab ipsis et lingua mea perdat me</p>
         </div>
         <div xml:id="bible-sir23" n="23">
-          <head>Caput 23</head>
+          <head xml:id="bible-sir-Hd1e2276">Caput 23</head>
           <p xml:id="sir23_1" n="1">Domine pater et dominator vitae meae non relinquas me ne sinas
             me cadere in illis</p>
           <p xml:id="sir23_2" n="2">quis superponet in me in cogitatu meo flagella et in corde meo
@@ -1438,7 +1436,7 @@
             adsumetur ab eo</p>
         </div>
         <div xml:id="bible-sir24" n="24">
-          <head>Caput 24</head>
+          <head xml:id="bible-sir-Hd1e2401">Caput 24</head>
           <p xml:id="sir24_1" n="1">sapientiae laus sapientia laudabit animam suam et in Deo
             honorabitur et in medio populi sui gloriabitur</p>
           <p xml:id="sir24_2" n="2">et in ecclesiis Altissimi aperiet os suum et in conspectu
@@ -1529,7 +1527,7 @@
             exquirentibus veritatem</p>
         </div>
         <div xml:id="bible-sir25" n="25">
-          <head>Caput 25</head>
+          <head xml:id="bible-sir-Hd1e2555">Caput 25</head>
           <p xml:id="sir25_1" n="1">in tribus placitum est spiritui meo quae sunt probata coram Deo
             et hominibus</p>
           <p xml:id="sir25_2" n="2">concordia fratrum et amor proximorum et vir et mulier sibi
@@ -1592,7 +1590,7 @@
           <p xml:id="sir25_36" n="36">a carnibus tuis abscide illam ne semper te abutatur</p>
         </div>
         <div xml:id="bible-sir26" n="26">
-          <head>Caput 26</head>
+          <head xml:id="bible-sir-Hd1e2674">Caput 26</head>
           <p xml:id="sir26_1" n="1">mulieris bonae beatus vir numerus enim annorum illorum
             duplex</p>
           <p xml:id="sir26_2" n="2">mulier fortis oblectat virum suum et annos vitae illius in pace
@@ -1644,7 +1642,7 @@
             labiae</p>
         </div>
         <div xml:id="bible-sir27" n="27">
-          <head>Caput 27</head>
+          <head xml:id="bible-sir-Hd1e2767">Caput 27</head>
           <p xml:id="sir27_1" n="1">propter inopiam multi deliquerunt et qui quaerit locupletari
             avertit oculum suum</p>
           <p xml:id="sir27_2" n="2">si in medio conpaginis lapidum palus figitur sic et inter medium
@@ -1709,7 +1707,7 @@
             erit illorum</p>
         </div>
         <div xml:id="bible-sir28" n="28">
-          <head>Caput 28</head>
+          <head xml:id="bible-sir-Hd1e2876">Caput 28</head>
           <p xml:id="sir28_1" n="1">qui vindicari vult a Deo inveniet vindictam et peccata illius
             servans servabit</p>
           <p xml:id="sir28_2" n="2">relinque proximo tuo nocenti te et tunc deprecanti tibi peccata
@@ -1766,7 +1764,7 @@
             inimicorum insidiantium tibi et sit casus tuus insanabilis in mortem</p>
         </div>
         <div xml:id="bible-sir29" n="29">
-          <head>Caput 29</head>
+          <head xml:id="bible-sir-Hd1e2977">Caput 29</head>
           <p xml:id="sir29_1" n="1">de fenore qui facit misericordiam fenerat proximum et qui
             praevalet manu mandata servat</p>
           <p xml:id="sir29_2" n="2">fenera proximum tibi in tempore necessitatis illius et iterum
@@ -1834,7 +1832,7 @@
             inproperium feneratoris</p>
         </div>
         <div xml:id="bible-sir30" n="30">
-          <head>Caput 30</head>
+          <head xml:id="bible-sir-Hd1e3086">Caput 30</head>
           <p xml:id="sir30_1" n="1">de filiis qui diligit filium suum adsiduat illi flagella ut
             laetetur in novissimo suo</p>
           <p xml:id="sir30_2" n="2">qui docet filium suum laudabitur in illo et in medio
@@ -1888,7 +1886,7 @@
             fiunt</p>
         </div>
         <div xml:id="bible-sir31" n="31">
-          <head>Caput 31</head>
+          <head xml:id="bible-sir-Hd1e3176">Caput 31</head>
           <p xml:id="sir31_1" n="1">vigilia honestatis tabefacit carnes et cogitatus illius auferet
             somnum</p>
           <p xml:id="sir31_2" n="2">cogitatus praesentiae avertit sensum et infirmitas gravis
@@ -1965,7 +1963,7 @@
             repetendo</p>
         </div>
         <div xml:id="bible-sir32" n="32">
-          <head>Caput 32</head>
+          <head xml:id="bible-sir-Hd1e3314">Caput 32</head>
           <p xml:id="sir32_1" n="1">rectorem te posuerunt noli extolli esto in illis quasi unus ex
             ipsis</p>
           <p xml:id="sir32_2" n="2">curam illorum habe et sic conside et omni cura tua explicita
@@ -2018,7 +2016,7 @@
             minorabuntur</p>
         </div>
         <div xml:id="bible-sir33" n="33">
-          <head>Caput 33</head>
+          <head xml:id="bible-sir-Hd1e3407">Caput 33</head>
           <p xml:id="sir33_1" n="1">timenti Dominum non occurrent mala sed in temptatione Deus illum
             conservat et liberabit a malis</p>
           <p xml:id="sir33_2" n="2">sapiens non odit mandata et iustitias et non inludetur quasi in
@@ -2086,7 +2084,7 @@
             illum nescis</p>
         </div>
         <div xml:id="bible-sir34" n="34">
-          <head>Caput 34</head>
+          <head xml:id="bible-sir-Hd1e3516">Caput 34</head>
           <p xml:id="sir34_1" n="1">vana spes et mendacium insensato viro et somnia extollunt
             inprudentes</p>
           <p xml:id="sir34_2" n="2">quasi qui adprehendit umbram et persequitur ventum sic et qui
@@ -2143,7 +2141,7 @@
             quid proficit humiliando se orationem illius quis exaudiet</p>
         </div>
         <div xml:id="bible-sir35" n="35">
-          <head>Caput 35</head>
+          <head xml:id="bible-sir-Hd1e3617">Caput 35</head>
           <p xml:id="sir35_1" n="1">qui conservat legem multiplicat orationem</p>
           <p xml:id="sir35_2" n="2">sacrificium salutare adtendere mandatis et discedere ab omni
             iniquitate</p>
@@ -2188,7 +2186,7 @@
             pluviae in tempore siccitatis</p>
         </div>
         <div xml:id="bible-sir36" n="36">
-          <head>Caput 36</head>
+          <head xml:id="bible-sir-Hd1e3698">Caput 36</head>
           <p xml:id="sir36_1" n="1">miserere nostri Deus omnium et respice nos et ostende nobis
             lucem miserationum tuarum</p>
           <p xml:id="sir36_2" n="2">et inmitte timorem tuum super gentes quae non exquisierunt te et
@@ -2240,7 +2238,7 @@
             obscuraverit quasi succinctus latro exiliens de civitate in civitatem</p>
         </div>
         <div xml:id="bible-sir37" n="37">
-          <head>Caput 37</head>
+          <head xml:id="bible-sir-Hd1e3791">Caput 37</head>
           <p xml:id="sir37_1" n="1">omnis amicus dicet et ego amicitiam copulavi sed est amicus solo
             nomine amicus nonne tristitia inest usque ad mortem</p>
           <p xml:id="sir37_2" n="2">sodalis autem et amicus ad inimicitiam convertentur</p>
@@ -2308,7 +2306,7 @@
             adiciet vitam</p>
         </div>
         <div xml:id="bible-sir38" n="38">
-          <head>Caput 38</head>
+          <head xml:id="bible-sir-Hd1e3903">Caput 38</head>
           <p xml:id="sir38_1" n="1">honora medicum propter necessitatem etenim illum creavit
             Altissimus</p>
           <p xml:id="sir38_2" n="2">a Deo est omnis medella et a rege accipiet dationem</p>
@@ -2386,7 +2384,7 @@
             operatione artis adcommodantes animam suam et conquirentes in lege Altissimi</p>
         </div>
         <div xml:id="bible-sir39" n="39">
-          <head>Caput 39</head>
+          <head xml:id="bible-sir-Hd1e4028">Caput 39</head>
           <p xml:id="sir39_1" n="1">sapientiam omnium antiquorum exquiret et in prophetiis
             vacabit</p>
           <p xml:id="sir39_2" n="2">narrationem virorum nominatorum conservabit et in versutias
@@ -2467,7 +2465,7 @@
             Domini</p>
         </div>
         <div xml:id="bible-sir40" n="40">
-          <head>Caput 40</head>
+          <head xml:id="bible-sir-Hd1e4163">Caput 40</head>
           <p xml:id="sir40_1" n="1">occupatio magna creata est omnibus hominibus et iugum grave
             super filios Adam a die exitus de ventre matris eorum usque in diem sepulturae in matrem
             omnium</p>
@@ -2535,7 +2533,7 @@
             ignis ardebit</p>
         </div>
         <div xml:id="bible-sir41" n="41">
-          <head>Caput 41</head>
+          <head xml:id="bible-sir-Hd1e4270">Caput 41</head>
           <p xml:id="sir41_1" n="1">o mors quam amara est memoria tua homini pacem habenti in
             substantiis suis</p>
           <p xml:id="sir41_2" n="2">viro quieto et cuius viae directae sunt in omnibus et adhuc
@@ -2591,7 +2589,7 @@
             inproperes</p>
         </div>
         <div xml:id="bible-sir42" n="42">
-          <head>Caput 42</head>
+          <head xml:id="bible-sir-Hd1e4363">Caput 42</head>
           <p xml:id="sir42_1" n="1">non duplices sermonem auditus de revelatione sermonis absconditi
             et eris vere sine confusione et invenies gratiam in conspectu omnium hominum ne pro his
             omnibus confundaris et ne accipias personam ut delinquas</p>
@@ -2650,7 +2648,7 @@
             gloriam eius</p>
         </div>
         <div xml:id="bible-sir43" n="43">
-          <head>Caput 43</head>
+          <head xml:id="bible-sir-Hd1e4450">Caput 43</head>
           <p xml:id="sir43_1" n="1">altitudinis firmamentum pulchritudo est species caeli in visione
             gloriae</p>
           <p xml:id="sir43_2" n="2">sol in aspectu adnuntians in exitu vas admirabile opus
@@ -2725,7 +2723,7 @@
             sapientiam</p>
         </div>
         <div xml:id="bible-sir44" n="44">
-          <head>Caput 44</head>
+          <head xml:id="bible-sir-Hd1e4572">Caput 44</head>
           <p xml:id="sir44_1" n="1">laus patrum laudemus viros gloriosos et parentes nostros in
             generatione sua</p>
           <p xml:id="sir44_2" n="2">multam gloriam fecit Dominus magnificentia sua a saeculo</p>
@@ -2778,7 +2776,7 @@
             in oculis omnis carnis</p>
         </div>
         <div xml:id="bible-sir45" n="45">
-          <head>Caput 45</head>
+          <head xml:id="bible-sir-Hd1e4662">Caput 45</head>
           <p xml:id="sir45_1" n="1">dilectus a Deo et hominibus Moses cuius memoria in benedictione
             est</p>
           <p xml:id="sir45_2" n="2">similem illum fecit in gloria sanctorum et magnificavit eum in
@@ -2842,7 +2840,7 @@
             ne abolerentur bona ipsorum et gloriam eorum in gentem ipsorum aeternam fecit</p>
         </div>
         <div xml:id="bible-sir46" n="46">
-          <head>Caput 46</head>
+          <head xml:id="bible-sir-Hd1e4765">Caput 46</head>
           <p xml:id="sir46_1" n="1">fortis in bello Iesus Nave successor Mosi in prophetis qui fuit
             magnus secundum nomen suum</p>
           <p xml:id="sir46_2" n="2">maximus in salutem electorum Dei expugnare insurgentes hostes ut
@@ -2895,7 +2893,7 @@
             gentis</p>
         </div>
         <div xml:id="bible-sir47" n="47">
-          <head>Caput 47</head>
+          <head xml:id="bible-sir-Hd1e4844">Caput 47</head>
           <p xml:id="sir47_1" n="1">post hoc surrexit Nathan propheta in diebus David</p>
           <p xml:id="sir47_2" n="2">et quasi adeps separatus est a carne sic David a filiis
             Israhel</p>
@@ -2954,7 +2952,7 @@
             defensio et ab omnibus peccatis liberavit eos</p>
         </div>
         <div xml:id="bible-sir48" n="48">
-          <head>Caput 48</head>
+          <head xml:id="bible-sir-Hd1e4947">Caput 48</head>
           <p xml:id="sir48_1" n="1">et surrexit Helias propheta quasi ignis et verbum ipsius quasi
             fax ardebat</p>
           <p xml:id="sir48_2" n="2">qui induxit in illos famem et imitantes illum invidia sua pauci
@@ -3008,7 +3006,7 @@
           <p xml:id="sir48_28" n="28">ostendit futura et abscondita antequam evenirent</p>
         </div>
         <div xml:id="bible-sir49" n="49">
-          <head>Caput 49</head>
+          <head xml:id="bible-sir-Hd1e5040">Caput 49</head>
           <p xml:id="sir49_1" n="1">memoria Iosiae in conpositione odoris facti opus pigmentarii</p>
           <p xml:id="sir49_2" n="2">in omni ore quasi mel indulcabitur eius memoria et ut musica in
             convivio vini</p>
@@ -3047,7 +3045,7 @@
             animam in origine Adam</p>
         </div>
         <div xml:id="bible-sir50" n="50">
-          <head>Caput 50</head>
+          <head xml:id="bible-sir-Hd1e5105">Caput 50</head>
           <p xml:id="sir50_1" n="1">Simon Onii filius sacerdos magnus qui in vita sua suffulsit
             domum et in diebus suis corroboravit</p>
           <p xml:id="sir50_2" n="2">templi etiam altitudo ab ipso fundata est duplex aedificatio
@@ -3109,7 +3107,7 @@
             eius est</p>
         </div>
         <div xml:id="bible-sir51" n="51">
-          <head>Caput 51</head>
+          <head xml:id="bible-sir-Hd1e5208">Caput 51</head>
           <p xml:id="sir51_1" n="1">oratio Iesu filii Sirach confitebor tibi Domine rex et
             conlaudabo te Deum salvatorem meum</p>
           <p xml:id="sir51_2" n="2">confiteor nomini tuo quoniam adiutor et protector factus es
@@ -3180,7 +3178,7 @@
             vestram in tempore suo</p>
         </div>
         <div xml:id="bible-sir52" n="52">
-          <head>Caput 52</head>
+          <head xml:id="bible-sir-Hd1e5333">Caput 52</head>
           <p xml:id="sir52_1" n="1">et declinavit Salomon genua in conspectu totius ecclesiae
             Israhel et aperuit manus suas ad caelum et dixit</p>
           <p xml:id="sir52_2" n="2">Domine Deus Israhel non est tibi similis Deus in caelo sursum

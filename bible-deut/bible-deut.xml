@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-deut">
-        <head>Deuteronomium</head>
+        <head xml:id="bible-deut-Hd1e76">Deuteronomium</head>
         <div xml:id="bible-deut1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-deut-Hd1e80">Caput 1</head>
           <p xml:id="deut1_1" n="1">haec sunt verba quae locutus est Moses ad omnem Israhel trans
             Iordanem in solitudine campestri contra mare Rubrum inter Pharan et Thophel et Laban et
             Aseroth ubi auri est plurimum</p>
@@ -145,7 +143,7 @@
           <p xml:id="deut1_46" n="46">sedistis ergo in Cadesbarne multo tempore</p>
         </div>
         <div xml:id="bible-deut2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-deut-Hd1e230">Caput 2</head>
           <p xml:id="deut2_1" n="1">profectique inde venimus in solitudinem quae ducit ad mare
             Rubrum sicut mihi dixerat Dominus et circumivimus montem Seir longo tempore</p>
           <p xml:id="deut2_2" n="2">dixitque Dominus ad me</p>
@@ -230,7 +228,7 @@
             prohibuit Dominus Deus noster</p>
         </div>
         <div xml:id="bible-deut3" n="3">
-          <head>Caput 3</head>
+          <head xml:id="bible-deut-Hd1e352">Caput 3</head>
           <p xml:id="deut3_1" n="1">itaque conversi ascendimus per iter Basan egressusque est Og rex
             Basan in occursum nobis cum populo suo ad bellandum in Edrai</p>
           <p xml:id="deut3_2" n="2">dixitque Dominus ad me ne timeas eum quia in manu tua traditus
@@ -294,7 +292,7 @@
           <p xml:id="deut3_29" n="29">mansimusque in valle contra fanum Phogor</p>
         </div>
         <div xml:id="bible-deut4" n="4">
-          <head>Caput 4</head>
+          <head xml:id="bible-deut-Hd1e449">Caput 4</head>
           <p xml:id="deut4_1" n="1">et nunc Israhel audi praecepta et iudicia quae ego doceo te ut
             faciens ea vivas et ingrediens possideas terram quam Dominus Deus patrum vestrorum
             daturus est vobis</p>
@@ -408,7 +406,7 @@
             mare Solitudinis et usque ad radices montis Phasga</p>
         </div>
         <div xml:id="bible-deut5" n="5">
-          <head>Caput 5</head>
+          <head xml:id="bible-deut-Hd1e610">Caput 5</head>
           <p xml:id="deut5_1" n="1">vocavitque Moses omnem Israhelem et dixit ad eum audi Israhel
             caerimonias atque iudicia quae ego loquor in auribus vestris hodie discite ea et opere
             conplete</p>
@@ -479,7 +477,7 @@
             vivatis et bene sit vobis et protelentur dies in terra possessionis vestrae</p>
         </div>
         <div xml:id="bible-deut6" n="6">
-          <head>Caput 6</head>
+          <head xml:id="bible-deut-Hd1e719">Caput 6</head>
           <p xml:id="deut6_1" n="1">haec sunt praecepta et caerimoniae atque iudicia quae mandavit
             Dominus Deus vester ut docerem vos et faciatis ea in terra ad quam transgredimini
             possidendam</p>
@@ -535,7 +533,7 @@
             praecepta eius coram Domino Deo nostro sicut mandavit nobis</p>
         </div>
         <div xml:id="bible-deut7" n="7">
-          <head>Caput 7</head>
+          <head xml:id="bible-deut-Hd1e803">Caput 7</head>
           <p xml:id="deut7_1" n="1">cum introduxerit te Dominus Deus tuus in terram quam possessurus
             ingredieris et deleverit gentes multas coram te Hettheum et Gergeseum et Amorreum
             Chananeum et Ferezeum et Eveum et Iebuseum septem gentes multo maioris numeri quam tu es
@@ -600,7 +598,7 @@
             abominationi habebis quia anathema est</p>
         </div>
         <div xml:id="bible-deut8" n="8">
-          <head>Caput 8</head>
+          <head xml:id="bible-deut-Hd1e890">Caput 8</head>
           <p xml:id="deut8_1" n="1">omne mandatum quod ego praecipio tibi hodie cave diligenter ut
             facias ut possitis vivere et multiplicemini ingressique possideatis terram pro qua
             iuravit Dominus patribus vestris</p>
@@ -648,7 +646,7 @@
             peribitis si inoboedientes fueritis voci Domini Dei vestri</p>
         </div>
         <div xml:id="bible-deut9" n="9">
-          <head>Caput 9</head>
+          <head xml:id="bible-deut-Hd1e958">Caput 9</head>
           <p xml:id="deut9_1" n="1">audi Israhel tu transgredieris hodie Iordanem ut possideas
             nationes maximas et fortiores te civitates ingentes et ad caelum usque muratas</p>
           <p xml:id="deut9_2" n="2">populum magnum atque sublimem filios Enacim quos ipse vidisti et
@@ -720,7 +718,7 @@
             fortitudine tua magna et in brachio tuo extento</p>
         </div>
         <div xml:id="bible-deut10" n="10">
-          <head>Caput 10</head>
+          <head xml:id="bible-deut-Hd1e1055">Caput 10</head>
           <p xml:id="deut10_1" n="1">in tempore illo dixit Dominus ad me dola tibi duas tabulas
             lapideas sicut priores fuerunt et ascende ad me in montem faciesque arcam ligneam</p>
           <p xml:id="deut10_2" n="2">et scribam in tabulis verba quae fuerunt in his quas ante
@@ -773,7 +771,7 @@
             et ecce nunc multiplicavit te Dominus Deus tuus sicut astra caeli</p>
         </div>
         <div xml:id="bible-deut11" n="11">
-          <head>Caput 11</head>
+          <head xml:id="bible-deut-Hd1e1130">Caput 11</head>
           <p xml:id="deut11_1" n="1">ama itaque Dominum Deum tuum et observa praecepta eius et
             caerimonias iudicia atque mandata omni tempore</p>
           <p xml:id="deut11_2" n="2">cognoscite hodie quae ignorant filii vestri qui non viderunt
@@ -846,7 +844,7 @@
             hodie ponam in conspectu vestro</p>
         </div>
         <div xml:id="bible-deut12" n="12">
-          <head>Caput 12</head>
+          <head xml:id="bible-deut-Hd1e1236">Caput 12</head>
           <p xml:id="deut12_1" n="1">haec sunt praecepta atque iudicia quae facere debetis in terra
             quam Dominus Deus patrum tuorum daturus est tibi ut possideas eam cunctis diebus quibus
             super humum gradieris</p>
@@ -927,7 +925,7 @@
             quicquam nec minuas</p>
         </div>
         <div xml:id="bible-deut13" n="13">
-          <head>Caput 13</head>
+          <head xml:id="bible-deut-Hd1e1342">Caput 13</head>
           <p xml:id="deut13_1" n="1">si surrexerit in medio tui prophetes aut qui somnium vidisse se
             dicat et praedixerit signum atque portentum</p>
           <p xml:id="deut13_2" n="2">et evenerit quod locutus est et dixerit tibi eamus et sequamur
@@ -973,7 +971,7 @@
             Domini Dei tui</p>
         </div>
         <div xml:id="bible-deut14" n="14">
-          <head>Caput 14</head>
+          <head xml:id="bible-deut-Hd1e1404">Caput 14</head>
           <p xml:id="deut14_1" n="1">filii estote Domini Dei vestri non vos incidetis nec facietis
             calvitium super mortuo</p>
           <p xml:id="deut14_2" n="2">quoniam populus sanctus es Domino Deo tuo et te elegit ut sis
@@ -1033,7 +1031,7 @@
             feceris</p>
         </div>
         <div xml:id="bible-deut15" n="15">
-          <head>Caput 15</head>
+          <head xml:id="bible-deut-Hd1e1501">Caput 15</head>
           <p xml:id="deut15_1" n="1">septimo anno facies remissionem</p>
           <p xml:id="deut15_2" n="2">quae hoc ordine celebrabitur cui debetur aliquid ab amico vel
             proximo ac fratre suo repetere non poterit quia annus remissionis est Domini</p>
@@ -1088,7 +1086,7 @@
             effundas in terram quasi aquam</p>
         </div>
         <div xml:id="bible-deut16" n="16">
-          <head>Caput 16</head>
+          <head xml:id="bible-deut-Hd1e1579">Caput 16</head>
           <p xml:id="deut16_1" n="1">observa mensem novarum frugum et verni primum temporis ut
             facias phase Domino Deo tuo quoniam in isto mense eduxit te Dominus Deus tuus de Aegypto
             nocte</p>
@@ -1144,7 +1142,7 @@
             Deus tuus</p>
         </div>
         <div xml:id="bible-deut17" n="17">
-          <head>Caput 17</head>
+          <head xml:id="bible-deut-Hd1e1654">Caput 17</head>
           <p xml:id="deut17_1" n="1">non immolabis Domino Deo tuo bovem et ovem in quo est macula
             aut quippiam vitii quia abominatio est Domini Dei tui</p>
           <p xml:id="deut17_2" n="2">cum repperti fuerint apud te intra unam portarum tuarum quas
@@ -1197,7 +1195,7 @@
             super Israhel</p>
         </div>
         <div xml:id="bible-deut18" n="18">
-          <head>Caput 18</head>
+          <head xml:id="bible-deut-Hd1e1722">Caput 18</head>
           <p xml:id="deut18_1" n="1">non habebunt sacerdotes et Levitae et omnes qui de eadem tribu
             sunt partem et hereditatem cum reliquo Israhel quia sacrificia Domini et oblationes eius
             comedent</p>
@@ -1247,7 +1245,7 @@
             propheta confinxit et idcirco non timebis eum</p>
         </div>
         <div xml:id="bible-deut19" n="19">
-          <head>Caput 19</head>
+          <head xml:id="bible-deut-Hd1e1796">Caput 19</head>
           <p xml:id="deut19_1" n="1">cum disperderit Dominus Deus tuus gentes quarum tibi traditurus
             est terram et possederis eam habitaverisque in urbibus eius et in aedibus</p>
           <p xml:id="deut19_2" n="2">tres civitates separabis tibi in medio terrae quam Dominus Deus
@@ -1300,7 +1298,7 @@
             dentem pro dente manum pro manu pedem pro pede exiges</p>
         </div>
         <div xml:id="bible-deut20" n="20">
-          <head>Caput 20</head>
+          <head xml:id="bible-deut-Hd1e1867">Caput 20</head>
           <p xml:id="deut20_1" n="1">si exieris ad bellum contra hostes tuos et videris equitatum et
             currus et maiorem quam tu habes adversarii exercitus multitudinem non timebis eos quia
             Dominus Deus tuus tecum est qui eduxit te de terra Aegypti</p>
@@ -1352,7 +1350,7 @@
             dimicat</p>
         </div>
         <div xml:id="bible-deut21" n="21">
-          <head>Caput 21</head>
+          <head xml:id="bible-deut-Hd1e1935">Caput 21</head>
           <p xml:id="deut21_1" n="1">quando inventum fuerit in terra quam Dominus Deus tuus daturus
             est tibi hominis cadaver occisi et ignoratur caedis reus</p>
           <p xml:id="deut21_2" n="2">egredientur maiores natu et iudices tui et metientur a loco
@@ -1406,7 +1404,7 @@
             terram tuam quam Dominus Deus tuus dederit tibi in possessionem</p>
         </div>
         <div xml:id="bible-deut22" n="22">
-          <head>Caput 22</head>
+          <head xml:id="bible-deut-Hd1e2013">Caput 22</head>
           <p xml:id="deut22_1" n="1">non videbis bovem fratris tui aut ovem errantem et praeteribis
             sed reduces fratri tuo</p>
           <p xml:id="deut22_2" n="2">etiam si non est propinquus tuus frater nec nosti eum duces in
@@ -1472,7 +1470,7 @@
             eius</p>
         </div>
         <div xml:id="bible-deut23" n="23">
-          <head>Caput 23</head>
+          <head xml:id="bible-deut-Hd1e2114">Caput 23</head>
           <p xml:id="deut23_1" n="1">non intrabit eunuchus adtritis vel amputatis testiculis et
             absciso veretro ecclesiam Domini</p>
           <p xml:id="deut23_2" n="2">non ingredietur mamzer hoc est de scorto natus in ecclesiam
@@ -1527,7 +1525,7 @@
             conteres falce autem non metes</p>
         </div>
         <div xml:id="bible-deut24" n="24">
-          <head>Caput 24</head>
+          <head xml:id="bible-deut-Hd1e2198">Caput 24</head>
           <p xml:id="deut24_1" n="1">si acceperit homo uxorem et habuerit eam et non invenerit
             gratiam ante oculos eius propter aliquam foeditatem scribet libellum repudii et dabit in
             manu illius et dimittet eam de domo sua</p>
@@ -1577,7 +1575,7 @@
             tibi ut facias hanc rem</p>
         </div>
         <div xml:id="bible-deut25" n="25">
-          <head>Caput 25</head>
+          <head xml:id="bible-deut-Hd1e2272">Caput 25</head>
           <p xml:id="deut25_1" n="1">si fuerit causa inter aliquos et interpellaverint iudices quem
             iustum esse perspexerint illi iustitiae palmam dabunt quem impium condemnabunt
             impietatis</p>
@@ -1621,7 +1619,7 @@
             caelo cave ne obliviscaris</p>
         </div>
         <div xml:id="bible-deut26" n="26">
-          <head>Caput 26</head>
+          <head xml:id="bible-deut-Hd1e2337">Caput 26</head>
           <p xml:id="deut26_1" n="1">cumque intraveris terram quam Dominus Deus tuus tibi daturus
             est possidendam et obtinueris eam atque habitaveris in illa</p>
           <p xml:id="deut26_2" n="2">tolles de cunctis frugibus primitias et pones in cartallo
@@ -1670,7 +1668,7 @@
             est</p>
         </div>
         <div xml:id="bible-deut27" n="27">
-          <head>Caput 27</head>
+          <head xml:id="bible-deut-Hd1e2402">Caput 27</head>
           <p xml:id="deut27_1" n="1">praecepit autem Moses et seniores Israhel populo dicentes
             custodite omne mandatum quod praecipio vobis hodie</p>
           <p xml:id="deut27_2" n="2">cumque transieritis Iordanem in terram quam Dominus Deus tuus
@@ -1726,7 +1724,7 @@
             opere perficit et dicet omnis populus amen</p>
         </div>
         <div xml:id="bible-deut28" n="28">
-          <head>Caput 28</head>
+          <head xml:id="bible-deut-Hd1e2489">Caput 28</head>
           <p xml:id="deut28_1" n="1">sin autem audieris vocem Domini Dei tui ut facias atque
             custodias omnia mandata eius quae ego praecipio tibi hodie faciet te Dominus Deus tuus
             excelsiorem cunctis gentibus quae versantur in terra</p>
@@ -1882,7 +1880,7 @@
             erit qui emat</p>
         </div>
         <div xml:id="bible-deut29" n="29">
-          <head>Caput 29</head>
+          <head xml:id="bible-deut-Hd1e2710">Caput 29</head>
           <p xml:id="deut29_1" n="1">haec sunt verba foederis quod praecepit Dominus Mosi ut feriret
             cum filiis Israhel in terra Moab praeter illud foedus quod cum eis pepigit in Horeb</p>
           <p xml:id="deut29_2" n="2">vocavitque Moses omnem Israhelem et dixit ad eos vos vidistis
@@ -1948,7 +1946,7 @@
             filiis nostris usque in aeternum ut faciamus universa legis huius</p>
         </div>
         <div xml:id="bible-deut30" n="30">
-          <head>Caput 30</head>
+          <head xml:id="bible-deut-Hd1e2807">Caput 30</head>
           <p xml:id="deut30_1" n="1">cum ergo venerint super te omnes sermones isti benedictio sive
             maledictio quam proposui in conspectu tuo et ductus paenitudine cordis tui in universis
             gentibus in quas disperserit te Dominus Deus tuus</p>
@@ -2000,7 +1998,7 @@
             iuravit Dominus patribus tuis Abraham Isaac et Iacob ut daret eam illis</p>
         </div>
         <div xml:id="bible-deut31" n="31">
-          <head>Caput 31</head>
+          <head xml:id="bible-deut-Hd1e2875">Caput 31</head>
           <p xml:id="deut31_1" n="1">abiit itaque Moses et locutus est omnia verba haec ad universum
             Israhel</p>
           <p xml:id="deut31_2" n="2">et dixit ad eos centum viginti annorum sum hodie non possum
@@ -2081,7 +2079,7 @@
             carminis huius et ad finem usque conplevit</p>
         </div>
         <div xml:id="bible-deut32" n="32">
-          <head>Caput 32</head>
+          <head xml:id="bible-deut-Hd1e2975">Caput 32</head>
           <p xml:id="deut32_1" n="1">audite caeli quae loquor audiat terra verba oris mei</p>
           <p xml:id="deut32_2" n="2">concrescat in pluvia doctrina mea fluat ut ros eloquium meum
             quasi imber super herbam et quasi stillae super gramina</p>
@@ -2189,7 +2187,7 @@
             dabo filiis Israhel</p>
         </div>
         <div xml:id="bible-deut33" n="33">
-          <head>Caput 33</head>
+          <head xml:id="bible-deut-Hd1e3144">Caput 33</head>
           <p xml:id="deut33_1" n="1">haec est benedictio qua benedixit Moses homo Dei filiis Israhel
             ante mortem suam</p>
           <p xml:id="deut33_2" n="2">et ait Dominus de Sina venit et de Seir ortus est nobis
@@ -2251,7 +2249,7 @@
             colla calcabis</p>
         </div>
         <div xml:id="bible-deut34" n="34">
-          <head>Caput 34</head>
+          <head xml:id="bible-deut-Hd1e3241">Caput 34</head>
           <p xml:id="deut34_1" n="1">ascendit ergo Moses de campestribus Moab super montem Nebo in
             verticem Phasga contra Hiericho ostenditque ei Dominus omnem terram Galaad usque Dan</p>
           <p xml:id="deut34_2" n="2">et universum Nepthalim terramque Ephraim et Manasse et omnem

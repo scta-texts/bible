@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-nah">
-        <head>Nahum</head>
+        <head xml:id="bible-nah-Hd1e76">Nahum</head>
         <div xml:id="bible-nah1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-nah-Hd1e80">Caput 1</head>
           <p xml:id="nah1_1" n="1">onus Nineve liber visionis Naum Helcesei</p>
           <p xml:id="nah1_2" n="2">Deus aemulator et ulciscens Dominus ulciscens Dominus et habens
             furorem ulciscens Dominus in hostes suos et irascens ipse inimicis suis</p>
@@ -78,7 +76,7 @@
             in te Belial universus interiit</p>
         </div>
         <div xml:id="bible-nah2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-nah-Hd1e132">Caput 2</head>
           <p xml:id="nah2_1" n="1">ascendit qui dispergat coram te qui custodit obsidionem
             contemplare viam conforta lumbos robora virtutem valde</p>
           <p xml:id="nah2_2" n="2">quia reddidit Dominus superbiam Iacob sicut superbiam Israhel
@@ -108,7 +106,7 @@
             tuam et non audietur ultra vox nuntiorum tuorum</p>
         </div>
         <div xml:id="bible-nah3" n="3">
-          <head>Caput 3</head>
+          <head xml:id="bible-nah-Hd1e178">Caput 3</head>
           <p xml:id="nah3_1" n="1">vae civitas sanguinum universa mendacii dilaceratione plena non
             recedet a te rapina</p>
           <p xml:id="nah3_2" n="2">vox flagelli et vox impetus rotae et equi frementis et quadrigae

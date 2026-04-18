@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-phil">
-        <head>ad Philippenses</head>
+        <head xml:id="bible-phil-Hd1e76">ad Philippenses</head>
         <div xml:id="bible-phil1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-phil-Hd1e80">Caput 1</head>
           <p xml:id="phil1_1" n="1">Paulus et Timotheus servi Iesu Christi omnibus sanctis in
             Christo Iesu qui sunt Philippis cum episcopis et diaconis</p>
           <p xml:id="phil1_2" n="2">gratia vobis et pax a Deo Patre nostro et Domino Iesu
@@ -107,7 +105,7 @@
             audistis de me</p>
         </div>
         <div xml:id="bible-phil2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-phil-Hd1e180">Caput 2</head>
           <p xml:id="phil2_1" n="1">si qua ergo consolatio in Christo si quod solacium caritatis si
             qua societas spiritus si quid viscera et miserationes</p>
           <p xml:id="phil2_2" n="2">implete gaudium meum ut idem sapiatis eandem caritatem habentes
@@ -168,7 +166,7 @@
             animam suam ut impleret id quod ex vobis deerat erga meum obsequium</p>
         </div>
         <div xml:id="bible-phil3" n="3">
-          <head>Caput 3</head>
+          <head xml:id="bible-phil-Hd1e280">Caput 3</head>
           <p xml:id="phil3_1" n="1">de cetero fratres mei gaudete in Domino eadem vobis scribere
             mihi quidem non pigrum vobis autem necessarium</p>
           <p xml:id="phil3_2" n="2">videte canes videte malos operarios videte concisionem</p>
@@ -212,7 +210,7 @@
             claritatis suae secundum operationem qua possit etiam subicere sibi omnia</p>
         </div>
         <div xml:id="bible-phil4" n="4">
-          <head>Caput 4</head>
+          <head xml:id="bible-phil-Hd1e351">Caput 4</head>
           <p xml:id="phil4_1" n="1">itaque fratres mei carissimi et desiderantissimi gaudium meum et
             corona mea sic state in Domino carissimi</p>
           <p xml:id="phil4_2" n="2">Euhodiam rogo et Syntychen deprecor id ipsum sapere in

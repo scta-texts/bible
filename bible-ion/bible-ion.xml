@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-ion">
-        <head>Ionas</head>
+        <head xml:id="bible-ion-Hd1e76">Ionas</head>
         <div xml:id="bible-ion1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-ion-Hd1e80">Caput 1</head>
           <p xml:id="ion1_1" n="1">et factum est verbum Domini ad Ionam filium Amathi dicens</p>
           <p xml:id="ion1_2" n="2">surge vade in Nineven civitatem grandem et praedica in ea quia
             ascendit malitia eius coram me</p>
@@ -81,7 +79,7 @@
             Domino et voverunt vota</p>
         </div>
         <div xml:id="bible-ion2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-ion-Hd1e135">Caput 2</head>
           <p xml:id="ion2_1" n="1">et praeparavit Dominus piscem grandem ut degluttiret Ionam et
             erat Iona in ventre piscis tribus diebus et tribus noctibus</p>
           <p xml:id="ion2_2" n="2">et oravit Iona ad Dominum Deum suum de utero piscis</p>
@@ -104,7 +102,7 @@
           <p xml:id="ion2_11" n="11">et dixit Dominus pisci et evomuit Ionam in aridam</p>
         </div>
         <div xml:id="bible-ion3" n="3">
-          <head>Caput 3</head>
+          <head xml:id="bible-ion-Hd1e175">Caput 3</head>
           <p xml:id="ion3_1" n="1">et factum est verbum Domini ad Ionam secundo dicens</p>
           <p xml:id="ion3_2" n="2">surge vade ad Nineven civitatem magnam et praedica in ea
             praedicationem quam ego loquor ad te</p>
@@ -128,7 +126,7 @@
             misertus est Deus super malitiam quam locutus fuerat ut faceret eis et non fecit</p>
         </div>
         <div xml:id="bible-ion4" n="4">
-          <head>Caput 4</head>
+          <head xml:id="bible-ion-Hd1e211">Caput 4</head>
           <p xml:id="ion4_1" n="1">et adflictus est Iona adflictione magna et iratus est</p>
           <p xml:id="ion4_2" n="2">et oravit ad Dominum et dixit obsecro Domine numquid non hoc est
             verbum meum cum adhuc essem in terra mea propter hoc praeoccupavi ut fugerem in Tharsis

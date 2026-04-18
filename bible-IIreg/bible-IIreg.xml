@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-IIreg">
-        <head>Regum II</head>
+        <head xml:id="bible-IIreg-Hd1e76">Regum II</head>
         <div xml:id="bible-IIreg1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-IIreg-Hd1e80">Caput 1</head>
           <p xml:id="IIreg1_1" n="1">praevaricatus est autem Moab in Israhel postquam mortuus est
             Ahab</p>
           <p xml:id="IIreg1_2" n="2">ceciditque Ohozias per cancellos cenaculi sui quod habebat in
@@ -96,7 +94,7 @@
             scripta sunt in libro sermonum dierum regum Israhel</p>
         </div>
         <div xml:id="bible-IIreg2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-IIreg-Hd1e142">Caput 2</head>
           <p xml:id="IIreg2_1" n="1">factum est autem cum levare vellet Dominus Heliam per turbinem
             in caelum ibant Helias et Heliseus de Galgalis</p>
           <p xml:id="IIreg2_2" n="2">dixitque Helias ad Heliseum sede hic quia Dominus misit me
@@ -161,7 +159,7 @@
             Samariam</p>
         </div>
         <div xml:id="bible-IIreg3" n="3">
-          <head>Caput 3</head>
+          <head xml:id="bible-IIreg-Hd1e226">Caput 3</head>
           <p xml:id="IIreg3_1" n="1">Ioram vero filius Ahab regnavit super Israhel in Samaria anno
             octavodecimo Iosaphat regis Iudae regnavitque duodecim annis</p>
           <p xml:id="IIreg3_2" n="2">et fecit malum coram Domino sed non sicut pater suus et mater
@@ -230,7 +228,7 @@
             recesserunt ab eo et reversi sunt in terram suam</p>
         </div>
         <div xml:id="bible-IIreg4" n="4">
-          <head>Caput 4</head>
+          <head xml:id="bible-IIreg-Hd1e316">Caput 4</head>
           <p xml:id="IIreg4_1" n="1">mulier autem quaedam de uxoribus prophetarum clamabat ad
             Heliseum dicens servus tuus vir meus mortuus est et tu nosti quia servus tuus fuit
             timens Dominum et ecce creditor venit ut tollat duos filios meos ad serviendum sibi</p>
@@ -334,7 +332,7 @@
             verbum Domini</p>
         </div>
         <div xml:id="bible-IIreg5" n="5">
-          <head>Caput 5</head>
+          <head xml:id="bible-IIreg-Hd1e461">Caput 5</head>
           <p xml:id="IIreg5_1" n="1">Naaman princeps militiae regis Syriae erat vir magnus apud
             dominum suum et honoratus per illum enim dedit Dominus salutem Syriae erat autem vir
             fortis et dives sed leprosus</p>
@@ -406,7 +404,7 @@
             sempiternum et egressus est ab eo leprosus quasi nix</p>
         </div>
         <div xml:id="bible-IIreg6" n="6">
-          <head>Caput 6</head>
+          <head xml:id="bible-IIreg-Hd1e551">Caput 6</head>
           <p xml:id="IIreg6_1" n="1">dixerunt autem filii prophetarum ad Heliseum ecce locus in quo
             habitamus coram te angustus est nobis</p>
           <p xml:id="IIreg6_2" n="2">eamus usque ad Iordanem et tollant singuli de silva materias
@@ -487,7 +485,7 @@
             eum et ait ecce tantum malum a Domino est quid amplius expectabo a Domino</p>
         </div>
         <div xml:id="bible-IIreg7" n="7">
-          <head>Caput 7</head>
+          <head xml:id="bible-IIreg-Hd1e660">Caput 7</head>
           <p xml:id="IIreg7_1" n="1">dixit autem Heliseus audite verbum Domini haec dicit Dominus in
             tempore hoc cras modius similae uno statere erit et duo modii hordei statere uno in
             porta Samariae</p>
@@ -546,7 +544,7 @@
             populus in porta et mortuus est</p>
         </div>
         <div xml:id="bible-IIreg8" n="8">
-          <head>Caput 8</head>
+          <head xml:id="bible-IIreg-Hd1e728">Caput 8</head>
           <p xml:id="IIreg8_1" n="1">Heliseus autem locutus est ad mulierem cuius vivere fecerat
             filium dicens surge vade tu et domus tua et peregrinare ubicumque reppereris vocavit
             enim Dominus famem et veniet super terram septem annis</p>
@@ -615,7 +613,7 @@
             Iuda descendit invisere Ioram filium Ahab in Hiezrahel quia aegrotabat</p>
         </div>
         <div xml:id="bible-IIreg9" n="9">
-          <head>Caput 9</head>
+          <head xml:id="bible-IIreg-Hd1e825">Caput 9</head>
           <p xml:id="IIreg9_1" n="1">Heliseus autem prophetes vocavit unum de filiis prophetarum et
             ait illi accinge lumbos tuos et tolle lenticulam olei hanc in manu tua et vade in Ramoth
             Galaad</p>
@@ -707,7 +705,7 @@
             agro Hiezrahel ita ut praetereuntes dicant haecine est illa Hiezabel</p>
         </div>
         <div xml:id="bible-IIreg10" n="10">
-          <head>Caput 10</head>
+          <head xml:id="bible-IIreg-Hd1e947">Caput 10</head>
           <p xml:id="IIreg10_1" n="1">erant autem Ahab septuaginta filii in Samaria scripsit ergo
             Hieu litteras et misit in Samariam ad optimates civitatis et ad maiores natu et ad
             nutricios Ahab dicens</p>
@@ -802,7 +800,7 @@
             anni sunt in Samaria</p>
         </div>
         <div xml:id="bible-IIreg11" n="11">
-          <head>Caput 11</head>
+          <head xml:id="bible-IIreg-Hd1e1067">Caput 11</head>
           <p xml:id="IIreg11_1" n="1">Athalia vero mater Ahaziae videns mortuum filium suum surrexit
             et interfecit omne semen regium</p>
           <p xml:id="IIreg11_2" n="2">tollens autem Iosaba filia regis Ioram soror Ahaziae Ioas
@@ -854,7 +852,7 @@
           <p xml:id="IIreg11_21" n="21">septemque annorum erat Ioas cum regnare coepisset</p>
         </div>
         <div xml:id="bible-IIreg12" n="12">
-          <head>Caput 12</head>
+          <head xml:id="bible-IIreg-Hd1e1138">Caput 12</head>
           <p xml:id="IIreg12_1" n="1">anno septimo Hieu regnavit Ioas quadraginta annis regnavit in
             Hierusalem nomen matris eius Sebia de Bersabee</p>
           <p xml:id="IIreg12_2" n="2">fecitque Ioas rectum coram Domino cunctis diebus quibus docuit
@@ -910,7 +908,7 @@
             David regnavitque Amasias filius eius pro eo</p>
         </div>
         <div xml:id="bible-IIreg13" n="13">
-          <head>Caput 13</head>
+          <head xml:id="bible-IIreg-Hd1e1209">Caput 13</head>
           <p xml:id="IIreg13_1" n="1">anno vicesimo tertio Ioas filii Ahaziae regis Iudae regnavit
             Ioachaz filius Hieu super Israhel in Samaria decem et septem annis</p>
           <p xml:id="IIreg13_2" n="2">et fecit malum coram Domino secutusque est peccata Hieroboam
@@ -973,7 +971,7 @@
             Ioas et reddidit civitates Israheli</p>
         </div>
         <div xml:id="bible-IIreg14" n="14">
-          <head>Caput 14</head>
+          <head xml:id="bible-IIreg-Hd1e1293">Caput 14</head>
           <p xml:id="IIreg14_1" n="1">anno secundo Ioas filii Ioachaz regis Israhel regnavit Amasias
             filius Ioas regis Iuda</p>
           <p xml:id="IIreg14_2" n="2">viginti quinque annorum erat cum regnare coepisset viginti
@@ -1044,7 +1042,7 @@
             regnavit Zaccharias filius eius pro eo</p>
         </div>
         <div xml:id="bible-IIreg15" n="15">
-          <head>Caput 15</head>
+          <head xml:id="bible-IIreg-Hd1e1390">Caput 15</head>
           <p xml:id="IIreg15_1" n="1">anno vicesimo septimo Hieroboam regis Israhel regnavit Azarias
             filius Amasiae regis Iudae</p>
           <p xml:id="IIreg15_2" n="2">sedecim annorum erat cum regnare coepisset et quinquaginta
@@ -1129,7 +1127,7 @@
             eis in civitate David patris sui et regnavit Ahaz filius eius pro eo</p>
         </div>
         <div xml:id="bible-IIreg16" n="16">
-          <head>Caput 16</head>
+          <head xml:id="bible-IIreg-Hd1e1515">Caput 16</head>
           <p xml:id="IIreg16_1" n="1">anno septimodecimo Phacee filii Romeliae regnavit Ahaz filius
             Ioatham regis Iuda</p>
           <p xml:id="IIreg16_2" n="2">viginti annorum erat Ahaz cum regnare coepisset et sedecim
@@ -1185,7 +1183,7 @@
             in civitate David et regnavit Ezechias filius eius pro eo</p>
         </div>
         <div xml:id="bible-IIreg17" n="17">
-          <head>Caput 17</head>
+          <head xml:id="bible-IIreg-Hd1e1584">Caput 17</head>
           <p xml:id="IIreg17_1" n="1">anno duodecimo Ahaz regis Iuda regnavit Osee filius Hela in
             Samaria super Israhel novem annis</p>
           <p xml:id="IIreg17_2" n="2">fecitque malum coram Domino sed non sicut reges Israhel qui
@@ -1289,7 +1287,7 @@
             parentes sui ita faciunt usque in praesentem diem</p>
         </div>
         <div xml:id="bible-IIreg18" n="18">
-          <head>Caput 18</head>
+          <head xml:id="bible-IIreg-Hd1e1719">Caput 18</head>
           <p xml:id="IIreg18_1" n="1">anno tertio Osee filii Hela regis Israhel regnavit Ezechias
             filius Ahaz regis Iuda</p>
           <p xml:id="IIreg18_2" n="2">viginti quinque annorum erat cum regnare coepisset et viginti
@@ -1380,7 +1378,7 @@
             ei verba Rabsacis</p>
         </div>
         <div xml:id="bible-IIreg19" n="19">
-          <head>Caput 19</head>
+          <head xml:id="bible-IIreg-Hd1e1841">Caput 19</head>
           <p xml:id="IIreg19_1" n="1">quae cum audisset rex Ezechias scidit vestimenta sua et
             opertus est sacco ingressusque est domum Domini</p>
           <p xml:id="IIreg19_2" n="2">et misit Eliachim praepositum domus et Sobnam scribam et senes
@@ -1470,7 +1468,7 @@
             Eseraddon filius eius pro eo</p>
         </div>
         <div xml:id="bible-IIreg20" n="20">
-          <head>Caput 20</head>
+          <head xml:id="bible-IIreg-Hd1e1963">Caput 20</head>
           <p xml:id="IIreg20_1" n="1">in diebus illis aegrotavit Ezechias usque ad mortem et venit
             ad eum Esaias filius Amos prophetes dixitque ei haec dicit Dominus Deus praecipe domui
             tuae morieris enim et non vives</p>
@@ -1525,7 +1523,7 @@
             filius eius pro eo</p>
         </div>
         <div xml:id="bible-IIreg21" n="21">
-          <head>Caput 21</head>
+          <head xml:id="bible-IIreg-Hd1e2034">Caput 21</head>
           <p xml:id="IIreg21_1" n="1">duodecim annorum erat Manasses cum regnare coepisset et
             quinquaginta quinque annis regnavit in Hierusalem nomen matris eius Aphsiba</p>
           <p xml:id="IIreg21_2" n="2">fecitque malum in conspectu Domini iuxta idola gentium quas
@@ -1589,7 +1587,7 @@
             Iosias filius eius pro eo</p>
         </div>
         <div xml:id="bible-IIreg22" n="22">
-          <head>Caput 22</head>
+          <head xml:id="bible-IIreg-Hd1e2121">Caput 22</head>
           <p xml:id="IIreg22_1" n="1">octo annorum erat Iosias cum regnare coepisset et triginta uno
             anno regnavit in Hierusalem nomen matris eius Idida filia Phadaia de Besecath</p>
           <p xml:id="IIreg22_2" n="2">fecitque quod placitum erat coram Domino et ambulavit per
@@ -1640,7 +1638,7 @@
             locum istum</p>
         </div>
         <div xml:id="bible-IIreg23" n="23">
-          <head>Caput 23</head>
+          <head xml:id="bible-IIreg-Hd1e2190">Caput 23</head>
           <p xml:id="IIreg23_1" n="1">et renuntiaverunt regi quod dixerat qui misit et congregati
             sunt ad eum omnes senes Iuda et Hierusalem</p>
           <p xml:id="IIreg23_2" n="2">ascenditque rex templum Domini et omnes viri Iuda universique
@@ -1747,7 +1745,7 @@
             eius</p>
         </div>
         <div xml:id="bible-IIreg24" n="24">
-          <head>Caput 24</head>
+          <head xml:id="bible-IIreg-Hd1e2312">Caput 24</head>
           <p xml:id="IIreg24_1" n="1">in diebus eius ascendit Nabuchodonosor rex Babylonis et factus
             est ei Ioiachim servus tribus annis et rursum rebellavit contra eum</p>
           <p xml:id="IIreg24_2" n="2">inmisitque ei Dominus latrunculos Chaldeorum et latrunculos
@@ -1799,7 +1797,7 @@
             donec proiceret eos a facie sua recessitque Sedecias a rege Babylonis</p>
         </div>
         <div xml:id="bible-IIreg25" n="25">
-          <head>Caput 25</head>
+          <head xml:id="bible-IIreg-Hd1e2380">Caput 25</head>
           <p xml:id="IIreg25_1" n="1">factum est autem anno nono regni eius mense decimo decima die
             mensis venit Nabuchodonosor rex Babylonis ipse et omnis exercitus eius in Hierusalem et
             circumdederunt eam et extruxerunt in circuitu eius munitiones</p>

@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-lc">
-        <head>Lucas</head>
+        <head xml:id="bible-lc-Hd1e76">Lucas</head>
         <div xml:id="bible-lc1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-lc-Hd1e80">Caput 1</head>
           <p xml:id="lc1_1" n="1">quoniam quidem multi conati sunt ordinare narrationem quae in
             nobis conpletae sunt rerum</p>
           <p xml:id="lc1_2" n="2">sicut tradiderunt nobis qui ab initio ipsi viderunt et ministri
@@ -193,7 +191,7 @@
             usque in diem ostensionis suae ad Israhel</p>
         </div>
         <div xml:id="bible-lc2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-lc-Hd1e338">Caput 2</head>
           <p xml:id="lc2_1" n="1">factum est autem in diebus illis exiit edictum a Caesare Augusto
             ut describeretur universus orbis</p>
           <p xml:id="lc2_2" n="2">haec descriptio prima facta est praeside Syriae Cyrino</p>
@@ -293,7 +291,7 @@
             homines</p>
         </div>
         <div xml:id="bible-lc3" n="3">
-          <head>Caput 3</head>
+          <head xml:id="bible-lc-Hd1e507">Caput 3</head>
           <p xml:id="lc3_1" n="1">anno autem quintodecimo imperii Tiberii Caesaris procurante Pontio
             Pilato Iudaeam tetrarcha autem Galilaeae Herode Philippo autem fratre eius tetrarcha
             Itureae et Trachonitidis regionis et Lysania Abilinae tetrarcha</p>
@@ -371,7 +369,7 @@
           <p xml:id="lc3_38" n="38">qui fuit Enos qui fuit Seth qui fuit Adam qui fuit Dei</p>
         </div>
         <div xml:id="bible-lc4" n="4">
-          <head>Caput 4</head>
+          <head xml:id="bible-lc-Hd1e632">Caput 4</head>
           <p xml:id="lc4_1" n="1">Iesus autem plenus Spiritu Sancto regressus est ab Iordane et
             agebatur in Spiritu in desertum</p>
           <p xml:id="lc4_2" n="2">diebus quadraginta et temptabatur a diabolo et nihil manducavit in
@@ -461,7 +459,7 @@
           <p xml:id="lc4_44" n="44">et erat praedicans in synagogis Galilaeae</p>
         </div>
         <div xml:id="bible-lc5" n="5">
-          <head>Caput 5</head>
+          <head xml:id="bible-lc-Hd1e777">Caput 5</head>
           <p xml:id="lc5_1" n="1">factum est autem cum turbae inruerent in eum ut audirent verbum
             Dei et ipse stabat secus stagnum Gennesareth</p>
           <p xml:id="lc5_2" n="2">et vidit duas naves stantes secus stagnum piscatores autem
@@ -545,7 +543,7 @@
             est</p>
         </div>
         <div xml:id="bible-lc6" n="6">
-          <head>Caput 6</head>
+          <head xml:id="bible-lc-Hd1e905">Caput 6</head>
           <p xml:id="lc6_1" n="1">factum est autem in sabbato secundoprimo cum transiret per sata
             vellebant discipuli eius spicas et manducabant confricantes manibus</p>
           <p xml:id="lc6_2" n="2">quidam autem Pharisaeorum dicebant illis quid facitis quod non
@@ -649,7 +647,7 @@
             et facta est ruina domus illius magna</p>
         </div>
         <div xml:id="bible-lc7" n="7">
-          <head>Caput 7</head>
+          <head xml:id="bible-lc-Hd1e1065">Caput 7</head>
           <p xml:id="lc7_1" n="1">cum autem implesset omnia verba sua in aures plebis intravit
             Capharnaum</p>
           <p xml:id="lc7_2" n="2">centurionis autem cuiusdam servus male habens erat moriturus qui
@@ -754,7 +752,7 @@
             pace</p>
         </div>
         <div xml:id="bible-lc8" n="8">
-          <head>Caput 8</head>
+          <head xml:id="bible-lc-Hd1e1228">Caput 8</head>
           <p xml:id="lc8_1" n="1">et factum est deinceps et ipse iter faciebat per civitatem et
             castellum praedicans et evangelizans regnum Dei et duodecim cum illo</p>
           <p xml:id="lc8_2" n="2">et mulieres aliquae quae erant curatae ab spiritibus malignis et
@@ -875,7 +873,7 @@
             quod factum erat</p>
         </div>
         <div xml:id="bible-lc9" n="9">
-          <head>Caput 9</head>
+          <head xml:id="bible-lc-Hd1e1410">Caput 9</head>
           <p xml:id="lc9_1" n="1">convocatis autem duodecim apostolis dedit illis virtutem et
             potestatem super omnia daemonia et ut languores curarent</p>
           <p xml:id="lc9_2" n="2">et misit illos praedicare regnum Dei et sanare infirmos</p>
@@ -1000,7 +998,7 @@
             aspiciens retro aptus est regno Dei</p>
         </div>
         <div xml:id="bible-lc10" n="10">
-          <head>Caput 10</head>
+          <head xml:id="bible-lc-Hd1e1611">Caput 10</head>
           <p xml:id="lc10_1" n="1">post haec autem designavit Dominus et alios septuaginta duos et
             misit illos binos ante faciem suam in omnem civitatem et locum quo erat ipse
             venturus</p>
@@ -1089,7 +1087,7 @@
             auferetur ab ea</p>
         </div>
         <div xml:id="bible-lc11" n="11">
-          <head>Caput 11</head>
+          <head xml:id="bible-lc-Hd1e1750">Caput 11</head>
           <p xml:id="lc11_1" n="1">et factum est cum esset in loco quodam orans ut cessavit dixit
             unus ex discipulis eius ad eum Domine doce nos orare sicut et Iohannes docuit discipulos
             suos</p>
@@ -1201,7 +1199,7 @@
             accusarent eum</p>
         </div>
         <div xml:id="bible-lc12" n="12">
-          <head>Caput 12</head>
+          <head xml:id="bible-lc-Hd1e1926">Caput 12</head>
           <p xml:id="lc12_1" n="1">multis autem turbis circumstantibus ita ut se invicem
             conculcarent coepit dicere ad discipulos suos adtendite a fermento Pharisaeorum quae est
             hypocrisis</p>
@@ -1321,7 +1319,7 @@
             reddas</p>
         </div>
         <div xml:id="bible-lc13" n="13">
-          <head>Caput 13</head>
+          <head xml:id="bible-lc-Hd1e2118">Caput 13</head>
           <p xml:id="lc13_1" n="1">aderant autem quidam ipso in tempore nuntiantes illi de Galilaeis
             quorum sanguinem Pilatus miscuit cum sacrificiis eorum</p>
           <p xml:id="lc13_2" n="2">et respondens dixit illis putatis quod hii Galilaei prae omnibus
@@ -1399,7 +1397,7 @@
             videbitis me donec veniat cum dicetis benedictus qui venit in nomine Domini</p>
         </div>
         <div xml:id="bible-lc14" n="14">
-          <head>Caput 14</head>
+          <head xml:id="bible-lc-Hd1e2234">Caput 14</head>
           <p xml:id="lc14_1" n="1">et factum est cum intraret in domum cuiusdam principis
             Pharisaeorum sabbato manducare panem et ipsi observabant eum</p>
           <p xml:id="lc14_2" n="2">et ecce homo quidam hydropicus erat ante illum</p>
@@ -1474,7 +1472,7 @@
             mittetur qui habet aures audiendi audiat</p>
         </div>
         <div xml:id="bible-lc15" n="15">
-          <head>Caput 15</head>
+          <head xml:id="bible-lc-Hd1e2350">Caput 15</head>
           <p xml:id="lc15_1" n="1">erant autem adpropinquantes ei publicani et peccatores ut
             audirent illum</p>
           <p xml:id="lc15_2" n="2">et murmurabant Pharisaei et scribae dicentes quia hic peccatores
@@ -1541,7 +1539,7 @@
             erat et revixit perierat et inventus est</p>
         </div>
         <div xml:id="bible-lc16" n="16">
-          <head>Caput 16</head>
+          <head xml:id="bible-lc-Hd1e2456">Caput 16</head>
           <p xml:id="lc16_1" n="1">dicebat autem et ad discipulos suos homo quidam erat dives qui
             habebat vilicum et hic diffamatus est apud illum quasi dissipasset bona ipsius</p>
           <p xml:id="lc16_2" n="2">et vocavit illum et ait illi quid hoc audio de te redde rationem
@@ -1606,7 +1604,7 @@
             ex mortuis resurrexerit credent</p>
         </div>
         <div xml:id="bible-lc17" n="17">
-          <head>Caput 17</head>
+          <head xml:id="bible-lc-Hd1e2560">Caput 17</head>
           <p xml:id="lc17_1" n="1">et ad discipulos suos ait inpossibile est ut non veniant scandala
             vae autem illi per quem veniunt</p>
           <p xml:id="lc17_2" n="2">utilius est illi si lapis molaris inponatur circa collum eius et
@@ -1678,7 +1676,7 @@
             aquilae</p>
         </div>
         <div xml:id="bible-lc18" n="18">
-          <head>Caput 18</head>
+          <head xml:id="bible-lc-Hd1e2682">Caput 18</head>
           <p xml:id="lc18_1" n="1">dicebat autem et parabolam ad illos quoniam oportet semper orare
             et non deficere</p>
           <p xml:id="lc18_2" n="2">dicens iudex quidam erat in quadam civitate qui Deum non timebat
@@ -1758,7 +1756,7 @@
             omnis plebs ut vidit dedit laudem Deo</p>
         </div>
         <div xml:id="bible-lc19" n="19">
-          <head>Caput 19</head>
+          <head xml:id="bible-lc-Hd1e2823">Caput 19</head>
           <p xml:id="lc19_1" n="1">et ingressus perambulabat Hiericho</p>
           <p xml:id="lc19_2" n="2">et ecce vir nomine Zaccheus et hic erat princeps publicanorum et
             ipse dives</p>
@@ -1852,7 +1850,7 @@
             suspensus erat audiens illum</p>
         </div>
         <div xml:id="bible-lc20" n="20">
-          <head>Caput 20</head>
+          <head xml:id="bible-lc-Hd1e2980">Caput 20</head>
           <p xml:id="lc20_1" n="1">et factum est in una dierum docente illo populum in templo et
             evangelizante convenerunt principes sacerdotum et scribae cum senioribus</p>
           <p xml:id="lc20_2" n="2">et aiunt dicentes ad illum dic nobis in qua potestate haec facis
@@ -1943,7 +1941,7 @@
             accipient damnationem maiorem</p>
         </div>
         <div xml:id="bible-lc21" n="21">
-          <head>Caput 21</head>
+          <head xml:id="bible-lc-Hd1e3134">Caput 21</head>
           <p xml:id="lc21_1" n="1">respiciens autem vidit eos qui mittebant munera sua in
             gazofilacium divites</p>
           <p xml:id="lc21_2" n="2">vidit autem et quandam viduam pauperculam mittentem aera minuta
@@ -2017,7 +2015,7 @@
           <p xml:id="lc21_38" n="38">et omnis populus manicabat ad eum in templo audire eum</p>
         </div>
         <div xml:id="bible-lc22" n="22">
-          <head>Caput 22</head>
+          <head xml:id="bible-lc-Hd1e3259">Caput 22</head>
           <p xml:id="lc22_1" n="1">adpropinquabat autem dies festus azymorum qui dicitur pascha</p>
           <p xml:id="lc22_2" n="2">et quaerebant principes sacerdotum et scribae quomodo eum
             interficerent timebant vero plebem</p>
@@ -2153,7 +2151,7 @@
             audivimus de ore eius</p>
         </div>
         <div xml:id="bible-lc23" n="23">
-          <head>Caput 23</head>
+          <head xml:id="bible-lc-Hd1e3490">Caput 23</head>
           <p xml:id="lc23_1" n="1">et surgens omnis multitudo eorum duxerunt illum ad Pilatum</p>
           <p xml:id="lc23_2" n="2">coeperunt autem accusare illum dicentes hunc invenimus
             subvertentem gentem nostram et prohibentem tributa dari Caesari et dicentem se Christum
@@ -2261,7 +2259,7 @@
             siluerunt secundum mandatum</p>
         </div>
         <div xml:id="bible-lc24" n="24">
-          <head>Caput 24</head>
+          <head xml:id="bible-lc-Hd1e3672">Caput 24</head>
           <p xml:id="lc24_1" n="1">una autem sabbati valde diluculo venerunt ad monumentum portantes
             quae paraverant aromata</p>
           <p xml:id="lc24_2" n="2">et invenerunt lapidem revolutum a monumento</p>

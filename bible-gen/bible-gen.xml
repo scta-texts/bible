@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-gen">
-        <head>Genesis</head>
+        <head xml:id="bible-gen-Hd1e76">Genesis</head>
         <div xml:id="bible-gen1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-gen-Hd1e80">Caput 1</head>
           <p xml:id="gen1_1" n="1">in principio creavit Deus caelum et terram</p>
           <p xml:id="gen1_2" n="2">terra autem erat inanis et vacua et tenebrae super faciem abyssi
             et spiritus Dei ferebatur super aquas</p>
@@ -110,7 +108,7 @@
             est vespere et mane dies sextus</p>
         </div>
         <div xml:id="bible-gen2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-gen-Hd1e183">Caput 2</head>
           <p xml:id="gen2_1" n="1">igitur perfecti sunt caeli et terra et omnis ornatus eorum</p>
           <p xml:id="gen2_2" n="2">conplevitque Deus die septimo opus suum quod fecerat et requievit
             die septimo ab universo opere quod patrarat</p>
@@ -165,7 +163,7 @@
             erubescebant</p>
         </div>
         <div xml:id="bible-gen3" n="3">
-          <head>Caput 3</head>
+          <head xml:id="bible-gen-Hd1e267">Caput 3</head>
           <p xml:id="gen3_1" n="1">sed et serpens erat callidior cunctis animantibus terrae quae
             fecerat Dominus Deus qui dixit ad mulierem cur praecepit vobis Deus ut non comederetis
             de omni ligno paradisi</p>
@@ -219,7 +217,7 @@
             et flammeum gladium atque versatilem ad custodiendam viam ligni vitae</p>
         </div>
         <div xml:id="bible-gen4" n="4">
-          <head>Caput 4</head>
+          <head xml:id="bible-gen-Hd1e348">Caput 4</head>
           <p xml:id="gen4_1" n="1">Adam vero cognovit Havam uxorem suam quae concepit et peperit
             Cain dicens possedi hominem per Dominum</p>
           <p xml:id="gen4_2" n="2">rursusque peperit fratrem eius Abel fuit autem Abel pastor ovium
@@ -276,7 +274,7 @@
             invocare nomen Domini</p>
         </div>
         <div xml:id="bible-gen5" n="5">
-          <head>Caput 5</head>
+          <head xml:id="bible-gen-Hd1e436">Caput 5</head>
           <p xml:id="gen5_1" n="1">hic est liber generationis Adam in die qua creavit Deus hominem
             ad similitudinem Dei fecit illum</p>
           <p xml:id="gen5_2" n="2">masculum et feminam creavit eos et benedixit illis et vocavit
@@ -339,7 +337,7 @@
             Iafeth</p>
         </div>
         <div xml:id="bible-gen6" n="6">
-          <head>Caput 6</head>
+          <head xml:id="bible-gen-Hd1e542">Caput 6</head>
           <p xml:id="gen6_1" n="1">cumque coepissent homines multiplicari super terram et filias
             procreassent</p>
           <p xml:id="gen6_2" n="2">videntes filii Dei filias eorum quod essent pulchrae acceperunt
@@ -386,7 +384,7 @@
           <p xml:id="gen6_22" n="22">fecit ergo Noe omnia quae praeceperat illi Deus</p>
         </div>
         <div xml:id="bible-gen7" n="7">
-          <head>Caput 7</head>
+          <head xml:id="bible-gen-Hd1e616">Caput 7</head>
           <p xml:id="gen7_1" n="1">dixitque Dominus ad eum ingredere tu et omnis domus tua arcam te
             enim vidi iustum coram me in generatione hac</p>
           <p xml:id="gen7_2" n="2">ex omnibus animantibus mundis tolle septena septena masculum et
@@ -439,7 +437,7 @@
           <p xml:id="gen7_24" n="24">obtinueruntque aquae terras centum quinquaginta diebus</p>
         </div>
         <div xml:id="bible-gen8" n="8">
-          <head>Caput 8</head>
+          <head xml:id="bible-gen-Hd1e697">Caput 8</head>
           <p xml:id="gen8_1" n="1">recordatus autem Deus Noe cunctarumque animantium et omnium
             iumentorum quae erant cum eo in arca adduxit spiritum super terram et inminutae sunt
             aquae</p>
@@ -491,7 +489,7 @@
             aestas et hiemps nox et dies non requiescent</p>
         </div>
         <div xml:id="bible-gen9" n="9">
-          <head>Caput 9</head>
+          <head xml:id="bible-gen-Hd1e771">Caput 9</head>
           <p xml:id="gen9_1" n="1">benedixitque Deus Noe et filiis eius et dixit ad eos crescite et
             multiplicamini et implete terram</p>
           <p xml:id="gen9_2" n="2">et terror vester ac tremor sit super cuncta animalia terrae et
@@ -552,7 +550,7 @@
             annorum et mortuus est</p>
         </div>
         <div xml:id="bible-gen10" n="10">
-          <head>Caput 10</head>
+          <head xml:id="bible-gen-Hd1e868">Caput 10</head>
           <p xml:id="gen10_1" n="1">hae generationes filiorum Noe Sem Ham Iafeth natique sunt eis
             filii post diluvium</p>
           <p xml:id="gen10_2" n="2">filii Iafeth Gomer Magog et Madai Iavan et Thubal et Mosoch et
@@ -603,7 +601,7 @@
             sunt gentes in terra post diluvium</p>
         </div>
         <div xml:id="bible-gen11" n="11">
-          <head>Caput 11</head>
+          <head xml:id="bible-gen-Hd1e975">Caput 11</head>
           <p xml:id="gen11_1" n="1">erat autem terra labii unius et sermonum eorundem</p>
           <p xml:id="gen11_2" n="2">cumque proficiscerentur de oriente invenerunt campum in terra
             Sennaar et habitaverunt in eo</p>
@@ -665,7 +663,7 @@
             est in Haran</p>
         </div>
         <div xml:id="bible-gen12" n="12">
-          <head>Caput 12</head>
+          <head xml:id="bible-gen-Hd1e1081">Caput 12</head>
           <p xml:id="gen12_1" n="1">dixit autem Dominus ad Abram egredere de terra tua et de
             cognatione tua et de domo patris tui in terram quam monstrabo tibi</p>
           <p xml:id="gen12_2" n="2">faciamque te in gentem magnam et benedicam tibi et magnificabo
@@ -709,7 +707,7 @@
             uxorem illius et omnia quae habebat</p>
         </div>
         <div xml:id="bible-gen13" n="13">
-          <head>Caput 13</head>
+          <head xml:id="bible-gen-Hd1e1149">Caput 13</head>
           <p xml:id="gen13_1" n="1">ascendit ergo Abram de Aegypto ipse et uxor eius et omnia quae
             habebat et Loth cum eo ad australem plagam</p>
           <p xml:id="gen13_2" n="2">erat autem dives valde in possessione argenti et auri</p>
@@ -750,7 +748,7 @@
             convallem Mambre quod est in Hebron aedificavitque ibi altare Domino</p>
         </div>
         <div xml:id="bible-gen14" n="14">
-          <head>Caput 14</head>
+          <head xml:id="bible-gen-Hd1e1211">Caput 14</head>
           <p xml:id="gen14_1" n="1">factum est autem in illo tempore ut Amrafel rex Sennaar et
             Arioch rex Ponti et Chodorlahomor rex Aelamitarum et Thadal rex Gentium</p>
           <p xml:id="gen14_2" n="2">inirent bellum contra Bara regem Sodomorum et contra Bersa regem
@@ -809,7 +807,7 @@
             venerunt mecum Aner Eschol et Mambre isti accipient partes suas</p>
         </div>
         <div xml:id="bible-gen15" n="15">
-          <head>Caput 15</head>
+          <head xml:id="bible-gen-Hd1e1292">Caput 15</head>
           <p xml:id="gen15_1" n="1">his itaque transactis factus est sermo Domini ad Abram per
             visionem dicens noli timere Abram ego protector tuus sum et merces tua magna nimis</p>
           <p xml:id="gen15_2" n="2">dixitque Abram Domine Deus quid dabis mihi ego vadam absque
@@ -851,7 +849,7 @@
           <p xml:id="gen15_21" n="21">et Amorreos et Chananeos et Gergeseos et Iebuseos</p>
         </div>
         <div xml:id="bible-gen16" n="16">
-          <head>Caput 16</head>
+          <head xml:id="bible-gen-Hd1e1363">Caput 16</head>
           <p xml:id="gen16_1" n="1">igitur Sarai uxor Abram non genuerat liberos sed habens ancillam
             aegyptiam nomine Agar</p>
           <p xml:id="gen16_2" n="2">dixit marito suo ecce conclusit me Dominus ne parerem ingredere
@@ -887,7 +885,7 @@
             Ismahelem</p>
         </div>
         <div xml:id="bible-gen17" n="17">
-          <head>Caput 17</head>
+          <head xml:id="bible-gen-Hd1e1419">Caput 17</head>
           <p xml:id="gen17_1" n="1">postquam vero nonaginta et novem annorum esse coeperat apparuit
             ei Dominus dixitque ad eum ego Deus omnipotens ambula coram me et esto perfectus</p>
           <p xml:id="gen17_2" n="2">ponamque foedus meum inter me et te et multiplicabo te
@@ -943,7 +941,7 @@
             alienigenae pariter circumcisi sunt</p>
         </div>
         <div xml:id="bible-gen18" n="18">
-          <head>Caput 18</head>
+          <head xml:id="bible-gen-Hd1e1509">Caput 18</head>
           <p xml:id="gen18_1" n="1">apparuit autem ei Dominus in convalle Mambre sedenti in ostio
             tabernaculi sui in ipso fervore diei</p>
           <p xml:id="gen18_2" n="2">cumque elevasset oculos apparuerunt ei tres viri stantes propter
@@ -1016,7 +1014,7 @@
             reversus est in locum suum</p>
         </div>
         <div xml:id="bible-gen19" n="19">
-          <head>Caput 19</head>
+          <head xml:id="bible-gen-Hd1e1618">Caput 19</head>
           <p xml:id="gen19_1" n="1">veneruntque duo angeli Sodomam vespere sedente Loth in foribus
             civitatis qui cum vidisset surrexit et ivit obviam eis adoravitque pronus in terra</p>
           <p xml:id="gen19_2" n="2">et dixit obsecro domini declinate in domum pueri vestri et
@@ -1100,7 +1098,7 @@
             filius populi mei ipse est pater Ammanitarum usque hodie</p>
         </div>
         <div xml:id="bible-gen20" n="20">
-          <head>Caput 20</head>
+          <head xml:id="bible-gen-Hd1e1743">Caput 20</head>
           <p xml:id="gen20_1" n="1">profectus inde Abraham in terram australem habitavit inter Cades
             et Sur et peregrinatus est in Geraris</p>
           <p xml:id="gen20_2" n="2">dixitque de Sarra uxore sua soror mea est misit ergo Abimelech
@@ -1143,7 +1141,7 @@
             Sarram uxorem Abraham</p>
         </div>
         <div xml:id="bible-gen21" n="21">
-          <head>Caput 21</head>
+          <head xml:id="bible-gen-Hd1e1805">Caput 21</head>
           <p xml:id="gen21_1" n="1">visitavit autem Dominus Sarram sicut promiserat et implevit quae
             locutus est</p>
           <p xml:id="gen21_2" n="2">concepitque et peperit filium in senectute sua tempore quo
@@ -1213,7 +1211,7 @@
           <p xml:id="gen21_34" n="34">et fuit colonus terrae Philisthinorum diebus multis</p>
         </div>
         <div xml:id="bible-gen22" n="22">
-          <head>Caput 22</head>
+          <head xml:id="bible-gen-Hd1e1917">Caput 22</head>
           <p xml:id="gen22_1" n="1">quae postquam gesta sunt temptavit Deus Abraham et dixit ad eum
             Abraham ille respondit adsum</p>
           <p xml:id="gen22_2" n="2">ait ei tolle filium tuum unigenitum quem diligis Isaac et vade
@@ -1266,7 +1264,7 @@
             Thaas et Maacha</p>
         </div>
         <div xml:id="bible-gen23" n="23">
-          <head>Caput 23</head>
+          <head xml:id="bible-gen-Hd1e1999">Caput 23</head>
           <p xml:id="gen23_1" n="1">vixit autem Sarra centum viginti septem annis</p>
           <p xml:id="gen23_2" n="2">et mortua est in civitate Arbee quae est Hebron in terra Chanaan
             venitque Abraham ut plangeret et fleret eam</p>
@@ -1310,7 +1308,7 @@
             possessionem monumenti a filiis Heth</p>
         </div>
         <div xml:id="bible-gen24" n="24">
-          <head>Caput 24</head>
+          <head xml:id="bible-gen-Hd1e2067">Caput 24</head>
           <p xml:id="gen24_1" n="1">erat autem Abraham senex dierumque multorum et Dominus in
             cunctis benedixerat ei</p>
           <p xml:id="gen24_2" n="2">dixitque ad servum seniorem domus suae qui praeerat omnibus quae
@@ -1451,7 +1449,7 @@
             temperaret</p>
         </div>
         <div xml:id="bible-gen25" n="25">
-          <head>Caput 25</head>
+          <head xml:id="bible-gen-Hd1e2284">Caput 25</head>
           <p xml:id="gen25_1" n="1">Abraham vero aliam duxit uxorem nomine Cetthuram</p>
           <p xml:id="gen25_2" n="2">quae peperit ei Zamram et Iexan et Madan et Madian et Iesboch et
             Sue</p>
@@ -1516,7 +1514,7 @@
             parvipendens quod primogenita vendidisset</p>
         </div>
         <div xml:id="bible-gen26" n="26">
-          <head>Caput 26</head>
+          <head xml:id="bible-gen-Hd1e2396">Caput 26</head>
           <p xml:id="gen26_1" n="1">orta autem fame super terram post eam sterilitatem quae
             acciderat in diebus Abraham abiit Isaac ad Abimelech regem Palestinorum in Gerara</p>
           <p xml:id="gen26_2" n="2">apparuitque ei Dominus et ait ne descendas in Aegyptum sed
@@ -1592,7 +1590,7 @@
           <p xml:id="gen26_35" n="35">quae ambae offenderant animum Isaac et Rebeccae</p>
         </div>
         <div xml:id="bible-gen27" n="27">
-          <head>Caput 27</head>
+          <head xml:id="bible-gen-Hd1e2512">Caput 27</head>
           <p xml:id="gen27_1" n="1">senuit autem Isaac et caligaverunt oculi eius et videre non
             poterat vocavitque Esau filium suum maiorem et dixit ei fili mi qui respondit adsum</p>
           <p xml:id="gen27_2" n="2">cui pater vides inquit quod senuerim et ignorem diem mortis
@@ -1692,7 +1690,7 @@
             filias Heth si acceperit Iacob uxorem de stirpe huius terrae nolo vivere</p>
         </div>
         <div xml:id="bible-gen28" n="28">
-          <head>Caput 28</head>
+          <head xml:id="bible-gen-Hd1e2662">Caput 28</head>
           <p xml:id="gen28_1" n="1">vocavit itaque Isaac Iacob et benedixit praecepitque ei dicens
             noli accipere coniugem de genere Chanaan</p>
           <p xml:id="gen28_2" n="2">sed vade et proficiscere in Mesopotamiam Syriae ad domum Bathuel
@@ -1739,7 +1737,7 @@
             cunctorumque quae dederis mihi decimas offeram tibi</p>
         </div>
         <div xml:id="bible-gen29" n="29">
-          <head>Caput 29</head>
+          <head xml:id="bible-gen-Hd1e2737">Caput 29</head>
           <p xml:id="gen29_1" n="1">profectus ergo Iacob venit ad terram orientalem</p>
           <p xml:id="gen29_2" n="2">et vidit puteum in agro tresque greges ovium accubantes iuxta
             eum nam ex illo adaquabantur pecora et os eius grandi lapide claudebatur</p>
@@ -1809,7 +1807,7 @@
             Domino et ob hoc vocavit eum Iudam cessavitque parere</p>
         </div>
         <div xml:id="bible-gen30" n="30">
-          <head>Caput 30</head>
+          <head xml:id="bible-gen-Hd1e2853">Caput 30</head>
           <p xml:id="gen30_1" n="1">cernens autem Rahel quod infecunda esset invidit sorori et ait
             marito suo da mihi liberos alioquin moriar</p>
           <p xml:id="gen30_2" n="2">cui iratus respondit Iacob num pro Deo ego sum qui privavit te
@@ -1900,7 +1898,7 @@
             ancillas et servos camelos et asinos</p>
         </div>
         <div xml:id="bible-gen31" n="31">
-          <head>Caput 31</head>
+          <head xml:id="bible-gen-Hd1e2994">Caput 31</head>
           <p xml:id="gen31_1" n="1">postquam autem audivit verba filiorum Laban dicentium tulit
             Iacob omnia quae fuerunt patris nostri et de illius facultate ditatus factus est
             inclitus</p>
@@ -2016,7 +2014,7 @@
             suas et benedixit illis reversus in locum suum</p>
         </div>
         <div xml:id="bible-gen32" n="32">
-          <head>Caput 32</head>
+          <head xml:id="bible-gen-Hd1e3173">Caput 32</head>
           <p xml:id="gen32_1" n="1">Iacob quoque abiit itinere quo coeperat fueruntque ei obviam
             angeli Dei</p>
           <p xml:id="gen32_2" n="2">quos cum vidisset ait castra Dei sunt haec et appellavit nomen
@@ -2083,7 +2081,7 @@
             obstipuerit</p>
         </div>
         <div xml:id="bible-gen33" n="33">
-          <head>Caput 33</head>
+          <head xml:id="bible-gen-Hd1e3279">Caput 33</head>
           <p xml:id="gen33_1" n="1">levans autem Iacob oculos suos vidit venientem Esau et cum eo
             quadringentos viros divisitque filios Liae et Rahel ambarumque famularum</p>
           <p xml:id="gen33_2" n="2">et posuit utramque ancillam et liberos earum in principio Liam
@@ -2127,7 +2125,7 @@
             Israhel</p>
         </div>
         <div xml:id="bible-gen34" n="34">
-          <head>Caput 34</head>
+          <head xml:id="bible-gen-Hd1e3347">Caput 34</head>
           <p xml:id="gen34_1" n="1">egressa est autem Dina filia Liae ut videret mulieres regionis
             illius</p>
           <p xml:id="gen34_2" n="2">quam cum vidisset Sychem filius Emor Evei princeps terrae illius
@@ -2190,7 +2188,7 @@
           <p xml:id="gen34_31" n="31">responderunt numquid ut scorto abuti debuere sorore nostra</p>
         </div>
         <div xml:id="bible-gen35" n="35">
-          <head>Caput 35</head>
+          <head xml:id="bible-gen-Hd1e3451">Caput 35</head>
           <p xml:id="gen35_1" n="1">interea locutus est Deus ad Iacob surge et ascende Bethel et
             habita ibi facque altare Deo qui apparuit tibi quando fugiebas Esau fratrem tuum</p>
           <p xml:id="gen35_2" n="2">Iacob vero convocata omni domo sua ait abicite deos alienos qui
@@ -2247,7 +2245,7 @@
             et plenus dierum et sepelierunt eum Esau et Iacob filii sui</p>
         </div>
         <div xml:id="bible-gen36" n="36">
-          <head>Caput 36</head>
+          <head xml:id="bible-gen-Hd1e3548">Caput 36</head>
           <p xml:id="gen36_1" n="1">hae sunt autem generationes Esau ipse est Edom</p>
           <p xml:id="gen36_2" n="2">Esau accepit uxores de filiabus Chanaan Ada filiam Elom Hetthei
             et Oolibama filiam Anae filiae Sebeon Evei</p>
@@ -2323,7 +2321,7 @@
             imperii sui ipse est Esau pater Idumeorum</p>
         </div>
         <div xml:id="bible-gen37" n="37">
-          <head>Caput 37</head>
+          <head xml:id="bible-gen-Hd1e3689">Caput 37</head>
           <p xml:id="gen37_1" n="1">habitavit autem Iacob in terra Chanaan in qua peregrinatus est
             pater suus</p>
           <p xml:id="gen37_2" n="2">et hae sunt generationes eius Ioseph cum sedecim esset annorum
@@ -2401,7 +2399,7 @@
             Pharaonis magistro militiae</p>
         </div>
         <div xml:id="bible-gen38" n="38">
-          <head>Caput 38</head>
+          <head xml:id="bible-gen-Hd1e3808">Caput 38</head>
           <p xml:id="gen38_1" n="1">eo tempore descendens Iudas a fratribus suis divertit ad virum
             odollamitem nomine Hiram</p>
           <p xml:id="gen38_2" n="2">viditque ibi filiam hominis chananei vocabulo Suae et uxore
@@ -2464,7 +2462,7 @@
             appellavit Zara</p>
         </div>
         <div xml:id="bible-gen39" n="39">
-          <head>Caput 39</head>
+          <head xml:id="bible-gen-Hd1e3908">Caput 39</head>
           <p xml:id="gen39_1" n="1">igitur Ioseph ductus est in Aegyptum emitque eum Putiphar
             eunuchus Pharaonis princeps exercitus vir aegyptius de manu Ismahelitarum a quibus
             perductus erat</p>
@@ -2516,7 +2514,7 @@
             illo et omnia eius opera dirigebat</p>
         </div>
         <div xml:id="bible-gen40" n="40">
-          <head>Caput 40</head>
+          <head xml:id="bible-gen-Hd1e3986">Caput 40</head>
           <p xml:id="gen40_1" n="1">his ita gestis accidit ut peccarent duo eunuchi pincerna regis
             Aegypti et pistor domino suo</p>
           <p xml:id="gen40_2" n="2">iratusque Pharao contra eos nam alter pincernis praeerat alter
@@ -2567,7 +2565,7 @@
             oblitus est interpretis sui</p>
         </div>
         <div xml:id="bible-gen41" n="41">
-          <head>Caput 41</head>
+          <head xml:id="bible-gen-Hd1e4065">Caput 41</head>
           <p xml:id="gen41_1" n="1">post duos annos vidit Pharao somnium putabat se stare super
             fluvium</p>
           <p xml:id="gen41_2" n="2">de quo ascendebant septem boves pulchrae et crassae nimis et
@@ -2682,7 +2680,7 @@
             malum inopiae temperarent</p>
         </div>
         <div xml:id="bible-gen42" n="42">
-          <head>Caput 42</head>
+          <head xml:id="bible-gen-Hd1e4250">Caput 42</head>
           <p xml:id="gen42_1" n="1">audiens autem Iacob quod alimenta venderentur in Aegypto dixit
             filiis suis quare neglegitis</p>
           <p xml:id="gen42_2" n="2">audivi quod triticum venundetur in Aegypto descendite et emite
@@ -2763,7 +2761,7 @@
             deducetis canos meos cum dolore ad inferos</p>
         </div>
         <div xml:id="bible-gen43" n="43">
-          <head>Caput 43</head>
+          <head xml:id="bible-gen-Hd1e4375">Caput 43</head>
           <p xml:id="gen43_1" n="1">interim fames omnem terram vehementer premebat</p>
           <p xml:id="gen43_2" n="2">consumptisque cibis quos ex Aegypto detulerant dixit Iacob ad
             filios suos revertimini et emite pauxillum escarum</p>
@@ -2840,7 +2838,7 @@
             Beniamin ita ut quinque partibus excederet biberuntque et inebriati sunt cum eo</p>
         </div>
         <div xml:id="bible-gen44" n="44">
-          <head>Caput 44</head>
+          <head xml:id="bible-gen-Hd1e4487">Caput 44</head>
           <p xml:id="gen44_1" n="1">praecepit autem Ioseph dispensatori domus suae dicens imple
             saccos eorum frumento quantum possunt capere et pone pecuniam singulorum in summitate
             sacci</p>
@@ -2917,7 +2915,7 @@
             quae oppressura est patrem meum testis adsistam</p>
         </div>
         <div xml:id="bible-gen45" n="45">
-          <head>Caput 45</head>
+          <head xml:id="bible-gen-Hd1e4599">Caput 45</head>
           <p xml:id="gen45_1" n="1">non se poterat ultra cohibere Ioseph multis coram adstantibus
             unde praecepit ut egrederentur cuncti foras et nullus interesset alienus agnitioni
             mutuae</p>
@@ -2981,7 +2979,7 @@
             et videbo illum antequam moriar</p>
         </div>
         <div xml:id="bible-gen46" n="46">
-          <head>Caput 46</head>
+          <head xml:id="bible-gen-Hd1e4692">Caput 46</head>
           <p xml:id="gen46_1" n="1">profectusque Israhel cum omnibus quae habebat venit ad puteum
             Iuramenti et mactatis ibi victimis Deo patris sui Isaac</p>
           <p xml:id="gen46_2" n="2">audivit eum per visionem nocte vocantem se et dicentem sibi
@@ -3046,7 +3044,7 @@
             terra Gessen quia detestantur Aegyptii omnes pastores ovium</p>
         </div>
         <div xml:id="bible-gen47" n="47">
-          <head>Caput 47</head>
+          <head xml:id="bible-gen-Hd1e4805">Caput 47</head>
           <p xml:id="gen47_1" n="1">ingressus ergo Ioseph nuntiavit Pharaoni dicens pater meus et
             fratres oves eorum et armenta et cuncta quae possident venerunt de terra Chanaan et ecce
             consistunt in terra Gessen</p>
@@ -3118,7 +3116,7 @@
             Deum conversus ad lectuli caput</p>
         </div>
         <div xml:id="bible-gen48" n="48">
-          <head>Caput 48</head>
+          <head xml:id="bible-gen-Hd1e4908">Caput 48</head>
           <p xml:id="gen48_1" n="1">his ita transactis nuntiatum est Ioseph quod aegrotaret pater
             eius qui adsumptis duobus filiis Manasse et Ephraim ire perrexit</p>
           <p xml:id="gen48_2" n="2">dictumque est seni ecce filius tuus Ioseph venit ad te qui
@@ -3172,7 +3170,7 @@
             Amorrei in gladio et arcu meo</p>
         </div>
         <div xml:id="bible-gen49" n="49">
-          <head>Caput 49</head>
+          <head xml:id="bible-gen-Hd1e4982">Caput 49</head>
           <p xml:id="gen49_1" n="1">vocavit autem Iacob filios suos et ait eis congregamini ut
             adnuntiem quae ventura sunt vobis diebus novissimis</p>
           <p xml:id="gen49_2" n="2">congregamini et audite filii Iacob audite Israhel patrem
@@ -3235,7 +3233,7 @@
             suos super lectulum et obiit adpositusque est ad populum suum</p>
         </div>
         <div xml:id="bible-gen50" n="50">
-          <head>Caput 50</head>
+          <head xml:id="bible-gen-Hd1e5088">Caput 50</head>
           <p xml:id="gen50_1" n="1">quod cernens Ioseph ruit super faciem patris flens et deosculans
             eum</p>
           <p xml:id="gen50_2" n="2">praecepitque servis suis medicis ut aromatibus condirent

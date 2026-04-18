@@ -11,8 +11,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-              >Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -22,8 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition</p>
@@ -42,9 +40,9 @@
     </front>
     <body>
       <div xml:id="bible-tit">
-        <head>ad Titum</head>
+        <head xml:id="bible-tit-Hd1e76">ad Titum</head>
         <div xml:id="bible-tit1" n="1">
-          <head>Caput 1</head>
+          <head xml:id="bible-tit-Hd1e80">Caput 1</head>
           <p xml:id="tit1_1" n="1">Paulus servus Dei apostolus autem Iesu Christi secundum fidem
             electorum Dei et agnitionem veritatis quae secundum pietatem est</p>
           <p xml:id="tit1_2" n="2">in spem vitae aeternae quam promisit qui non mentitur Deus ante
@@ -78,7 +76,7 @@
             abominati et incredibiles et ad omne opus bonum reprobi</p>
         </div>
         <div xml:id="bible-tit2" n="2">
-          <head>Caput 2</head>
+          <head xml:id="bible-tit-Hd1e135">Caput 2</head>
           <p xml:id="tit2_1" n="1">tu autem loquere quae decet sanam doctrinam</p>
           <p xml:id="tit2_2" n="2">senes ut sobrii sint pudici prudentes sani fide dilectione
             patientia</p>
@@ -108,7 +106,7 @@
             contemnat</p>
         </div>
         <div xml:id="bible-tit3" n="3">
-          <head>Caput 3</head>
+          <head xml:id="bible-tit-Hd1e187">Caput 3</head>
           <p xml:id="tit3_1" n="1">admone illos principibus et potestatibus subditos esse dicto
             oboedire ad omne opus bonum paratos esse</p>
           <p xml:id="tit3_2" n="2">neminem blasphemare non litigiosos esse modestos omnem
